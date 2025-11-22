@@ -1,0 +1,37 @@
+Application of Deep-Learning Algorithm Driven Intelligent Raman Spectroscopy Methodology to Quality Control in the Manufacturing Process of Guanxinning Tablets
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+Open AccessArticle by
+ 1,*, 1, 1, 2 and 1,* 
+
+
+1
+College of Pharmaceutical Science, Zhejiang University of Technology, Hangzhou 310014, China
+
+
+2
+Chiatai Qingchunbao Pharmaceutical Co., Ltd., Hangzhou 310023, China
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Angelo Antonio D'Archivio and Alessandra Biancolillo
+
+Molecules 2022, 27(20), 6969; https://doi.org/10.3390/molecules27206969 (registering DOI)
+
+
+Received: 27 September 2022
+/
+Revised: 12 October 2022
+/
+Accepted: 12 October 2022
+/
+Published: 17 October 2022
+ 
+
+Coupled with the convolutional neural network (CNN), an intelligent Raman spectroscopy methodology for rapid quantitative analysis of four pharmacodynamic substances and soluble solid in the manufacture process of Guanxinning tablets was established.

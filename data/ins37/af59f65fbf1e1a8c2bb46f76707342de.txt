@@ -1,0 +1,6 @@
+Council Post: Netflix And Tacos: The Drivers Of Innovation In Subscription And Billing Management
+Copyright 2022 Forbes Media LLC
+business
+2022-05-27 12:00:00
+
+Product Leader at Conga | Investor | Autodidact. getty Billing and subscriptions might seem like a mundane topic, so my guess is most of you reading this article came for Netflix and tacos. Stick around, they're coming. Like me, many of you haven't thought much about what happens behind the scenes to calculate and deliver the bills you mostly recycle (if paper) or delete (if email) each month—unless there's a problem you must contact the provider to resolve. Yet, the processes that generate the massive number of bills that are sent out and paid annually from businesses large and small would make this topic worthy of a How It's Made episode if it were not now mostly software.

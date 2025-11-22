@@ -1,0 +1,12 @@
+Adobe Gets Into the Generative AI Image Game
+pcmag.com
+news
+2022-10-21 16:07:36
+
+Tools like DALL-E, which create images based on text you type, have recently generated buzz on social media. But now the design, photo, and video software juggernaut Adobe is delving into this intriguing AI technology branch, too.
+
+As the company outlined at its 2022 Max conference, the new capabilities will show up as beta options in Photoshop, Lightroom, Premiere Pro, and other applications that are part of the company's Creative Cloud suite.
+
+Adobe revealed 10 projects involving AI during the conference's Sneak Peeks(Opens in a new window) session:
+
+Project Clever Composites: Turns the once-tedious process of compositing images into backgrounds into a simple drag-and-drop process with auto adjustments for color and shadows.

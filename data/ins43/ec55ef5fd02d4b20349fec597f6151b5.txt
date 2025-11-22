@@ -1,0 +1,6 @@
+CIEN Stock Price
+Copyright 2022, MarketWatch, Inc.
+finance
+2022-06-03 15:47:15
+
+Ciena Corp. engages in the provision of network and communication infrastructure. It operates through the following segments: Networking Platforms, Platform Software and Services, Blue Planet Automation Software and Services, and Global Services. The Networking Platforms segment consists of Converged Packet Optical and Packet Networking portfolios. The Platform Software and Services segment provides analytics, data, and planning tools to assist customers in managing Ciena's Networking Platforms products in their networks.

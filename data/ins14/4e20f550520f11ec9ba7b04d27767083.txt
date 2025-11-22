@@ -1,0 +1,38 @@
+Total Economic Impact of Data Virtualization Using Denodo Platform
+slideshare.net
+news
+2022-05-31 11:24:52
+
+1. Total Economic Impact of Data
+Virtualization using Denodo Platform
+Paul Moxon
+SVP Data Architecture and Chief Evangelist,
+Denodo Technologies 2. Agenda
+1. Forrester's TEI Explained
+2. The Composite Organization
+3. Prior Data Challenges
+4. Quantified Benefits of Using Denodo
+5. Non-Qualifiable Benefits of Using Denodo
+6. Denodo Costs
+7. ROI
+8. Summary 3. 3
+What is Forester's Total Economic Impact?
+What is an effective business case?
+Over 90% of IT decision-makers find value in a
+business case
+TCO ROI TEI
+IT impact
+IT costs
+IT cost savings
+Business
+impact
+User efficiency
+Business effectiveness
+Risk/
+uncertainty
+Risk mitigation
+Risk versus reward
+Strategic
+impact
+Scalability
+Flexibility 4.

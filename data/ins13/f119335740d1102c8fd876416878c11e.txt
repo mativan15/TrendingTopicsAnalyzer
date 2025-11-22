@@ -1,0 +1,6 @@
+Cloud computing's favorite new business model is starting to look like a huge risk as markets sour
+businessinsider.com
+news
+2022-05-28 11:30:00
+
+One of Snowflake's biggest appeals is its pricing model: You pay for as much computing as you use. This simplicity helped rocket the data-warehousing giant — and a class of other cloud-based companies — to enormous success.Now, as the market crashes, that model is suddenly a massive liability. Companies trying to cut costs are looking to dial back their cloud operations through their own businesses slowing or increasing demand for efficiency internally. That leads to fewer uses — and fewer dollars for the cloud providers.

@@ -1,0 +1,7 @@
+Cybersecurity norms may make it ‘difficult' to do business in India: 11 industry bodies to CERT-In
+indianexpress.com
+news
+2022-05-28 00:51:41
+
+India's recently announced cybersecurity norms are facing a larger pushback. Eleven industry bodies from countries in the European Union, UK, and the US, including the likes of US Chamber of Commerce and US-India Business Council, have written to the Indian Computer Emergency Response Team (CERT-In), raising concerns around its recent cybersecurity norms, arguing that the 'onerous nature' of the directive may make it more difficult for companies to do business in India. 
+In a letter to Sanjay Bahl, the Director General of CERT-In, the industry groupings said that the cybersecurity directive will have a 'detrimental impact on cybersecurity for organisations that operate in India, and create a disjointed approach to cybersecurity across jurisdictions, undermining the security posture of India and its allies in the Quad countries, Europe, and beyond'.

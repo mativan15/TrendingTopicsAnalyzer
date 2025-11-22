@@ -1,0 +1,10 @@
+ngena Releases .connect, and Expands MultiTech Capabilities for Full Automation of the Enterprise Network Life Cycle
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 08:00 AM Eastern Daylight Time FRANKFURT, Germany--(BUSINESS WIRE)--ngena, the only global end-to-end orchestrated SD-WAN as a service company, today launched the general availability of .connect and the expansion of its MultiTech capabilities. .connect is a vendor agnostic and integrated platform that automates processes and provides unique user experiences via a single pane of glass – throughout the whole service life cycle of an enterprise network.
+
+
+
+.connect is an intuitive management tool for ngena's Secure Connectivity as a Service that allows ngena partners to choose the best SD-WAN and SASE solution for their business.

@@ -1,0 +1,6 @@
+Microsoft is dropping its Money in Excel personal finance service
+zdnet.com
+news
+2022-05-31 19:20:31
+
+Credit: MicrosoftTwo years ago, Microsoft began rolling out a budget-tracking service called Money in Excel as a carrot for its Microsoft 365 Personal and Family subscription. But the company has decided to drop Money in Excel, as well as the Wolfram Alpha data type support for Excel, starting next year. According to an email Microsoft sent to some Microsoft 365 subscribers, Microsoft didn't fully explain the reason for its decision to cut these features. However, as noted by XDA Developers, the email did say that Microsoft "will occasionally remove underused features and benefits.

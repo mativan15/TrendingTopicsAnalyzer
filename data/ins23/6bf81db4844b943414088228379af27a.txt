@@ -1,0 +1,6 @@
+Developers warned: GitHub Copilot code may be licensed
+Copyright TechTarget - All rights reserved
+news
+2022-10-20 14:28:00
+
+Accusations that GitHub Copilot steals code have intensified debate in the tech industry about what constitutes fair use of intellectual property, and raised the question of who is responsible when AI suggestions include unattributed but licensed code. GitHub Copilot, released in June, translates natural language to suggestions for lines of code, which can range from boilerplate code to complex algorithms. The Codex artificial intelligence model behind GitHub Copilot is a natural language processor (NLP) trained on tens of millions of public repositories of code, including the majority of Python code stored on GitHub.

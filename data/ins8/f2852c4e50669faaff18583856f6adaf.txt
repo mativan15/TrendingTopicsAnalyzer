@@ -1,0 +1,6 @@
+Redbird Promises To Make Everyone In Your Business A Data Analyst
+forbes.com
+news
+2022-10-20 07:00:00
+
+Pity hard-pressed data engineers, says New York-based start-up Redbird, which has just announced a $7.6 million seed funding round as it seeks to come to their rescue. The cash will help the company make further improvements to its data analytics operating system – and support growth at a business where revenues have risen nine-fold since the beginning of 2021. Why do data engineers need rescuing? The problem, explains Erin Tavgac, co-founder and CEO of Redbird, is that they are chronically under-resourced and horribly overworked.

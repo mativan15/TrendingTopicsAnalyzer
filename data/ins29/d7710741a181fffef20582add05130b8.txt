@@ -1,0 +1,6 @@
+Blue Jays remove interim tag, Schneider inks 3-year deal
+mlb.com
+news
+2022-10-21 14:15:00
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"john-schneider-named-blue-jays-manager\",\"type\":\"story\"}).parts.2":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"john-schneider-named-blue-jays-manager\",\"type\":\"story\"}).parts.2.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

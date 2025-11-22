@@ -1,0 +1,6 @@
+ACERTUS Unveils New Platform API to Enable Vehicle Title & Registration Processing at Scale
+yahoo.com
+news
+2022-06-01 18:27:00
+
+ST. LOUIS, June 1, 2022 /PRNewswire/ -- ACERTUS , an omnichannel automotive logistics platform, today announced the release of a new Application Programming Interface (API) to digitize title and registration processing at scale. The technology instantly connects auto industry players to ACERTUS' processing capabilities for initial titles, lease and renewal registrations in all 50 states, Puerto Rico and Canada. The latest offering builds on ACERTUS' strategy to deliver a fully integrated, end-to-end tech solution to streamline and simplify automotive logistics and meet demand for faster service.

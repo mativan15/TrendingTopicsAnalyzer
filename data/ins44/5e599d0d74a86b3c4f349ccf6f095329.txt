@@ -1,0 +1,6 @@
+Capital One forges into B2B software business for cloud, data management tools (NYSE:COF)
+seekingalpha.com
+finance
+2022-06-01 13:14:54
+
+JHVEPhoto/iStock Editorial via Getty Images Capital One Financial (NYSE:COF) is launching on Wednesday an enterprise business-to-business (B2B) software business focused on providing cloud and data management solutions for companies operating in the cloud, leveraging its years of experience developing its own in-house cloud and data management tools. Its first product is Capital One Slingshot, a data management product for customers of Snowflake that's designed to help businesses accelerate adoption of the Snowflake Data Cloud, manage cloud costs, and automate critical governance processes.

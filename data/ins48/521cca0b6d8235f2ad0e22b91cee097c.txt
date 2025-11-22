@@ -1,0 +1,6 @@
+r/sysadmin
+reddit.com
+news
+2022-10-15 12:39:28
+
+Just going to go on a little rant here, so pardon my french, but for the love of god and all that is holy, please name your servers, your network infrastructure, hell even your datacenters something logical.So far, in my travails, I have encountered naming conventions centered around:Comic book charactersGreek/Norse mythologyCapitalsPaintersBiblical charactersMusical terminology (things like "Crescendo" and "Modulation")Types of rock (think "Graphite" and "Gneiss")This isn't the Da Vinci code, you're not adding "depth" by dropping obscure references in your environment.

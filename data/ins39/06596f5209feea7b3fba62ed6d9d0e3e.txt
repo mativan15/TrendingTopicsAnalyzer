@@ -1,0 +1,32 @@
+External Illumination Enables Coaxial Sensing of Surface and Subsurface Molten Pool Geometry in LPBF
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ *, and 
+
+
+Department of Mechanical Engineering, Politecnico di Milano, Via La Masa 1, 20156 Milan, Italy
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Pavel Krakhmalev
+
+Metals 2022, 12(10), 1762; https://doi.org/10.3390/met12101762 (registering DOI)
+
+
+Received: 6 August 2022
+/
+Revised: 9 October 2022
+/
+Accepted: 17 October 2022
+/
+Published: 20 October 2022
+ 
+
+Laser powder bed fusion (LPBF) attracts the attention of high-end manufacturing sectors for its capability of depositing free-form components with elevated mechanical properties.

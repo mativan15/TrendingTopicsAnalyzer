@@ -1,0 +1,7 @@
+LogicMonitor Launches Its Unified Observability Platform LM Envision
+Copyright 2022 Forbes Media LLC
+business
+2022-06-02 14:44:45
+
+LogicMonitor LogicMonitor 
+LogicMonitor launched its SaaS-based unified observability platform LM Envision this week. Observability of an IT system is a term within the industry that often gets confused with monitoring an IT system. While monitoring plays a significant role in the observability of a system, it is much more than monitoring a system to see its status. In today's day and age, observability is one of the most important properties of an IT system, especially considering we have more environments, applications, and infrastructure than ever before.

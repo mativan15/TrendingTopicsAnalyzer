@@ -1,0 +1,10 @@
+Tango Networks Launches eSIM Support for Mobile Unified Communications Service
+businesswire.com
+news
+2022-10-20 00:00:00
+
+October 20, 2022 10:42 AM Eastern Daylight Time FRISCO, Texas & LEEDS, England--(BUSINESS WIRE)--Tango Networks today announced general availability of eSIM support for its Tango Extend service, enabling touchless activation of business lines on users' personal mobile phones.
+
+
+
+Extend embeds a full-featured, secure and controlled business extension on employees' Bring Your Own Device phones without any apps or special configuration. Users can activate a business line in their personal phones simply by scanning a QR code to download the eSIM.

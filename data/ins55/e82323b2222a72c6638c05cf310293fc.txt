@@ -1,0 +1,6 @@
+Severstal Steel Defect Detection
+medium.com
+news
+2022-10-20 03:18:47
+
+https://www.industrialheating.com/IntroductionUnderstanding Business ProblemMapping to ML/DL problemBusiness Metric vs ML/DL metricUnderstanding DataOverall ApproachEDAData PreparationUnderstanding Unet ArchitectureModel TrainingModel EvaluationDeploymentFuture ScopeProfileReferencesThe Steel quality control is currently done mainly by human visual inspection. Human inspectors classify the defects according to their cause and origin because the inspection results are used as feedback to correct the manufacturing process.

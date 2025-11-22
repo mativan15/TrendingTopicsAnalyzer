@@ -1,0 +1,8 @@
+Is Dalrymple Bay Infrastructure Limited (ASX:DBI) Trading At A 25% Discount?
+yahoo.com
+news
+2022-10-19 01:41:29
+
+Today we will run through one way of estimating the intrinsic value of Dalrymple Bay Infrastructure Limited (ASX:DBI) by projecting its future cash flows and then discounting them to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

@@ -1,0 +1,6 @@
+Open 3D Engine Version 22.10 Now Available With Performance, Workflow and Usability Enhancements as Community Gathers in Austin for O3DCon Event
+prweb.com
+news
+2022-10-17 14:30:00
+
+With this latest version, our community continues to focus on making it easier for developers, artists and content creators worldwide to build amazing 3D experiences, with an emphasis on performance, core stability and usability enhancements. AUSTIN, Texas (PRWEB) October 17, 2022 The latest version of the popular open-source 3D engine platform, Open 3D Engine (O3DE) is available today with a host of new features and usability enhancements designed to make the tool easier for teams to implement and manage in their creative workflows.

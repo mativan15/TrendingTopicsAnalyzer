@@ -1,0 +1,6 @@
+Microsoft: Next version of Exchange Server not until 2025
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-06-02 17:03:00
+
+Credit: MicrosoftTwo years ago, Microsoft officials announced the next versions of on-premises Exchange Server, SharePoint Server, Skype for Business Server, and Project Server would be available in the second half of 2021. The catch: All would require a subscription to get support, product updates, and security updates. SharePoint Server and Project Server Subscription Editions launched as planned. But the other two new on-premises servers did not. Microsoft officials repeatedly have declined to provide an update on the situation until today, June 2 (and so far, they're only talking about what's next for Exchange Server).

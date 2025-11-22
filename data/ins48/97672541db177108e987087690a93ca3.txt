@@ -1,0 +1,37 @@
+Prediction of Metal Additively Manufactured Surface Roughness Using Deep Neural Network
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+Open AccessArticle by
+ 1, 2, 2 and 1,* 
+
+
+1
+Department of Industrial Engineering, Chosun University, Gwangju 61452, Korea
+
+
+2
+Department of Manufacturing and Engineering Technology, Tennessee Tech University, Cookeville, TN 38505, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Luige Vladareanu, Hongnian Yu, Hongbo Wang and Yongfei Feng
+
+Sensors 2022, 22(20), 7955; https://doi.org/10.3390/s22207955 (registering DOI)
+
+
+Received: 13 September 2022
+/
+Revised: 9 October 2022
+/
+Accepted: 11 October 2022
+/
+Published: 19 October 2022
+ 
+
+In recent years, manufacturing industries (e.

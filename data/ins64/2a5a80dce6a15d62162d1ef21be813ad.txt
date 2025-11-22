@@ -1,0 +1,6 @@
+Traditional BI vs. self-service BI shouldn't be a choice
+techtarget.com
+business
+2022-06-01 17:37:18
+
+Traditional vs. self-service business intelligence doesn't have to be an either-or choice. Both bring different tools and benefits to organizations. Many organizations are leaving value on the table by solving problems through conventional methods, which can take months or years to resolve. Business intelligence helps companies extract actionable insights from their data much quicker -- and the market is booming. But to really make these data-driven insights impact a company's bottom line, they need to be in the hands of employees who can make use of them.

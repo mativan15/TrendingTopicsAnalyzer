@@ -1,0 +1,8 @@
+Calculating The Fair Value Of EPAM Systems, Inc. (NYSE:EPAM)
+yahoo.com
+news
+2022-05-30 17:18:52
+
+Today we will run through one way of estimating the intrinsic value of EPAM Systems, Inc. (NYSE:EPAM) by projecting its future cash flows and then discounting them to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

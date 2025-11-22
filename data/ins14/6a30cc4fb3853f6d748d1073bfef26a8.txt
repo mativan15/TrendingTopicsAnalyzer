@@ -1,0 +1,7 @@
+Intel XeSS vs. Nvidia DLSS vs. AMD FSR: which Is Best?
+digitaltrends.com
+news
+2022-10-15 23:30:12
+
+Dynamic upscaling is a major component in modern games and the latest and greatest graphics cards, but there are different modes and models to pick from. Intel's Xe Super Sampling (XeSS), Nvidia's Deep Learning Super Sampling (DLSS), and AMD's Fidelity FX Super Sampling (FSR) all do things in their own way and aren't always the same in performance, visual quality, game support, and hardware support.
+Although there's an argument to be made for just turning on whatever your hardware and games support, if you have the choice between them or are considering different graphics cards based on their XeSS, DLSS, and FSR support, it's important to know the differences between them.

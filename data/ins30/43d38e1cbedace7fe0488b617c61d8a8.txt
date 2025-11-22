@@ -1,0 +1,10 @@
+Taos Offers New Solution to Overcome Challenges of Implementing DataOps Pipelines
+Copyright 2022, Business Wire.
+tech
+2022-06-01 12:35:00
+
+June 01, 2022 08:35 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Organizations that want to make the most of their data are increasingly investing in formal data operations programs. However, most organizations lack the expertise necessary to best implement DataOps pipelines with proven methodologies. The growing skills gap in many industries is also delaying market share gains as industries go remote and mobile-first.
+
+
+
+To help organizations overcome these challenges and leverage advanced data operations to spur growth, Taos has established the DataOps Now service.

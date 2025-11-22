@@ -1,0 +1,6 @@
+Deep learning-assisted co-registration of full-spectral autofluorescence lifetime microscopic images with H&E-stained histology images
+nature.com
+tech
+2022-10-21 19:45:13
+
+Deep learning-assisted co-registration of full-spectral autofluorescence lifetime microscopic images with H&E-stained histology images Autofluorescence lifetime images reveal unique characteristics of endogenous fluorescence in biological samples. Comprehensive understanding and clinical diagnosis rely on co-registration with the gold standard, histology images, which is extremely challenging due to the difference of both images. Here, we show an unsupervised image-to-image translation network that significantly improves the success of the co-registration using a conventional optimisation-based regression network, applicable to autofluorescence lifetime images at different emission wavelengths.

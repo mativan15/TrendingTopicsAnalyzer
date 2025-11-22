@@ -1,0 +1,6 @@
+Oracle Cloud adding tens of thousands of Nvidia chips for AI
+reuters.com
+news
+2022-10-18 15:04:55
+
+The company logo for Oracle Corp. is displayed on a screen on the floor at the New York Stock Exchange (NYSE) in New York, U.S., September 18, 2019. REUTERS/Brendan McDermidOAKLAND, Calif., Oct 18 (Reuters) - Oracle Corp (ORCL.N) and Nvidia Corp (NVDA.O) on Tuesday announced they are expanding their partnership and adding tens of thousands of Nvidia's chips to boost artificial intelligence- related computational work in Oracle's cloud.The expanded partnership comes as more companies use AI and the AI models become more complex, requiring a ramp-up in data center infrastructure investments.

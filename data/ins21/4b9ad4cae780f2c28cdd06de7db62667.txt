@@ -1,0 +1,8 @@
+NVIDIA, Oracle CEOs in Fireside Chat Light Pathways to Enterprise AI
+nvidia.com
+gaming
+2022-10-18 18:54:49
+
+Speeding adoption of enterprise AI and accelerated computing, Oracle CEO Safra Catz and NVIDIA founder and CEO Jensen Huang discussed their companies' expanding collaboration in a fireside chat live streamed today from Oracle CloudWorld in Las Vegas.
+Oracle and NVIDIA announced plans to bring NVIDIA's full accelerated computing stack to Oracle Cloud Infrastructure (OCI). It includes NVIDIA AI Enterprise, NVIDIA RAPIDS for Apache Spark and NVIDIA Clara for healthcare.
+In addition, OCI will deploy tens of thousands more NVIDIA GPUs to its cloud service, including A100 and upcoming H100 accelerators.

@@ -1,0 +1,6 @@
+Valuation Of Inherent Return Vs. Fiat Return Assets
+seekingalpha.com
+finance
+2022-05-30 06:05:15
+
+ismagilov/iStock via Getty Images © Julian Van Erlach 5/27/22 Economic assets can be classified into two broad categories: those earning an inherent return and those earning a fiat money return. This article shows that both are valued according to the same general principle based on GDP (a constant equal to expected long term real per capita GDP growth) but through mechanisms that depend on the attributes of how they obtain their return. What is NOT factored is any measure of RISK or "risk premium", or supply and demand "imbalances" - and yet, the models perform extremely well empirically and theoretically using only public, real-time data.

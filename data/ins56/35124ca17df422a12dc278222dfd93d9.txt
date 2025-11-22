@@ -1,0 +1,34 @@
+Classification of Tea Quality Levels Using Near-Infrared Spectroscopy Based on CLPSO-SVM
+Creative Commons Attribution (CC-BY)
+science
+2022-06-05 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2,3, 4, 1,2,5, 4 and 4,* 
+
+
+1
+Key Laboratory of Modern Agricultural Equipment and Technology, Jiangsu University, Ministry of Education, Zhenjiang 212013, China
+
+
+2
+High-Tech Key Laboratory of Agricultural Equipment and Intelligence of Jiangsu Province, Jiangsu University, Zhenjiang 212013, China
+
+
+3
+Institute of High-Performance Electrical Machine System and Intelligent Control, Jiangsu University, Zhenjiang 212013, China
+
+
+4
+School of Electrical and Information Engineering, Jiangsu University, Zhenjiang 212013, China
+
+
+5
+School of Automation, Southeast University, Nanjing 210096, China
+
+
+*
+Author to whom correspondence should be addressed.

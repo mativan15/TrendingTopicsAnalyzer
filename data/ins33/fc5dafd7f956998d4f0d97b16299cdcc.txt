@@ -1,0 +1,8 @@
+Intel gives update on Rialto Bridge GPU, Falcon Shores XPU
+theregister.com
+news
+2022-05-31 21:37:36
+
+After a few years of teasing Ponte Vecchio – the powerful GPU that will go into what will become one of the fastest supercomputers in the world – Intel is sharing more details of the high-performance computing chips that will follow, and one of them will combine CPUs and GPUs in one package.
+The semiconductor giant shared the details Tuesday in a roadmap update for its HPC-focused products at the International Supercomputing Conference in Hamburg, Germany.
+Intel has only recently carved out a separate group of products for HPC applications because it is now developing versions of Xeon Scalable CPUs, starting with a high-bandwidth-memory (HBM) variant of the forthcoming Sapphire Rapids chips, for high-performance kit.

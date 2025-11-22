@@ -1,0 +1,30 @@
+SynSaber Adds New Dynamic Pipeline to OT Cybersecurity Platform
+prnewswire.com
+business
+2022-10-20 13:12:00
+
+ICS/OT Cybersecurity & Asset Monitoring Vendor Improves Scalability and Flexibility with New UpdateCHANDLER, Ariz., Oct. 20, 2022 /PRNewswire/ -- SynSaber, an early-stage ICS/OT cybersecurity and asset monitoring company, today announced the addition of a new Dynamic Pipeline feature to the company's platform, providing customers with improved scalability and flexibility.
+
+
+Continue Reading
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+SynSaber v1.1.0 Dynamic Pipeline: Scalability & flexibility for critical infrastructure
+
+ 
+
+
+
+Building upon the product launched in February 2022, this update includes a comprehensive set of features and capabilities to collect, analyze, and curate data at the OT edge.

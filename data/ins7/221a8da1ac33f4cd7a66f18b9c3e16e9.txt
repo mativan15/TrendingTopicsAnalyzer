@@ -1,0 +1,7 @@
+The privately funded killer-asteroid spotter is here
+arstechnica.com
+science
+2022-06-05 11:17:00
+
+Enlarge / Visualizing the trajectories through the Solar System of asteroids discovered by the Asteroid Discovery Analysis and Mapping platform. Gigantic asteroids have smashed into the Earth before—RIP dinosaurs—and if we're not watching out for all those errant space rocks, they could crash into our world again, with devastating consequences. That's why Ed Lu and Danica Remy of the Asteroid Institute started a new project to track as many of them as possible.
+Lu, a former NASA astronaut and executive director of the institute, led a team that developed a novel algorithm called THOR, which harnesses massive computing power to compare points of light seen in different images of the night sky, then matches them to piece together an individual asteroid's path through the solar system.

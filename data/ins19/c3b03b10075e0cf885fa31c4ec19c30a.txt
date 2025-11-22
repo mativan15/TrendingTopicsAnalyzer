@@ -1,0 +1,7 @@
+IISc develops device that improves data encryption, cyber security
+indianexpress.com
+news
+2022-05-27 10:00:28
+
+The department of Electrical Communication Engineering (ECE) at the Indian Institute of Science (IISc) has developed a record-breaking true random number generator (TRNG), which can improve data encryption and provide improved security for sensitive digital data such as credit card details, passwords and other personal information.
+'Almost everything we do on the internet is encrypted for security. The strength of this encryption depends on the quality of random number generation,' said Nithin Abraham, a PhD student at ECE.

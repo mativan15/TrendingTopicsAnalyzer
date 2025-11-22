@@ -1,0 +1,8 @@
+Are Investors Undervaluing Dollar General Corporation (NYSE:DG) By 24%?
+yahoo.com
+news
+2022-10-20 14:32:51
+
+In this article we are going to estimate the intrinsic value of Dollar General Corporation (NYSE:DG) by taking the expected future cash flows and discounting them to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. There's really not all that much to it, even though it might appear quite complex.
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

@@ -1,0 +1,7 @@
+This new malware might target your Facebook account
+digitaltrends.com
+tech
+2022-10-17 17:09:43
+
+In the ongoing barrage of cyberattacks, Facebook users are being targeted by a new version of the Ducktail malware that originally surfaced in July. The first implementation was specifically aimed at Facebook Business accounts, but it has recently become a more widespread danger.
+The latest version of Ducktail collects any and all Facebook data available on an infected computer. If it happens to be a business account, payment methods could be discovered, putting your money at risk. Furthermore, Facebook Business data might include billing information and cycles, which could be used to help disguise unauthorized purchases.

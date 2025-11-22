@@ -1,0 +1,8 @@
+Discord doubles down on apps to make servers more dynamic
+techcrunch.com
+tech
+2022-10-17 15:04:36
+
+Discord is refreshing its popular chat app with a handful of new features, including one that developers who build tools for the platform have wanted for a long time.
+The changes seek to make the community-building app a more versatile place to hang out, with new ways to customize the servers where hundreds of thousands of people regularly gather around games, hobbies or even well-loved creators.
+Discord says that more than a third of its chat room-like servers use apps, often referred to as bots, already.

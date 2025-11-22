@@ -1,0 +1,6 @@
+Snooker Statistics and Zipf's Law
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Zipf's law is well known in linguistics: the frequency of a word is inversely proportional to its rank. This is a special case of a more general power law, a common phenomenon in many kinds of real-world statistical data. Here, it is shown that snooker statistics also follow such a mathematical pattern, but with varying parameter values. Two types of rankings (prize money earned and centuries scored), and three different time frames (all-time, decade, and year) are considered. The results indicate that the power law parameter values depend on the type of ranking used, as well as the time frame considered.

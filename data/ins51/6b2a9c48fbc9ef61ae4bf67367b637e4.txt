@@ -1,0 +1,8 @@
+Strong Compute raises $7.8M seed round to speed up ML training pipelines
+yahoo.com
+entertainment
+2022-05-30 14:00:24
+
+Strong Compute, a Sydney, Australia-based startup that helps developers remove the bottlenecks in their machine learning training pipelines, today announced that it has raised a $7.8 million seed round. The round includes a total of 30 funds and angels, including the likes of Sequoia Capital India, Blackbird, Folklore and Skip Capital, as well as Y Combinator, Starburst Ventures and founders and engineers from companies like Cruise, Waymo, Open AI, SpaceX and Virgin Galactic.
+
+The company, which was part of Y Combinator's Winter '22 batch, promises that its optimizations can speed up the training process by 10x to 1000x, depending on the model, pipeline and framework.

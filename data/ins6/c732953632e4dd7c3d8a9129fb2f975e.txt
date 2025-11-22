@@ -1,0 +1,6 @@
+Potential Activision Patent Could Add Unique AI-Generated Music For Each Player
+gamespot.com
+gaming
+2022-10-17 17:36:37
+
+A patent filing by Activision Blizzard is exploring the idea of using machine learning technology to create custom soundtracks for players, which can potentially be used to enhance game experiences. As spotted by Exputer, the "Dynamically generating and modulating music based on gaming events, player profiles, and/or player reactions" filing details how artificial intelligence can be used to create a more dynamic sense of immersion in a video game, using variables to compose music on the fly."There is a need for systems and methods that generate and modulate music unique to individual players," the patent filing reads, describing specific scenarios for how the software will change a user experience.

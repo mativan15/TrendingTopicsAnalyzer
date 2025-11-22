@@ -1,0 +1,6 @@
+Putting privacy first: A global approach to data governance
+venturebeat.com
+news
+2022-10-18 19:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Presented by Treasure Data Global organizations are often a complex web of brands, subsidiaries, entities and corporations, consisting of separate teams that interact with thousands of customers. During these interactions, there are millions, if not trillions, of data points collected, processed, analyzed and activated every day.  In an ecosystem that must now uphold consistently evolving regulations, navigate the deprecation of third-party cookies, and keep a promise of privacy to customers, how can companies ensure that their entire organization, along with their networks of external and agency partners, are up for the challenge of global compliance?  The privacy problem  For global enterprises, navigating this proverbial minefield can seem impossible.

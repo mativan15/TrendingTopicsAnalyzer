@@ -1,0 +1,6 @@
+NASA's Capstone mission will test-drive Gateway's lunar orbit
+Copyright 2022, Mansueto Ventures
+tech
+2022-06-03 04:00:00
+
+A 55-pound satellite will become the first spacecraft to test-drive the unique lunar orbit chosen for NASA's planned Gateway space station—all while demonstrating the space agency's embrace of smaller players in private industry.The microwave-sized Cislunar Autonomous Positioning System Technology Operations and Navigation Experiment (CAPSTONE) is slated to launch June 6 aboard a Rocket Lab Electron rocket from New Zealand for a four-month journey to orbit. There, it will spend six to 18 months measuring radiation impact and gauging how computer models match up to actual orbital characteristics and propulsion requirements.

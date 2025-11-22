@@ -1,0 +1,10 @@
+Rally vs Jira: Project management software comparison
+techrepublic.com
+news
+2022-06-03 17:53:45
+
+Image: Visual Generation/Adobe Stock
+
+ Project management tools based on agile methodologies have become the norm in software development. This has led to many different solutions being released into the market, often making it hard to decide which tool is right for your team. Jira and Rally are two popular options that share many similarities but differ when it comes to flexibility and their specific uses.
+Jump to: What is Jira?
+Jira is a mature project management tool that started out years ago as a basic bug tracking solution.

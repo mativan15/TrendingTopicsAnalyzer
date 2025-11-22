@@ -1,0 +1,10 @@
+Twitter Whistleblower: Stop Treating Cybersecurity Like Folklore
+pcmag.com
+news
+2022-10-21 13:06:28
+
+If information-security professionals want to get the sustained attention of senior management, they may need to add a new app to their security toolkit: Microsoft Excel.
+
+That suggestion came from renowned security researcher Peiter Zatko, who has been in mainstream-news headlines in recent months for his disclosure of what he called systemic security problems at Twitter. But he's been in tech-news headlines for decades prior to his turn as Twitter's security chief.
+
+Speaking at the tech-news site CyberScoop's CyberTalks(Opens in a new window) conference in Washington, D.

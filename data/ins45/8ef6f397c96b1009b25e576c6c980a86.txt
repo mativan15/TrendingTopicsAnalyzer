@@ -1,0 +1,8 @@
+New Israeli startup to keep prying eyes from your phone
+jpost.com
+news
+2022-10-19 02:44:00
+
+Imagine you are window-shopping and the store owner slips a tag into your pocket upon entering. Unbeknown to you, that tag traces where you went after the shop, what other products you buy, where you have lunch, where you work, and where your kids go to school. Sounds outrageous? You do it every day online.
+
+Each smartphone possesses a Mobile Advertising ID (MAID) that helps advertisers deliver focused ads based on your location, browsing history, and other user behaviors. This data is collected through all free apps and most paid apps.

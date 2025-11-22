@@ -1,0 +1,8 @@
+July 22nd Options Now Available For iShares Inc
+nasdaq.com
+news
+2022-06-02 11:58:00
+
+Investors in iShares Inc - MSCI Brazil ETF (Symbol: EWZ) saw new options begin trading today, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the EWZ options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $33.00 strike price has a current bid of $1.34. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $33.00, but will also collect the premium, putting the cost basis of the shares at $31.

@@ -1,0 +1,12 @@
+Zerto Research Reveals Organizations Have Incomplete Ransomware Strategies but Intend to do Better
+businesswire.com
+news
+2022-10-20 00:00:00
+
+October 20, 2022 09:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Zerto, a Hewlett Packard Enterprise company, today released findings from its 2022 Ransomware Strategy Survey conducted at VMware Explore US in August/September 2022. The research revealed gaps in companies' data protection and ransomware strategies that they will want to address to reduce their risk of interrupted business operations in the event of a ransomware attack.
+
+
+
+The lack of focus on recovery endangers business operations in the face of ransomware attacks
+
+As found in a recent IDC report sponsored by Zerto, the impact of ransomware attacks is extensive.

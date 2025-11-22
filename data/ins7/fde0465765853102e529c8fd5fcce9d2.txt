@@ -1,0 +1,6 @@
+Microsoft Teams Phone System review
+techradar.com
+news
+2022-10-16 23:45:00
+
+If a business relies on receiving incoming customer phone calls or maintaining team communication between different locations, then ensuring that you have a reliable phone infrastructure in place is imperative. As many businesses make the switchover from private branch exchange (PBX) to voice over internet protocol (VoIP), it can often seem like a daunting prospect to migrate an entire business's telephony system.In our Microsoft Teams (opens in new tab) review, we take you through the functionality and features of Microsoft's IP telephony offering to see if it is one of the best VoIP services (opens in new tab) for your business.

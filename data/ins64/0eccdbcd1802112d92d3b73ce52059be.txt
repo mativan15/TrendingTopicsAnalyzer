@@ -1,0 +1,6 @@
+Why Would Anyone Share a Profitable Trading Bot? I Know Why!
+medium.com
+news
+2022-10-21 08:14:37
+
+I know you believe it makes no sense for anyone to share or sell a profitable trading bot. Why not just make money with it and keep it secret, right? Why would anyone share or sell the goose that laid golden eggs? I know it sounds stupid! But we're doing just that for good reasons — and free of charge! Explaining this requires some context, so please, bear with me!I've worked on Superalgos — an open-source project — for the last five years. We built a beast of a trading automation platform, first on GitHub for the 'trading' search term.

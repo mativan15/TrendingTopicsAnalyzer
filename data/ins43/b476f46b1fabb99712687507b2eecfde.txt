@@ -1,0 +1,6 @@
+Electric car owners warned of hackers targeting charging points
+express.co.uk
+news
+2022-10-17 08:14:00
+
+A leading cybersecurity organisation is warning drivers they could be at risk as electric vehicle charging point protection is overlooked. It argues that while automotive companies are ramping up production of new electric vehicles, the industry is not doing enough to deal with cybersecurity concerns.When users charge their vehicles, there is also a data connection between the vehicle and the EV hub. Charging stations are connected to the internet and, like any other Internet of Things (IoT) device, are vulnerable to the actions of cybercriminals.

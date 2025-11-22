@@ -1,0 +1,6 @@
+The importance of a hybrid approach to cloud transitions
+techradar.com
+tech
+2022-10-17 12:41:23
+
+Cloud is no longer just a buzzword thrown around amongst IT circles. Cloud, whether hybrid, public or private is a fundamental tool. Most business functions are reliant on cloud technology in some capacity. In fact, new statistics from SUSE (opens in new tab) suggest that 65% of UK businesses are projecting an increase in their use of hybrid cloud over the next two years. However, despite the clear trend towards cloud-based infrastructures, some key issues preventing enterprises from fully transitioning into the cloud remain – particularly when it comes to security and availability.

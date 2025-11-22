@@ -1,0 +1,6 @@
+The Economics of Artificial Intelligence (AI) Companies
+medium.com
+entertainment
+2022-06-03 02:45:28
+
+Artificial Intelligence (AI) has become the biggest buzzword in the tech industry over the past decade. Companies are eager to present themselves as 'AI-based' and 'AI-first'. The terms AI, Machine Learning (ML), and Deep Learning (DL) are abundantly used in the marketing and positioning of companies. But how sustainable is the economics of an 'AI-first' company?AI companies do not have the same economic construction as traditional software businesses. The gross margins of AI companies are often in the 50–60% range while comparable SaaS businesses have gross margins of 80%+.

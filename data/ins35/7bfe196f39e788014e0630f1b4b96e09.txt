@@ -1,0 +1,6 @@
+Intel Core i9-13900K review: an AMD Zen 4 beater
+theverge.com
+news
+2022-10-20 13:00:00
+
+I said in my AMD Ryzen 9 7900X review last month that 2022's Intel versus AMD CPU battle had only just begun. And now, less than a month later, Intel is back on top. While AMD's Zen 4 generation brings big gains over its previous Zen 3 desktop chips and 12th Gen-beating performance, Intel's 13th Gen has regained the overall performance crown. The flagship Core i9-13900K is priced at $589 and includes 24 cores, 32 threads, and clock speeds of up to 5.8GHz. While base clocks have dropped this year, the boost clock speeds of up to 5.

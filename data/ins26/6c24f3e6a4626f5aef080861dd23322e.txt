@@ -1,0 +1,8 @@
+SANBlaze Partners with UNH-IOL to Develop Open Compute Project Test Scripts
+yahoo.com
+news
+2022-10-19 13:00:00
+
+Joint Development Effort to Benefit SSD Manufacturers by Targeting Improvements in Real-World Robustness
+
+LITTLETON, Mass., October 19, 2022--(BUSINESS WIRE)--SANBlaze Technology Inc., a leading worldwide provider of advanced storage test and validation technologies, today announced that it is working closely with the University of New Hampshire InterOperability Lab (UNH-IOL) to produce OCP (Open Compute Project) test scripts, leveraging the combined experience of both teams in testing NVMe and advanced storage solutions.

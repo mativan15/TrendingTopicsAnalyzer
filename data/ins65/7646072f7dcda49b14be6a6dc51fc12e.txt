@@ -1,0 +1,14 @@
+Interactive Brokers Group Reports Brokerage Metrics and Other Financial Information for May 2022, includes Reg.-NMS Execution Statistics
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 12:47 PM Eastern Daylight Time GREENWICH, Conn.--(BUSINESS WIRE)--Interactive Brokers Group, Inc. (Nasdaq: IBKR) an automated global electronic broker, today reported its Electronic Brokerage monthly performance metrics for May.
+
+Brokerage highlights for the month included:
+
+
+2.297 million Daily Average Revenue Trades (DARTs)1, 2% higher than prior year and 4% higher than prior month.
+
+
+Ending client equity of $314.6 billion, 10% lower than prior year and 3% lower than prior month, primarily due to an omnibus broker that is now using a trust company for custody.

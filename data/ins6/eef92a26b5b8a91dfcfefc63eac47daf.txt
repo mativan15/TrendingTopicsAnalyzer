@@ -1,0 +1,7 @@
+The Shift From Industrial Automation To Worker Augmentation
+forbes.com
+news
+2022-10-17 17:00:41
+
+Augmenting workers with software is often overlooked. getty
+The challenge of moving from industrial automation to worker augmentation is so crucial that we have created a whole new management framework around it. Wonder why? Manufacturing industries contribute to 16 percent of global GDP, according to McKinsey Global Institute (Manyika et al. 2012). The technologies of the moment in manufacturing include: AI, Augmented Reality (AR), Edge (industrial IoT), Robots, Sensors, Wearables, and 3D printing.

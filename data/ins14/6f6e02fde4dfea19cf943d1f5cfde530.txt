@@ -1,0 +1,7 @@
+Ampere: Cloud biz buy-ins prove our Arm processors are ready
+theregister.com
+business
+2022-06-04 10:25:08
+
+Interview After two years of claiming that its Arm-powered server processors provide better performance and efficiency for cloud applications than Intel or AMD's, Ampere Computing said real deployments by cloud providers and businesses are proving its chips are the real deal.
+The Silicon Valley startup held its Annual Strategy and Product Roadmap Update last week to ostensibly give a product roadmap update. But the only update was the news that Ampere's 5nm processor due later this year is called Ampere One, it's sampling that with customers, and it will support PCIe Gen 5 connectivity and DDR5 memory.

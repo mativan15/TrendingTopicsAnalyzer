@@ -1,0 +1,6 @@
+How quantum computing can help tackle global warming
+mckinsey.com
+finance
+2022-05-27 00:00:00
+
+Once they are ready for commercial deployment, quantum computers are expected to bring about massive disruption and create enormous value across a broad range of industries. Quantum computing's unique ability to simulate the chemistry underpinning all human activity means it could help achieve breakthrough innovations in carbon capture, new fuels, batteries, fertilizers, catalysts, and more. Jeremy O'Brien, CEO and cofounder of PsiQuantum, speaks with McKinsey's Philipp Hillenbrand about his company's approach to accelerating and scaling the technology and its bold vision to deploy it in the fight against climate change.

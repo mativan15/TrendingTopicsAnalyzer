@@ -1,0 +1,6 @@
+DuckDuckGo Isn't as Private as You Think
+wired.com
+news
+2022-05-28 13:00:00
+
+After another week of dismally tragic news and moral failures by the powerful, it's good to know that you can at least depend on the small things, like "privacy-focused" search engine and browser DuckDuckGo resisting the temptation to sell out and help corporations to surveil its users. Oh, wait.Yes, a security researcher revealed this week that even DuckDuckGo, which markets itself as "the internet privacy company," made an exception for its business partner Microsoft to its browser's blocking of advertising trackers on websites, sparking accusations of betraying its purported privacy ethos.

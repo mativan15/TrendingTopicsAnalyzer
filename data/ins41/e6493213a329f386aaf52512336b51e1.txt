@@ -1,0 +1,8 @@
+Interesting CAH Put And Call Options For July 22nd
+nasdaq.com
+news
+2022-06-02 11:58:00
+
+Investors in Cardinal Health, Inc. (Symbol: CAH) saw new options become available today, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the CAH options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $54.00 strike price has a current bid of $2.20. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $54.00, but will also collect the premium, putting the cost basis of the shares at $51.

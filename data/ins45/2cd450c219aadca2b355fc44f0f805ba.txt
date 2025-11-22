@@ -1,0 +1,8 @@
+How to install OpenLDAP on Ubuntu Server 22.04
+techrepublic.com
+news
+2022-06-03 22:40:18
+
+Image: Profit_Image/Shutterstock
+LDAP is a powerful vendor-neutral application protocol for access directory services. OpenLDAP is a free implementation of LDAP and is used over a network to manage and access a distributed directory service, which can be used for things like PC logins. OpenLDAP is widely used because it's cost-effective, OS agnostic and flexible. While OpenLDAP is powerful, it's also complex.
+I want to demystify the complexity of deploying OpenLDAP so that anyone with even a basic understanding of Linux and the command line can get this platform up and running.

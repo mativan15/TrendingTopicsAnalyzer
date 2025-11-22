@@ -1,0 +1,8 @@
+NICE Announces the Market's First Consumer Intent-Driven CX Capability with Enlighten Journey Orchestration
+yahoo.com
+news
+2022-10-20 11:30:00
+
+Leveraging the power of Enlighten AI to orchestrate consumer interactions for interruptible digital and voice engagements across agent and agentless journeys at massive scale
+
+HOBOKEN, N.J., October 20, 2022--(BUSINESS WIRE)--NICE (Nasdaq: NICE) today announced its industry breakthrough as the first to orchestrate synchronous and asynchronous interactions at scale, with Enlighten Journey Orchestration. Enlighten Journey Orchestration achieves a new level of understanding consumer needs events with real-time Natural Language Understanding (NLU) and application of Enlighten AI Intent Classification models built on decades of data.

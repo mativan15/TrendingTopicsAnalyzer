@@ -1,0 +1,9 @@
+How to deploy MongoDB as a Docker container
+techrepublic.com
+news
+2022-10-20 13:21:38
+
+Image; deagreez/Adobe Stock
+MongoDB is an outstanding NoSQL database that offers plenty of features to satisfy the most demanding needs, but I've found installing MongoDB to be a bit inconsistent across Linux distributions. MongoDB might install just fine on, say, Ubuntu 20.04, but there's no guarantee it will start properly. That's an issue I've experienced on several occasions.
+SEE: Hiring Kit: Database engineer (TechRepublic Premium)
+What do you do when you don't have time to install and troubleshoot an installation of MongoDB? You could always go the container route.

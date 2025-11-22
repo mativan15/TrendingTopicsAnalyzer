@@ -1,0 +1,7 @@
+China-backed hackers are exploiting unpatched Microsoft zero-day – TechCrunch
+techcrunch.com
+tech
+2022-06-01 11:10:04
+
+China-backed hackers are exploiting an unpatched Microsoft Office zero-day vulnerability, known as 'Follina', to execute malicious code remotely on Windows systems.
+The high-severity vulnerability – tracked as CVE-2022-30190 – is being used in attacks to execute malicious PowerShell commands via the Microsoft Diagnostic Tool (MSDT) when opening or previewing specially crafted Office documents. The flaw, which affects 41 Microsoft products including Windows 11 and Office 365, works without elevated privileges, bypasses Windows Defender detection, and does not need macro code to be enabled to execute binaries or scripts.

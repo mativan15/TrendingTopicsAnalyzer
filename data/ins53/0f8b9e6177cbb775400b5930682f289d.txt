@@ -1,0 +1,10 @@
+Cube Dev Announces Universal BI Support
+businesswire.com
+news
+2022-05-31 00:00:00
+
+May 31, 2022 10:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Cube Dev, the open source company behind the Cube headless BI platform, today announced an updated API that makes its consistent data definitions accessible to users of every major business intelligence application.
+
+
+
+Thousands of companies from startups to Fortune 500 enterprises have built data stacks that use cloud data warehouses for data storage, Cube for accessing this data and defining data models, and open source front-end tools for data visualization.

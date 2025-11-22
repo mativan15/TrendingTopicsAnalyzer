@@ -1,0 +1,8 @@
+Forget Windows 11 and macOS – you can install Windows 95 on a MacBook
+techradar.com
+news
+2022-10-19 11:15:05
+
+(Image credit: leolintang / Shutterstock / Microsoft)
+
+ MacBooks (along with Windows and Linux PCs) can now get a new operating system, but it's probably not the one you were expecting – Windows 95 has just risen from the dead in the form of a new app.As the Betanews website reports (opens in new tab), Felix Rieseberg, a Slack developer, has made a working version of Windows 95 as an Electron app (opens in new tab) using JavaScript. And with the latest version you can run it on almost any Windows computer, along with macOS-running MacBooks (including M1-powered ones) and Linux devices as well.

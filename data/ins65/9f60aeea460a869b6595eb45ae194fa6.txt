@@ -1,0 +1,9 @@
+Pitch Deck Teardown: Encore's $3M seed deck – TechCrunch
+techcrunch.com
+tech
+2022-06-02 18:00:56
+
+For this week's Pitch Deck Teardown, I'm (virtually) traveling to Sweden to take a look at the $3 million seed round raised by developer tool startup Encore.
+The company is creating what it calls a software development platform for the cloud. It reportedly raised from Crane Venture Partners with Acequia Capital, Essence Venture Capital and Third Kind Venture Capital joining the round.
+I wanted to take a look at this deck in more detail, in particular, because it tells a really elegant story in a market where it's extraordinarily hard to differentiate yourself — both to your customers and to investors!
+Pitching a dev tool in a way that tells the story well enough to understand but without dropping deep into a rabbit hole is a particularly hard challenge, and that's the needle Encore threads ever so efficiently in this 24-slide pitch deck.

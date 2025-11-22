@@ -1,0 +1,6 @@
+Xbox Insider Release Notes – Alpha Skip-Ahead (2308.221020-1900)
+xbox.com
+news
+2022-10-22 00:33:34
+
+Hey Xbox Insiders! We have a new Xbox Update Preview coming to the Alpha Skip-Ahead ring. It's important we note that some updates made in these preview OS builds include background improvements that ensure a quality and stable build for Xbox consoles. We continue to post these release notes, even when the noticeable changes to the UI are minimal, so you're aware when updates are coming to your device. Details can be found below! System Update Details: OS version released: RS_XBOX_DEV_FLIGHT\25228.

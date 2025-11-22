@@ -1,0 +1,32 @@
+Novel Technique for Design and Manufacture of Alternating Gradient Composite Structure of Aluminum Alloys Using Solid State Additive Manufacturing Technique
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ and * 
+
+
+Department of Manufacturing Engineering, School of Mechanical Engineering, Vellore Institute of Technology (VIT), Vellore 632014, India
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Antonio Mattia Grande
+
+Materials 2022, 15(20), 7369; https://doi.org/10.3390/ma15207369 (registering DOI)
+
+
+Received: 9 September 2022
+/
+Revised: 12 October 2022
+/
+Accepted: 12 October 2022
+/
+Published: 21 October 2022
+ 
+
+This work analyzes a novel solid-state manufacturing approach of a friction stir additive manufacturing (FSAM) technique for fabricating multiple layers of alternating gradient composite structure using alternate layers of AA6061-T6 and AA7075-T6 aluminum alloys of 3 mm thickness.

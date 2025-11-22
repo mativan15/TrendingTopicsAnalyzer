@@ -1,0 +1,6 @@
+Mitsubishi Electric Develops World's First Laser Communication Terminal Integrating Space Optical Communication and Spatial Acquisition
+businesswire.com
+news
+2022-05-31 00:00:00
+
+May 30, 2022 10:10 PM Eastern Daylight Time TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that it has developed the prototype of what is believed to be the world's first* optical receiver for use in laser communication terminals (LCTs), that integrates space optical communication using laser beams and a function to detect the direction of received beams in the 1.5-μm band, a general-purposeband used for terrestrial optical fiber communications and other applications.

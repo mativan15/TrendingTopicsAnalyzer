@@ -1,0 +1,6 @@
+Microsoft launches Entra: A new identity and access family of products
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-05-31 13:00:00
+
+Credit: MicrosoftMicrosoft has been on a roll lately, in terms of packaging up a group of products into a newly branded suite. (See the ever-expanding Microsoft Defender family, the Microsoft Priva privacy-management suite and the Microsoft Purview compliance and governance brand for the latest examples.) On May 31, the company did it again with a suite of identity and access products it has christened "Microsoft Entra." Microsoft's contention is managing digital access is not straightforward because it's impossible for organizations to plan ahead for all the access scenarios that can happen across an organization and its third-party suppliers, who maintain devices outside of a company's security perimeter.

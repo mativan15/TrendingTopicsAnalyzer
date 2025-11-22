@@ -1,0 +1,6 @@
+MUFG Bank Adopts Exabeam Fusion SIEM to Counter Insider Threats
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 09:00 AM Eastern Daylight Time TOKYO & FOSTER CITY, Calif.--(BUSINESS WIRE)--Exabeam, a global cybersecurity leader and creator of New-Scale SIEM for advancing security operations, announced today that MUFG Bank, Ltd. has adopted Exabeam Fusion SIEM across its nationwide financial group locations and offices. MUFG Bank chose Exabeam Fusion SIEM to establish a normal baseline of activity across its IT infrastructure to quickly spot abnormalities that may indicate a cybersecurity threat or attack.

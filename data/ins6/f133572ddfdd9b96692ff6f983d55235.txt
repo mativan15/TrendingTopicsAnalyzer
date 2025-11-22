@@ -1,0 +1,6 @@
+Votiro Cloud Integrates With Box Content Cloud to Provide Zero Trust Content Security
+Copyright 2022, Business Wire.
+tech
+2022-10-19 13:00:00
+
+October 19, 2022 09:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Votiro, the category leader in Content Disarm and Reconstruction (CDR) technology, today announced its integration with Box's leading Content Cloud to prevent ransomware and other evasive file-borne threats from entering users' content collaboration applications and environments. Available today, users can seamlessly connect Votiro Cloud to Box to provide an essential layer of security needed to prevent new and unknown threats by sanitizing content before adding it in Box.

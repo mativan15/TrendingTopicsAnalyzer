@@ -1,0 +1,6 @@
+The biggest cyber-threats hitting firms working remotely during the Covid-19 crisis
+techradar.com
+tech
+2022-10-17 13:06:07
+
+As the nation's businesses hunkered down to work at home, criminal groups not only continued their attacks, but also adapted their tactics to exploit the security gaps that opened up.Over the last few weeks, we saw an increase in attacks targeting a workforce that is now almost entirely relying on VPN connections and cloud-based applications. From consultant and investment firms to manufacturers and retailers, businesses in all sectors are under threat from attacks exploiting the Covid-19 crisis.

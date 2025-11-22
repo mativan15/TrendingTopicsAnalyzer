@@ -1,0 +1,6 @@
+Ransomware 3.0 – Where the CISO's most feared scenario goes next
+techradar.com
+tech
+2022-10-17 13:24:31
+
+Ask any CISO what keeps them awake at night and the answer is bound to be: ransomware. A proven money-maker for cybercriminals, ransomware can be devastating to your business – it can wipe out core operational systems; can cost you millions of dollars to recover from; can result in a stock downturn and job losses; and it should be entirely avoidable.Ransomware 1.0 really kicked in with the advent of cryptocurrency, allowing cyber criminals to anonymously monetize the attacks. In this first iteration, the malware was sent out in massive quantities of malicious emails into the wild and it would demand payment from whatever machine it happened to infect.

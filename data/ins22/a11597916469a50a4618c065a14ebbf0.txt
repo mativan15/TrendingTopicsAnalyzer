@@ -1,0 +1,10 @@
+Modem, Router, and Access Point: What's the Difference?
+pcmag.com
+beauty
+2022-10-17 18:56:28
+
+Connecting to the internet seems simple. You hop on your Wi-Fi, load up Facebook, and boom; you're connected! But when something goes wrong—or it's time to upgrade your equipment to something faster—you'll need to understand what all those little black boxes actually do.
+
+Don't know the difference between a modem and a router? Unsure what an access point does compared to a switch? Here's a quick rundown of the basic networking gear that keeps your home connected.
+
+A modem is your gateway to the internet—a cable, fiber optic, or telephone line comes through your neighborhood, to your house, and connects to your modem.

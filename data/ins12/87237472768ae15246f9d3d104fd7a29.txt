@@ -1,0 +1,7 @@
+DataOps.live Sponsors IMPACT 2022 and Launches New Orchestrator for Monte Carlo
+prnewswire.com
+news
+2022-10-19 12:47:00
+
+LONDON, Oct. 19, 2022 /PRNewswire/ -- DataOps.live, the software company dedicated to helping organizations build, test and deploy their critical data applications and data products more effectively, and Monte Carlo, the data reliability company, today announced availability of the DataOps.live Orchestrator for Monte Carlo. DataOps.live is also a Silver Sponsor at their upcoming IMPACT 2022 Event.
+"Monte Carlo is a leader in data observability, so it makes perfect sense for DataOps.live to integrate by orchestrating Monte Carlo as a core component of data pipelines, empowering our joint customers with exceptional control and observability," says John Marchese, EVP Strategic Business, Alliances & Channels, DataOps.

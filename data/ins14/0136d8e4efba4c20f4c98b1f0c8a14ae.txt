@@ -1,0 +1,6 @@
+The Flossbank Attempt
+medium.com
+news
+2022-06-01 19:03:24
+
+3 years ago, Pete and I thought we could make an impact in the Open Source funding problem. We introduced a 3-click donation subscription model for companies that donated to every single Open Source dependency of that company, an in-terminal advertisement platform that only showed ads during installation of Open Source packages, and zero-friction international payouts to Open Source maintainers. It wasn't enough.We aren't business development rockstars and we thought we could ride word-of-mouth to success.

@@ -1,0 +1,8 @@
+Coralogix Closes $142M Series D Funding to Accelerate its Vision of In-Stream Data Analysis for Logs, Metrics, Tracing, and Security
+yahoo.com
+news
+2022-06-01 11:00:00
+
+New funding round underscores high demand for harmonious, scalable, and cost-effective observability
+
+SAN FRANCISCO and TEL AVIV, Israel, June 1, 2022 /PRNewswire/ -- Coralogix , a company using streaming analytics to rebuild the path to observability, today announced it has raised a $142 million Series D funding round, bringing the company's total amount raised to $238 million. New investors Advent International ("Advent") and Brighton Park Capital ("Brighton Park") co-led the round with participation from Revaia Ventures and existing investors Greenfield Partners, Red Dot Capital Partners, Eyal Ofer's O.

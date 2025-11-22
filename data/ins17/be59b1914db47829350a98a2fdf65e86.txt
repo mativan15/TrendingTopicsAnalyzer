@@ -1,0 +1,6 @@
+Datadog Announces PCI Compliance for Log Management and APM
+businessinsider.com
+finance
+2022-10-19 18:00:00
+
+The designation certifies that Datadog supports industry regulations for organizations who process and store payment and transaction dataNEW YORK, Oct. 19, 2022 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced that it has achieved PCI (Payment Card Industry) compliance for its Log Management and Application Performance Management (APM) products.PCI compliance is a set of key security standards that businesses must adhere to when accepting, transmitting, processing and storing credit, debit, ATM or POS card data in order to secure and protect information provided by cardholders.

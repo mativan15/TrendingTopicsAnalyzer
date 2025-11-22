@@ -1,0 +1,8 @@
+When management went nuclear on an innocent engineer
+theregister.com
+economics
+2022-05-27 08:30:10
+
+On Call Sure, you might use words like "boom" and "explode" when it comes to errors with your system. But could a whoopsie have the potential to render a chunk of a country uninhabitable? Welcome to On Call.
+Our story comes from a reader Regomized as "Ellen" who spent the early part of the 1980s toiling away in the IT department of a company producing software responsible (in part) for running nuclear power stations.
+A brand new system was in the process of being rolled out, which would keep track of which stations were online, how much power they could provide, and so on.

@@ -1,0 +1,7 @@
+What is Quantum Computing?
+businesstelegraph.co.uk
+news
+2022-10-21 13:07:31
+
+Data center cybersecurity managers have been getting warnings for years that quantum computing was on its way and it would break all existing encryption. 
+With quantum computing now on the verge of becoming real and early versions of these next-generation computers already available to the public and to governments, the time to take action is now. Fortunately, there are steps that data centers can take, including evaluating new quantum-ready encryption algorithms and talking to vendors about their post-quantum encryption plans.

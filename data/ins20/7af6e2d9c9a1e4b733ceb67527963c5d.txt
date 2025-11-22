@@ -1,0 +1,50 @@
+A Comparative Study on Traffic Modeling Techniques for Predicting and Simulating Traffic Behavior
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ *, *, * and * 
+
+
+Faculty of Engineering and Applied Science, Ontario Tech University, Oshawa, ON L1G 0C5, Canada
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Hamada Alshaer
+
+Future Internet 2022, 14(10), 294; https://doi.org/10.3390/fi14100294 (registering DOI)
+
+
+Received: 19 September 2022
+/
+Revised: 11 October 2022
+/
+Accepted: 12 October 2022
+/
+Published: 15 October 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+The significant advancements in intelligent transportation systems (ITS) have contributed to the increased development in traffic modeling.

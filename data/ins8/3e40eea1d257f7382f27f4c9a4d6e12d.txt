@@ -1,0 +1,6 @@
+Keysight Noise Analyzer Adopted by Samsung Foundry
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 11:00 AM Eastern Daylight Time SANTA ROSA, Calif.--(BUSINESS WIRE)--Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that delivers advanced design and validation solutions to help accelerate innovation to connect and secure the world, announced that Samsung Foundry has adopted the Keysight E4727B Advanced Low-Frequency Noise Analyzer (A-LFNA) for measurement and analysis of flicker noise (1/f noise) and random telegraph noise (RTN) in semiconductor devices. Samsung Foundry customers targeting the silicon manufacturer's most advanced technologies will have access to process design kits (PDK) that include the most accurate simulation models, based on A-LFNA data, for design and verification of radio frequency (RF) and analog circuits.

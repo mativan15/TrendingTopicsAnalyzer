@@ -1,0 +1,7 @@
+History Of AI In 33 Breakthroughs: The First AI-Driven Robot
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 21:37:03
+
+The just-issued World Robotics Report announced an all-time high of 517,385 new industrial robots installed in 2021 in factories around the world, representing 31% year-on-year growth. That brought the current stock of operational robots around the globe to about 3.5 million, a new record. 
+Toyota has created a 6-foot-10-inch basketball-shooting robot named Cue that uses sensors on its ... [+] torso to judge the distance and angle of the basket and uses motorized arms and knees to execute set shots.

@@ -1,0 +1,8 @@
+Freshworks Inc.'s (NASDAQ:FRSH) Intrinsic Value Is Potentially 28% Above Its Share Price
+yahoo.com
+news
+2022-06-04 12:29:39
+
+Today we will run through one way of estimating the intrinsic value of Freshworks Inc. (NASDAQ:FRSH) by estimating the company's future cash flows and discounting them to their present value. Our analysis will employ the Discounted Cash Flow (DCF) model. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

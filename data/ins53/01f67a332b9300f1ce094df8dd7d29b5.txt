@@ -1,0 +1,6 @@
+Transphorm's GaN FETs Enable High Reliability Medical Applications: LEMURIA Li-ion Battery Power Supply from Nayuta
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time GOLETA, Calif.--(BUSINESS WIRE)--Transphorm, Inc. (Nasdaq: TGAN)—a pioneer in and global supplier of high reliability, high performance gallium nitride (GaN) power conversion products—announced today that its GaN technology powers the LEMURIA ME3000 from Nayuta Power Energy Co. Ltd. Nayuta uses the GaN FETs in the LEMURIA's AC inverter to achieve 99% efficiency in a fanless system. Notably, the LEMURIA ME3000 is Japan's first lithium-ion (Li-ion) battery power storage device for medical equipment to earn S-JQA certification for electrical products, a mark that indicates a product's safety and performance quality.

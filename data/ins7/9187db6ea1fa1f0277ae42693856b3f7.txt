@@ -1,0 +1,8 @@
+Thunderbolt's next spec triples bandwidth to 120Gbps—with a catch
+arstechnica.com
+news
+2022-10-19 16:00:00
+
+Intel announced further details about the next generation of Thunderbolt today. The company wouldn't commit to a name for the upcoming specification or a release date for what we hope will be called, simply, Thunderbolt 5. However, we do know that the next Thunderbolt will support up to 80Gbps bidirectional bandwidth and be able to transmit data at up to 120Gbps.
+Will it be called Thunderbolt 5? Hopefully
+In a meeting with the press, Jason Ziller, general manager of the Client Connectivity Division at Intel, said the next version of Thunderbolt isn't named yet.

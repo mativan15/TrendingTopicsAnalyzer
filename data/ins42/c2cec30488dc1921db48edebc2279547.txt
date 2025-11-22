@@ -1,0 +1,7 @@
+How some tech-savvy employees are bypassing data leakage prevention measures
+indiatimes.com
+news
+2022-05-28 10:06:01
+
+Data leakage is a serious threat to organizations, as it can lead to significant financial losses and compromised security. In recent times companies have implemented data leakage prevention (DLP) measures to prevent both outsiders and insiders from gaining unauthorized access to data.
+There are several reasons why DLP measures are focused on insiders as a risk. First, it can be difficult to detect and prevent data breaches when they are carried out by employees who have legitimate access to company systems and data.

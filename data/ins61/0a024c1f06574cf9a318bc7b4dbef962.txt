@@ -1,0 +1,6 @@
+WhatsApp Desktop version notification glitch resolved
+Copyright:(C)2022 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html
+economics
+2022-05-29 07:40:10
+
+Those who had been using WhatsApp on the desktop were dealing with a bug related to push notifications. While using WhatsApp desktop, they came across a weird glitch with the push notifications. Many users reported this to WhatsApp and the company took note of it immediately. WhatsApp has managed to resolve this issue by rolling out a new update. Earlier, most people used WhatsApp on their mobile devices. However, now a large number of individuals, especially those working in a professional setup, prefer using it on their laptop or computer system.

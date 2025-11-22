@@ -1,0 +1,16 @@
+What is fingerprinting? A guide to an invasive form of online tracking from Smartproxy
+yahoo.com
+news
+2022-05-30 09:00:00
+
+Smart Proxy
+
+LONDON, May 30, 2022 (GLOBE NEWSWIRE) -- Online tracking is becoming more sophisticated as companies search for new ways to collect valuable user data. The standard anti-tracking procedures–hiding IP addresses, disabling cookies, and changing to a more secure browser–are no longer enough.
+
+
+
+That's because tech firms, advertisers, and hackers are using browser fingerprinting, a more effective and invasive form of tracking.
+
+What is fingerprinting?
+
+Browser fingerprinting is the process of tracking users based on the configuration of their browsers.

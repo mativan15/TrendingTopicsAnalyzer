@@ -1,0 +1,8 @@
+The Ethereum Killers Are All Zombies Now
+yahoo.com
+news
+2022-10-19 17:11:32
+
+One of the recurring challenges of building in the blockchain space is figuring out which blockchain is worth your time and effort. Bitcoin is the 'grandfather' but doesn't support complex smart contracts and programmable ecosystems. For most developers, that means looking elsewhere, and there is a lot from which to choose.
+
+There are many outstanding blockchains out there and, trust me on this, I've heard the pitch from just about all of them over the years. It's easy to discard the pitches from private blockchains because I can't get over the impossible contradiction in the idea of having a centrally managed, decentralized ledger.

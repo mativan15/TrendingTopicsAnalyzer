@@ -1,0 +1,8 @@
+Another AI super from HPE: Champollion lands in France
+theregister.com
+news
+2022-05-27 15:30:06
+
+HPE is lifting the lid on a new AI supercomputer – the second this week – aimed at building and training larger machine learning models to underpin research.
+Based at HPE's Center of Excellence in Grenoble, France, the new supercomputer is to be named Champollion after the French scholar who made advances in deciphering Egyptian hieroglyphs in the 19th century. It was built in partnership with Nvidia using AMD-based Apollo computer nodes fitted with Nvidia's A100 GPUs.
+Champollion brings together HPC and purpose-built AI technologies to train machine learning models at scale and unlock results faster, HPE said.

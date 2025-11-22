@@ -1,0 +1,6 @@
+PacBio Launches Single-Cell Transcriptome Solution Ushering in a New Era of RNA Discovery
+prnewswire.com
+news
+2022-10-20 13:05:00
+
+MAS-Seq Supports Isoform Research Using Single-Cell RNA Sequencing from 10x GenomicsMENLO PARK, Calif., Oct. 20, 2022 /PRNewswire/ -- PacBio (NASDAQ: PACB), a leading developer of high-quality, highly accurate sequencing solutions, today announced the launch of its Multiplexed Arrays Sequencing (MAS-Seq) kit in partnership with the Broad Institute of MIT and Harvard and 10x Genomics, Inc. The kit is a first-of-its-kind kitted solution leveraging 10x Genomics' Single Cell Gene Expression technology to enable cost-effective long-read single-cell RNA sequencing for a more complete interrogation of the transcriptome.

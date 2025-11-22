@@ -1,0 +1,6 @@
+Joining forces: Fast-as-lightning 3D microprinting with two lasers
+sciencedaily.com
+science
+2022-10-15 01:15:14
+
+Printing objects from plastic precisely, quickly, and inexpensively is the goal of many 3D printing processes. However, speed and high resolution remain a technological challenge. A research team from the Karlsruhe Institute of Technology (KIT), Heidelberg University, and the Queensland University of Technology (QUT) has come a long way toward achieving this goal. It developed a laser printing process that can print micrometer-sized parts in the blink of an eye. The international team published the work in Nature Photonics.

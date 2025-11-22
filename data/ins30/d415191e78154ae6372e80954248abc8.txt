@@ -1,0 +1,7 @@
+Learning and Change Management with Cloud Mindset
+sap.com
+news
+2022-05-31 11:15:36
+
+Moving to a cloud-based digital SAP platform is not just about innovative functionality. It actually ignites a complete change in how companies operate their IT landscape and how they think about their daily work. What exactly is this 'cloud mindset' and how does it affect learning and change management?
+We have come a long way since the early days of cloud computing. When cloud applications entered the world of business IT, executives' main points of consideration were pricing and costs. For the first time, companies were able to shift their capital expenditures (CAPEX) in IT to operating expenses (OPEX) – thanks to subscription models.

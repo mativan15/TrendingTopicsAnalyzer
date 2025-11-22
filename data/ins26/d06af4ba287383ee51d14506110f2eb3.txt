@@ -1,0 +1,8 @@
+WhatsApp may soon start warning businesses for violating its commerce policy
+indiatimes.com
+tech
+2022-05-28 06:30:00
+
+NEW DELHI: Facebook-owned WhatsApp recently introduced WhatsApp Cloud API for businesses worldwide. It is a cloud-based version of the company's developer tool WhatsApp Business API. The tool aims to make it easier for businesses of all sizes anywhere in the world to get started on WhatsApp. After this recent change, the social networking giant is now reportedly working on a new feature which will warn businesses that risk breaking the firm's commerce policy.
+
+According to a report by WABetaInfo, instant messenger is developing a feature that will warn businesses when they will violate the company's commerce policy.

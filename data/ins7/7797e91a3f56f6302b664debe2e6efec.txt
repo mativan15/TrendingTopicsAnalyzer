@@ -1,0 +1,7 @@
+Chainguard raises $50M Series A for supply chain security – TechCrunch
+techcrunch.com
+tech
+2022-06-02 13:00:53
+
+Chainguard, a startup that focuses on securing software supply chains, announced today that it has raised a $50 million Series A funding round led by Sequoia Capital. Amplify, the Chainsmokers' Mantis VC, LiveOak Venture Partners, Banana Capital, K5/JPMC and CISOs from Google and Square, among others, also participated in this round.
+In addition to the new funding, the company, which is only 8 months old at this point, also launched its first set of container base images today, which Chainguard promises to have zero known vulnerabilities and which will be continuously updated.

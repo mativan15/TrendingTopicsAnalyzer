@@ -1,0 +1,37 @@
+Applying a Coupled Hydrologic-Economic Modeling Framework: Evaluating Alternative Options for Reducing Impacts for Downstream Locations in Response to Upstream Development
+Creative Commons Attribution (CC-BY)
+science
+2022-05-28 00:00:00
+
+Open AccessConcept Paper by
+ 1, 2, 1 and 1,* 
+
+
+1
+Department of Civil and Environmental Engineering, Virginia Tech, Blacksburg, VA 24061, USA
+
+
+2
+Department of Economics, Rensselaer Polytechnic Institute, Troy, NY 12180, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Steve W. Lyon
+
+Sustainability 2022, 14(11), 6630; https://doi.org/10.3390/su14116630 (registering DOI)
+
+
+Received: 6 April 2022
+/
+Revised: 20 May 2022
+/
+Accepted: 24 May 2022
+/
+Published: 28 May 2022
+ 
+
+Economic input-output and watershed models provide useful results, but these kinds of models do not use the same spatial units, which typically limits their integration.

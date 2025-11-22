@@ -1,0 +1,37 @@
+On Balanced Host Games: A Sufficient Condition for Non-Emptiness of the Core
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ 1, 2,* and 1 
+
+
+1
+Department of Applied Mathematics, National Dong Hwa University, Hualien 974, Taiwan
+
+
+2
+Department of Applied Mathematics, National Pingtung University, Pingtung 900, Taiwan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Burak Erkut and Fatih Ecer
+
+Mathematics 2022, 10(20), 3897; https://doi.org/10.3390/math10203897 (registering DOI)
+
+
+Received: 9 September 2022
+/
+Revised: 12 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 20 October 2022
+ 
+
+Non-transferable utility (NTU) games arise from many economic situations.

@@ -1,0 +1,8 @@
+Amazon shutting down all service and support for Cloud Cams
+techradar.com
+tech
+2022-05-31 19:30:00
+
+(Image credit: Amazon)
+
+ Starting December 2, 2022, Amazon will be dropping all support and service for Cloud Cam devices and accompanying apps.People first learned about the drop from an email Amazon sent out to customers. A user on the HomeKit subreddit was gracious enough to share the information. Going through the email, the entire video history from your Cloud Cam will be deleted on December 2, but you'll be able to download the recordings. The Cloud Cam – Key Edition will also lose its functionality to connect to smart locks and manage codes on the final day.

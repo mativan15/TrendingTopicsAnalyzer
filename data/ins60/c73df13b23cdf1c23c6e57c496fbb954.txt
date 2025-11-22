@@ -1,0 +1,6 @@
+Unbalance Prediction of Low Pressure Rotor Based on Mechanism and Data Fusion
+Creative Commons Attribution (CC-BY)
+science
+2022-10-16 00:00:00
+
+The assembly, as the core part of low-pressure rotor manufacturing, is of great importance to ensure its unbalance. Low-voltage rotor assembly is a multi-process process influenced by the quality of part machining, assembly process, and assembly quality, resulting in unbalance that is difficult to predict during the assembly process. The unbalance measurement in the assembly process is important for the subsequent process optimization. Therefore, in order to achieve the prediction of unbalance measurement in the assembly process, this paper proposes an unbalance measurement prediction method based on mechanism and data fusion.

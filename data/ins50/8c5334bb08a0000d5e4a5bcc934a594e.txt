@@ -1,0 +1,6 @@
+Intel i9-13900K and i5-13600K review: Beating AMD at its own game
+arstechnica.com
+news
+2022-10-20 13:00:00
+
+Enlarge / Intel's new flagship desktop CPU, the Core i9-13900K. When AMD brought the first Ryzen processors to desktops in 2017, the chips' secret weapon was cores. AMD couldn't match Intel's number of instructions-per-clock or hit the same clock speeds, but what it could do was sell you six or eight reasonably performant processor cores at the same price Intel charged for four. The 12-core and 16-core options came a couple years later, bringing high-end workstation performance to much less expensive PCs—and forcing Intel to follow suit.

@@ -1,0 +1,6 @@
+When it comes to privacy, default settings matter!
+mozilla.org
+tech
+2022-06-03 19:00:09
+
+What if I told you that on nearly every single website you visit, data about you was transmitted to dozens or even hundreds of companies, all so that the website could earn an additional $0.00008 per ad! This is a key finding from a new study on behaviorally targeted advertisements from Carnegie Mellon University and it should be a wake-up call to all of us. The status quo of pervasive data collection in service of ad targeting is untenable. That is why we're announcing some key changes to Firefox.

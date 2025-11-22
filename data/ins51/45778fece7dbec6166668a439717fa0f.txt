@@ -1,0 +1,6 @@
+AI trends 2022 — II — Natural Language Processing
+medium.com
+entertainment
+2022-06-01 00:51:56
+
+Natural language processing (NLP) is 'the ability for a computer to understand the meaning of text or speech' and has already revolutionized how humans interact with machines. This is evident in the widespread use of AI assistants like Siri, Alexa, and Cortana. These technologies can understand what people say, act on that information appropriately and respond accordingly. However, NLP has a lot more to offer than just clearly communicating with users; it can also help scale business operations.NLP — Natural Language Processing trying to make machines that can think and act like humans (Don't worry they won't be Human as humans are).

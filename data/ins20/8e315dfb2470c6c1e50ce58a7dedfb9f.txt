@@ -1,0 +1,6 @@
+Hackers targeting tech supply chains spur security startup boom
+indiatimes.com
+economics
+2022-10-20 04:30:00
+
+iStockSupply-chain attacks are growing in part because operating systems and web browsers -- hackers' usual targets -- are now harder to hack.Cyberattacks on the digital supply chain have become increasingly common, as hackers seek out weak links among makers of computer code and equipment to breach organizations that depend on the technologies. In 2020, for example, hackers suspected of working for Russia's intelligence services used tampered updates from software maker SolarWinds Corp. to infiltrate nine US government agencies.

@@ -1,0 +1,6 @@
+Hightouch Named Fivetran Ecosystem Partner of the Year
+prnewswire.com
+news
+2022-10-20 18:00:00
+
+More than 150 mutual customers choose Hightouch and Fivetran to close their data loop SAN FRANCISCO, Oct. 20, 2022 /PRNewswire/ -- Hightouch today announced that it has been named the 2022 Ecosystem Partner of the Year award winner by Fivetran. This award was presented today at Fivetran's virtual Partner Summit.Hightouch was recognized for the company's achievements in helping joint customers activate data by syncing directly from the warehouse into business tools. This is particularly complementary to Fivetran's fully managed data pipelines, which ensure all relevant data is seamlessly delivered to the data warehouse.

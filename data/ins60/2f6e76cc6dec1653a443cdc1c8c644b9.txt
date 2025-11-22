@@ -1,0 +1,6 @@
+Terra to Create New Blockchain After Historic Luna Collapse
+cnet.com
+news
+2022-05-26 01:25:00
+
+Cryptocurrencies have not had a good time in May, with Bitcoin down for an unprecedented eighth consecutive week. The biggest loser of the bunch has been luna, which collapsed from $85 early in the month to a fraction of a penny now. Terraform Labs, the developer behind the Terra blockchain and its UST and luna cryptocurrencies, has a plan to reverse to crash.It's going to create a new blockchain called Terra, with the existing chain being renamed to Terra Classic. The new Terra will produce luna coins, and existing luna will turn into luna classic.

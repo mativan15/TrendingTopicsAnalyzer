@@ -1,0 +1,11 @@
+Urgent warning to Microsoft Office users over "homograph attacks"
+thesun.co.uk
+news
+2022-06-04 20:56:01
+
+SECURITY experts have delivered an urgent warning to Microsoft Office users about "homograph attacks".
+The breach allows malware to be downloaded that can expose your data. 
+Cybersecurity experts delivered an urgent warning to Microsoft Office users about a potentially damaging phishing attackCredit: AFP
+Microsoft Office is one of the most widely used suite of office-related applications in the world.
+Thanks to its global popularity, it's also a constant target for hackers.
+Recently, analysts from Romanian cybersecurity firm Bitdefender discovered that Microsoft's platform of office software could be abused to launch phishing attacks.

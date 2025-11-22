@@ -1,0 +1,9 @@
+What are the different types of predictive modeling?
+techrepublic.com
+news
+2022-10-19 18:28:21
+
+Image: max_776/Adobe Stock
+Predictive modeling is a type of data mining that is used in a variety of situations and industries. This process involves creating statistical models that can make predictions about future events based on historical data.
+SEE: Job description: Big data modeler (TechRepublic Premium)
+Predictive modeling is often used with other data analytics processes like other types of data mining, analysis and exploration. Read on to learn about different types of predictive modeling and how each type can be used most effectively.

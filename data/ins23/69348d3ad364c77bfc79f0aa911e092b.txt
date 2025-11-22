@@ -1,0 +1,6 @@
+Garmin GI 275 receives STC for Dassault Aviation's Falcon 7X
+Copyright 2022, Business Wire.
+tech
+2022-10-17 11:00:00
+
+OLATHE, Kan.--(BUSINESS WIRE)--Garmin International, Inc., a unit of Garmin Ltd. (NYSE: GRMN), today announced Supplemental Type Certification (STC) by the Federal Aviation Administration (FAA) for the GI 275 electronic flight instrument in the Dassault Falcon 7X business jet. As a replacement for the original secondary flight display (SFD), the primary GI 275 will integrate with the aircraft's existing systems to be configured as an attitude-direction indicator (ADI) with synthetic vision tech

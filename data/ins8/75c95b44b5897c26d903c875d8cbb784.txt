@@ -1,0 +1,8 @@
+AWS is taking the fight to on-prem hardware vendors
+techradar.com
+tech
+2022-06-02 17:03:04
+
+(Image credit: Shutterstock / laymanzoom)
+
+ Amazon Web Services (AWS) is looking to hit on-premises hardware vendors where it hurts with a new set of products and services.The cloud hosting giant is adding support for its Dedicated Hosts platform to its on-premises cloud-in-a-box solution Outposts.In addition, AWS is making a move into the 'pre-cloud' space by making its Storage Gateway Hardware Appliance available via third party resellers.What does this mean?AWS Outposts is a managed device that brings Amazon cloud services into user's own data centers.

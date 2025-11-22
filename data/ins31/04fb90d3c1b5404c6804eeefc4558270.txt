@@ -1,0 +1,38 @@
+Multi-Object Detection in Security Screening Scene Based on Convolutional Neural Network
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+, , and * 
+
+
+College of Intelligent Manufacturing and Industrial Modernization, Xinjiang University, Urumchi 830000, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Rongxing Lu and Wei Yi
+
+Sensors 2022, 22(20), 7836; https://doi.org/10.3390/s22207836 (registering DOI)
+
+
+Received: 30 August 2022
+/
+Revised: 1 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 15 October 2022
+
+
+(This article belongs to the Section Sensor Networks)
+ 
+
+The technique for target detection based on a convolutional neural network has been widely implemented in the industry.

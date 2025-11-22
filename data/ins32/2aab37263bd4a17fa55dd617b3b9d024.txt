@@ -1,0 +1,30 @@
+Use of Asset Administration Shell Coupled with ISO 15926 to Facilitate the Exchange of Equipment Condition and Health Status Data of a Process Plant
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 1, 2, 3, 4, 5, 6 and 1,* 
+
+
+1
+School of Mechanical Engineering, Korea University, 145 Anam-ro, Seongbuk-gu, Seoul 02841, Korea
+
+
+2
+OntoConsult, Laanweg 28, 1871 BJ Schoorl, The Netherlands
+
+
+3
+Smart Manufacturing Innovation Center, Korea Electronics Technology Institute, 42, Changeop-ro, Sujeong-gu, Seongnam-si 13449, Gyeonggi-do, Korea
+
+
+4
+Department of Mechanical System Design Engineering, Seoul National University of Science and Technology, 232 Gongneung-ro, Seoul 01811, Korea
+
+
+5
+R&D Center, Safetia Co.

@@ -1,0 +1,8 @@
+Ubuntu has a new remix in the family: Unity
+theregister.com
+news
+2022-10-20 12:51:10
+
+Ubuntu 22.10 is out, and the biggest change is a new official remix: Ubuntu Unity is now an official flavor.
+Unity was once Ubuntu's in-house desktop, but was abandoned for a stock GNOME Shell interface in 2017. As we noted here in The Reg, it was revived by 12-year-old Linux wunderkind Rudra Saraswat, and since then the Ubuntu Unity team applied to become an official edition. After the vote went through, and from version 22.10, it's official once more.
+The "Kinetic Kudu" release is based on kernel 5.

@@ -1,0 +1,6 @@
+Want a streaming database without hiring a data engineer? RisingWave raises $36M bring it to you
+venturebeat.com
+news
+2022-10-18 13:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Traditional databases focus on data after it has been stored. Stream processing helps businesses take action on data as it's being generated. These tools allow analytics and decision engines to respond to IoT events, user clickstreams and financial market data. But they also typically require specialized data engineering skill sets to deploy and scale.  RisingWave has raised $36 million to help simplify this process with a streaming database that combines elements of traditional databases and stream processing.

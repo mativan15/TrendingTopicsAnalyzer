@@ -1,0 +1,6 @@
+AI-Driven Automation And Human-Driven Management Of The Business Of Data
+Copyright 2022 Forbes Media LLC
+business
+2022-10-18 16:00:28
+
+Seek AI launched today a cloud-based AI platform that automates some of the repetitive work that data professionals perform. Thy are often asked by business users to write new code to query a database to answer ad-hoc questions. Using generative AI like DALL-E, Stable Diffusion or GPT-3, Seek AI automates this process, improving the productivity of data professionals. Business users can access Seek AI's natural language interface by means of email, Slack, text, and a range of customer relationship management (CRM) systems.

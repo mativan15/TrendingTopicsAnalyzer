@@ -1,0 +1,6 @@
+The many moving parts of business email compromise
+techradar.com
+tech
+2022-10-17 12:40:00
+
+Email-borne scams have existed for almost as long as email has existed. As organizations and security vendors move to protect against common variants of phishing attacks, cybercriminals always seem to stay one step ahead by adapting their techniques to bypass any security measures in place. The latest variant of email scams plaguing organizations hide their complex machinations under a veneer of simplicity. Let's talk about Business Email Compromise (BEC).BEC is a scam where financially motivated adversaries trick executives and employees into making payments to fraudulent accounts.

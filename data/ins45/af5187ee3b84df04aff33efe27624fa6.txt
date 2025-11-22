@@ -1,0 +1,6 @@
+Machine Tool Break Detection without Breaking the Bank
+globenewswire.com
+news
+2022-10-18 00:00:00
+
+Schaumburg, IL, Oct. 18, 2022 (GLOBE NEWSWIRE) -- Specially designed for quickly sensing tool breakage during use within a machine tool, HEIDENHAIN CORPORATION introduces the new TD 110 Tool Breakage Detector.  Providing contact-free inspection of drill bits and end mills, it can determine whether a tool is broken off by more than 2mm as it passes within a machine tool, yielding significant time and money savings. The TD 110 tool breakage sensor can be placed in the work envelope so that it is fast and easy to reach during the tool change.

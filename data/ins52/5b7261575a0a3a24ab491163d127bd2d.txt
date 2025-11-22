@@ -1,0 +1,6 @@
+Container Orchestration Open-Source Platform
+medium.com
+tech
+2022-05-29 16:23:33
+
+Kubernetes (also known as k8s) is a container orchestration tool widely used to deploy and update the application without any downtime. It enables auto-scaling of resources in case of an increase/decrease in requests to the server. Also, it provides intelligent management, allocation of resources, and services, which saves a lot of money for us.KubernetesBenefits of KubernetesBy using Kubernetes, developers can build cloud-native applications with Kubernetes as a runtime framework. Patterns are the tools a developer of Kubernetes requires to construct applications and services based on containers.

@@ -1,0 +1,6 @@
+Does your organization have a data platform leader? It could soon
+techradar.com
+tech
+2022-10-17 13:50:20
+
+There's no one-size-fits-all solution for a modern data platform, and there likely never will be with the proliferation of multiple public and private cloud environments, entrenched on-premises data centers, and the exponential rise in edge computing – data sources are multiplying almost at the rate of data itself.Today's data platforms increasingly take a broad multi-platform approach that incorporates a wide range of data services (e.g. data warehouse, data lake, transactional database, IoT database and third-party data services), and integration services that support all major clouds and on-premise platforms and applications that run on and across these environments.

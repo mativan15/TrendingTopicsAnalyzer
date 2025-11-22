@@ -1,0 +1,6 @@
+GRAID Technology and primeLine Solutions GmbH Partner to Revolutionize High Performance Computing Across Germany
+globenewswire.com
+news
+2022-10-20 14:30:00
+
+SANTA CLARA, Calif., Oct. 20, 2022 (GLOBE NEWSWIRE) -- primeLine Solutions GmbH, a leader in German tailor-made high performance servers, now incorporates SupremeRAID™ GPU accelerated RAID as part of its custom NVMe storage offerings — delivering sophisticated software-composed data protection and impressive performance for demanding workloads.  Based on the NVIDIA A2000 GPU, SupremeRAID™ by GRAID Technology is an innovative NVMe RAID controller that delivers the full potential of NVMe SSD drives in a RAID array.

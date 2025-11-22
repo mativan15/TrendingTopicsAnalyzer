@@ -1,0 +1,10 @@
+Ally is building a dead-simple, no-code robot arm
+yahoo.com
+news
+2022-10-19 18:20:38
+
+'Both my dad and mom had their own business,' Ally Robotics founder and CEO Mitch Tolson tells TechCrunch. 'My mom had a sign company. Every single weekend and nights during the week, I was installing neon signs, welding up frames, digging trenches, holes for electrical, all of it.'
+
+The executive says those formative years on construction sites were part of the inspiration behind the Washington-based startup's formation. The central conceit behind the company is simple enough: What if we could train robots more like we train people?
+
+The company, which pitched today onstage in Startup Battlefield at TechCrunch Disrupt, has developed a combination hardware and software solution designed to make it easier to deploy these automated solutions for those without coding/robotics experience.

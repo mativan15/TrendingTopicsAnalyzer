@@ -1,0 +1,8 @@
+Is Bravura Solutions Limited (ASX:BVS) Trading At A 42% Discount?
+yahoo.com
+news
+2022-05-31 05:14:04
+
+In this article we are going to estimate the intrinsic value of Bravura Solutions Limited (ASX:BVS) by taking the expected future cash flows and discounting them to their present value. This will be done using the Discounted Cash Flow (DCF) model. It may sound complicated, but actually it is quite simple!
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

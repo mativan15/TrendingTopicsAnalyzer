@@ -1,0 +1,8 @@
+Would You Use an App That Lets You Talk to Dead People?
+chron.com
+news
+2022-10-19 19:15:34
+
+In a recent article for MIT Technology Review, writer Charlotte Jee profiled her experience sampling 'grief tech,' an emerging field dedicated to creating everlasting A.I. clones of deceased loved ones.
+
+How the hell does that work? Well, it's important to understand that voice recognition and 'voice cloning' software is way more advanced than the average Siri-summoning consumer might realize. Neural networks called 'large language models' (LLMs) are now capable of processing hundreds of gigabytes of data, in order to generate text, memorize mannerisms and answer impromptu questions…all in the name of generating a disturbingly dynamic mimeograph of someone's memory.

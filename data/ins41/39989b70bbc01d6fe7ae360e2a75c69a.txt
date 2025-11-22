@@ -1,0 +1,12 @@
+On Architects, Architecture, and Failures
+dzone.com
+news
+2022-06-04 23:45:00
+
+Let's consider two things:
+1.)   Bad things happen to good people
+2.)   Architects are people
+Ergo, bad things happen to good architects. 
+In other words, at some point, no matter how much effort you and your team put into designing resilient, high-performing, well-architected systems – something is going to blow up spectacularly and make you look silly. Call it Murphy's Law.
+Why Things Fail
+When we design systems, we usually try to do it well. We write good code, we write test cases, we follow frameworks and best practices.

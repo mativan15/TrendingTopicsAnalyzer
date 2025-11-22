@@ -1,0 +1,6 @@
+Syncari Introduces Syncari Embed to Bring Data Automation to App Ecosystems
+globenewswire.com
+news
+2022-10-19 00:00:00
+
+SAN FRANCISCO, Oct. 19, 2022 (GLOBE NEWSWIRE) -- A leader in revenue operations and data automation, Syncari today announced the availability of Syncari Embed, APIs that extend the power of Syncari's data automation platform to any app ecosystem.  With Syncari Embed, customers can now deliver self-configurable integrations, reusable automations and no-code syncs as part of their own product offering. This drives market expansion, competitive differentiation, and faster product adoption. "Today, companies spend too much time and manpower developing custom integrations into their products, where 70% of integration initiatives cost an average of $1 million, and still fall short of expectations," said Neelesh Shastry, CTO and Co-Founder at Syncari.

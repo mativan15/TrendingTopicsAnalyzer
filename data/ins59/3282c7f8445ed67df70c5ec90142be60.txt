@@ -1,0 +1,8 @@
+Gran Turismo 7 update finally fixes an infuriating feature
+techradar.com
+news
+2022-10-20 15:41:21
+
+(Image credit: Sony Computer Interactive Entertainment)
+
+ Gran Turismo 7's latest update is now live, bringing a swathe of new content and fixing one particularly egregious gameplay element.Gran Turismo 7 patch 1.25 adds a generous handful of new cars, events and single-player Menu Book objectives, packing even more content into PS5's premier racing sim. But a notable change to how car damage is calculated has me particularly surprised and hugely relieved.The full patch notes (opens in new tab) feature a section lower down named 'Physics Simulation Model' and one point under this reads: "The conditions for mechanical damage occurring from a collision or contact if Mechanical Damage is set to Light or Heavy in the Race Settings have been changed.

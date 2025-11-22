@@ -1,0 +1,6 @@
+Web3 VC Adam Struck says better crypto wallets could protect retail investors in the future, after they lost billions from the Celsius meltdown. Here's how.
+businessinsider.com
+news
+2022-10-18 16:47:34
+
+Companies such as Celsius sought to make crypto financial services easier to access, but there was one big catch — they took custody of their users' assets. Now that Celsius has filed for bankruptcy, it's uncertain whether those users will be able to recover them.By contrast, non-custodial crypto wallets, such as MetaMask, allow people to keep control over their assets. But even Web3 proponents acknowledge that they're often a hassle for the average person to set up.That opens up a big opportunity for wallet startups that can offer a better user experience, according to Adam Struck, the founder and managing partner of the investment firm Struck Crypto.

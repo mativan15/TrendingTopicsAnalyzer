@@ -1,0 +1,6 @@
+Rockwell Automation and Cognite Form a Strategic Partnership to Develop a Unified, Edge-to-Cloud Industrial Data Hub Offering for the Manufacturing Industry
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 07:00 AM Eastern Daylight Time MILWAUKEE--(BUSINESS WIRE)--Rockwell Automation, Inc. (NYSE:ROK), the world's largest company dedicated to industrial automation and digital transformation, and Cognite, a global leader in industrial data software, today announced a strategic partnership to further unlock the value of manufacturing data and accelerate technological change for the industry. The partnership combines Rockwell's FactoryTalk® software offering of next-generation edge connectivity to plant assets, operations management applications, and industry-tailored analytics with Cognite's leading Industrial DataOps platform, Cognite Data Fusion®, to create an industrial data hub ready for enterprise-wide scaling.

@@ -1,0 +1,6 @@
+Meta AI announces first AI-powered speech translation system for an unwritten language
+venturebeat.com
+news
+2022-10-19 15:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Artificial speech translation is a rapidly emerging artificial intelligence (AI) technology. Initially created to aid communication among people who speak different languages, this speech-to-speech translation technology (S2ST) has found its way into several domains.  For example, global tech conglomerates are now using S2ST for directly translating shared documents and audio conversations in the metaverse.

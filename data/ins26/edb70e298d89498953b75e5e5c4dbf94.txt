@@ -1,0 +1,6 @@
+Whence Machine Volition?
+acm.org
+news
+2022-06-01 17:00:00
+
+Computer scientists who take the Singlularity seriously should explain how it could come about in a computer. Few commentators extend their prediction of a Singularity to actual "want" in a computer, Omohundro [Omohundro] a rare exception. Many criticisms of the prediction of the Singularity, especially as expressed by Kurzweil [Kurzweil], have challenged his attribution of impetus to accelerating technological advancement, and the Wikipedia article [Singularity] concentrates on that aspect. Many who agree with Kurzweil's prediction imply that somehow, a computer can want something.

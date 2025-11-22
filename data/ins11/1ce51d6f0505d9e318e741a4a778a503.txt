@@ -1,0 +1,8 @@
+Remote Play: How to Stream Games From Your PC to the Steam Deck
+pcmag.com
+news
+2022-10-20 18:49:03
+
+The Steam Deck is an excellent device for playing PC games away from your actual PC. It's not the most portable handheld on the market (due to its size), but it connects seamlessly with your Steam profile and allows you to download games locally.
+
+However, sometimes you might want to stream games directly from your PC, thereby taking much of the Deck's power out of the equation. Thankfully, this is an easy thing to set up. All you need is a stable internet connection, and you can start streaming.

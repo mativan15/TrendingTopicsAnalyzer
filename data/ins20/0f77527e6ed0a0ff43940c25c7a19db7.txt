@@ -1,0 +1,10 @@
+Microsoft Leaks Business Customer Data Via Misconfigured Storage Server
+pcmag.com
+news
+2022-10-19 20:23:24
+
+Microsoft says it accidentally leaked business transaction data between the software giant and potential customers. However, the company is trying to downplay the leak as a cybersecurity firm claims the exposure ensnared 65,000 entities across the globe, many of them companies.
+
+On Sept. 24, cybersecurity firm SOCRadar notified Microsoft about the leak, which occurred via an online storage system that had been misconfigured for open access.
+
+In a blog post(Opens in a new window) on Wednesday, Microsoft said: 'This misconfiguration resulted in the potential for unauthenticated access to some business transaction data corresponding to interactions between Microsoft and prospective customers, such as the planning or potential implementation and provisioning of Microsoft services.

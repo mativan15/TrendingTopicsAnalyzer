@@ -1,0 +1,6 @@
+U.S. Navy Takes Falkonry AI to the High Seas for Increased Equipment Reliability and Performance
+businesswire.com
+news
+2022-10-19 00:00:00
+
+October 19, 2022 10:00 AM Eastern Daylight Time CUPERTINO, Calif.--(BUSINESS WIRE)--Falkonry today announced a big leap for Falkonry AI with the Office of Naval Research deploying its AI applications to advance equipment reliability on the high seas. This AI deployment is carried out with a Falkonry-designed reference architecture using NVIDIA accelerated computing and Oracle Cloud Infrastructure's (OCI's) distributed cloud. It enables better performance and reliability awareness using electrical and mechanical time series data from thousands of sensors at ultra-high speed.

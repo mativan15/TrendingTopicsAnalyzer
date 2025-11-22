@@ -1,0 +1,7 @@
+The Answer Bot Effect (ABE): A powerful new form of influence made possible by intelligent personal assistants and search engines
+All PLOS articles are Open Access.
+news
+2022-06-01 14:00:00
+
+Open Access Peer-reviewed 
+ We introduce and quantify a relatively new form of influence: the Answer Bot Effect (ABE). In a 2015 report in PNAS, researchers demonstrated the power that biased search results have to shift opinions and voting preferences without people's knowledge–by up to 80% in some demographic groups. They labeled this phenomenon the Search Engine Manipulation Effect (SEME), speculating that its power derives from the high level of trust people have in algorithmically-generated content.

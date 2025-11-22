@@ -1,0 +1,6 @@
+Russian Hackers Gang Evil Corp Shifts Extortion Strategy
+datacenterknowledge.com
+news
+2022-06-02 20:41:04
+
+(Bloomberg) -- A notorious Russian cybercrime group has updated its attack methods in response to sanctions that prohibit US companies from paying it a ransom, according to cybersecurity researchers.   The security firm Mandiant said Thursday it believes that the Evil Corp gang is now using a well-known ransomware tool named Lockbit. Evil Corp has shifted to using Lockbit, a form of ransomware used by numerous cybercrime groups, rather than its own brand of malicious software to hide evidence of the gang's involvement so that compromised organizations are more likely to pay an extortion fee, researchers said.

@@ -1,0 +1,6 @@
+New Release of Genedata Expressionist For Innovative Characterization and Automated Quality Monitoring of Next-Generation Biotherapeutics
+prweb.com
+news
+2022-10-18 14:45:00
+
+The new characterization functionalities deliver deeper insights, enabling our industry partners to ensure the safety and efficacy of their drugs, while novel automation capabilities for CQA monitoring accelerate and streamline processes throughout R&D. Othmar Pfannes, Ph.D., CEO, Genedata BASEL, Switzerland (PRWEB) October 18, 2022 Genedata, the leading provider of enterprise software solutions for biopharmaceutical R&D, today announced the release of Genedata Expressionist® 16.5, the latest version of its platform for streamlining and automating mass spectrometry data workflows, from early discovery to late-stage development.

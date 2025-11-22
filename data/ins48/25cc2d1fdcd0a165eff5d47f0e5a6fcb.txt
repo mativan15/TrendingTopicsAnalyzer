@@ -1,0 +1,6 @@
+Cyberattack against Regina Public Schools likely ransomware
+cbc.ca
+news
+2022-05-28 14:00:00
+
+New information has emerged about the recent cyberattack that targeted Regina Public Schools, forcing it to shut down all internet-based systems such as email and other education tools. CBC News has reviewed a copy of a note that has appeared on computers that were part of the school district's network. The note says it is from an organization called BlackCat/ALPHV, which experts say is well known for employing ransomware attacks.The note alleges that 500 gigabytes of files belonging to Regina Public Schools have been encrypted and that the group now possesses copies of data ranging from tax reports and health information to passports and social security numbers.

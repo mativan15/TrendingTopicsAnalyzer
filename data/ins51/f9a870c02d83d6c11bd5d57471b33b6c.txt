@@ -1,0 +1,6 @@
+Cyber Security: IISc develops true random number generator for better data encryption
+Copyright:(C)2022 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html
+economics
+2022-05-27 13:16:18
+
+Bengaluru: In October 2017, tech giant Yahoo! disclosed a data breach that had leaked sensitive information of over 3 billion user accounts, exposing them to identity theft. The company had to force all affected users to change passwords and re-encrypt their credentials. In recent years, there have been several instances of such security breaches that have left users vulnerable. 'Almost everything we do on the internet is encrypted for security. The strength of this encryption depends on the quality of random number generation,' says Nithin Abraham, a PhD student at the Department of Electrical Communication Engineering (ECE), Indian Institute of Science (IISc).

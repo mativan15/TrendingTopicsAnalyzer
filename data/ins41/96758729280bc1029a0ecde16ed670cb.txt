@@ -1,0 +1,8 @@
+First Week of ABNB July 22nd Options Trading
+nasdaq.com
+news
+2022-06-03 11:00:00
+
+Investors in Airbnb Inc (Symbol: ABNB) saw new options become available this week, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the ABNB options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $90.00 strike price has a current bid of $1.50. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $90.00, but will also collect the premium, putting the cost basis of the shares at $88.

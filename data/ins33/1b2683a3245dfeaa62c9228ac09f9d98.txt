@@ -1,0 +1,6 @@
+Ataccama Announces Major Early Access Platform Update Featuring Upgraded Data Catalog and New Data Observability Module
+businessinsider.com
+finance
+2022-10-20 15:32:00
+
+Ataccama ONE version 14 delivers a unified data management platform for enterprise data and analytics governance with enhanced self-service functionality. BOSTON, Oct. 20, 2022 /PRNewswire/ - From its Data People Summit, Ataccama, a leading unified data management platform provider, today announced the early access release of the next major version of its Ataccama ONE platform. With this release, Ataccama unveils new capabilities that reinforce its strategy of providing end-to-end data management and enabling data democratization for enterprises around the globe.

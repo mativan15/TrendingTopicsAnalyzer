@@ -1,0 +1,7 @@
+US Dept of Energy injects $47m into tokamak fusion research
+theregister.com
+news
+2022-10-17 18:45:10
+
+The US Department of Energy is handing out more fusion power funding, this time doling out $47 million to 38 projects that explore the feasibility of tokamak reactors. 
+Tokamaks use powerful magnetic fields to force plasma into either a taurus or a more spherical shape, depending on the type of design being used. The ultimate goal being to fuse together atoms and generate more power from this reaction than is put into the thing to run it, so that the excess energy can be harnessed to, say, produce electricity.

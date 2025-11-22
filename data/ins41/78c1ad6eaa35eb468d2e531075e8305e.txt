@@ -1,0 +1,6 @@
+Facebook Ducktail Phishing scam now targetting users; here's how it works
+hindustantimes.com
+business
+2022-10-18 08:19:26
+
+Ducktail Phishing scam is targeting Facebook accounts and stealing user's data by spreading infostealer malware. In what will be a big worry for users of Facebook, Ducktail Phishing scam has become operative. A new version of the Ducktail malware is being used to steal data and take over Facebook accounts. It originally surfaced in July this year and initially it was aimed at Facebook Business accounts, but now it has become a more widespread danger. The latest version of Ducktail accesses all Facebook data available on an infected computer.

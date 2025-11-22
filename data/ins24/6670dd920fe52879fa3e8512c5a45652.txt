@@ -1,0 +1,8 @@
+You've heard about value-based healthcare, but what about value-based IT?
+techrepublic.com
+news
+2022-10-18 16:23:02
+
+Image: zorandim75/Adobe Stock
+At a high level, value-based healthcare is a relatively simple concept: It's a payment model where value is determined by the quality of care, therapy and patient outcomes. Recently, the rallying cry for value-based care in the U.S. has grown louder, challenging the traditional fee-for-service model, which incentivizes providers, hospitals, and drug and device manufacturers to prioritize volume of services over outcome.
+Simply put, the traditional model is not working, and right now, I'd argue that traditional approaches to IT are in a similar position.

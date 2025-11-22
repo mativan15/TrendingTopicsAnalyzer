@@ -1,0 +1,7 @@
+Council Post: Beyond Migration: Creating A Cloud Strategy For The Long Term
+Copyright 2022 Forbes Media LLC
+business
+2022-10-19 13:00:00
+
+Hishaam Caramanli, Group Chief Product Officer for ION, drives product innovation to automate workflows for capital markets professionals. 
+getty The inception of the cloud dates back to the launch of Salesforce's 'zero software' in 2000. There were very few competitors at the time, and while the benefits of using it (such as elasticity and scalability) were known about in theory, potential users still had to be convinced they could be realized in practice. Now, two decades later, the cloud is no longer up for debate.

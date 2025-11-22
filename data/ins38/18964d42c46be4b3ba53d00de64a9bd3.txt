@@ -1,0 +1,6 @@
+Matidor Is The Centralized Source Of Truth For Fieldwork Operations
+Copyright 2022 Forbes Media LLC
+business
+2022-05-27 20:03:12
+
+Operators in the field service industry struggle with information overload. Whether it's Internet-of-Things (IoT) devices from the construction site flooding your handheld device with real-time data or various parties overwhelming your inbox and voicemail with emails and calls, communication software has not evolved or been purpose-built to meet the needs of the field service industry. A lack of ability to coordinate and organize information in a timely, digestible and actionable manner leaves these massive infrastructure projects being built with cost overruns and over schedule.

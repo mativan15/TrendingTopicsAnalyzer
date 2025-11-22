@@ -1,0 +1,6 @@
+‘Financial Hacking' Plagues DeFi in Latest Setback for Crypto
+bnnbloomberg.ca
+news
+2022-10-20 13:55:47
+
+(Bloomberg) -- Decentralized finance, the once red-hot slice of the crypto universe that was at the center of this year's collapse of the digital-asset world, is facing a rapidly increasing new challenge: financial hacking. After being plagued for years by hackers seeking to exploit coding flaws to siphon funds from crypto projects, more assailants are now using the automated software programs that power DeFi platforms to manipulate transactions to gain control of the millions of dollars in assets locked in various protocols that allow users to borrow and lend without intermediaries.

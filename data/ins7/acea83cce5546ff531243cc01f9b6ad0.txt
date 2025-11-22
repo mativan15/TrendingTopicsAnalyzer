@@ -1,0 +1,6 @@
+Why AI/ML Projects Fail — and How to Fix Them
+medium.com
+entertainment
+2022-06-03 16:26:05
+
+Photo by Karolina Grabowska from PexelsMany companies are rushing to build machine learning (ML) and artificial intelligence (AI) solutions only to run into issues that cause their projects to fail. The failure may occur for many reasons, including:Lack of an appropriate use case.Absence of the right data and foundational pieces to access.No executive support to deploy a model into production.Unsuccessful efforts to scale solutions beyond early pilot work.Fortunately, there are a few practical steps that organizations can take to avoid disappointments and failure in their AI programs.

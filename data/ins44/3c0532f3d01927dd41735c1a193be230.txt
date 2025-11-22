@@ -1,0 +1,6 @@
+Tech Firms Say India Cyber Rules Risk Creating 'Environment Of Fear'
+ibtimes.com
+news
+2022-06-03 08:01:23
+
+Indian cybersecurity rules due to come into force later this month will create an "environment of fear rather than trust", a body representing top tech companies has warned the government, calling for a one-year delay before the rules take effect.The Internet and Mobile Association of India (IAMAI), which represents firms including Facebook, Google and Reliance, wrote this week to India's IT ministry criticising a directive on cybersecurity set out in April.Among other changes the directive from the Indian Computer Emergency Response Team (CERT) requires tech companies to report data breaches within six hours of noticing such incidents and to maintain IT and communications logs for six months.

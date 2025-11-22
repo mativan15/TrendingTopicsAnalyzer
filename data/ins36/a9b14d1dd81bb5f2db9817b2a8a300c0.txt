@@ -1,0 +1,8 @@
+FibroGen, Inc.'s (NASDAQ:FGEN) Intrinsic Value Is Potentially 49% Above Its Share Price
+yahoo.com
+news
+2022-05-31 10:09:02
+
+Does the May share price for FibroGen, Inc. (NASDAQ:FGEN) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by projecting its future cash flows and then discounting them to today's value. This will be done using the Discounted Cash Flow (DCF) model. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future.

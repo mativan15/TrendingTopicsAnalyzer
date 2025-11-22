@@ -1,0 +1,7 @@
+Council Post: VR Training: Don't Build Castles In The Sky
+Copyright 2022 Forbes Media LLC
+business
+2022-10-18 13:45:00
+
+Founder and Member of the Management Board at HQSoftware.
+Getty E-learning today is rapidly changing from web-based training to more immersive techniques. But a particular pain point in VR is its technical complexity compared to both offline and older web-based learning techniques. VR needs software engineers, and here's where the costs start to ramp up. But this problem is not unique. Web-based learning also needed specific tech skills and low-code tools. More Or Less Unity Framework? Unity Framework is one of the most popular software development tools for VR.

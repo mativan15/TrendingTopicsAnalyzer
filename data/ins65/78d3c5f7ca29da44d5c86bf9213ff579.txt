@@ -1,0 +1,29 @@
+A Machine Learning Method for Prediction of Stock Market Using Real-Time Twitter Data
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1,*, 2,3, 2, 2, 1 and 1 
+
+
+1
+Department of Information Technology, College of Computer, Qassim University, Buraydah 52571, Saudi Arabia
+
+
+2
+Department of Computer Science, University of Engineering and Technology, Taxila 39161, Pakistan
+
+
+3
+Department of Computer and Electrical Engineering, University of Michigan, Dearborn, MI 48128, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Yanhui Guo, Deepika Koundal and Rashid Amin
+
+Electronics 2022, 11(20), 3414; https://doi.

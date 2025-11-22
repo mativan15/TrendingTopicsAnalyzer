@@ -1,0 +1,8 @@
+FTX, a16z-Backed Aptos Blockchain Off to a Rocky Start
+yahoo.com
+news
+2022-10-18 05:01:05
+
+Aptos, a new Layer 1 blockchain established by former Meta employees who worked on its Diem platform, is not living up to its expectations according to on-chain data from its first day of transactions.
+
+On-chain data from Aptos' block explorer shows that the protocol is currently processing four transactions per second. During the development process, the Aptos team said that its parallel execution engine was capable of processing 160,000 transactions per second (far above speed demon Solana's advertised 65,000 per second).

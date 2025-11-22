@@ -1,0 +1,8 @@
+The great semiconductor drought may be about to break
+Copyright © 2022, Situation Publishing
+news
+2022-10-19 06:00:12
+
+It's not your imagination – it really is getting easier to find critical semiconductors.
+According to Susquehanna, a company that researches markets to inform its complex equity trading strategies, semiconductor lead times were down four days on average last month. "September represents the first real signs of [lead time] capitulation in our data," the analysts wrote in the firm's latest SemiSIGnals report.
+Silicon to regulate power, metal-oxide-semiconductor field-effect transistors (MOSFETs), and clock and timing chips saw the largest improvements, with lead times falling by 13–16 days in September.

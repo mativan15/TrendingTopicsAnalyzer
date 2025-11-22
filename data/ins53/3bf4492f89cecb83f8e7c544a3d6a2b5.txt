@@ -1,0 +1,37 @@
+Numerical Study on Improved Geometry of Outlet Pressure Ripple in Parallel 2D Piston Pumps
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 1,*, 1, 1, 2 and 2 
+
+
+1
+School of Engineering, Zhejiang University City College, Hangzhou 310000, China
+
+
+2
+Key Laboratory of Special Purpose Equipment and Advanced Manufacturing Technology, Ministry of Education & Zhejiang Province, Zhejiang University of Technology, Hangzhou 310014, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Ernesto Benini
+
+Aerospace 2022, 9(10), 629; https://doi.org/10.3390/aerospace9100629 (registering DOI)
+
+
+Received: 9 August 2022
+/
+Revised: 20 October 2022
+/
+Accepted: 20 October 2022
+/
+Published: 21 October 2022
+ 
+
+Because the axial piston pump is often used in the aerospace and aviation fields, it is necessary to pay attention to its outlet pressure and flow characteristics.

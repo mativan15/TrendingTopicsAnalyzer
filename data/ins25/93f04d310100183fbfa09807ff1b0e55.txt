@@ -1,0 +1,6 @@
+Machine learning and deep learning approach to predict Pharmaceuticals Sales using python
+medium.com
+news
+2022-05-28 20:34:15
+
+IntroductionObjectivesExploratory Data AnalysisModelingConclusionEvery organization can benefit from a sales forecast to help them make better decisions and accurate forecasting of sales is an important and inexpensive way to increase profits. Without effectively anticipating client demand and future product/service sales, no business can improve its financial performance. Business owners have traditionally forecasted revenues based on their years of experience, which has proven to be less accurate.

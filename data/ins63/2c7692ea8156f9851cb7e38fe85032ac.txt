@@ -1,0 +1,8 @@
+Microsoft confirms its Xbox Cloud Gaming streaming device is still in development
+techradar.com
+news
+2022-05-27 12:10:20
+
+(Image credit: Microsoft)
+
+ Microsoft has confirmed that its Xbox Cloud Gaming streaming device, codenamed Keystone, is still in development.Offering access to Xbox Game Pass via Xbox Cloud Gaming, Microsoft also revealed it has a dedicated Xbox Streaming stick in the works last June. Codenamed 'Keystone,' a new Windows Central (opens in new tab) report confirms that the device provides a "modernized HDMI streaming device," similar to Chromecast and Google Stadia. However, Microsoft announced this particular iteration won't be publicly released.

@@ -1,0 +1,151 @@
+SURFACE-BASED VISUALISATION USING SOUND
+
+R. Minghim 
+University of Sao Paulo 
+ICMSC 
+CP668, 13560 - Sao Carlos - SP 
+Brazil 
+e-mail: rminghim@icmsc.sc.usp.br 
+
+A.R. Forrest
+University of East Anglia
+School of Information Systems
+Norwich NR4 7TJ
+U.K.
+e-mail: forrest@sys.uea.ac.uk
+
+Abstract
+This paper is concerned with the development of a system to support Scientific
+Visualisation by utilising a computer’s sound channel. The sound mappings presented
+here are intended to support understanding and interaction with surface data. This is
+done by using sound signals associated with methods of analysis of surfaces to help the
+interpretation of surface shape, data, and classification. The approach to Supportive
+Sonification Development is discussed. Several examples of sound mappings are
+presented and the implications for data interaction are discussed.
+
+Bibliographic References
+[Ast 92] Astheimer, P. - “Sonification Tools to Supplement Dataflow Visualization”, in Palamidese,
+P. (ed.), Scientific Visualization: Advanced Software Techniques, pp. 15-36, 1992.
+[Bar 95] Barrass, S.; Robertson, P.K. - “Data Exploration with Sound using a Perceptually
+Linearized Sound Space”, in Proceedings of the SPIE, Vol. 2410, 1995, pp. 313-322.
+[Bec 86] Beck, J.M.; Farouki, R.T.; Hinds, J.K. - “Surface Analysis Methods”, IEEE Computer
+Graphics and Applications, Dec. 86, pp. 18-35.
+[Bla 89] Blattner, M.; Sumikawa, D.; Greenberg, R.M. - “Earcons and Icons: their structure and
+common design principles”, Human-Computer Interaction, Vol. 4. No. 1, 1989.
+[Bla 92] Blattner, M.M.; Greenberg, R.M.; Kamegai, M. - “Listening to Turbulence: An Example of
+Scientific Audiolization”, in Multimedia Interface Design, ed. M.M Blattner and R.B.
+Dannenberg, Addison-Wesley, 1992, pp. 87-107.
+[Bly 82] Bly, S. - Sound and Computer Information Presentation, PhD Thesis, Lawrence
+Livermore Laboratory, University of California, 1982.
+[Bre 93a] Brewster, S.A.; Wright, P.C. ; Edwards, A.D.N. - “An Evaluation of Earcons for Use in
+Auditory Human-Computer Interfaces”, Proceedings of ACM INTERCHI’93, pp. 222-227.
+[Bre 93b] Bregman, A.S. - “Auditory Scene Analysis: Hearing in Complex Environments”, in
+McAdams, S.; Biggand, E. (ed.) - Thinking in Sound - The Cognitive Psychology of
+Human Audition, Oxford University Press, 1993, pp. 10-36.
+[Bux 90] Buxton, W.; Gaver, W.W.; Bly, S.; Empowering People - The Use of Non-Speech Audio
+at the Interface, ACM Conference on Human Factors in Computing Systems, Tutorial 4
+Notes, Seattle, April 1990.
+[Cro 93] Crowder, R.G. - “Auditory Memory”, in McAdams, S; Biggand, E. (ed.) - Thinking in
+Sound - The Cognitive Psychology of Human Audition, Oxford University Press, 1993,
+pp. 113-145.
+[Day 95] Day, A.M.; _Minghim, R.; Arnold, D.B.; Turner, S. - “Visualisation and Sonification of
+Marine Survey Data”, British Computer Society Workshop on Visualization, December
+1995, to appear in: Earnshaw, R et. al (eds.), Visualization and Modelling, Academic
+Press (London), 1996.
+[Eva 90] Evans, B. - “Correlating Sonic and Graphic Materials in Scientific Visualization”,
+Proceedings SPIE - Extracting Meaning from Complex Data, Vol. 1259, 1990, pp. 154-
+162.
+[Fol 93] Foley, T.A.; Hagen, G.; Nielson, G.M. - “Visualizing and Modeling Unstructured Data”,
+The Visual Computer, Aug. 1993, Vol. 9 No. 8, pp. 439-449.
+[For 79] Forrest, A.R. - “On the Rendering of Surfaces” - Proceedings of ACM SIGGRAPH ’79,
+pp. 253-259.
+[Gav 86] Gaver, W.W. - “Auditory Icons: Using Sound in Computer Interfaces”, Human-Computer
+Interaction, Vol. 2, pp. 167-177, 1986.
+[Gav 89] Gaver, W.W. - “The SonicFinder: An Interface that Uses Auditory Icons”, Human-
+Computer Interaction, Vol. 4 No. 1, 1989.
+[Gav 90] Gaver, W.W.; Smith, R. - “Auditory Icons in Large-scale Collaborative Environments”, in
+Buxton, W.; Gaver, W.W.; Bly, S.; Empowering People - The Use of Non-Speech Audio
+at the Interface, ACM Conference on Human Factors in Computing Systems, Tutorial 4
+Notes, Seattle, April 1990.
+[Gav 91a] Gaver, W.W.; Smith, R.B.; O’Shea, T. - “Effective Sounds in Complex Systems: The
+ARKOLA Simulation”, Proceeding of ACM CHI’91, 1991, pp. 85-90.
+[Gav 91b] Gaver, W.W. - “Sound Support for Collaboration” - Proceedings of the Second European
+Conference on Computer-Supported Cooperative Work, Sept. 1991, pp. 293 - 308.
+[Gav 93a] Gaver, W.W. - “What in the World do We Hear?” - Ecological Psychology, Part 5, 1994,
+pp. 1-29.
+[Gav 93b] Gaver, W.W. - “Synthesizing Auditory Icons” - Proceedings of ACM INTERCHI’93, pp.
+228-235.
+[Gre 77] Grey, J.M. - “Multidimensional Perceptual Scaling of Musical Timbres”, Journal of the
+Acoustical Society of America, Vol. 61 No. 5, May 1977, pp. 1270-1277.
+[Gre 78] Grey, J.M. - “Timbre Discrimination in Musical Patterns” - Journal of the Acoustical
+Society of America, Vol. 64. No. 2, 1978, pp. 467-472.
+[Grö 95] Gröhn, M.; Takala, T. - “MagicMikes - Method for Spatial Sonification” - Proceedings of
+the SPIE, Vol. 2410, 1995, pp. 294-301.
+[Hea 91] Hearn, D.D.; Baker, P. - Scientific Visualization - EUROGRAPHICS ’91 Tutorial Note
+No. 6, 1991.
+[Jon 89] Jones, S.D.; Furner, S.M. - “The construction of Audio Icons and Information Cues for
+Human Computer Dialogues” - Contemporary Ergonomics: Proceedings of Ergonomics
+Society's 1989 Annual Conference, pp. 436-441.
+[Kau 93] Kaufman, A.; Cohen, D.; Yagel, R. - “Volume Graphics” -IEEE Computer, Vol. 27 No. 7,
+July 1993, p. 51-64.
+[Kel 93] Keller, P.K.; Keller, M.M. - Visual Cues: Practical Data Visualization, IEEE Computer
+Society Press and IEEE Press, 1993.
+[Kra 94a] Kramer, G. (ed.) - Auditory Display: The Proceedings of ICAD’92, the First
+International Conference on Auditory Display, Addison-Wesley, 1994.
+[Kra 94b] Kramer, G. - “Some Organizing Principles for Representing Data with Sound” - in Kramer,
+G. (ed.) - Auditory Display: The Proceedings of ICAD’92, the First International
+Conference on Auditory Display, Addison-Wesley, 1994.
+[Lov 70] Loveless, N.E.; Brebner, J.; Hamilton, P. - “Bisensory Presentation of Information”,
+Psychological Bulletin, Vol. 73 No. 3, March 1970, pp. 161-199.
+[Lor 87] Lorensen, W.E.; Cline, H.E. - “Marching Cubes: A high resolution 3D surface construction
+algorithm”, ACM SIGGRAPH Computer Graphics, Vol. 21, 1987, pp. 163-169.
+[Mad 95] Madhyastha, T. M.; Reed, D. A.. Data Sonification: Do you See what I hear? IEEE
+Software, March 1995, pp. 45-56.
+[McA 93] McAdams, S; Biggand, E. (ed.) - Thinking in Sound - The Cognitive Psychology of
+Human Audition, Oxford University Press, 1993.
+[Mez 84] Mezrich, J. J.; Frysinger, S.; Slivjanovski, R. - “Dynamic Representation of Multivariate
+Time Series Data”, Journal of The American Statistical Association, vol 79, n.385, pp.
+34-40, march 1994.
+[Min 95a] Minghim, R. - On Sound Support for Visualisation, PhD thesis, School of Information
+Systems, University of East Anglia, UK, March 1995.
+[Min 95b]Minghim, R.; Forrest, A.R. - “An Illustrated Analysis of Sonification for Scientific
+Visualization”, Proceedings of the IEEE Visualization ’95, IEEE CS Press, Atlanta,
+October-November 1995, pp. 110-117.
+[Min 96] Minghim, R. - Extending the Score Scheme for Sonic Probing of Volumetric Data Sets,
+Internal Report, PowerVis Project, ICMSC - USP, 1996.
+[Pol 54] Pollack, I.; Ficks, L. - “Information of Elementary Multidimensional Auditory Displays”,
+The Journal of the Acoustical Society of America, Vol. 26 No. 2, 1954, pp. 155-158.
+[Rab 90] Rabenhors, D.A.; Farrell, E.J., Jameson, D.H., Linton, T.D., Mandelman, J.A. -
+“Complementary Visualization and Sonification of Multi-Dimensional Data”, Proceedings
+SPIE - Extracting Meaning from Complex Data, Vol. 1259, 1990, pp. 147-153.
+[Sca 91] Scaletti, C.; Craig, A.B. - “Using Sound to Extract Meaning from Complex Data” -
+Proceedings SPIE - Extract Meaning from Complex Data II, Vol. 1459, 1991, pp. 206-
+219.
+[Sca 94] Scaletti, C.; “Sound Synthesis Algorithms for Auditory Data Representations”, in Kramer,
+G. (ed.), Proceedings of ICAD’92, the First International Conference on Auditory
+Display, Addison-Wesley Pub. Co., 1994.
+[Sei 92] Seidenberg, L.R.; Jerard, R.B.; Magewick, J. - “Surface Curvature Analysis Using Color”,
+Proceedings of IEEE Visualization ’92, pp. 260-267.
+[Sch 96] Schroeder, W.J.; Martin, K.; Lorensen, W. - The Visualization Toolkit - An Object-
+Oriented Approach to 3D Graphics, Prentice-Hall, 1996.
+[Sla 68] Slawson, W. - “Vowel Quality and Musical Timbre as Functions of Spectrum Envelope and
+Fundamental Frequency”, in Journal of the Acoustical Society of America, Vol. 43 No. 1,
+1968, pp. 87-101.
+[Sla 85] Slawson, W. - Sound Color, University of California Press, 1985.
+[Smi 91] Smith, S.; Grinstein, G.; Rickett, R. - “Global Geometric, Sound, and Color Controls for
+Iconographics Displays of Scientific Data”, Proceedings SPIE - Extract Meaning from
+Complex Data II, Vol. 1459, 1991, pp. 192-206.
+[Wen 92] Wenzel, E.M. - “Three-Dimensional Virtual Acoustic Displays” - in [Bla 92], pp. 257-288.
+18
+[Wes 79] Wessel, D.L. - “Timbre Space as Musical Control Structure” - Computer Music Journal,
+Vol. 3. No. 2, 1979, pp. 45-52.
+[Wil 94] Williams, S.M. - “Perceptual Principles in Sound Grouping” - in Kramer, G. (ed.) -
+Auditory Display: The Proceedings of ICAD’92, the First International Conference on
+Auditory Display, Addison-Wesley, 1994.
+[Wol 93] Wolf, R.S.; Yaeger, L. - Visualization of Natural Phenomena - Springer-Verlag, 1993.
+[Yag 92] Yagel, R.; Cohen, D.; Kaufman, A.E. - “Normal Estimation in 3D Discrete Space”, The
+Visual Computer, Vol. 8 No. 5-6, pp. 278-291, Jun. 1992.
+[Yeu 80] Yeung, E.S. - “Pattern Recognition by Audio Representation of Multivariate Analytical
+Data”, Analytical Chemistry, Vol. 52 No. 7, pp. 1120-1123, Jun. 1990.
+[Yun 92] Yun, H.; Park, K.H. - “Surface Modeling Method by Polygonal Primitives for Visualizing Threedimensional
+Volume Data”, The Visual Computer, Vol. 8 No. 4, pp. 246-259, Apr. 1992.

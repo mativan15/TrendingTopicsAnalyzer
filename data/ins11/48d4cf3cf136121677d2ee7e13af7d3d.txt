@@ -1,0 +1,6 @@
+Navigating when GPS goes dark
+phys.org
+news
+2022-10-21 13:35:03
+
+Cross-sectional renderings of the LPAI sensor head. a, Horizontal cross-section showing the cooling-beam and atom-detection channels with fixed optical components. The cooling-channel light is delivered to the sensor head via a polarization maintaining (PM) fiber from which a large collimated Gaussian beam (D1/e2≈28mm) is used for cooling. The beam is truncated to ≈ 19 mm-diameter through the fused silica viewport in the compact LPAI sensor head. The light then passes through a polarizer and a λ/4 waveplate before illuminating the grating chip.

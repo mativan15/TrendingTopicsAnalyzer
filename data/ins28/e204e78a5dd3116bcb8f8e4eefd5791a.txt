@@ -1,0 +1,6 @@
+Episode 1: The one with a service for sum of prime numbers.
+medium.com
+tech
+2022-05-27 00:27:14
+
+I am going to present a simple math problem which we use throughout some episodes. The problem might seem a little fabricated, but the point is about learning concurrent and distributed systems concepts and not solving a specific use-case, so bear with me.roblem: Find the sum of prime numbers between two positive numbers a(inclusive) and b(exclusive).Example 1: For a = 1 and b = 10, the sum of primes is 2 + 3 + 5 + 7 = 17.Example 2:For a = 1 and b = 60000000, the sum of primes is 103468900363400.

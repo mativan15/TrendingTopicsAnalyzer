@@ -1,0 +1,6 @@
+Kakao disruption-recovery
+naver.com
+news
+2022-10-19 08:06:00
+
+SK C&C says it has completed power supply to Kakao servers SEOUL, Oct. 19 (Yonhap) -- SK C&C, which hosts a data center for Kakao Corp., said Wednesday it has started to fully supply electric power to the tech firm's disrupted servers, a move that could lead to a full normalization of Kakao services. "The power supply rate reached 100 percent at around 5 a.m.," an SK C&C official said. A fire at Kakao's data center near Seoul on Saturday caused the worst server outage ever for South Korea's dominant messenger and its internet portal Daum.

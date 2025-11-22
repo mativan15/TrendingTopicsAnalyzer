@@ -1,0 +1,9 @@
+Google and the Monk Skin Tone Scale: Here's What You Need to Know
+cnet.com
+news
+2022-06-02 17:28:27
+
+Google has adopted a more diverse skin tone scale to reshape its artificial intelligence systems.
+The new 10-shade scale could reduce racial bias and improve skin tone representation across Google's popular services.
+
+In mid-May, Google announced a partnership with Ellis Monk, an associate professor at Harvard, unveiling a more inclusive skin tone scale to better train Google's artificial intelligence systems and improve racial and color representation in its products.Using the more diverse 10-shade scale is designed to allow Google's services to better see and understand images that feature people with darker skin tones.

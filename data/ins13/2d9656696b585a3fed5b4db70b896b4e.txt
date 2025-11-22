@@ -1,0 +1,10 @@
+Texas sues Google for surreptitiously collecting users' biometric data in photos, voice recordings
+washingtontimes.com
+news
+2022-10-21 09:58:18
+
+Texas has filed a lawsuit against Google claiming the tech behemoth took users' biometric data without permission.
+
+The complaint alleges Google collected identifiers such as voiceprints and records of face geometry through products and services like Google Photos, Google Assistant, and Nest Hub Max without users being aware of it upfront.
+
+'Google's indiscriminate collection of the personal information of Texans, including very sensitive information like biometric identifiers, will not be tolerated,' state Attorney General Ken Paxton said.

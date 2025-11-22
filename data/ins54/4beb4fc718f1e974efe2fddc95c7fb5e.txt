@@ -1,0 +1,7 @@
+Uils wants to lend LatAm's rideshare drivers cash based on their driving record
+techcrunch.com
+tech
+2022-10-21 00:02:16
+
+When Uils launched in 2021, it was a car rental service for rideshare drivers. But after the founders realized that many rideshare drivers don't have access to credit, particularly in Latin America, the Buenos Aires-based company pivoted to fintech, offering financial services to drivers through a behavioral scoring engine based entirely on a person's driving history.
+Rideshare vehicle lending is a crowded market. Both Uber and Lyft host marketplaces where approved vehicle rental companies can show their wares; Uber has piloted a short-term credit program offering up to $500 to drivers.

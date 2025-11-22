@@ -1,0 +1,6 @@
+Microsoft's 400,000 IT partners are fiercely divided over a new set of requirements for reaping the full benefits of its cloud push
+businessinsider.com
+news
+2022-05-30 12:00:00
+
+In mid-March, Microsoft announced a major revamp of its partner program, its long-standing network of over 400,000 independent resellers and consultants that help put the tech titan's products in customers' hands.In October, when the changes go into effect, it will be redubbed the Microsoft Cloud Partner Program, reflecting the company's increased focus on the Microsoft Azure cloud platform and other cloud-based products. The changes represent Microsoft's most significant effort to date to deploy those partners in its cloud battles against Amazon Web Services and Google Cloud.

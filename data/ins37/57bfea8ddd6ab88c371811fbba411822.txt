@@ -1,0 +1,6 @@
+Temperature–Magnetic Field Dual-Parameter Sensor Based on Circular Lattice Photonic Crystal Fiber
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+This paper proposed and investigated a sensor that could simultaneously measure temperature and magnetic fields. The key component of this sensor was a photonic crystal fiber with a length of only 1 cm, whose air holes were arranged in a circular lattice symmetry. In order to increase the birefringence of the fiber, we introduced well-designed point defects into the photonic lattice. The deficient pores were filled with a magneto-fluidic material (MF) that sensed temperature and magnetic fields through changes in its refractive index.

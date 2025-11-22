@@ -1,0 +1,8 @@
+Chinese distributors reportedly dump dud chips on Russia
+theregister.com
+news
+2022-10-18 03:42:14
+
+The failure rate of semiconductors shipped from China to Russia has increased by 1,900 percent in recent months, according to Russian national business daily Коммерсантъ (Kommersant).
+Quoting an anonymous source, Kommersant states that before Russia's illegal invasion of Ukraine the defect rate in imported silicon was two percent. Since that war commenced, Russian manufacturers have apparently faced 40 percent failure rates.
+Even a two percent defect rate is sub-optimal, because products made of many components can therefore experience considerable quality problems.

@@ -1,0 +1,6 @@
+Bethesda's letting people rescue their Elder Scrolls Online games from Stadia
+theverge.com
+tech
+2022-10-21 01:35:00
+
+If you played The Elder Scrolls Online using Google's now-doomed Stadia cloud gaming service, I have some good news. Bethesda is making good on its promise to let people port their ESO accounts over to Windows and Mac, including all their progress, characters, purchased content, achievements, and inventory items. According to several members of the Stadia subreddit, the company has been sending out emails to players with instructions on how to get the game up and running on their computers, which basically just involves logging into the Elder Scrolls Online site and downloading the game.

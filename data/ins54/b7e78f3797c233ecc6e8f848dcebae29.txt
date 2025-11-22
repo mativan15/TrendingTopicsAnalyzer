@@ -1,0 +1,8 @@
+Premier, Inc. (NASDAQ:PINC) Shares Could Be 22% Below Their Intrinsic Value Estimate
+yahoo.com
+news
+2022-05-28 14:12:17
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Premier, Inc. (NASDAQ:PINC) as an investment opportunity by taking the forecast future cash flows of the company and discounting them back to today's value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

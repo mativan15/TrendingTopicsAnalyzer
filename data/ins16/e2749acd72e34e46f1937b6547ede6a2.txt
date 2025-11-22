@@ -1,0 +1,7 @@
+Hackers Targeting Tech Supply Chains Spur Security Startup Boom
+hindustantimes.com
+tech
+2022-10-20 18:51:50
+
+A growing number of startups are emerging to tackle one of the industry's hardest problems.
+ Cyberattacks on the digital supply chain have become increasingly common, as hackers seek out weak links among makers of computer code and equipment to breach organizations that depend on the technologies.In 2020, for example, hackers suspected of working for Russia's intelligence services used tampered updates from software maker SolarWinds Corp. to infiltrate nine US government agencies. Last year, hundreds of businesses were compromised with ransomware after the breach of another software provider, Kaseya Ltd.

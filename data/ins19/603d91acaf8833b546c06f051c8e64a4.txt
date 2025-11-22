@@ -1,0 +1,6 @@
+How Stochastic Games work part3(Artificial Intelligence)
+medium.com
+news
+2022-10-21 03:17:11
+
+Photo by Jan Ranft on UnsplashLearning Stationary Nash Equilibrium Policies in n-Player Stochastic Games with Independent Chains via Dual Mirror Descent(arXiv)Author : S. Rasoul EtesamiAbstract : We consider a subclass of n-player stochastic games, in which players have their own internal state/action spaces while they are coupled through their payoff functions. It is assumed that players' internal chains are driven by independent transition probabilities. Moreover, players can receive only realizations of their payoffs, not the actual functions, and cannot observe each other's states/actions.

@@ -1,0 +1,6 @@
+Experimental Beam-Steering Technology Will Take Mobile Communications Beyond 5G
+indiatimes.com
+news
+2022-06-03 12:02:47
+
+Scientists in Birmingham have developed a new beam-steering antenna that boosts the efficiency of data transmission beyond 5G standards allowing for a range of frequencies for mobile communications that are currently inaccessible to the tech today. University of BirminghamThe device results revealed that it can provide continuous wide-angle beam steering that allows it to track a moving mobile phone user similar to a satellite dish tracks a moving object, albeit with crazy fast speeds.The technology showcases considerable improvements in data transmission efficiency at frequencies ranging across the millimetre wave spectrum, specifically those for 5G mmWave as well as 6G where high efficiency is currently achievable using mechanically steered antenna solutions that are slow in comparison.

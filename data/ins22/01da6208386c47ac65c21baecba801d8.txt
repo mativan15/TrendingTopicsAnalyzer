@@ -1,0 +1,12 @@
+microsoft: Microsoft Surface Laptop Studio's new update adds an important display feature
+indiatimes.com
+tech
+2022-05-27 11:45:00
+
+Microsoft Surface Laptop Studio
+
+new update availability
+
+Microsoft Surface Laptop Studio new update changes
+
+Microsoft's Surface Laptop Studio has received the latest firmware update that adds a significant display feature to the device. The laptop from Microsoft will now support the Dynamic Refresh Rate feature that will allow users to switch between 60Hz and 120Hz depending on the content they're viewing. The laptop's display will now be able to drop down the refresh rate to 60Hz to increase battery life or can bump it up to 120Hz to offer a smoother experience.

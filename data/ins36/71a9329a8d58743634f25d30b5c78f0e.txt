@@ -1,0 +1,8 @@
+RecoLabs raises $30M to prevent sensitive data leaks
+yahoo.com
+finance
+2022-06-03 15:00:46
+
+RecoLabs, a company using AI to map a company's data sharing, today announced that it raised $30 million in a Series A round led by Insight Partners with participation from Zeev Ventures, BoldStart, Angular Ventures, Jibe Ventures, CrewCapital, and Cyber Club London. CEO Ofer Klein said that the proceeds will to toward product development and supporting the company' go-to-market efforts.
+
+Klein cofounded RecoLabs with Gal Nakash and Tal Shapira in 2020. RecoLabs is Klein's second venture after Kwik, an internet of things platform for "connected customer experiences.

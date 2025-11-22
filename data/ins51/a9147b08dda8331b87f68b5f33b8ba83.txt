@@ -1,0 +1,10 @@
+A brief history of edge computing
+techrepublic.com
+business
+2022-10-21 12:30:52
+
+Image: Yury Zap/Adobe Stock
+Edge computing is one of the most important technologies of modern times. Thanks to the edge, organizations can leverage data-consuming innovations like artificial intelligence, biometrics, the Internet of Things and endpoint management.
+Combined with 5G and the cloud, companies use the edge to bring data closer to where it is processed, do real-time operations, and reduce latency and IT costs. But where did it all start? What is the history of edge computing?
+What was there before the edge?
+To understand the early days of the edge, we must go back to the history of computers.

@@ -1,0 +1,6 @@
+Logik.io Launches Program Enabling Oracle CPQ Customers to Easily Migrate Rules and Configurations to Logik.io's Configuration Engine in Salesforce CPQ
+Copyright 2022, Business Wire.
+tech
+2022-10-17 13:02:00
+
+CHICAGO--(BUSINESS WIRE)--Configure, Price, Quote (CPQ) is a critical component of a company's commercial operations that sits between the front office and back office but these tools have historically been complicated to implement, hard to maintain, and involve a lot of complexity. Today, Logik.io, creators of Commerce Logic Engine technology powering configuration for e-commerce and CPQ experiences, announced a new program that enables Oracle CPQ customers to rapidly migrate - within weeks, n

@@ -1,0 +1,10 @@
+FBI: Tech Support Scammers Are Using Remote Desktop Apps to Dupe Victims
+pcmag.com
+news
+2022-10-20 16:32:49
+
+If you see an email, text, or pop-up message claiming your computer has been hacked, don't panic: It's likely just a scammer.
+
+The FBI's Boston division is warning(Opens in a new window) the public about an alarming rise in tech support fraud duping consumers into thinking their PCs or bank accounts have been compromised.
+
+Tech support fraud involves scammers pretending to be legitimate customer service agents, usually from a high-profile company such as Apple or Microsoft. The goal is to trick the victim into believing there's something wrong with their computer or bank account; the scammer will then proceed to claim the user needs to pay money to fix the issue.

@@ -1,0 +1,7 @@
+Tech pros have low confidence in supply chain security
+techrepublic.com
+news
+2022-06-06 04:00:41
+
+Image: Andriy Onufriyenko / Getty Images
+Security threats have heightened the supply chain challenges enterprises have faced over the past two years, and a new ISACA survey report finds only 44% of IT professionals surveyed have high confidence in the security of their organization's supply chain. Furthermore, 30% said their organization's leaders don't have a sufficient understanding of supply chain risks, and the future doesn't look much better—53% said supply chain issues will stay the same or worsen over the next six months, according to the report by the professional association, which focuses on IT governance.

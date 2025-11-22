@@ -1,0 +1,26 @@
+Design of a Capacitorless DRAM Based on Storage Layer Separated Using Separation Oxide and Polycrystalline Silicon
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 2, 3, 1, 1, 1, 1, 1, 1, 1 and 1,* 
+
+
+1
+School of Electronic and Electrical Engineering, Kyungpook National University, Daegu 41566, Korea
+
+
+2
+Korea Multi-Purpose Accelerator Complex, Korea Atomic Energy Research Institute, Gyeongju 38180, Korea
+
+
+3
+Power Semiconductor Research Center, Korea Electrotechnology Research Institute, Changwon 51543, Korea
+
+
+*
+Author to whom correspondence should be addressed.

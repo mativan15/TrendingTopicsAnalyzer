@@ -1,0 +1,8 @@
+Affirm and Klarna bring payment installments to consumers – TechCrunch
+techcrunch.com
+tech
+2022-06-05 14:16:14
+
+Welcome to The Interchange, a take on this week's fintech news and trends. To get this in your inbox, subscribe here.
+Buy now, pay later has become nearly ubiquitous here in the U.S. As such, companies that offer that technology to merchants are unsurprisingly growing more competitive with each other.
+Case in point. This past week, San Francisco–based Affirm announced it was making its buy now, pay later technology available to U.S. businesses that use Stripe's payments tech. This means that a whole slew of companies that were not previously able to offer their customers the option to pay in installments, now can.

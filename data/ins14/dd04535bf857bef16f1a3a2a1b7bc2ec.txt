@@ -1,0 +1,40 @@
+A Fast Multi-Scale Generative Adversarial Network for Image Compressed Sensing
+Creative Commons Attribution (CC-BY)
+science
+2022-05-31 00:00:00
+
+Open AccessArticle by
+ 1, 2, 1, 1 and 1,* 
+
+
+1
+School of Information and Control Engineering, China University of Mining and Technology, Xuzhou 221008, China
+
+
+2
+School of Computer Science and Technology, Nanjing Tech University, Nanjing 211800, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Andrea Prati, Luis Javier García Villalba and Vincent A. Cicirello
+
+Entropy 2022, 24(6), 775; https://doi.org/10.3390/e24060775 (registering DOI)
+
+
+Received: 17 April 2022
+/
+Revised: 20 May 2022
+/
+Accepted: 23 May 2022
+/
+Published: 31 May 2022
+
+
+(This article belongs to the Topic Machine and Deep Learning)
+ 
+
+Recently, deep neural network-based image compressed sensing methods have achieved impressive success in reconstruction quality.

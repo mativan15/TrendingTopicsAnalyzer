@@ -1,0 +1,6 @@
+BRKR Stock Price
+Copyright 2022, MarketWatch, Inc.
+finance
+2022-10-21 13:19:28
+
+Bruker Corp. engages in the development, manufacture, and distribution of scientific instruments, and analytical and diagnostic solutions that enable customers to explore life and materials at microscopic, molecular, and cellular levels. It operates through the following segments: Bruker Scientific Instruments (BSI) Life Science, BSI Nano, and Bruker Energy and Supercon Technologies (BEST). The BSI Life Science segment includes enabling life science tools based on magnetic resonance technology. The BSI Nano segment offers x-ray instruments that use electromagnetic radiation with wavelengths to determine the characteristics of matter and the three-dimensional (3D) structure of molecules.

@@ -1,0 +1,7 @@
+Bingplaces.com wanting access to google account
+moz.com
+news
+2022-05-27 16:44:13
+
+Not very up to date in handling local listings, so here's my situation. I have an office that is not going out of business, but instead going virtual. So that physical address will no longer exist but the team is intact. So I am dealing with the Google Business Listing page for this office at https://business.google.com/
+In the "Published on" section, it has Google Search, Google Maps, and Google+. I want to remove it from Maps and the address from this account. There's an address for this store, but editing it only seems to allow changing, but not removal.

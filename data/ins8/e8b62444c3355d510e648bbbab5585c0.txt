@@ -1,0 +1,6 @@
+Predicting Bitcoin (BTC) Price in the Context of Economic Theories: A Machine Learning Approach
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Bitcoin (BTC)—the first cryptocurrency—is a decentralized network used to make private, anonymous, peer-to-peer transactions worldwide, yet there are numerous issues in its pricing due to its arbitrary nature, thus limiting its use due to skepticism among businesses and households. However, there is a vast scope of machine learning approaches to predict future prices precisely. One of the major problems with previous research on BTC price predictions is that they are primarily empirical research lacking sufficient analytical support to back up the claims.

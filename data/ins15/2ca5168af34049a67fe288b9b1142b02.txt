@@ -1,0 +1,8 @@
+DocuSign, Inc.'s (NASDAQ:DOCU) Intrinsic Value Is Potentially 74% Above Its Share Price
+yahoo.com
+news
+2022-06-02 17:36:16
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of DocuSign, Inc. (NASDAQ:DOCU) as an investment opportunity by projecting its future cash flows and then discounting them to today's value. This will be done using the Discounted Cash Flow (DCF) model. There's really not all that much to it, even though it might appear quite complex.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.

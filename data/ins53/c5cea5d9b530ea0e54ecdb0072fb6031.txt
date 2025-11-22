@@ -1,0 +1,6 @@
+IS-DT: A New Feature Selection Method for Determining the Important Features in Programmatic Buying
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Traditional data-driven feature selection techniques for extracting important attributes are often based on the assumption of maximizing the overall classification accuracy. However, the selected attributes are not always meaningful for practical problems. So, we need additional confirmation from the experts in the domain knowledge to determine whether these extracted features are meaningful knowledge. Moreover, due to advances in mobile devices and wireless environments, programmatic buying (PB) has become one of the critical consumer behaviors in e-commerce.

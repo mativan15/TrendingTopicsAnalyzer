@@ -1,0 +1,11 @@
+Google issues urgent alert after banning 16 apps with 20million downloads
+thesun.co.uk
+news
+2022-10-21 14:04:59
+
+GOOGLE has removed 16 apps with more than 20million downloads combined from the Google Play app store.
+The dodgy downloads, which were disguised as flashlight, camera and QR reader apps, were found to be riddled with malware.
+Android devices were infected with malicious appsCredit: Getty
+That malware can used up the monthly data allowance of a device and drain its battery without the user's knowledge.
+The sneaky software was discovered by cyber researchers at security firm McAfee.
+It's advised that anyone who had installed the apps delete them from their Android devices immediately.

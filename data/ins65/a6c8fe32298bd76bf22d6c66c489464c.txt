@@ -1,0 +1,8 @@
+An Intrinsic Calculation For XLMedia PLC (LON:XLM) Suggests It's 31% Undervalued
+yahoo.com
+news
+2022-10-19 05:16:32
+
+Today we will run through one way of estimating the intrinsic value of XLMedia PLC (LON:XLM) by projecting its future cash flows and then discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. There's really not all that much to it, even though it might appear quite complex.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

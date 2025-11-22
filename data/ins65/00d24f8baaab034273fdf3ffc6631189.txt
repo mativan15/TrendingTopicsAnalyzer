@@ -1,0 +1,7 @@
+The day the NHS was held to ransom by North Korean cyber hackers
+telegraph.co.uk
+news
+2022-06-04 04:00:00
+
+It's also refreshingly simple to explain compared with many other, more intricate cybercrime tactics. In a ransomware attack, hackers infect your computer with a virus that scrambles, or 'encrypts', your files. Then they charge you a ransom to unscramble them, most often paid in the virtual currency Bitcoin, which, if used correctly, makes the transaction impossible to trace back to the culprit.     
+Sounds easy enough for a techie, but how do you go about obtaining a program capable of encrypting files? Well, handily for the hackers, Microsoft makes this very thing.

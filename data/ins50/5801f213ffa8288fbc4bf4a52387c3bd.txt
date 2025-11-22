@@ -1,0 +1,6 @@
+VeriSilicon Image Signal Processor IP Achieved IEC 61508 Industrial Functional Safety Certification
+businesswire.com
+news
+2022-06-01 00:00:00
+
+May 31, 2022 09:00 PM Eastern Daylight Time SHANGHAI--(BUSINESS WIRE)--VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS®) company, today announced its Image Signal Processor (ISP) IP ISP8000L-FS V5.0.0, as a Safety Element out of Context (SEooC), has achieved IEC 61508:2011 SIL 2 industrial functional safety certification. The certificate was awarded by the leading safety consultancy company ResilTech. With ISO 26262 ASIL B certification already under its belt, the ISP8000L-FS V5.

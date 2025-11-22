@@ -1,0 +1,8 @@
+Big Tech's maps are duds in Asia
+theregister.com
+news
+2022-06-01 01:27:11
+
+Grab – the Singaporean ride-sharing app that beat Uber on its home turf – decided to develop its own maps because Big Tech's simply weren't up to the job, the company's head of product said at a conference in Singapore.
+The decision to do so came after several incidents made it clear that mapping services were not sufficiently localized, explained Samir Kumar, speaking at a panel on the process of product development at the Asia Tech x Singapore conference (ATxSG).
+Grab previously integrated Google Maps with its own platform, and has also used HERE Technologies, to determine estimated times of arrival (ETA).

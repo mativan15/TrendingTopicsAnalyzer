@@ -1,0 +1,6 @@
+Predictive discarding for sustainable Industry 5.0
+medium.com
+entertainment
+2022-10-16 04:01:46
+
+The computer chip shortage has prompted Dr Geert van Kollenburg and his colleagues at Eindhoven University of Technology, the Netherlands, to find data-driven methods to optimise chip manufacturing processes. As part of the MadeIn4 project, they have developed a predictive discarding framework in which quality predictions from artificial intelligence (AI) algorithms are used to decide on whether to discard an unfinished product. This approach can improve both the profitability and sustainability of manufacturing processes.

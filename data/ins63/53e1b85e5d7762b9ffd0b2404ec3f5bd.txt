@@ -1,0 +1,20 @@
+We're Fighting For You Every Day
+aarp.org
+news
+2022-05-28 00:15:00
+
+Start each day with The Daily newsletter for the latest in health, money and jobs — and updates on how we're fighting for you. 
+ {
+ "title":"More News from AARP",
+ "description":"",
+ "contentPath":"/content/aarpe/en",
+ "tags":"taxonomy:content-type/news",
+ "resultsNumber":"6",
+ "loadMoreNumber":"2",
+ "hideCategoryText":"false",
+ "openInNewWindow":"false",
+ "adFrequency":"-1",
+ "analyticsId":"",
+ "internalTrackingCode":"?intcmp=WID-DSO-CONTENT-SYNDWDGT-LNK-CLK-FFYOU-LNKS",
+ "siteId":"",
+ "siteHos

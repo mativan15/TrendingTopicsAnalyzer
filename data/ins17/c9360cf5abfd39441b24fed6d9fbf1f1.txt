@@ -1,0 +1,9 @@
+A new era of IoT security
+techradar.com
+tech
+2022-10-17 13:17:51
+
+(Image credit: Pixabay)
+
+
+The UK government's plans for a more secure Internet of things (IoT) are the first of their kind and are long overdue. Progressive new regulations restricting the use of default passwords and mandating security updates will bring much-needed foundational security to consumer devices. Simple steps in the design and operation of connected products can ensure trust and integrity of connected devices and services we use every day.There have been increasing security concerns as connected devices have become more ubiquitous.

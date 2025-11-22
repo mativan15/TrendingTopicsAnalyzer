@@ -1,0 +1,8 @@
+New research could bring quantum internet closer
+theregister.com
+business
+2022-05-29 11:28:08
+
+Researchers in the Netherlands have shown they can transmit quantum information via an intermediary node, a feature necessary to make the so-called quantum internet possible.
+In recent years, scientists have argued that the quantum internet presents a more desirable network for transferring secure data, in addition to being necessary when connecting multiple quantum systems. All of this has been attracting investment from the US government, among others.
+Despite the promise, there are still vital elements missing for the creation of a functional quantum internet.

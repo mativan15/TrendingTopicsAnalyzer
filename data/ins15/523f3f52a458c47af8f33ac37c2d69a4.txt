@@ -1,0 +1,14 @@
+Options strategy: Nifty Bank may turn range bound; go for Short Straddle
+indiatimes.com
+economics
+2022-05-29 10:00:00
+
+AgenciesBank Nifty has started the June series with an optimistic note. Sizeable Call OI base is placed at 35500 strike and the index has managed to give a weekly close above this level which is a positive signStrategy Positions 
+Buy 3rd June 35,600 Call strike at 415-420 ;
+
+
+Sell 3rd June 35,600 Put strike at 420-430;
+
+
+Target: 350; Stop loss: 1050 (1 Lot Each) 
+RationaleBank Nifty rollover was in line with its 3 months average whereas few stocks like and which saw good amount of short addition in May series has witnessed closure.

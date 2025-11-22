@@ -1,0 +1,6 @@
+How privacy-enhancing technology is securing first-party data
+venturebeat.com
+news
+2022-10-18 19:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Marketers are feeling the pressure — from consumers, regulators and security teams — to protect current and potential customers' data privacy. They are also on the hunt for solutions. So, when Gartner added privacy-enhancing computation, also known as privacy-enhancing technologies (PETs), to its list of 2022 strategic technology trends, it was clear that these measures were inching up the Hype Cycle as a way to solve the consumer privacy conundrum.

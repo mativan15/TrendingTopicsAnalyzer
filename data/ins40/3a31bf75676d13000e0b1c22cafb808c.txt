@@ -1,0 +1,7 @@
+Broadcom plans 'rapid subscription transition' for VMware
+theregister.com
+economics
+2022-05-27 01:58:08
+
+Broadcom has signaled its $61 billion acquisition of VMware will involve a 'rapid transition from perpetual licenses to subscriptions.'
+That's according to Tom Krause, president of the Broadcom Software Group, on Thursday's Broadcom earnings call. He was asked how the semiconductor giant plans to deliver on its guidance that VMware will add approximately $8.5 billion of pro forma EBITDA to Broadcom within three years of the deal closing – significant growth given VMware currently produces about $4.

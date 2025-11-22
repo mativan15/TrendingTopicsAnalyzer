@@ -1,0 +1,6 @@
+Aravo and Orpheus Cyber Partner to Effectively Manage Third-Party Security Risks
+prweb.com
+tech
+2022-10-19 00:00:00
+
+Aravo Connectors include standard-defined data packages and best practices to help streamline onboarding, enrich risk reviews, enhance continuous monitoring, and trigger alerts and workflows to log issues and generate corrective actions. SAN FRANCISCO and LONDON (PRWEB) October 19, 2022 Aravo and Orpheus Cyber today announced the integration of Aravo's solution for third-party risk management and Orpheus Cyber's threat intelligence for cyber risk ratings. With this integration, organizations can enrich InfoSec screenings of their third parties and broaden their decision data to include cyber threat risk ratings.

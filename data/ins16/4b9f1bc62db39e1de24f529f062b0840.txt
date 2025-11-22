@@ -1,0 +1,10 @@
+Texas sues Google over alleged ‘indiscriminate' biometric data collection
+cnn.com
+business
+2022-10-20 18:32:33
+
+CNN Business —
+
+Texas Attorney General Ken Paxton sued Google on Thursday, alleging the tech giant had violated the state's biometric privacy law by 'indiscriminately' collecting voiceprints and facial recognition data from users and non-users of the company's products without their consent.
+
+The lawsuit, filed in Texas' Midland County District Court, claims the company's broad application of facial recognition technology in Google Photos, as well as its use of voice recognition technology in its line of smart speakers and other home products, is a violation of the state's Capture or Use of Biometric Identifier Act.

@@ -1,0 +1,6 @@
+Making the modern network for next generation applications a must for the Board
+techradar.com
+tech
+2022-10-17 13:13:18
+
+There's a saying in football that you never notice a good referee. Yet they have the most important job – ensuring the match runs as smoothly as possible. Without a referee to police the action, countless games would descend into chaos.The same principle applies to the IT network. Its traditional role is to direct and deliver data smoothly and quickly, from data center to cloud to edge to device, transparently and efficiently. And just like the referee in a football match, its power and importance can't be overstated.

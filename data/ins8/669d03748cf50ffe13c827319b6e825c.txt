@@ -1,0 +1,8 @@
+The sad, misleading, and embarrassing state of HDR in PC gaming
+digitaltrends.com
+news
+2022-06-05 13:00:31
+
+HDR is laughably bad for PC gaming in most cases, and we all know it's true. Contents The game problemThe monitor problemLight at the end of the tunnel 
+That might surprise you, though, if you were only considering how gaming monitors are advertised. After all, on paper, HDR is technically supported by your monitor, games, and graphics card. Heck, even Windows supports HDR relatively free of bugs these days.
+So, who's to blame then? Well, when I dug down deep for the answer, I found three major culprits that explain our current predicament.

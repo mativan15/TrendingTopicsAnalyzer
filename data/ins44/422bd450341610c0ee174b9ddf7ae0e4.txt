@@ -1,0 +1,7 @@
+Electrochemical synthesis now possible without electric power source
+phys.org
+news
+2022-05-31 19:36:01
+
+Credit: Tokyo Tech 
+Synthesis of organic compounds and polymers is at the core of many manufacturing industries. The new "electrifying synthesis" methods that can combine conventional synthetic chemistry with electrochemistry are a step closer to a sustainable tomorrow. These reactions don't require potentially harmful chemical reagents. They achieve organic synthesis by simply using electrons from an electric power source to conduct redox reactions. Apart from being environmentally-friendly, these reactions can also be made more or less selective by fine-tuning the electric potentials.

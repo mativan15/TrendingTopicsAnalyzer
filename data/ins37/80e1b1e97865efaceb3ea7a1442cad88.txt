@@ -1,0 +1,26 @@
+Assessment of Porosity Defects in Ingot Using Machine Learning Methods during Electro Slag Remelting Process
+Creative Commons Attribution (CC-BY)
+science
+2022-06-02 00:00:00
+
+Open AccessArticle by
+ 1, 1, 2,*, 3,4, 3,4, 1 and 3,4,* 
+
+
+1
+Digital Campus Construction Center, Capital Normal University, Beijing 100048, China
+
+ 2
+School of Iron and Steel, Soochow University, Suzhou 215000, China
+
+
+3
+National Engineering Laboratory for Agri-Product Quality Traceability, Beijing Technology and Business University, Beijing 100048, China
+
+
+4
+School of E-Business and Logistics, Beijing Technology and Business University, Beijing 100048, China
+
+
+*
+Authors to whom correspondence should be addressed.

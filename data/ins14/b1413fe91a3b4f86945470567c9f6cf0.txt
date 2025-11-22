@@ -1,0 +1,16 @@
+CORRECTING and REPLACING Axiado to Demo New AI-Driven, Zero-Trust Hardware Technology at OCP Global Summit
+Copyright 2022, Business Wire.
+tech
+2022-10-17 14:34:00
+
+October 17, 2022 10:34 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Please replace the release with the following corrected version due to multiple revisions.
+
+
+
+The updated release reads:
+
+AXIADO TO DEMO NEW AI-DRIVEN, ZERO-TRUST HARDWARE TECHNOLOGY AT OCP GLOBAL SUMMIT
+
+Axiado's TCU-powered control and management brings Zero Trust to distributed, multi-tenant cloud infrastructures
+
+Axiado Corporation, an AI-enhanced hardware security company, plans to demonstrate its datacenter-ready secure control module (DC-SCM) solution powered by a trusted control/compute unit (TCU) technology at the 2022 OCP Global Summit.

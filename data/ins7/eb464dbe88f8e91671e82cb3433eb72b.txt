@@ -1,0 +1,7 @@
+LevelField Financial Selects METACO to Launch Digital Asset Management Capabilities on IBM Cloud
+prnewswire.com
+news
+2022-05-26 13:00:00
+
+US financial services firm and banking platform to launch digital asset custody services underpinned by Tier-1 bank-grade technology 
+LAUSANNE, Switzerland and HOUSTON, May 26, 2022 /PRNewswire/ -- LevelField Financial, the premier U.S. financial services firm uniting digital assets and traditional banking services in one trusted platform has selected METACO, the market-leading provider of digital asset custody orchestration technology to complex, global financial institutions. LevelField is deploying its institutional digital asset management operations on IBM Cloud in order to leverage the confidential computing capabilities of IBM's digital asset infrastructure.

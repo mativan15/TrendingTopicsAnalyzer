@@ -1,0 +1,6 @@
+EU set to form energy efficiency label for cryptos in effort to encourage PoS use
+seekingalpha.com
+finance
+2022-10-18 15:06:11
+
+Chunumunu In an effort to mitigate the growing use of energy within the cryptocurrency space, the European Union is going to develop an energy efficiency label for cryptos such as bitcoin (BTC-USD), according to a document published on Tuesday. In a collaboration with international partners, the European Commission will create a labeling system that seeks to encourage cryptos to switch to more eco-friendly mechanisms like Proof-of-Stake, which ethereum's (ETH-USD) blockchain adopted in mid-September via its Merge.

@@ -1,0 +1,6 @@
+How Splunk is helping McLaren F1 navigate the tricky turns of F1 2022
+techradar.com
+news
+2022-05-28 14:00:46
+
+With the Formula 1 2022 season now well underway, it's clear that the new rules and regulations have had a significant impact, with some teams struggling to perform, and others streaking ahead.When it comes to rolling development, and split-second calls that can make or break a race, having the right data is crucial, and so is having the right technology stack to deliver that data exactly when you need it.Big data experts Splunk have been working with McLaren F1 since 2020, but the 2022 season has taken the relationship to a whole new level as wide-ranging changes have meant data, and the technology behind it, is more important than ever.

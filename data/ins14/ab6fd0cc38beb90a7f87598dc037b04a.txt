@@ -1,0 +1,6 @@
+Converge Technology Solutions Corp. Announces Expanded IBM Power for Google Cloud
+globenewswire.com
+news
+2022-06-02 00:00:00
+
+TORONTO and GATINEAU, Quebec, June 02, 2022 (GLOBE NEWSWIRE) -- Converge Technology Solutions Corp. ('Converge' or 'the Company') (TSX:CTS) (FSE:0ZB) (OTCQX:CTSDF) a software-enabled IT & Cloud Solutions provider, is pleased to announce it will now provide IBM Power Systems through Google Cloud. Converge's IBM Power for Google Cloud Marketplace solution will also be generally available later this year in Frankfurt, Germany. This extended availability will help provide continuity of experience and feature parity with the Company's previously announced Google Cloud Marketplace solution, Converge Enterprise Cloud – IBM Power for Google Cloud (IP4G), which currently operates in Google Cloud's US-East and US-Central cloud regions.

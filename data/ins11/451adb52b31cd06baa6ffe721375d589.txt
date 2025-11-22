@@ -1,0 +1,7 @@
+Microsoft Powers Up ‘Power-Ups' With Virtual Machine Game Developer Toolset
+forbes.com
+news
+2022-10-19 17:23:50
+
+Sept 2022: Microsoft CEO Satya Nadella meets the next generation of UK game makers at Microsoft UK's ... [+] Xbox Academy.Microsoft
+Games programming is wild. The software application development process behind modern video games designed for consoles, PCs and online cloud platforms is a wildly creative process that involves hundreds (if not thousands) of team members. Games developers have to create fabricated worlds, design complex gamification challenges, master the use of sophisticated character movement engines and render images and shapes in intricate detail – the whole process is a maelstrom of inventive and original design.

@@ -1,0 +1,10 @@
+Warning for Android users over malware which could add huge costs to phone bill
+thesun.co.uk
+news
+2022-06-05 22:03:52
+
+MILLIONS of Android users are being warned about new malware that could add huge costs to victims' phone bills.
+Security experts discovered the trojan malware on multiple applications available in Android app stores and they say it has already tried to infect thousands of users.
+The SMSFactory malware was detected in applications available for download in Android app stores and can trigger huge phone billsCredit: Getty
+Experts say the malware has been detected in countries all over the world and cybersecurity software has protected at least 165,000 people from the threatCredit: Getty
+The newly detected malware, known as SMSFactory, was revealed on Wednesday, after it was uncovered by the cybersecurity company Avast Software.

@@ -1,0 +1,32 @@
+XAI for Churn Prediction in B2B Models: A Use Case in an Enterprise Software Company
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ *, and 
+
+
+Faculty of Statistics, Complutense University, Puerta de Hierro, 28040 Madrid, Spain
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Ravil Muhamedyev and Evgeny Nikulchev
+
+Mathematics 2022, 10(20), 3896; https://doi.org/10.3390/math10203896 (registering DOI)
+
+
+Received: 19 September 2022
+/
+Revised: 10 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 20 October 2022
+ 
+
+The literature related to Artificial Intelligence (AI) models and customer churn prediction is extensive and rich in Business to Customer (B2C) environments; however, research in Business to Business (B2B) environments is not sufficiently addressed.

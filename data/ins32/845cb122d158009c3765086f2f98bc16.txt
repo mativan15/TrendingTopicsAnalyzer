@@ -1,0 +1,6 @@
+There's No Such Thing As A Safe Stablecoin
+seekingalpha.com
+finance
+2022-05-31 06:35:00
+
+Yevhenii Podshyvalov/iStock Editorial via Getty Images Stablecoins aren't stable. So-called algorithmic stablecoins crash and burn when people behave in ways the algorithm didn't expect. And reserved stablecoins fall off their pegs - in either direction. A stablecoin that does not stay on its peg is unstable. Not one of the stablecoins currently in circulation lives up to its name. Don't believe me? Well, here's the evidence. Exhibit 1: USDT (USDT-USD) since the end of April: USDT since the end of April (Author) Exhibit 2: USDC (USDC-USD) over the same time period: USDC since the end of April (Author) (Charts from Coinmarketcap) Both coins de-pegged on 12th May.

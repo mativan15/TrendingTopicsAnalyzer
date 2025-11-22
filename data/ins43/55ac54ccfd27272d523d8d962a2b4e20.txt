@@ -1,0 +1,6 @@
+Machine learning and Networking Automation
+medium.com
+entertainment
+2022-05-30 16:06:42
+
+Have you ever worked in a NOC or Network operations center?NOC is never less than a stock market, where people will be on their toes making trading calls, same in NOC, operations engineers will be glued their eyes to the ticketing console, triaging tickets, assigning priority where as L3 engineers KPI would be the MTTR, keep the network up 99.999%.Well all these was the trend of the past, now the world has changed and moving to words Zero touch. With cross pollination of technologies such as Networking , Data science with Machine learning the life of NOC engineers is becoming much simpler.

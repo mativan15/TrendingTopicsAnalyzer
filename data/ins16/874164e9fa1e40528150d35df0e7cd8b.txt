@@ -1,0 +1,12 @@
+Bitwarden Adds Email Alias Integration With SimpleLogin, AnonAddy, and Firefox Relay
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 12:00 PM Eastern Daylight Time SANTA BARBARA, Calif.--(BUSINESS WIRE)--Bitwarden, the open source password manager trusted by millions, today announced integration with three popular email forwarding services: SimpleLogin, AnonAddy, and Firefox Relay. This integration allows for the creation of email aliases with those services when generating usernames in the recently updated Bitwarden Generator. Now adding another layer of security and privacy is easier than ever.
+
+
+
+Email Aliases Provide Even More Security and Privacy
+
+When creating a login, a user can now easily obfuscate their primary email address with an alias, keeping their real information private while still receiving messages in one inbox.

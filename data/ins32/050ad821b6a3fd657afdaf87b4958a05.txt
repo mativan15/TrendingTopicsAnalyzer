@@ -1,0 +1,7 @@
+Quantum computing startup sued over report's hoax claims
+Copyright © 2022, Situation Publishing
+news
+2022-06-01 18:09:13
+
+Quantum computing startup IonQ is facing a securities fraud lawsuit after a barrage of accusations came to light in a blistering report from Scorpion Capital, which claims the company lied about the maturity (and even existence of) its quantum device in addition to a smattering of claimed financial fictions.
+The Scorpion Capital report, issued May 3, provides a rigorously scathing assessment of the IonQ technology, which is described as "a useless toy that can't even add 1+1" as assessed by internal experiments run by unnamed but numerous quantum experts hired by Scorpion and exhaustively detailed in the full report [PDF].

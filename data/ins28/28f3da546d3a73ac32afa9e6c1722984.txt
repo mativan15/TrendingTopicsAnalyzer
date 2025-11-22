@@ -1,0 +1,6 @@
+A Visual History of Windows
+pcmag.com
+news
+2022-06-01 13:30:29
+
+PCMag has covered Microsoft's Windows operating system from its first iteration in 1985 right up to the current, heady days of Windows 11. Before Windows, we used and wrote about its predecessor, MS-DOS (Disk Operating System), without which the PC revolution would never have taken place. Indeed, early mentions of Windows in PC Magazine refer to it as a "DOS extension from Microsoft."When I began working at PCMag in 1987, DOS was still king, having pretty much kicked CP/M to the curb. DOS itself had been getting increasingly if awkwardly graphic, using character dots to create images and offering more colors than drab blue-gray text on black.

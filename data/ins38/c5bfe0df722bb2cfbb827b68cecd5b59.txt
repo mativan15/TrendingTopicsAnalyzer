@@ -1,0 +1,6 @@
+Stochastic process and tutorial of the African buffalo optimization
+nature.com
+news
+2022-10-15 12:15:00
+
+Stochastic process and tutorial of the African buffalo optimization This paper presents the data description of the African buffalo optimization algorithm (ABO). ABO is a recently-designed optimization algorithm that is inspired by the migrant behaviour of African buffalos in the vast African landscape. Organizing their large herds that could be over a thousand buffalos using just two principal sounds, the /maaa/ and the /waaa/ calls present a good foundation for the development of an optimization algorithm.

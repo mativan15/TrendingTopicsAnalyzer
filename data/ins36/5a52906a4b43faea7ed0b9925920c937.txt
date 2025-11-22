@@ -1,0 +1,6 @@
+Conditions Influencing Salary of the Automotive Industry in Mexico City—A Linguistic Fuzzy-Set Approach
+Creative Commons Attribution (CC-BY)
+science
+2022-05-31 00:00:00
+
+Decision making in wages is generally a hard task. The aim of this work is to identify government conditions, personal conditions of the businessperson, and organizational circumstances that affect wage levels in the automotive industry in Mexico City using a linguistic fuzzy-set approach. We conducted a questionnaire, consisting of 23 observation variables with a five-point Likert scale. Independent variables were measured from 1 ('not important') to 5 ('very important'). Based on the literature review and results of interviews, a total of 169 questionnaires were sent to participants using Google Forms.

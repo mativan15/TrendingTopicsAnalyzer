@@ -1,0 +1,6 @@
+Here's How to Turn Off Those Images In Your Windows Search Bar
+gizmodo.com
+news
+2022-06-03 19:20:00
+
+Last night, I was cleaning out my C drive on my Windows 10 PC, as you do, and decided to restart when I was all done. After putting off a series of Windows updates for the past few weeks because I didn't want to go through the agonizing, 10 second long process of a restart, I thought this would be a great opportunity to get my OS up-to-date. But when I logged back in, I found that my Windows search bar now had these damn, unasked for donut images clogging it up.For everyone lucky enough to be on Mac right now, the Windows search bar is kind of like the PC version of Spotlight.

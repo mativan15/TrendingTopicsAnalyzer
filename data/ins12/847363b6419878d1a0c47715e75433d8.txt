@@ -1,0 +1,6 @@
+WorkOS raises $80M to add enterprise features to apps – TechCrunch
+techcrunch.com
+tech
+2022-06-01 14:00:11
+
+WorkOS, a platform that lets developers add enterprise features like single sign-on (SSO) and directory sync to apps, today announced that it raised $80 million in a Series B funding round led by Greenoaks with participation from Lachy Groom, Lightspeed Ventures, and Abstract Ventures. The closing of the round coincides with the WorkOS' first acquisition: Modulz, the company behind the user interface (UI) framework Radix. In an email Q&A with TechCrunch, CEO Michael Grinich said that both the cash and purchase would support WorkOS' hiring and product development initiatives.

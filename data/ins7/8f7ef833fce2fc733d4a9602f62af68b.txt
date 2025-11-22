@@ -1,0 +1,37 @@
+Predicting the Effect of Processing Parameters on Caliber-Rolled Mg Alloys through Machine Learning
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 1, 1, 2,* and 1,* 
+
+
+1
+School of Mechanical Engineering, Pusan National University, Busan 46241, Korea
+
+
+2
+College of Materials Science and Engineering, Chongqing University, Chongqing 400044, China
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Michael Oluwatosin Bodunrin, Desmond Klenam and Japheth Obiko
+
+Appl. Sci. 2022, 12(20), 10646; https://doi.org/10.3390/app122010646 (registering DOI)
+
+
+Received: 30 September 2022
+/
+Revised: 15 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 21 October 2022
+ 
+
+The multi-pass caliber rolling (MPCR) of Mg alloy has attracted much attention due to its engineering and manufacturing advantages.

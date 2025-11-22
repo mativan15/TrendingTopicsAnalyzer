@@ -1,0 +1,9 @@
+How to add aging cards to Kanbantool for a more efficient workflow
+techrepublic.com
+news
+2022-10-18 14:58:39
+
+Image: airfocus/Unsplash
+Kanban boards are one of the best at-a-glance project management tools you'll ever use. A simple-to-use layout lets you quickly see where each task is in the timeline. The one thing that's a bit more challenging is gauging how old a task is. You might have a column marked Beta filled with cards, but which of those cards are new and which are older?
+SEE: Hiring kit: Project manager (TechRepublic Premium)
+That's not so easy to tell. Sure, you can open a card and view a created-by date and see any progress that's been added to a notes section, but the beauty of Kanban is that it should give you most of what you need to know by way of a quick glance.

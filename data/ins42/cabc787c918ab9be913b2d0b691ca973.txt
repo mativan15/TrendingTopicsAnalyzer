@@ -1,0 +1,6 @@
+Analytics Prove Historical Retirement Withdrawal Rate is Wrong
+bdtonline.com
+news
+2022-10-20 12:03:54
+
+BOSTON, Oct. 20, 2022 (GLOBE NEWSWIRE) -- Premium Analysis, Inc. announced the release of a tool to calculate and predict customized withdrawal rates and the likelihood of success during retirement. Historically, financial advisors have proposed a standard 4% rule. But using analytics shows that this is only sometimes true. The Probability Of Success™ is a downloadable Excel spreadsheet that anyone can use. The mathematical model uses sophisticated Monte Carlo methodology and algorithms to provide a percentage and the probability of achieving long-term retirement goals.

@@ -1,0 +1,6 @@
+New Boomi Solution Automates Revenue Recognition in AWS Marketplace
+businesswire.com
+news
+2022-10-17 00:00:00
+
+October 17, 2022 09:20 AM Eastern Daylight Time CHESTERBROOK, Pa.--(BUSINESS WIRE)--BoomiTM, the intelligent connectivity and automation leader, today announced the launch of Boomi Disbursement for AWS Marketplace. Currently available in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that makes it easy to find, test, buy, and deploy software that runs on Amazon Web Services (AWS), this solution aims to help customers automate revenue recognition and reconciliation, shortening the time to payment for AWS Marketplace sellers.

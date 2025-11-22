@@ -1,0 +1,6 @@
+Mechanical Properties and Torque/Force Generation of XP-Endo Shaper, Trunatomy, Spring Endo File, and Spring Endo Heated Finish File, Part 1
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+We evaluated the mechanical properties and torque/force generated during canal shaping by four NiTi files with innovative designs. Each of the 52 TruNatomy Prime, XP-endo Shaper, Spring Endo files with unheated finish (Spring Endo), and Spring Endo files with heated finish (Spring H) were subjected to bending, buckling, cyclic fatigue, and torsional resistance tests (n = 10 per NiTi file type). Canal shaping was simulated with J-shaped resin blocks (n = 10). Phase transformation behavior was investigated using differential scanning calorimetry (n = 2).

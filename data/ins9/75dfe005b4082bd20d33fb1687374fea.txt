@@ -1,0 +1,6 @@
+Google Chrome Dev Channel is vulnerable to a new RCE vulnerability, experts say
+indiatimes.com
+economics
+2022-05-28 16:00:00
+
+The WebAssembly and V8 JavaScript engine used in both the browsers of Google Chrome and Chromium recently patched critical remote code execution vulnerability. Successful exploitation of the issue could allow an attacker to implement arbitrary code when it comes to the browser due to a use-after-free vulnerability in the instruction optimization component. Google was informed about the bug in Chrome 101's Dev channel by Weibo Wang, who is a security researcher based in Singapore cybersecurity firm namely Numen Cyber Technology.

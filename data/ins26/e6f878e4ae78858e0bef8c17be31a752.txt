@@ -1,0 +1,8 @@
+NHS data stolen from contractor in serious cyberattack
+techradar.com
+news
+2022-10-18 14:01:43
+
+(Image credit: Passwork)
+
+ NHS software vendor Advanced has confirmed it suffered a ransomware (opens in new tab) attack that resulted in the theft of sensitive customer data. The company says an unknown threat actor used 'legitimate third-party credentials' which gave them the ability to establish a remote desktop (RDP) session to the Staffplan Citrix server. From there, the attackers moved laterally throughout the network, escalating privileges where necessary to map the entire network, identify crucial endpoints, as well as pivotal data.

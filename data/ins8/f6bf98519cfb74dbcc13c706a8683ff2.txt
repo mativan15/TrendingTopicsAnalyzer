@@ -1,0 +1,6 @@
+What Business Leaders Must Know About AI Data
+itprotoday.com
+news
+2022-10-20 19:16:26
+
+Human Interviewer: 'How many data points do you need to solve this problem?' Renee Robot: 'Just the good ones.' With AI, Nothing Matters More Than the Data  And your data is not ready for AI. This is the case for almost all data. Why, because the data collection was never intended for AI. And yet, data is the lifeblood of AI. The right amount of the right data is required for success. This is often the biggest challenge in finding AI-based solutions to big problems. AI will directly reflect the characteristics of the data.

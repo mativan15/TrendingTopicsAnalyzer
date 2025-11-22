@@ -1,0 +1,7 @@
+Kingston's IronKey Keypad 200 USB Drive Should Be Compulsory For All Government Departments
+Copyright 2022 Forbes Media LLC
+business
+2022-10-16 11:00:00
+
+The Kingston IronKey Keypad 200 USB drive has XTS-AES 256-bit hardware-based encryption to ... [+] FIPS-140-3 Level 3 military-grade levels. Kingston
+I take a reasonably libertarian approach to life and am not overly keen on too many prescriptive laws, but when protecting our data, I'm pleased to make an exception. Any government department, NGO or corporation that stores and processes sensitive data needs to take the utmost care to ensure that data doesn't fall into the wrong hands. Recent data protection laws like GDPR, with massive fines for breaking the law, have forced organizations to take better care of our data.

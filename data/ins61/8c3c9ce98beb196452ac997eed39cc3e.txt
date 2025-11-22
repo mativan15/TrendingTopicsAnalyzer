@@ -1,0 +1,8 @@
+Marqeta, Inc. (MQ) Stock Forecasts
+yahoo.com
+finance
+2022-05-27 20:00:00
+
+Summary
+
+Headquartered in Oakland, California, and founded in 2010, Marqeta provides its clients with a card-issuing platform that offers the infrastructure and tools necessary to offer digital, physical, and tokenized payment options without the need for a traditional bank. The company's open APIs are designed to allow third parties like DoorDash, Klarna, and Block to rapidly develop and deploy innovative card-based products and payment services without the need to develop the underlying technology.

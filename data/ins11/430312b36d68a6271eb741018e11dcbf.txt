@@ -1,0 +1,6 @@
+GitLab Stock: Too Much Competition, And Elevated Valuation, Sell
+seekingalpha.com
+finance
+2022-05-31 12:00:00
+
+Olemedia/E+ via Getty Images We are bearish on GitLab (NASDAQ:GTLB) shares and urge investors to sell shares here. GitLab still is very expensive despite being 43% below its IPO price of $77. GitLab is facing intense competition from large incumbents, and we expect the growth to slow faster than bulls expect. GitLab operates in a highly contested market niche of software development tools. The market is highly fragmented, with companies having multiple DevOps tools within their organizations. The most critical source code of the company is usually deposited in source code repositories from Microsoft (MSFT) (GitHub), IBM (IBM) (ClearCase), or Atlassian (TEAM) (Bitbucket), and displacing these incumbents is very difficult.

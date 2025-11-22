@@ -1,0 +1,6 @@
+Sebi tweaks cyber security, cyber resilience framework of KYC registration agencies
+indiatimes.com
+economics
+2022-05-30 13:45:00
+
+New Delhi, Capital markets regulator Sebi on Monday changed the cyber security and the cyber resilience framework of KYC Registration Agencies (KRAs) and mandated them to conduct a comprehensive cyber audit at least twice in a financial year. Along with the cyber audit report, all KRAs have been instructed to submit a statement from the MD and CEO certifying compliance by them with all of Sebi's cyber security-related guidelines and notices issued periodically, according to a circular. Under the revised framework, KRAs are required to identify and classify critical assets based on their sensitivity and criticality to business operations, services and data management.

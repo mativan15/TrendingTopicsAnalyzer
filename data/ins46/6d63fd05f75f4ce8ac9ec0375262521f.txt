@@ -1,0 +1,6 @@
+Credo Introduces Industry Leading 40Gbps PAM3 SerDes Technology To Address New Markets Requiring High-speed, Low-Power Connectivity
+businesswire.com
+news
+2022-06-02 00:00:00
+
+June 02, 2022 09:00 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Credo Technology Group Holding Ltd (NASDAQ: CRDO) today announced the availability of its Ostrich 40G, PAM3 Serializer/Deserializer (SerDes) PHY/PMA Intellectual Property (IP). Credo's Ostrich IP provides a silicon proven platform which moves to 40G speeds from existing 20G deployments as a wide range of industry connectivity standards continue the trend of doubling in speed. The specification, development, and verification of the Ostrich 40G PAM3 IP was undertaken in cooperation with an industry leader in the consumer market.

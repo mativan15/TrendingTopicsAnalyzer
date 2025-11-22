@@ -1,0 +1,6 @@
+Mode Analytics Partners with dbt Labs to Co-create the Future of Modern Business Intelligence
+prweb.com
+business
+2022-10-18 16:01:33
+
+Mode's integration with the dbt Semantic Layer extends centrally defined metrics into BI, making them instantly available to the rest of the business for code-free reporting. 'This partnership between dbt Labs and Mode will enable collaboration between data and business teams, accelerating time to value,' said dbt Labs Chief Product Officer Margaret Francis. NEW ORLEANS (PRWEB) October 18, 2022 Mode Analytics, the modern Business Intelligence (BI) platform for scaling businesses, today announced its launch partnership with dbt Labs for the newly unveiled dbt Semantic Layer, announced this morning in public preview in a keynote session at Coalesce, dbt Labs' annual conference.

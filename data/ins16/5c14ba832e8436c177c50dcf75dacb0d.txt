@@ -1,0 +1,37 @@
+Hydrogen Trapping in Laser Powder Bed Fusion 316L Stainless Steel
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+ 1,2, 2,* and 1 
+
+
+1
+Department of Material Engineering, Ben-Gurion University of the Negev, Beer-Sheva 84105, Israel
+
+
+2
+Department of Mechanical Engineering, Sami Shamoon College of Engineering, Ashdod 77245, Israel
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Francesco Iacoviello
+
+Metals 2022, 12(10), 1748; https://doi.org/10.3390/met12101748 (registering DOI)
+
+
+Received: 29 August 2022
+/
+Revised: 12 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 18 October 2022
+ 
+
+In this study, the hydrogen embrittlement (HE) of 316L stainless steel produced by laser powder bed fusion (L-PBF) was investigated by means of hydrogen trapping.

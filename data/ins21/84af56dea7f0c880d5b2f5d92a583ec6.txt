@@ -1,0 +1,6 @@
+Impact of AI on Business Analysis
+medium.com
+entertainment
+2022-06-06 05:09:24
+
+Artificial Intelligence brings the computer's intelligence close to human intelligence in many aspects, such as image recognition, voice recognition, knowledge extraction, etc. For quite a long time, business analysts have been thinking deeply about how the world of business analysis would change with growing artificial intelligence capabilities. There are multiple perspectives for business analysis. This blog will focus on one perspective of software systems requirements analysis. There are three key areas that business analysts can consider for any IT / software business analysis:Eliciting requirementsAnalyzing requirementsManaging requirementsArea 1: Requirements ElicitationDuring elicitation, business analysts elicit stakeholder requirements.

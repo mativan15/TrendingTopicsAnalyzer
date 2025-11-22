@@ -1,0 +1,6 @@
+A Solana hacker calls $67M he stole from the Mango platform a ‘profitable trading strategy'
+fortune.com
+news
+2022-10-17 14:07:01
+
+Picture a robber who breaks into a bank's vault and steals millions of dollars—and then turns around and says he deserves to keep some of the loot as a reward for exposing the bank's lax security. Some might be surprised to learn this sort of thing happens every week in the world of crypto. The latest example involves a Solana-trading platform called Mango Markets, where a hacker last week stole $114 million by exploiting a price authority known as an oracle. The hacker tricked the oracle into inflating the value of a token by threefold, which let the hacker obtain three times the collateral to which he was entitled, and, in turn, to earn a far greater return than what he should have received.

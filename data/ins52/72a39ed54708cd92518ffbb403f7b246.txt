@@ -1,0 +1,27 @@
+A New Stock Price Forecasting Method Using Active Deep Learning Approach
+Creative Commons Attribution (CC-BY)
+science
+2022-05-27 00:00:00
+
+Open AccessArticle by
+ 1,*, 1, 2,*, 3 and 4 
+
+
+1
+Department of Computer Information Systems, Jordan University of Science and Technology, Irbid 22110, Jordan
+
+
+2
+College of Engineering and IT, University of Dubai, Academic City, Dubai 14143, United Arab Emirates
+
+
+3
+Hourani Center for Applied Scientific Research, Al-Ahliyya Amman University, Amman 19328, Jordan
+
+
+4
+Faculty of Computer Sciences and Informatics, Amman Arab University, Amman 11953, Jordan
+
+
+*
+Authors to whom correspondence should be addressed.

@@ -1,0 +1,8 @@
+Calculating The Fair Value Of Viva Energy Group Limited (ASX:VEA)
+yahoo.com
+sport
+2022-10-18 02:12:39
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Viva Energy Group Limited (ASX:VEA) as an investment opportunity by taking the expected future cash flows and discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. It may sound complicated, but actually it is quite simple!
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.

@@ -1,0 +1,7 @@
+Mintlify uses AI to generate documentation from code – TechCrunch
+techcrunch.com
+news
+2022-05-30 12:00:52
+
+Mintlify, a startup developing software to automate software documentation tasks, today announced that it raised $2.8 million in a seed round led by by Bain Capital Ventures with participation from TwentyTwo Ventures and Quinn Slack, Sourcegraph's co-founder. CEO Han Wang says that the proceeds will be put toward product development and doubling Mintlify's core, three-person team by the end of the year.
+Ithaca, New York-based Mintlify was co-founded in 2021 by Han Wang and Hahnbee Lee — both software engineers by trade.

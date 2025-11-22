@@ -1,0 +1,6 @@
+Car 101: What's 'EV charging etiquette'?
+Stuff Limited.
+news
+2022-10-17 00:05:05
+
+Electric vehicles are slowly but surely taking over. Sales are ramping up and various announcements every few days continue to show carmakers' intent to ditch combustion. But while the improving supply of EVs is all well and good, the infrastructure side of things needs to keep up. Generally speaking, New Zealand is in a pretty good space for public EV chargers. ChargeNet reports more than 280 fast charging stations across the country, with plenty more under construction. You've also got other companies like Evnex and Hikotron, among others, that are working to offer publicly accessible AC smart chargers that offer less power than the DC fast chargers but adapt to reduce the load on the power grid.

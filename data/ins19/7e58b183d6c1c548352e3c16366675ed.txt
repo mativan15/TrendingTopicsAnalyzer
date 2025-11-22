@@ -1,0 +1,40 @@
+Effects of a Mixed Emissions Control Policy on the Manufacturer's Production and Carbon Abatement Investment Decisions
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1 and 2,* 
+
+
+1
+National Tax Institute of STA, Yangzhou 225007, China
+
+
+2
+Department of Computer Science, Aalborg University, 9220 Aalborg, Denmark
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Paul B. Tchounwou
+
+Int. J. Environ. Res. Public Health 2022, 19(20), 13472; https://doi.org/10.3390/ijerph192013472 (registering DOI)
+
+
+Received: 13 September 2022
+/
+Revised: 15 October 2022
+/
+Accepted: 17 October 2022
+/
+Published: 18 October 2022
+ 
+
+Considering the consumers' environmental awareness, a mixed emissions control policy with carbon tax and a dynamic reward-punishment mechanism for carbon abatements was introduced to explore the manufacturer's low-carbon production issues.

@@ -1,0 +1,7 @@
+iOS 16 takes big step towards privacy! Copy-Paste function doesn't get as secure as THIS
+hindustantimes.com
+tech
+2022-10-19 08:50:45
+
+iOS 16.1 update now lets users give every app the option to allow copy and paste from other apps.
+ iOS 16 is already one of the more secure mobile operating systems to play with and now, it takes it another step ahead with the iOS 16.1 update. You know how you don't want some apps to let you or anyone copy any text or image and paste it to other apps; most people want this with banking apps for enhanced privacy. iOS 16 now lets you do something similar, albeit in a different way. With the latest update, you will now be able to restrict the copy-paste function on any app.

@@ -1,0 +1,6 @@
+The Open 3D Engine adds improved terrain creation and collaboration tools
+techcrunch.com
+tech
+2022-10-18 15:37:46
+
+For a long time, the world of 3D engines — especially for game developers — was all about Unity and Epic's Unreal Engine. Then, when Amazon started its ill-fated attempt to get into gaming, it launched the Lumberyard engine (which itself was based on Crytek's CryEngine). And while you hopefully don't remember the disappointment that was Crucible, the fact that those games didn't pan out had an interesting effect. Amazon, which hasn't always been known as a champion of open source, open-sourced Lumberyard and launched the Open 3D Foundation (under the Linux Foundation banner).

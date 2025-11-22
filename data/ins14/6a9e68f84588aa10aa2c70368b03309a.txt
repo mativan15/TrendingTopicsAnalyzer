@@ -1,0 +1,9 @@
+How to add custom navigation to the ONLYOFFICE Home page
+techrepublic.com
+news
+2022-06-03 21:04:14
+
+Jack Wallen shows you how easy it is to add custom links to the ONLYOFFICE Home so users have quick access to the sites they need. 
+ Image: ONLYOFFICE
+ONLYOFFICE has enough features to make it an outstanding in-house platform for your office suite, CRM and project management needs. From the ONLYOFFICE home page, your users have access to the default set of links, which includes Projects, CRM, Mail, People, Community, and, if they are an admin user, the Control Panel.
+But what if you have several internal and external sites your users need to be able to access? Sure, they could bookmark those sites in their browser, but why not give them direct access from the ONLYOFFICE page? This way your users only need to remember the address for your ONLYOFFICE instance, and they can then access all of those other sites from the Home page.

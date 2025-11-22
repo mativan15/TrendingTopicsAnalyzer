@@ -1,0 +1,6 @@
+Crypto Coach: How to set up a cold storage wallet
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+tech
+2022-05-31 16:52:03
+
+Spend some time getting acclimated to the wonderful world of crypto and you'll quickly realize that you'll want to secure your crypto assets in cold storage. Cold storage? What the heck is that -- some sort of industrial-strength cryogenic hard drive that billows nitrogen gas? No, far from it.When it comes to storing your crypto assets, there are generally two types of storage devices or wallets: Hot wallets and cold wallets. A hot wallet is a means of storage that's connected at all times to the internet.

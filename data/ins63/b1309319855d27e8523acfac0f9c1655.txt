@@ -1,0 +1,6 @@
+New York passes bill to halt Bitcoin mining for two years
+indiatimes.com
+economics
+2022-06-03 09:00:00
+
+New York: In bad news for Bitcoin and Blockchain lovers, the New York State on Friday passed a bill to halt new permits for certain fossil fuel power plants to be used in Bitcoin mining. The measure establishes a two-year moratorium on new permits for cryptocurrency mining operations that use proof-of-work (PoW) authentication methods to validate Blockchain transactions. The measure also initiates a study on the environmental impact mining facilities are having in New York state. The Senate voted 36-27 in favour of the new bill.

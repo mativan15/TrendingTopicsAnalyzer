@@ -1,0 +1,6 @@
+How randomly moving electrons can improve cyber security
+eurekalert.org
+gaming
+2022-05-28 02:04:12
+
+image: The image of the fabricated electronic chip that generates the random number. The chip is loaded into the measurement setup, where the randomness of the electron trapping/de-trapping is converted into binary outputs. view more  Credit: Nithin Abraham In October 2017, tech giant Yahoo! disclosed a data breach that had leaked sensitive information of over 3 billion user accounts, exposing them to identity theft. The company had to force all affected users to change passwords and re-encrypt their credentials.

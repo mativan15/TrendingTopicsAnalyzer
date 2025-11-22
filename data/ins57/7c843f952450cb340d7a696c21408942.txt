@@ -1,0 +1,8 @@
+Time to play everyone's favorite game: REvil? Or Not REvil?
+theregister.com
+economics
+2022-05-27 07:33:14
+
+Akamai has spoken of a distributed denial of service (DDoS) assault against one of its customers during which the attackers astonishingly claimed to be associated with REvil, the notorious ransomware-as-a-service gang.
+REvil was behind the JBS and Kaseya malware infections last year. In January, Russia reportedly dismantled REvil's networks and arrested 14 of its alleged members, theoretically putting an end to the criminal operation. 
+Beginning in late April, however, the same group of miscreants — or some copycats  — appeared to resume their regularly scheduled ransomware activities with a new website for leaking data stolen from victims, and fresh malicious code.

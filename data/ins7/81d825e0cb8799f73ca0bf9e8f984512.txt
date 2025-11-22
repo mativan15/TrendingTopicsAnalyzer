@@ -1,0 +1,7 @@
+Council Post: Doing The Dirty Work: Embracing DevOps To Achieve Sustainable Outcomes
+Copyright 2022 Forbes Media LLC
+business
+2022-10-21 14:00:00
+
+Rick Madan, Vice President, TEKsystems Global Services.
+getty For decades, waves of technology hype have crashed onto the shores of business. In the wake lies the dirty work of transformation. Today, every company is in some sense a technology company, and they understand the increasing need to transform through DevOps. Not only can implementing (and practicing) DevOps help companies respond more quickly to customer and market changes, but it also helps organizations achieve the holy grail of increasing value while lowering costs.

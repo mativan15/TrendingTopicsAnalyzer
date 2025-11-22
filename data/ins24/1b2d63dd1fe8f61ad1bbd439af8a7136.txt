@@ -1,0 +1,8 @@
+Google reveals another experimental operating system: KataOS
+theregister.com
+news
+2022-10-17 15:30:12
+
+Google, one of very few tech companies willing to experiment with new operating systems, has unveiled KataOS for embedded machine learning devices.
+KataOS was announced along with Sparrow on the Google Open Source blog. KataOS is the operating system design and Sparrow is the reference implementation, as the Weston display server is the reference implementation of Wayland.
+The plan is that KataOS will be "a provably secure platform that's optimized for embedded devices that run ML applications." Google is working with Antmicro, which created the seL4-sys crate.

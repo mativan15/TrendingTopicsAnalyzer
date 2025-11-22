@@ -1,0 +1,8 @@
+Calculating The Intrinsic Value Of O2Micro International Limited (NASDAQ:OIIM)
+yahoo.com
+news
+2022-06-03 17:44:20
+
+In this article we are going to estimate the intrinsic value of O2Micro International Limited (NASDAQ:OIIM) by projecting its future cash flows and then discounting them to today's value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.

@@ -1,0 +1,8 @@
+Domo, Inc. (NASDAQ:DOMO) Shares Could Be 49% Below Their Intrinsic Value Estimate
+yahoo.com
+news
+2022-10-19 10:27:48
+
+Today we will run through one way of estimating the intrinsic value of Domo, Inc. (NASDAQ:DOMO) by taking the expected future cash flows and discounting them to today's value. Our analysis will employ the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

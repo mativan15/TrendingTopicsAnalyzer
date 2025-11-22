@@ -1,0 +1,6 @@
+etherFAX Releases New DirectFax® Messenger Integration for Slack
+prweb.com
+news
+2022-10-18 14:45:00
+
+'Organizations can now use our DirectFax Messenger integration for Slack to support remote workforces, improve business processes, and scale their document exchange operations,' said Paul Banco, CEO and co-founder of etherFAX. HOLMDEL, N.J. (PRWEB) October 18, 2022 etherFAX today announced its integration with Slack. Users can now utilize etherFAX's DirectFax Messenger to send and receive faxes and other business documents seamlessly and securely within Slack. With DirectFax, users can transmit digital, high-resolution, and rich color documents to other applications within the etherFAX ecosystem as well as traditional fax machines.

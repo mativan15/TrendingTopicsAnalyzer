@@ -1,0 +1,8 @@
+IBM rolls out more AI drive-thru McDonald's chatbots
+theregister.com
+business
+2022-05-30 13:30:11
+
+IBM says it is rolling out its natural language processing software to a greater number of McDonalds' drive-thrus months after buying the automated order technology unit from the fast food chain, along with the team that developed it.
+IBM already added extra NLP features to its Watson Discovery enterprise AI service last year, and now the burger-flinger's AI chatbot will feel the benefit, it said.
+In October last year, Big Blue wolfed down the McD Tech Labs, which was itself created after McDonald's bought and renamed AI voice recognition startup Apprente in 2019.

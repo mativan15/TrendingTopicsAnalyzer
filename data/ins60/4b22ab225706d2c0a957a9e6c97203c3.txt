@@ -1,0 +1,8 @@
+Supermicro CEO would like you to build greener datacenters
+theregister.com
+news
+2022-05-30 18:55:11
+
+Transitioning just half of all datacenters to sustainable operating models could cut global energy costs by $7 billion, Supermicro CEO Charles Liang claims.
+Building greener datacenters was a central theme of the company's nearly hour-long Computex keynote earlier this month, where Liang touted Supermicro's efforts to reduce carbon emissions through modular server design and encouraging liquid cooling.
+'It's our responsibility to reduce the environmental impact of technology by using less power, reducing carbon footprint and e-waste,' he said.

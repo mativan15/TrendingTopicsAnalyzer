@@ -1,0 +1,10 @@
+How to measure the strength of the trend?
+indiatimes.com
+economics
+2022-10-16 06:30:00
+
+"Trend is your friend" is an old saying, but how do you know if the stock/index is trending, surely higher tops -higher highs, lower tops-lower lows and trendlines help - but what if there is an indicator which gives you the precise number for the technical strength just immediately? ADX- Average Directional Index.
+
+Developed by J Welles Wilder, Jr, also known for creating one of the most popular indicator Relative strength index or RSI.
+
+ADX is a non-directional indicator, which means it will not tell you in which direction the security will move, either up or down but will calculate the strength of the trend.

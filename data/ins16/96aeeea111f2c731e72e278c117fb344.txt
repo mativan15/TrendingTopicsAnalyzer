@@ -1,0 +1,8 @@
+Landmark bill to limit energy-intensive cryptomining passes New York Legislature
+pbs.org
+economics
+2022-06-03 22:59:03
+
+ALBANY, N.Y. (AP) — New York lawmakers have passed a milestone environmental measure designed to tap the brakes on the spread of cryptocurrency mining operations that burn fossil fuels.
+Both supporters and opponents say that the closely watched bill, approved early Friday by the state Senate, is the first of its kind in the U.S.
+If it becomes law, it would establish a two-year moratorium on new and renewed air permits for fossil fuel power plants used for energy-intensive 'proof-of-work' cryptocurrency mining — a term for the computational process that records and secures transactions in bitcoin and similar forms of digital money.

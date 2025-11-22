@@ -1,0 +1,6 @@
+High-Speed Interconnect Opportunity (NASDAQ:COHR)
+seekingalpha.com
+news
+2022-10-19 15:28:11
+
+Justin Sullivan/Getty Images News Data traffic continues to grow at an unprecedented rate. According to Cisco (CSCO), data-byte traffic had a 25% compound annual growth rate over the last five years. Driven by artificial intelligence, video streaming, higher-capacity 5G networks, or the internet of things (IoT) - the amounts of bytes of data to be processed principally at large data centers and telecom networks are going through the roof. Cisco Data centers are especially challenged to store and process these massive amounts of data in a fast and efficient manner.

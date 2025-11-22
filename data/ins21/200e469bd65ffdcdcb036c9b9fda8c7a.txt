@@ -1,0 +1,10 @@
+How to install VirtualBox 7.0 on Ubuntu-based Linux distributions
+techrepublic.com
+news
+2022-10-18 14:24:20
+
+Jack Wallen shows you how to install the latest major release of the VirtualBox virtual machine manager. 
+ Image: reewungjunerr/Adobe Stock
+VirtualBox 7.0 has finally been released, and this latest iteration brings plenty of new features to the virtual machine software. As you've probably expected, the latest version has yet to hit the standard repositories for most Ubuntu-based distributions. What do you do when you want to get all those new features for your virtual machines?
+SEE: 40+ open source and Linux terms you need to know (TechRepublic Premium)
+Before we continue with the how-to, let's take a look at a list of some of the major new features to be found in VirtualBox 7.

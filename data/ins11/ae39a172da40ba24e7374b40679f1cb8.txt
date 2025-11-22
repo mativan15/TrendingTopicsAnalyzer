@@ -1,0 +1,32 @@
+Selective Laser Melting of Inconel 718/TiC Composite: Effect of TiC Particle Size
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+Open AccessArticle by
+ *, , and 
+
+
+Institute of Mechanical Engineering, Materials, and Transport, Peter the Great St. Petersburg Polytechnic University, 195251 St. Petersburg, Russia
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Baicheng Zhang
+
+Metals 2022, 12(10), 1729; https://doi.org/10.3390/met12101729 (registering DOI)
+
+
+Received: 15 September 2022
+/
+Revised: 7 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 15 October 2022
+ 
+
+In this article, we present the results of a study of the effect of TiC particle size on the microstructure and properties of a composite material based on the heat-resistant nickel alloy Inconel 718.

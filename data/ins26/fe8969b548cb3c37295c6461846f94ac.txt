@@ -1,0 +1,6 @@
+Cybersecurity considerations for business leaders navigating coronavirus disruptions
+techradar.com
+tech
+2022-10-17 13:41:14
+
+Businesses around the world have responded to the evolving health and financial risk factors posed by coronavirus disease 2019 ('COVID-19' or the 'virus') with significant workforce changes, including asking employees to work remotely to mitigate the risk of transmission in the workplace. Some companies facing more dire circumstances have taken actions including furloughing or laying off workers. Such changes not only pose challenges for businesses from a collaboration and continuity of operations standpoint, they also involve cybersecurity risks that business leaders must carefully assess and mitigate.

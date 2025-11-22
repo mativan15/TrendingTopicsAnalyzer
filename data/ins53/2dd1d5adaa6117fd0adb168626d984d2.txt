@@ -1,0 +1,8 @@
+Complex protein interactions mediate Drosophila Lar function in muscle tissue
+All PLOS articles are Open Access.
+news
+2022-05-27 14:00:00
+
+Open Access Peer-reviewed 
+ 
+ The type IIa family of receptor protein tyrosine phosphatases (RPTPs), including Lar, RPTPσ and RPTPδ, are well-studied in coordinating actin cytoskeletal rearrangements during axon guidance and synaptogenesis. To determine whether this regulation is conserved in other tissues, interdisciplinary approaches were utilized to study Lar-RPTPs in the Drosophila musculature. Here we find that the single fly ortholog, Drosophila Lar (Dlar), is localized to the muscle costamere and that a decrease in Dlar causes aberrant sarcomeric patterning, deficits in larval locomotion, and integrin mislocalization.

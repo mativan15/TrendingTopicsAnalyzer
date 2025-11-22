@@ -1,0 +1,6 @@
+Revitalising data and infrastructure management through cloud
+indiatimes.com
+business
+2022-10-17 23:30:00
+
+The Cloud has been a significant contributor to the digital optimisation and transformation of businesses and institutions globally since the 2010s. It seems almost an eternity ago, when the IT department was essentially a support function, with KRAs around design and delivery of Information Technology Architecture encompassing Infrastructure, Data Centres and constituent servers, personal computers, software, networking and security systems, along with the associated, vendor evaluation, outsourcing, contracting, commissioning and finally aligning with business systems and goals, as this pre-millennium Research Gate paper indicates.

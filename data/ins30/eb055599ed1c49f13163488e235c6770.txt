@@ -1,0 +1,6 @@
+Wovenware Develops Open-Source Plugin to Adyen Payments Gateway; Extends Reach of Kill Bill's Payments and Billing Platform
+Copyright 2022, Business Wire.
+tech
+2022-06-01 13:20:00
+
+LONDON & SAN JUAN, Puerto Rico--(BUSINESS WIRE)--Kill Bill, the open-source billing and payment platform and Wovenware, a provider of custom AI and software engineering solutions, have announced that Wovenware has created an open-source plugin that integrates the global eCommerce payments provider, Adyen, to the Kill Bill platform, to enable more options for payments and processing of credit/debit cards, ACH, PayPal, Venmo, and many other payment methods. "We're pleased that through our partner

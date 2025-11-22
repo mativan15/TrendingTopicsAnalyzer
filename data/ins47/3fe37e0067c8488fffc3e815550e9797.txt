@@ -1,0 +1,6 @@
+It's been a big year for Apple in the enterprise
+computerworld.com
+news
+2022-06-03 20:15:00
+
+Between WWDC 2021 and the imminent WWDC 2022, Apple has made significant changes that affect the enterprise community. It's worth taking a look back at what changed and what that might mean moving forward.Declarative managementOne of the biggest changes dates back to last year's conference. Declarative management is the most significant change to Apple's MDM (mobile device management) architecture since it debuted in 2010.The advantage of declarative management is that it moves much of the policy management to devices themselves, rather than have configuration profiles on each device that require it to check in with an MDM service and report its state.

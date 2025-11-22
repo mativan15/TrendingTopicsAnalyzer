@@ -1,0 +1,7 @@
+Linux Kernel 6.0 Released for the AmigaOne X1000/X5000 PowerPC-Based AmigaOS Computers
+slashdot.org
+news
+2022-10-16 16:34:00
+
+166803341 story Posted by EditorDavid on Sunday October 16, 2022 @12:34PM from the year-of-the-Linux-desktop dept. 
+ Mike Bouma (Slashdot reader #85,252) writes: Hyperion Entertainment is pleased to announce the immediate availability of a very substantial and comprehensive update of the Software Development Kit (SDK) for AmigaOS 4.1 54.16. Also Linux: Kernel 6.0 for AmigaOne X1000/X5000 has been released and the biggest Amiga event of the year will be held upcoming weekend in Mönchengladbach, Germany: the Amiga37 event.

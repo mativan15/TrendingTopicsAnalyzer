@@ -1,0 +1,8 @@
+FlexID gets Algorand funding to offer self-sovereign IDs to Africa's unbanked
+yahoo.com
+news
+2022-05-27 03:57:13
+
+Much of the world's attention around blockchain is on the highs and lows of cryptocurrency values. Startups like FlexID remind us that distributed ledger technology has the potential to play other roles, including offering trusted records of identities without the need for a centralized authority.
+
+One of the startups working towards this vision is Zimbabwe's FlexID, which is building a blockchain-based identity system for those excluded from the banking system due to their lack of identity documents.

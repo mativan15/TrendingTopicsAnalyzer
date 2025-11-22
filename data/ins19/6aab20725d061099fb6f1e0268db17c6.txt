@@ -1,0 +1,10 @@
+Researchers demonstrate quantum advantage with light box
+theregister.com
+news
+2022-06-02 09:16:05
+
+Researchers in Canada have conducted a quantum computing experiment that they claim completes a calculation in just a fraction of a second that would take a conventional computer 9,000 years.
+Jonathan Lavoie, an experimental physicist at quantum computing company Xanadu, and colleagues reported the results from a device designed to sample an unknown probability distribution of light passing through a network of optical fibers.
+ Fully fledged quantum computers are still a distant prospect, but [Lavoie and colleagues] have taken us a step closer to making such devices a reality
+
+Known as Gaussian boson sampling, a task can be calculated by conventional computers, up to certain parameters, while realistic estimates can be produced for calculation times beyond these limits.

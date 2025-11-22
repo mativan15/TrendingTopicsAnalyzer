@@ -1,0 +1,8 @@
+Perceptron: Risky teleoperation, Rocket League simulation, and zoologist multiplication
+yahoo.com
+news
+2022-05-30 17:48:09
+
+Research in the field of machine learning and AI, now a key technology in practically every industry and company, is far too voluminous for anyone to read it all. This column, Perceptron (previously Deep Science), aims to collect some of the most relevant recent discoveries and papers -- particularly in, but not limited to, artificial intelligence -- and explain why they matter.
+
+This week in AI, researchers discovered a method that could allow adversaries to track the movements of remotely-controlled robots even when the robots' communications are encrypted end-to-end.

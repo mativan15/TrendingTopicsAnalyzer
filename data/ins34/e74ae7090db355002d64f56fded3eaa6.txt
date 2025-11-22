@@ -1,0 +1,7 @@
+Multiplatform Linux ‘pretty much done' says Linus Torvalds
+theregister.com
+news
+2022-06-06 04:58:12
+
+Linus Torvalds has announced the first release candidate for version 5.19 of the Linux kernel, and declared it represents a milestone in multiplatform development for the project.
+After first commenting that the development process for this version has been made difficult by many late pull requests, then applauding the fact that most were properly signed, Torvalds opined that Linux 5.19 'is going to be on the bigger side, but certainly not breaking any records, and nothing looks particularly odd or crazy.

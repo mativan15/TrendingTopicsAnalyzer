@@ -1,0 +1,7 @@
+How To Upgrade Your Data Infrastructure With Zero Downtime
+Copyright 2022 Forbes Media LLC
+business
+2022-05-31 15:00:00
+
+Business woman study financial market to calculate possible risks and profits.Female economist ... [+] accounting money with statistics graphs pointing on screen of computer at desktop. Quotations on exchange getty 
+How do I upgrade my data infrastructure with near zero data downtime? originally appeared on Quora: the place to gain and share knowledge, empowering people to learn from others and better understand the world. Answer by Ben Gitenstein, Vice President of Product Management at Qumulo, on Quora: IT admins dread the process of planning for and performing upgrades - but it's necessary in order to take advantage of new features and maintain the strongest system security.

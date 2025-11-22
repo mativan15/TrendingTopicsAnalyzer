@@ -1,0 +1,6 @@
+How to reduce remote working cyber security attacks
+techradar.com
+tech
+2022-10-17 14:22:48
+
+Due to the impact of COVID-19, the number of people who work remotely has dramatically risen, meaning IT infrastructures and online systems are more relied upon by businesses than ever before.Inevitably, as virtual activity has increased, so has the threat posed by cyber security attacks. Without sufficient protection offered by the best online security suites (opens in new tab), business computer systems accessed on home networks are at real risk of being compromised by hackers who want to steal sensitive data for criminal purposes, such as fraud.

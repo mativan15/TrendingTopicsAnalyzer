@@ -1,0 +1,6 @@
+Stripe's expansion beyond traditional payments yields app marketplace and new crypto payments
+Insider
+business
+2022-05-26 13:55:14
+
+The news: Stripe ramped up its effort to offer more than traditional payments. It partnered with cryptocurrency payments infrastructure platform OpenNode so customers can convert incoming payments or any amount of their balance to Bitcoin and launched Stripe Apps and Stripe App Marketplace, per a set of press releases. Insider Intelligence Building a one-stop shop: The App Marketplace offers access to up to 50 third-party apps, including Mailchimp, Dropbox, and Ramp. It also provides scripts created by app developers to help users build and personalize their own apps.

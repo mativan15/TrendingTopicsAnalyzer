@@ -1,0 +1,7 @@
+Advances in water-splitting catalysts: Engineers develop stable devices that don't require expensive iridium
+sciencedaily.com
+news
+2022-10-20 12:29:53
+
+Creating a hydrogen economy is no small task, but Rice University engineers have discovered a method that could make oxygen evolution catalysis in acids, one of the most challenging topics in water electrolysis for producing clean hydrogen fuels, more economical and practical.
+The lab of chemical and biomolecular engineer Haotian Wang at Rice's George R. Brown School of Engineering has replaced rare and expensive iridium with ruthenium, a far more abundant precious metal, as the positive-electrode catalyst in a reactor that splits water into hydrogen and oxygen.

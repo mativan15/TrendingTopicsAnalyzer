@@ -1,0 +1,6 @@
+3 Google Merchant Center changes you may have missed
+searchengineland.com
+news
+2022-06-01 19:52:40
+
+Earlier this quarter, Google announced a series of changes coming to Merchant center that retailers should be aware of. Here's a recap.Pause attribute. In April, Google announced a ‘pause' attribute to temporarily halt ads. This lets merchants the ability to temporarily pause shopping ads without needing to use the 'out_of_stock' attribute or 'availability' attribute.This was a needed change because many times a retailer isn't looking to halt ads completely, or that a product will be back available for purchase in the near term.

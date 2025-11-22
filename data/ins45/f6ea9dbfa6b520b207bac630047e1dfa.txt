@@ -1,0 +1,6 @@
+The end of Big Data
+substack.com
+news
+2022-05-27 00:00:00
+
+Thirty-eight billion dollars isn't cool. You know what's cool? Being boring. Databricks is a $38 billion dollar mistake. As a ninth largest private tech company in the world,1 banking $800 million of revenue per year, it's a mistake all of us would be lucky to make. But it's hard not to look at Databricks and see a company selling to a bygone era. And the dizzying success of its competitors—Snowflake is worth $70 billion, even after its stock's brutal five-month slide; BigQuery, I've heard, books as much as $3 billion a year—suggests that, with a couple pivots, a repositioned Databricks could capture far more potential than it does today.

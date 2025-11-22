@@ -1,0 +1,6 @@
+How to change Gmail's spam settings to make the app more aggressive or lenient
+Insider
+business
+2022-06-01 17:46:48
+
+Over the years, apps like Gmail have gotten a lot better about detecting spam before it ever hits your inbox. But in the quest to catch all spam, Gmail sometimes gets things wrong. Emails that you actually need will get marked as spam, and junk mail appears in your inbox.Luckily, you've got a few different ways to change Gmail's spam settings and make sure you only see the emails you want. How to change Gmail's spam settingsThere are a few ways to manage Gmail's spam filter settings, but not all of them are available to all users.

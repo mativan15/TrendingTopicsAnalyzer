@@ -1,0 +1,12 @@
+A robot is killing weeds by zapping them with electricity
+Copyright (c) 2022 Turner Broadcasting System, Inc. All Rights Reserved.
+news
+2022-10-20 00:49:07
+
+London CNN Business —
+
+On a field in England, three robots have been given a mission: to find and zap weeds with electricity before planting seeds in the cleared soil.
+
+The robots — named Tom, Dick and Harry — were developed by Small Robot Company to rid land of unwanted weeds with minimal use of chemicals and heavy machinery.
+
+The startup has been working on its autonomous weed killers since 2017, and this April launched Tom, its first commercial robot which is now operational on three UK farms.

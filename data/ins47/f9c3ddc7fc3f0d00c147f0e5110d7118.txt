@@ -1,0 +1,6 @@
+Notix Announces the In-App Notifications Feature
+prnewswire.com
+news
+2022-10-17 12:34:00
+
+LIMASSOL, Cyprus, Oct. 17, 2022 /PRNewswire/ -- Notix, a multifunctional high-tech push notifications service for audience engagement, user retention, and monetization, announces that their new in-app notifications feature is now available for testing via the platform's SDK (software development kit). In-app is a meaningful contribution to the multichannel marketing strategy that allows sending messages within mobile applications. Before integrating in-app, users have a chance to check the demo application at Notix.

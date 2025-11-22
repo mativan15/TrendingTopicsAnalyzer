@@ -1,0 +1,7 @@
+How scientists predict solar wind speed accurately using multimodality information
+phys.org
+news
+2022-10-18 18:20:02
+
+by Beijing Institute of Technology Press Co., Ltd The combination of extreme ultraviolet (EUV) images and historical speeds can predict whether a high-speed solar wind will occur. Credit: Space: Science & Technology (2022). DOI: 10.34133/2022/9805707 
+As more and more high-tech systems are exposed to the space environment, space weather prediction can provide better protection for these devices. In the solar system, space weather is mainly influenced by solar wind conditions. The solar wind is a stream of supersonic plasma-charged particles which will cause geomagnetic storms, affect short-wave communications, and threaten the safety of electricity and oil infrastructure when passing over the Earth.

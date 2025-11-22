@@ -1,0 +1,8 @@
+UNISOC phone chip firmware vulnerable to remote crash
+theregister.com
+news
+2022-06-03 18:06:56
+
+A critical flaw in the LTE firmware of the fourth-largest smartphone chip biz in the world could be exploited over the air to block people's communications and deny services.
+The vulnerability in the baseband – or radio modem – of UNISOC's chipset was found by folks at Check Point Research who were looking for ways the silicon could be used to remotely attack devices. It turns out the flaw doesn't just apply to lower-end smartphones but some smart TVs, too.
+Check Point found attackers could transmit a specially designed radio packet to a nearby device to crash the firmware, ending that equipment's cellular connectivity, at least, presumably until it's rebooted.

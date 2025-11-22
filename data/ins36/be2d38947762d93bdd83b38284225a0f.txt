@@ -1,0 +1,6 @@
+Tableau re-engineers dashboards, adds new analytics tools for business analysts
+computerworld.com
+news
+2022-10-18 16:00:00
+
+Tableau has announced the availability of Tableau 2022.3, a new version of the data visualization and analysis program designed to make it easier for business users to gain insights into their data via the use of capabilities including a Data Guide to help uncover business intelligence more quickly, and a new advanced analytics and predictions tool called Table Extension.Tableau has also added more dynamic dashboards to its offering, alongside capabilities that provide detailed event data and audit permissions, and help customers optimize performance and cost.

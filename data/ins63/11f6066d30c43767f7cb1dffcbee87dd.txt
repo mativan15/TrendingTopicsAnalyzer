@@ -1,0 +1,6 @@
+5+ things to watch for at WWDC 22
+computerworld.com
+news
+2022-06-03 15:30:00
+
+Certainly one of the most important events in the tech industry calendar, Apple's Worldwide Developer's Conference (WWDC — a.k.a. 'DubDub') takes place starting June 6 with a keynote speech streamed from Apple Park. It's a given that Apple will discuss improvements in all its operating systems. What else should enterprise IT watch for at the event?New Macs and the road to M2Apple began its transition to Apple Silicon at WWDC 2020. Two years on, every Mac now runs some form of M1 chip, the Mac Pro is likely to break cover soon, and the company is already looking toward the M2 range.

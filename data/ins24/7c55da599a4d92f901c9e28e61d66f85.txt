@@ -1,0 +1,10 @@
+Sprinklr Positioned for Public Sector Growth with FedRAMP Authorized CXM Platform
+Copyright 2022, Business Wire.
+tech
+2022-10-18 12:00:00
+
+October 18, 2022 08:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Sprinklr (NYSE: CXM), the unified customer experience management (Unified-CXM) platform for modern enterprises, today announced that it has achieved Federal Risk and Authorization Management Program (FedRAMP) authorization for Sprinklr's Unified-CXM Platform at the Low Impact (LI-SaaS) level. With FedRAMP authorization, Sprinklr is prepared to help U.S. government agencies unify citizen experiences.
+
+
+
+FedRAMP is a government-wide program aimed to facilitate the adoption of secure cloud services across the federal government by providing a standardized approach to security and risk assessment of cloud service offerings.

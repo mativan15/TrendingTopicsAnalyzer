@@ -1,0 +1,6 @@
+Are your Kubernetes Clusters Right-sized?
+medium.com
+tech
+2022-10-17 20:22:51
+
+Right-sizing Kubernetes clusters, and overall environments, have become a very pressing topic for organizations across the globe. During the pandemic, many organizations put their foot on the gas regarding digital transformation. Much of this included refactoring their applications to more cloud-native technologies, with Kubernetes adoption skyrocketing during this period.Now with market conditions looking a bit scary, many companies are asking their IT team to pump the breaks a bit, mainly due to the rapid growth of their cloud bills.

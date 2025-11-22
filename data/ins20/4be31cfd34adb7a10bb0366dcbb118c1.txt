@@ -1,0 +1,6 @@
+A Methodology to Support Explanations in Decision-Making Systems
+medium.com
+entertainment
+2022-06-01 13:03:04
+
+Editor's note: Luc Moreau is a speaker for ODSC Europe 2022. Be sure to check out his talk, 'Explainability by Design: a Methodology to Support Explanations in Decision-making Systems,' there!There are increasing calls for the explainability of data-intensive applications. Such a demand for explainability stems from various reasons, such as regulations, governance frameworks, or business drivers. Explanations are becoming a mechanism to demonstrate good governance of data-processing pipelines. Go

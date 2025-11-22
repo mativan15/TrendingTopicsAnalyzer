@@ -1,0 +1,8 @@
+New DirectStorage 1.1 will tap GPU to speed up games even more
+pcworld.com
+news
+2022-10-18 03:10:55
+
+Microsoft said recently that it plans to release DirectStorage 1.1 by the end of 2022, improving scene loading times by a factor of three and dramatically speeding up PC games as a result.
+
+Microsoft announced the original DirectStorage API in March, promising to dramatically speed up game loading times by optimizing gameplay with NVMe SSDs for PCs. Now, Microsoft is taking the next step: offloading the decompression of the game's assets to the GPU, rather than the CPU, and speeding up games even further.

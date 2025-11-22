@@ -1,0 +1,37 @@
+Formation Mechanism and Modeling Method of Wrinkling Defects in Variable Angle Tow Steering Fiber Placement
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+Open AccessArticle by
+ 1, 1, 1,2,* and 1,2 
+
+
+1
+School of Mechanical Engineering and Automation, Beihang University, 37 Xueyuan Road, Beijing 100191, China
+
+
+2
+Ningbo Institute of Technology, Beihang University, Ningbo 315832, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Konstantinos Kontis
+
+Aerospace 2022, 9(10), 620; https://doi.org/10.3390/aerospace9100620 (registering DOI)
+
+
+Received: 31 August 2022
+/
+Revised: 13 October 2022
+/
+Accepted: 14 October 2022
+/
+Published: 19 October 2022
+ 
+
+Variable angle tow steering technology is capable of manufacturing complex aviation parts with a trajectory of intricate curvature planned based on stress or profile characteristics, which greatly improves the forming efficiency, design flexibility and mechanical properties of composite structures.

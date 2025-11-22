@@ -1,0 +1,32 @@
+The Methodology Matters: What Influences Market Reaction, and Post-Issue Returns in Seasoned Equity Offerings?
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+ * and 
+
+
+Weatherhead School of Management, Case Western Reserve University, 10900 Euclid Avenue, Cleveland, OH 44106, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Svetlozar (Zari) Rachev
+
+J. Risk Financial Manag. 2022, 15(10), 473; https://doi.org/10.3390/jrfm15100473 (registering DOI)
+
+
+Received: 17 September 2022
+/
+Revised: 2 October 2022
+/
+Accepted: 5 October 2022
+/
+Published: 18 October 2022
+ 
+
+Using a large database of U.S. seasoned equity offering (SEO) announcements from 2010 to 2015, we examine the effects of several explanatory variables—firm specific, macroeconomic, fixed income, and stock market variables—on the announcement period abnormal stock returns and on the longer-run post-issue abnormal returns.

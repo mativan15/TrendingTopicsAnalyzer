@@ -1,0 +1,6 @@
+Google Might Owe You Money for Your Face if You Live in Illinois
+gizmodo.com
+news
+2022-06-03 20:00:00
+
+Google took another hit today. The tech company has settled for $100 million following a class action lawsuit in Illinois over data privacy concerns from users of the Google Photos app.Why did Google get sued?A class action lawsuit was filed by the plaintiffs against Google, alleging that the company broke Illinois' Biometric Information Privacy Act. The act states that any private company collecting biometrics—defined as a retina or iris scan, fingerprint, voice, or hand or face scan—must have a publicly available written policy that establishes how long the data will be kept and how it will be destroyed at the end of its life.

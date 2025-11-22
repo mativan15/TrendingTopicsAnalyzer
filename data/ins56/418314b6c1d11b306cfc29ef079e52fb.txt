@@ -1,0 +1,6 @@
+What is a blockchain domain?
+techradar.com
+tech
+2022-06-02 17:30:46
+
+Useful for identifying cryptocurrency wallets and for facilitating crypto transactions in the metaverse, a blockchain domain is an easy-to-remember address for sending and receiving cryptocurrency, making transactions as easy as sending an email. They are an asset generally on a permissionless or public blockchain, which anyone can join pseudo-anonymously and are secured through a smart contract, just like an NFT.  In layman's terms, blockchain domains aren't stored on a server. Instead, they're held in a public ledger or public registry which is accessible to anyone.

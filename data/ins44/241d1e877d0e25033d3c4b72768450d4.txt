@@ -1,0 +1,8 @@
+AirPods Pro 2 have a big problem on Google Pixel 6 and 7, but there's a fix
+techradar.com
+news
+2022-10-20 10:36:20
+
+(Image credit: Shutterstock / Framesira)
+
+ Apple has always been happy to tout the compatibility of its AirPods earbuds with Android phones, but the company's newly released AirPods Pro 2 buds aren't currently working properly with Google's latest Pixel handsets.Several users on Reddit (opens in new tab) have reported encountering audio problems when using their AirPods Pro 2 with Google Pixel 6 and Google Pixel 7 devices. Specifically, a bug with A2DP offloading – which refers to the process of decoding audio sent over Bluetooth – is causing audio to weaken and stop after around 90 seconds of playback.

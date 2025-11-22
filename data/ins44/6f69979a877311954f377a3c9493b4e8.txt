@@ -1,0 +1,8 @@
+A Look At The Intrinsic Value Of Abbott Laboratories (NYSE:ABT)
+yahoo.com
+science
+2022-05-29 14:40:55
+
+In this article we are going to estimate the intrinsic value of Abbott Laboratories (NYSE:ABT) by taking the expected future cash flows and discounting them to their present value. Our analysis will employ the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.

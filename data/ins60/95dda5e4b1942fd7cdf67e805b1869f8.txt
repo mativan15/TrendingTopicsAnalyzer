@@ -1,0 +1,6 @@
+Go Agile or Go Home: Why Agile Workflow Should Kill the Waterfall Process for Good
+chron.com
+news
+2022-05-27 16:30:00
+
+If software development comes into your mind when someone mentions agile workflows, you're not alone. But agile methodology got its start not in computers, but in the post-WWII Japanese automotive industry. Edward Deming is known as the forefather of agile for developing lean strategies and giving Toyota's line workers the power to halt the line and troubleshoot the root cause of problems.Since then, the iterative workflow characteristic of agile has proven itself superior to the traditional waterfall approach and is being applied more broadly beyond the technology space.

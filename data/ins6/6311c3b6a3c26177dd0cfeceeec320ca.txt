@@ -1,0 +1,8 @@
+How to manage Flatpak permissions with Flatseal
+techrepublic.com
+news
+2022-06-01 16:02:30
+
+Image: Esteban Martinena/Adobe Stock
+Flatpak is quickly becoming the universal package format of choice for Linux users. One reason why so many are choosing Flatpak over Snap packages is that Flatpaks are significantly faster than Snaps. Flatpak apps are also run in a sandbox by default, which isolates each app from one another to make them a bit more secure. Because of this, changes to permissions for Flatpaks can only be made by the user.
+You'd be surprised at how many permissions are available to a Flatpak.

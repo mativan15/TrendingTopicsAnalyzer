@@ -1,0 +1,6 @@
+Applying software's agile concepts to hardware product development
+Copyright 2022, ESI Media Ltd
+news
+2022-06-01 09:40:50
+
+Onshape is a Business Reporter clientFor more than two decades, software development teams have embraced the Agile work model, which was popularised in part by publications such as the Agile Manifesto.With the implementation of Agile methodologies, software companies have increased productivity, improved outcome quality and cut time to market in half.A key difference between the Agile work model and other project management techniques, such as waterfall methodology or the phase-gate process, is a renewed focus on decision flexibility, increased collaboration and quicker feedback loops.

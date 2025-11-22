@@ -1,0 +1,8 @@
+Calculating The Intrinsic Value Of Palace Capital Plc (LON:PCA)
+yahoo.com
+news
+2022-10-16 07:52:18
+
+In this article we are going to estimate the intrinsic value of Palace Capital Plc (LON:PCA) by estimating the company's future cash flows and discounting them to their present value. We will use the Discounted Cash Flow (DCF) model on this occasion. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

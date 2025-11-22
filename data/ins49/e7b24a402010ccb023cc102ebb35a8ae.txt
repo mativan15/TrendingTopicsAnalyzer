@@ -1,0 +1,7 @@
+Material called a mechanical neural network can learn and change its physical properties
+phys.org
+news
+2022-10-21 05:46:17
+
+This connection of springs is a new type of material that can change shape and learn new properties. Credit: Jonathan Hopkins, CC BY-ND 
+A new type of material can learn and improve its ability to deal with unexpected forces thanks to a unique lattice structure with connections of variable stiffness, as described in a new paper by my colleagues and me. The new material is a type of architected material, which gets its properties mainly from the geometry and specific traits of its design rather than what it is made out of.

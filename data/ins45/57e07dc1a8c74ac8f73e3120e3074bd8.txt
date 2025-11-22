@@ -1,0 +1,8 @@
+Microsoft's tech to seriously speed up load times for Windows gamers is coming ‘soon'
+techradar.com
+news
+2022-10-16 10:19:44
+
+(Image credit: Square Enix)
+
+ Microsoft has announced that a fresh version of DirectStorage will be going out to game developers before the end of 2022, and it'll come with an important step forward in terms of speeding up loading times with SSDs.As you may be aware, DirectStorage is the feature first seen on the Xbox which brings faster load times – and better performance loading game assets in big open world titles – and it first arrived for Windows PCs back in March.What Microsoft has now revealed (opens in new tab) (hat tip to Tom's Hardware (opens in new tab)) is that DirectStorage 1.

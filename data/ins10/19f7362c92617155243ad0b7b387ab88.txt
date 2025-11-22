@@ -1,0 +1,8 @@
+The numbers speak volumes: 94% of business leaders find AI critical to business success
+techrepublic.com
+news
+2022-10-18 20:50:28
+
+Image: peshkova/Adobe Stock
+With talk of artificial intelligence in the enterprise moving from hype to implementation, Deloitte's State of AI 5th Edition research report finds that 94% of business leaders agree that AI is critical to success over the next five years.
+At the same time, one of the more surprising outcomes is that as AI deployments increase, outcomes are lagging Beena Ammanath, executive director of the global Deloitte AI Institute, told TechRepublic. Although 79% of respondents reported achieving full-scale deployment for three or more types of AI applications—up from 62% last year—the percentage of organizations in the underachiever category (high deployment/low outcomes) rose from 17% last year to 22% this year, the report said.

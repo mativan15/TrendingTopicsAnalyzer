@@ -1,0 +1,8 @@
+AppMap Named a 2022 TechCrunch Startup Battlefield Finalist
+yahoo.com
+news
+2022-10-18 19:29:00
+
+AppMap Selected Among Top 20 Companies to Compete on Prestigious Disrupt Stage; Unveiling Three New Runtime Code Analysis Tools that Boost Performance, Security, and Collaboration
+
+BOSTON, October 18, 2022--(BUSINESS WIRE)--AppMap (formerly AppLand), a provider of developer observability tools that run in the code editor, today announced the launch of three tools in its suite of solutions for runtime code analysis that increase performance, security, and collaboration at TechCrunch Disrupt 2022. AppMap was one of 20 companies selected from 200 to be named a Startup Battlefield Finalist for its work in transforming runtime code analysis for developers and software teams.

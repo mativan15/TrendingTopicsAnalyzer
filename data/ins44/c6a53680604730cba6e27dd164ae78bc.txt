@@ -1,0 +1,10 @@
+The real problem with apps like ArriveCAN and how government can fix it
+© Copyright 1996 - 2020 Toronto Star Newspapers Limited. All Rights Reserved , http://www.thestar.com/terms
+news
+2022-10-20 06:00:00
+
+Over the long weekend, two Canadian tech companies released their version of the troubled ArriveCAN app. Their point? That the existing app's reported $54-million price tag and difficult rollout were a waste of taxpayer dollars.
+
+To the average person, this might seem like a good point. Why was the app so expensive? Why was it so difficult to make? Why didn't it serve the public the way it was supposed to? It's almost too easy to see it as another case of government fumbling the bag.
+
+But there are complex reasons why it can be challenging (and yes, expensive) to develop, design and launch digital solutions in government.

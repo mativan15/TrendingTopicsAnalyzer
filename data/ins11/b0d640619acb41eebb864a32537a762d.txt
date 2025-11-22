@@ -1,0 +1,8 @@
+A Look At The Intrinsic Value Of IGas Energy plc (LON:IGAS)
+yahoo.com
+news
+2022-10-19 06:03:21
+
+Does the October share price for IGas Energy plc (LON:IGAS) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by taking the forecast future cash flows of the company and discounting them back to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method.

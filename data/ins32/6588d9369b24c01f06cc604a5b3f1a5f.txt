@@ -1,0 +1,6 @@
+Incorta integrates Delta Sharing with Direct Data Mapping
+techtarget.com
+tech
+2022-06-02 23:59:30
+
+Data management vendor Incorta added to its platform data-sharing capabilities based on the open source Delta Sharing protocol. Incorta's core technology is what the vendor refers to as Direct Data Mapping. With the technology, users can connect different data sources -- including databases, applications and data lakes -- to run analytics and business intelligence operations. It's an approach that includes data virtualization as well as indexing to help users map and query data sources. With the latest Incorta update, which became generally available on June 2, Incorta, based in San Mateo, Calif.

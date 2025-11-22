@@ -1,0 +1,7 @@
+AirTags, Explained: What to Know About Apple's Bite-Size Trackers
+cnet.com
+news
+2022-06-04 11:00:00
+
+The AirTag tracking tiles that Apple unveiled last year and that are available for purchase are one way the iPhone-maker can help you track non-Apple devices. Apple also allows its Find My app to locate items made by third parties
+.The groundwork for the AirTag was laid in 2014 with the iBeacon, a small, inexpensive Bluetooth transmitter that provided location-based information and services to iPhones. While Bluetooth can track items to within about 5 meters, ultrawideband, or UWB, technology can pinpoint them to within 5 to 10 centimeters.

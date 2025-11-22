@@ -1,0 +1,6 @@
+What are man pages and why are they important to your Linux education?
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-05-31 14:38:47
+
+As you begin your journey with Linux, you'll find things are far easier than you originally assumed. This is especially so on the desktop, where everything is a point-and-click affair and you could go your entire life without ever having to touch the command line. That's a far cry from when I first started my Linux journey (back in '96), at which point the terminal was an absolute necessity. Nearly everything I did required some level of command-line usage.Also: How to install Ubuntu Linux (It's easy!)Because of that, I spent a good amount of time RTFMing (look it up) my way through Linux.

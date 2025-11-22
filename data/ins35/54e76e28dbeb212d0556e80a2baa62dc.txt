@@ -1,0 +1,6 @@
+Traffic Jams Just A Maths Problem, Says Israeli AI Firm
+ibtimes.com
+news
+2022-05-29 03:23:10
+
+Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector.ITC, or Intelligent Traffic Control, was one of the artificial intelligence players at Tel Aviv's recent EcoMotion showcase where high-tech and AI firms hope to make transport more efficient and cleaner. Yoav Elgrichi, CEO and co-founder of Rider Dome Photo: AFP / JACK GUEZ Its AI software collects real-time data from road cameras and then sends instructions to manipulate traffic lights based on vehicle flows.

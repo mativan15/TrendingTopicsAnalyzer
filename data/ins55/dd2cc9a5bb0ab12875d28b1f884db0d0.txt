@@ -1,0 +1,8 @@
+Texas sues Google in row over biometric data
+theregister.com
+news
+2022-10-20 19:45:11
+
+Texas Attorney General Ken Paxton has sued Google claiming the internet titan captured biometric data from millions of Texans without notice and consent.
+The lawsuit [PDF] claims the Google Photos app and the Google Assistant as well as the Nest Hub Max hardware, all collect biometric identifiers. These include voiceprints and face geometry data, which stands in violation of the state's Capture or Use of Biometric Identifier Act (CUBI).
+The complaint claims features like Face Grouping in Google Photos, which can sort people using a facial recognition algorithm, may analyze third-parties in pictures where parties never consented.

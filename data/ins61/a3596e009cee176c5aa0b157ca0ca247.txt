@@ -1,0 +1,7 @@
+Focus resources on patching most threatening vulns: research
+theregister.com
+news
+2022-05-30 12:16:10
+
+Enterprise security teams being overrun by the rising numbers of vulnerabilities uncovered each day could vastly reduce their patching workload by changing how they prioritize the flaws, according to recent research from vulnerability startup Rezilion.
+Most enterprises look to the ratings given to flaws in the Common Vulnerability Scoring System (CVSS) framework, which range from 0 to 10 (with 10 being the highest) and are ranked as low and medium to high and critical, depending on the characteristics of the vulnerability.

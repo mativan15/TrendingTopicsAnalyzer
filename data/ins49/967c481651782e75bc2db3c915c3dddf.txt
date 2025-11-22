@@ -1,0 +1,7 @@
+This simple, but awesome, iPhone trick will save you from hackers
+hindustantimes.com
+tech
+2022-10-21 13:14:24
+
+iPhone has an amazing security feature that will save you from hacker attacks by blocking some of the most common cyber-schemes.
+ iPhones are one of the best smartphones across the globe and the one reason behind this is its security features. The handsets come with an in-built password manager that automatically blocks security threats. iPhone's iCloud Keychain stores the passwords, encrypts them, and stores them in the cloud and simply enters them while logging in. Apple explained in its blogpost, "It auto-fills your information – like your Safari usernames and passwords, credit cards, Wi-Fi networks and social log-ins – on any device that you approve.

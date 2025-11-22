@@ -1,0 +1,6 @@
+Size isn't the problem: 3 ways to gain real insight from your data
+venturebeat.com
+news
+2022-10-16 16:10:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Pundits have been saying it for years: Data is the new oil. And who can argue? Data has become an indispensable natural resource for modern enterprises, a must-have for business decision-making. But there's a fly in the ointment (or in this case, the oil). Organizations may be gathering data from all angles — every person, place or thing in a seemingly infinite digital trail — but to extract value, businesses must be able to answer a critical question: What is the data trying to say? Yearning for answers, many organizations pump more and more data into storage, as if simply amassing more data into ever-growing data lakes can provide deeper insights.

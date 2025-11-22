@@ -1,0 +1,7 @@
+The Murena One shows exactly how hard it is to de-Google your smartphone
+theverge.com
+news
+2022-05-31 12:01:00
+
+An Android phone without Google. No Google apps, no Google Play Services, no peppy Google Assistant. No Google surveillance and data snooping, no incessant ad targeting, no feeling like privacy is a pointless exercise. Some companies, like Huawei, have been forced to figure out how to build this kind of device. A few others have tried for the sake of maintaining your privacy and as a way to fight back against the tyranny of Big Tech. None of it has ever really worked.
+The team at Murena has been working on de-Googling Android phones for the last few years, starting back in 2017 when Gael Duval created an operating system he originally called Eelo.

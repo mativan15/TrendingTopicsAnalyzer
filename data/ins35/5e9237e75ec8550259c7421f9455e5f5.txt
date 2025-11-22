@@ -1,0 +1,27 @@
+Artificial Intelligence and Exploratory-Data-Analysis-Based Initial Public Offering Gain Prediction for Public Investors
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessFeature PaperArticle by
+ 1, 1, 2, 3, 4, 1, 1,*, 5 and 5,* 
+
+
+1
+Department of Computer Science and Engineering, Institute of Technology, Nirma University, Ahmedabad 382481, India
+
+
+2
+Software Engineering Department, College of Computer and Information Sciences, King Saud University, Riyadh 12372, Saudi Arabia
+
+
+3
+Computer Science Department, Community College, King Saud University, Riyadh 11437, Saudi Arabia
+
+
+4
+Department of Computer Engineering, U. V. Patel College of Engineering, Ganpat University, Mehsana 384012, India
+
+
+5
+Department of Power Engineering, Faculty of Electrical Engineering, 'Gheorghe Asachi' Technical University of Iasi, 67 D.

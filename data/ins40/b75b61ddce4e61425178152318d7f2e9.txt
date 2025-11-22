@@ -1,0 +1,8 @@
+Data integration trends to watch in 2022
+techrepublic.com
+news
+2022-10-17 20:33:21
+
+Image: wladimir1804/Adobe Stock
+The proliferation of remote and online work maximizes workforce potential for companies but spreads data thin from platform to platform. From customer relationship management software to cloud services, data for your business could be hosted in multiple locations, leading to disorganization, data set errors and poor decision-making.
+Companies are increasingly recognizing the problems that come with disparate data platforms and are leaning into data integration solutions.

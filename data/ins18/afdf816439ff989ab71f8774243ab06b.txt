@@ -1,0 +1,8 @@
+France fines Clearview AI maximum possible for GDPR breaches
+techcrunch.com
+tech
+2022-10-20 18:04:07
+
+Clearview AI, the controversial facial recognition firm that scrapes selfies and other personal data off the Internet without consent to feed an AI-powered identity-matching service it sells to law enforcement and others, has been hit with another fine in Europe.
+This one comes after it failed to respond to an order last year from the CNIL, France's privacy watchdog, to stop its unlawful processing of French citizens' information and delete their data.
+Clearview responded to that order by, well, ghosting the regulator — thereby adding a third GDPR breach (non-cooperation with the regulator) to its earlier tally.

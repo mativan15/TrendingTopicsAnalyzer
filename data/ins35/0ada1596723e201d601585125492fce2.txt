@@ -1,0 +1,8 @@
+A Look At The Intrinsic Value Of Devon Energy Corporation (NYSE:DVN)
+yahoo.com
+news
+2022-06-04 14:28:18
+
+In this article we are going to estimate the intrinsic value of Devon Energy Corporation (NYSE:DVN) by taking the expected future cash flows and discounting them to their present value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

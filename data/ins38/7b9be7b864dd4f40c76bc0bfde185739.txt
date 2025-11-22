@@ -1,0 +1,6 @@
+Three Faces of Efficient Business Process Management. BPA, RPA, and IPA Compared
+medium.com
+entertainment
+2022-10-18 08:12:03
+
+The amount of information we have to deal with day-by-day is large enough not to be able to handle it without specialized software tools. Ordinary events we face daily, from doctor's appointments to upcoming Zoom meetings, are compiled into a system with too many variables to track and manage efficiently. Therefore, at least, the use of a simple task management app is a must nowadays.In business, the stakes are much higher. The volumes of data that constant collaboration with clients generates are too big to efficiently process them manually.

@@ -1,0 +1,8 @@
+Calculating The Fair Value Of Hess Corporation (NYSE:HES)
+yahoo.com
+news
+2022-06-05 12:37:01
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Hess Corporation (NYSE:HES) as an investment opportunity by taking the expected future cash flows and discounting them to today's value. We will use the Discounted Cash Flow (DCF) model on this occasion. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

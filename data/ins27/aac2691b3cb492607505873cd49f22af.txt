@@ -1,0 +1,8 @@
+A Look At The Fair Value Of Burberry Group plc (LON:BRBY)
+yahoo.com
+news
+2022-06-03 06:43:00
+
+Today we will run through one way of estimating the intrinsic value of Burberry Group plc (LON:BRBY) by projecting its future cash flows and then discounting them to today's value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

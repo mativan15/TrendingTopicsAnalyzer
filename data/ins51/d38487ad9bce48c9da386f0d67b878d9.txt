@@ -1,0 +1,7 @@
+Arista builds Xilinx FPGAs into low-latency switches
+theregister.com
+news
+2022-06-02 12:56:13
+
+Arista Networks aims to eliminate every last ounce of excess latency from your network. And in pursuit of this goal, the company tapped an all-star cast of Broadcom, Intel, and AMD Xilinx silicon to power its latest switches.
+Suffice to say, these aren't your standard L3 switches, and you certainly aren't going to find them in your average datacenter or network closet. The latest entries to Arista's 7130-series pack a CPU, FPGA, and switch ASIC into a single appliance that's designed to accelerate latency-sensitive applications.

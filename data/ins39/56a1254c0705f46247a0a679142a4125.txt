@@ -1,0 +1,6 @@
+DDoS Protection: How to defend your business against DDoS Attacks
+techradar.com
+news
+2022-10-17 13:42:49
+
+A Distributed Denial of Service or DDoS is a method used to deny access for legitimate users of an online service. This service could be an e-commerce website, a bank, a SaaS application, or any other type of network service. Some attacks even target VoIP infrastructure. DDoS attacks are becoming threatening to every type of business. Whether, ecommerce or other online business, none of the firms are safe these days. The situation turned grave especially since 2010 onwards. Hundreds of businesses, both small and large, have lost millions of dollars because of the DDoS attacks.

@@ -1,0 +1,22 @@
+State of Health Estimation Based on the Long Short-Term Memory Network Using Incremental Capacity and Transfer Learning
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 1, 2, 2, 2, 2 and 2,* 
+
+
+1
+Henan Engineering Research Center of New Energy Vehicle Lightweight Design and Manufacturing, Zhengzhou University of Light Industry, Zhengzhou 450001, China
+
+
+2
+Henan Key Laboratory of Intelligent Manufacturing of Mechanical Equipment, Zhengzhou University of Light Industry, Zhengzhou 450001, China
+
+
+*
+Author to whom correspondence should be addressed.

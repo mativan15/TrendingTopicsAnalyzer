@@ -1,0 +1,6 @@
+Bitcoin mining bill to ban fossil fuel-powered operations passes in New York
+Copyright 2022, ESI Media Ltd
+news
+2022-06-03 14:21:54
+
+New York state has passed a bill that would ban bitcoin mining operations that use electricity from fossil fuel power plants.The state Senate voted 36-27 to impose a two year moratorium on all cryptocurrency mines that use carbon-based energy sources in an effort to address environmental concerns with the technology.Bitcoin mining requires vast amounts of electricity in order to perform the complex ‘proof-of-work' calculations that are used to generate new units of the cryptocurrency.According to some estimates, bitcoin mining consumes nearly 120TWh of electricity per year, which is roughly equivalent to the entire country of Argentina.

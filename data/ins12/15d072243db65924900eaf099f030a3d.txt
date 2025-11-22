@@ -1,0 +1,10 @@
+Microsoft disables Iran-linked hacker group targeting Israeli companies
+jpost.com
+news
+2022-06-03 01:54:00
+
+Microsoft detected and took down an Iran-linked Lebanese hacking group that targeted more than 20 Israeli organizations and one intergovernmental organization, the tech conglomerate announced Thursday.
+
+The group, which was tracked by Microsoft's Threat Intelligence Center (MSTIC) as POLONIUM, abused the company's OneDrive cloud storage platform for command and control (C2) purposes.
+
+POLONIUM, which was undocumented prior to this breach of OneDrive, "targeted or compromised" over 20 Israeli companies and one intergovernmental organization with operations in Lebanon in the past three months, Microsoft said.

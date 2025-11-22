@@ -1,0 +1,10 @@
+Manufacturing Overtakes Financial Services as the Sector With Fewest Software Security Flaws
+yahoo.com
+news
+2022-10-19 11:50:00
+
+72 percent of applications contain vulnerabilities, and 12 percent are considered ‘high severity' – the lowest of all industries analyzed
+
+Sector still has room for improvement, with some of the lowest and slowest fix rates, especially for open-source flaws
+
+BURLINGTON, Mass., October 19, 2022--(BUSINESS WIRE)--Veracode, a leading global provider of application security testing solutions, today revealed that the manufacturing sector has the lowest number of software security flaws, dethroning financial services which took first place last year.

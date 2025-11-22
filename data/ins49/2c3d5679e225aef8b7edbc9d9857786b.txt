@@ -1,0 +1,6 @@
+dbt Labs Launches the dbt Semantic Layer, Enabling Greater Consistency Across Analytics Tools
+businessinsider.com
+finance
+2022-10-18 17:30:00
+
+The dbt Semantic Layer enables key business metrics to be defined centrally and queried across a broad range of analytics toolsPHILADELPHIA, Oct. 18, 2022 /PRNewswire/ -- dbt Labs, the pioneer in analytics engineering, today officially launched the public preview of the dbt Semantic Layer. Announced during the keynote at dbt Labs' Coalesce 2022, the dbt Semantic Layer enables organizations to centrally define business metrics in dbt and then query them from any analytics tool, ensuring that critical definitions such as 'revenue,' 'customer count,' or 'churn rate' are consistent in every data application the organization is using.

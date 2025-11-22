@@ -1,0 +1,6 @@
+Microsoft Announces DirectStorage 1.1 With Faster Load Times for Games; Here Is Why It Matters
+ign.com
+gaming
+2022-10-17 11:20:39
+
+Are you frustrated by exorbitantly long loading times just like millions of other video gamers out there? Well, if you're a PC gamer, you might be in luck soon, thanks to Microsoft's DirectStorage 1.1. Version 1.0 of DirectStorage released earlier this year, and it showcased Microsoft's work behind the scenes at reducing load times for video games. Most of the time, CPUs handle all the decompression of assets for transfer, while a game runs. The transfer and the compression process are the biggest reasons behind long loading times on video games.

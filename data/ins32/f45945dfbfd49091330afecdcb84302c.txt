@@ -1,0 +1,12 @@
+Sui Network Turns to Mist Units to Improve Payment Efficiency
+yahoo.com
+news
+2022-10-21 07:38:08
+
+Developers of the Sui Network introduced Mist units for the project's native SUI tokens in a move geared towards more efficient micropayments.
+
+Mist is not a separate token, but functions similar to how 100 cents become $1. Each SUI will be broken up into 1 billion MIST, developers said, allowing for low gas fees while conducting transfers worth a few dollars.
+
+This content is not available due to your privacy preferences. Update your settings here to see it.
+
+Gas fees refers to a fee paid by users to perform any function on a blockchain.

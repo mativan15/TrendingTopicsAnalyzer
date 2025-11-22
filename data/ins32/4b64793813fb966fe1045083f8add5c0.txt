@@ -1,0 +1,6 @@
+DataStax Reports Strong Q1 Momentum with Global Adoption of its Astra DB Cloud Database
+businesswire.com
+news
+2022-05-31 00:00:00
+
+May 31, 2022 11:00 AM Eastern Daylight Time SANTA CLARA, Calif.--(BUSINESS WIRE)--DataStax, the real-time data company, announced a strong Q1 FY23, highlighting over 350% year-over-year sales growth for Astra DB, its award-winning serverless, multi-cloud database. In addition, over 50% of DataStax's new annual recurring revenue was attributed to Astra DB as organizations from around the globe look to its scale, performance and pay-as-you-grow affordability to deliver the real-time applications that fuel their business.

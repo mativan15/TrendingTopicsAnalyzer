@@ -1,0 +1,10 @@
+Dogecoin Users Can Now Access Web3, Defi, Thanks To Dogechain Launching On Ploygon Edge
+ibtimes.com.au
+news
+2022-06-03 09:10:58
+
+Dogecoin has launched its blockchain explorer service on Polygon Edge, giving its holders access to Web 3 and DeFi and enabling them to write smart contracts, launch dApps, build blockchain games and even create non-fungible tokens (NFT).
+"One of the early adopters of @0xPolygonEdge is rolling closer to the moon every day. #Doge chain is now live #onPolygon. It joins 40+ other projects built using the #PolygonEdge framework," Polygon announced on Twitter.
+ Photo: Reuters / Dado Ruvic 
+
+Polygon Edge is a modular and extensible framework used for developing Ethereum-compatible networks, general scaling solutions and sidechains.

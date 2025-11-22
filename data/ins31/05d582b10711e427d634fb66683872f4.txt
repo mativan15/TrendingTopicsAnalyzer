@@ -1,0 +1,6 @@
+Astros add Seth Martinez to ALCS roster; Meyers off
+mlb.com
+news
+2022-10-19 17:13:17
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"astros-2022-al-championship-series-roster\",\"type\":\"story\"}).parts.5":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"astros-2022-al-championship-series-roster\",\"type\":\"story\"}).parts.5.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

@@ -1,0 +1,6 @@
+Artificial Intelligence in Chat bot Development
+medium.com
+entertainment
+2022-06-05 13:05:24
+
+Abhishek Kumbhar, Pranav Biyani, Samruddhi Deshmukh, Vipul DhopteThis blog is written by the group TY12. In this blog we will be trying to explain in detail the types of chat bots, their development, and how they're made.Before we start properly, let's get a few basics down pat. A chat bot (Conversational AI) is an automated program that simulates human conversation through text messages, voice chats, or both. It learns to do that based on a lot of inputs, and Natural Language Processing (NLP).Chat bots today are integral in many industries and companies for Social Media, E-Commerce, Customer Services and even Healthcare.

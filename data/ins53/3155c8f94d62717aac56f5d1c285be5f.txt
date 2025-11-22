@@ -1,0 +1,6 @@
+CISO's pick for 2023 cybersecurity stack: What's in and what's out
+indiatimes.com
+business
+2022-10-20 04:06:00
+
+Today, businesses are opting for an agile strategy for prioritizing and deprioritizing cybersecurity initiatives depending on their short-term and long-term business strategies and the available budgets to execute cybersecurity initiatives accordingly. This plan, however, may be accomplished by recognizing the next driving forces for upgrading the core security technology stack.According to the Forrester report 2022, 55% of security professionals acknowledge their organization experienced a security incident or breach last year involving supply chain providers, while third-party attacks account for 60% of global security incidents.

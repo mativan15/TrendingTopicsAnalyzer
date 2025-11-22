@@ -1,0 +1,8 @@
+How to use a timeline to filter multiple PivotCharts in Microsoft Excel
+techrepublic.com
+news
+2022-06-01 18:26:00
+
+Image: howtogoto/Adobe Stock
+Microsoft Excel's timeline object is a dynamic filter option that filters PivotTables and PivotCharts by Date/Time values. They're like slicers, in that the timeline filters data, but it specifically filters by date and time elements.
+For instance, you might use a timeline to allow users to filter a sales chart by quarters, years, months and even days. You can even control more than one PivotChart with the same timeline. In this article, I'll show you how to use a timeline to filter two different PivotCharts based on the same data.

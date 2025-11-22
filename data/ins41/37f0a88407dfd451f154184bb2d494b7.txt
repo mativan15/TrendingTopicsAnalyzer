@@ -1,0 +1,6 @@
+Threats in the shadows: Combatting RF attacks with geofencing
+venturebeat.com
+news
+2022-05-28 18:10:00
+
+Did you miss a session from GamesBeat Summit 2022? All sessions are available to stream now. Watch now. There are no shortages of attack vectors that cybercriminals can use to infiltrate an enterprise. From phishing and malware to routers and HVAC systems, security teams are already spread thin, and now they can add shadow IT to their list of security concerns. Shadow IT is a broad term covering the use of systems, devices, software, applications, and services without the knowledge or approval of IT departments.

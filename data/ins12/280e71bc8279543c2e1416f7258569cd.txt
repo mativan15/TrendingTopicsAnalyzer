@@ -1,0 +1,32 @@
+A Unified PUF and Crypto Core Exploiting the Metastability in Latches
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+Open AccessArticle by
+ *, , , , and 
+
+
+Department of Computer and Network Engineering, The University of Electro-Communications (UEC), Tokyo 182-8585, Japan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Agostino Forestiero and Mohamed Abd Elaziz
+
+Future Internet 2022, 14(10), 298; https://doi.org/10.3390/fi14100298 (registering DOI)
+
+
+Received: 30 August 2022
+/
+Revised: 7 October 2022
+/
+Accepted: 12 October 2022
+/
+Published: 17 October 2022
+ 
+
+Hardware acceleration of cryptography algorithms represents an emerging approach to obtain benefits in terms of speed and side-channel resistance compared to software implementations.

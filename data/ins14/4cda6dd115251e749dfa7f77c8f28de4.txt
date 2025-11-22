@@ -1,0 +1,10 @@
+Secure access for a connected world—meet Microsoft Entra
+microsoft.com
+business
+2022-05-31 13:00:00
+
+What could the world achieve if we had trust in every digital experience and interaction?
+
+This question has inspired us to think differently about identity and access, and today, we're announcing our expanded vision for how we will help provide secure access for our connected world.
+
+Microsoft Entra is our new product family that encompasses all of Microsoft's identity and access capabilities. The Entra family includes Microsoft Azure Active Directory (Azure AD), as well as two new product categories: Cloud Infrastructure Entitlement Management (CIEM) and decentralized identity.

@@ -1,0 +1,8 @@
+What is data mining?
+techrepublic.com
+news
+2022-10-17 20:51:36
+
+Image: ZinetroN/Adobe Stock
+Data mining is an important big data management strategy that is gaining steam, especially as organizations realize how many patterns and problems data mining operations can detect across their data sets. In this guide, learn what data mining is, how it operates and why it might be the next data management strategy you need to incorporate into your business.
+Jump to: Data mining is used to identify patterns, correlations and anomalies in large data sets for data analysis.

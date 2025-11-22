@@ -1,0 +1,9 @@
+Gartner's Top 10 Strategic Tech Trends For 2023
+Copyright 2022 Forbes Media LLC
+business
+2022-10-19 18:51:02
+
+Gartner offers thoughts on the future of technology for 2023 and beyond getty
+This week, Gartner Inc. announced its top ten strategic technology trends for 2023 at their Gartner IT Symposium/Xpo 2022 in Orlando this week. The ten trends are broken into four themes: optimize, scale, pioneer, sustainability. The top ten trends are: Digital immune system Applied observability AI trust, risk, and security management (AI TRiSM) Industry cloud platforms Platform engineering Wireless-value realization Superapps Adaptive AI Metaverse Sustainable technology 
+ Theme 1: Optimize
+Digital Immune System As CIOs increasingly take on revenue generating responsibilities, antiquated development and testing approaches are no longer sufficient for delivering robust and resilient business-critical solutions that also provide a superior user experience.

@@ -1,0 +1,8 @@
+Atlassian: Unpatched critical Confluence flaw under attack
+theregister.com
+news
+2022-06-03 00:28:07
+
+Atlassian has warned users of its Confluence collaboration tool that they should either restrict internet access to the software, or disable it, in light of a critical-rated unauthenticated remote-code-execution flaw in the product that is actively under attack.
+An advisory dated June 2, 1300 PT (2000 UTC), does not describe the nature of the flaw, and reveals "current active exploitation" has been detected. No patch is available.
+The flaw is present in version 7.18 of Confluence Server, which is under attack, as well as potentially versions 7.

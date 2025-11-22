@@ -1,0 +1,6 @@
+ironSource Officially Supports App Development Engine Flutter, Expanding Access for Developers of Apps in All Categories
+businesswire.com
+news
+2022-05-31 00:00:00
+
+May 31, 2022 08:00 AM Eastern Daylight Time TEL AVIV, Israel--(BUSINESS WIRE)--ironSource (NYSE: IS), a leading business platform for the App Economy, today announced its official support of app development engine Flutter. App developers who have built their apps with Flutter can now integrate the ironSource SDK into their app, and monetize through ironSource's market-leading mediation solution LevelPlay, giving them access to powerful optimization features, robust reporting offering total transparency and the ability to connect to any ad network through mediation custom adaptors.

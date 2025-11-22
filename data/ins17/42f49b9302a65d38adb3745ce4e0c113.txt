@@ -1,0 +1,8 @@
+Growing Popularity of Cash-Margined Bitcoin Futures Suggests That Crypto 'Liquidation Cascades' Might Become Rare
+yahoo.com
+news
+2022-10-18 11:02:32
+
+The bitcoin (BTC) derivatives market has undergone a significant structural change in the past 18 months, making the asset class less vulnerable to volatility-inducing liquidation cascades.
+
+The cash-margined contracts, which require traders to deposit the U.S. dollar or dollar-linked assets like stablecoins as collateral to take leveraged bets, now account for a record 65% of the total open positions (or open interest) in the BTC futures market, according to data tracked by analytics firm Glassnode.

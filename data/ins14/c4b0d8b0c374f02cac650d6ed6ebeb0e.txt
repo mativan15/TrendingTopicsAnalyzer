@@ -1,0 +1,6 @@
+Adopting MLSecOps for secure machine learning at scale
+venturebeat.com
+news
+2022-06-03 20:07:00
+
+We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Given the complexity, sensitivity and scale of the typical enterprise's software stack, security has naturally always been a central concern for most IT teams. But in addition to the well-known security challenges faced by devops teams, organizations also need to consider a new source of security challenges: machine learning (ML).

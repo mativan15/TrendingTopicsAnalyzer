@@ -1,0 +1,6 @@
+Council Post: How A Semantic Layer Makes Data Mesh Work At Scale
+Copyright 2022 Forbes Media LLC
+business
+2022-05-27 14:30:00
+
+CTO, AtScale, empowering customers to democratize data, implement self-service BI & build more agile analytics for better decision making. getty In my first article in the series, I introduced a model for assessing your organization's analytics maturity. I suggested a path to achieving maturity that included technology, process and people considerations. In my next article, I offered advice for choosing the right technology to build out your analytics foundation. In this article, we'll focus more on the people and process side of building a mature analytics capability for your organization.

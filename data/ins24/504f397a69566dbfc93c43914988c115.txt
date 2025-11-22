@@ -1,0 +1,8 @@
+Does your AMD X370, B350, or A320 motherboard work with Ryzen 5000?
+Copyright (c) 2022 IDG Communications, Inc.
+news
+2022-05-27 13:10:35
+
+Gordon Mah Ung / IDG 
+
+Originally, AM4 motherboards with X370, B350, and A320 chipsets weren't supposed to work with Ryzen 5000 processors. But in a surprising reversal, AMD changed its mind—with the caveat that only select motherboards would get the necessary BIOS update. This generous policy can mean the difference between having enough money to afford better replacement hardware and having to cut a few corners. But if you're still relatively new to PC building, it may not be immediately clear how to determine whether your motherboard works with a new CPU like the Ryzen 5 5600 or Ryzen 7 5700X.

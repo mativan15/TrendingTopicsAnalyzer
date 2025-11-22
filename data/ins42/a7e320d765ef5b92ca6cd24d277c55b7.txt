@@ -1,0 +1,8 @@
+Google submits its pure Go container project to CNCF
+theregister.com
+news
+2022-10-19 19:00:11
+
+Google has offered its tool for pure Go Kubernetes containers to the Cloud Native Computing Foundation (CNCF) ... and may have thought it was a done deal.
+The CNCF is the Linux Foundation project that acts as the guardian of Kubernetes since Google stepped away.
+The KO project is a tool for building application containers that contain pure Go apps – in the project's description: A now-deleted post on Google's open source blog yesterday announced: "Google donates KO tool for simple fast and secure container image building to CNCF.

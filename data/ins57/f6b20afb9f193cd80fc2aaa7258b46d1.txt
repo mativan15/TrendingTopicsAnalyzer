@@ -1,0 +1,6 @@
+Surpassing NVIDIA FasterTransformer's Inference Performance by 50%, Open Source Project Powers into…
+medium.com
+entertainment
+2022-05-30 23:53:55
+
+The development of artificial intelligence(AI) and high-performance computing(HPC) has dramatically revolutionized our lives and brought significant potential to our society. For example, Facebook has 1.82 billion daily active users and issues tens of trillions of inference queries per day, which requires essential changes in the development process and system design.Traditional deep learning(DL) systems usually focus on the single-model single-machine inference setting. However, the exponential growth of DL models leads to an inability to execute large pre-trained models on a single machine.

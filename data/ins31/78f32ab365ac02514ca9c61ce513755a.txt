@@ -1,0 +1,23 @@
+Emotional-Health-Oriented Urban Design: A Novel Collaborative Deep Learning Framework for Real-Time Landscape Assessment by Integrating Facial Expression Recognition and Pixel-Level Semantic Segmentation
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+Open AccessArticle by
+ 1, 1, 2, 2, 3, 4 and 2,* 
+
+
+1
+Institute of Urban and Rural Planning Theories and Technologies, College of Civil Engineering and Architecture, Zhejiang University, Hangzhou 310058, China
+
+
+2
+Institute of Landscape Architecture, College of Agriculture and Biotechnology, Zhejiang University, Hangzhou 310058, China
+
+
+3
+Department of Landscape Architecture, School of Civil Engineering and Architecture, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+4
+The Architectural Design & Research Institute of Zhejiang University Co, Ltd.

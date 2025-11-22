@@ -1,0 +1,8 @@
+Datadog finds serverless computing is going mainstream
+yahoo.com
+finance
+2022-06-02 20:35:08
+
+A new report from Datadog has found that serverless computing could be entering the mainstream with over half of all organizations using serverless on one of the three major clouds – Amazon, Microsoft and Google.
+
+The company found in a 2020 report that while some customers were using Lambda, Amazon's function as a service (FaaS), the other clouds lagged behind. This year's report showed that Datadog users were using serverless tech across all three clouds, with Amazon leading the way with over 70% and Microsoft and Google each over 50%, showing that it has caught on in a big way across all of the major cloud platforms.

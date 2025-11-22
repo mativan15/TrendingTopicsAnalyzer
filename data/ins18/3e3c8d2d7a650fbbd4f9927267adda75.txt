@@ -1,0 +1,7 @@
+Council Post: How To Keep Your Business On The Ground While Migrating To The Cloud
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 14:00:00
+
+Graig Paglieri is the CEO of Randstad Technologies Group and Managing Director of Global Professionals.
+getty In today's digital economy, the outcome of cloud migrations can have a profound long-term impact on business outcomes for organizations of all sizes. However, independent research suggests that few organizations fully realize the anticipated benefits from their migration effort as the journey to the cloud increases in complexity. In fact, one-third of cloud migrations fail outright, and only 1 in 4 organizations meet their migration deadlines.

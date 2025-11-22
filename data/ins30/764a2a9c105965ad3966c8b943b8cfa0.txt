@@ -1,0 +1,6 @@
+Building a Better Patient Billing Process With Blockchain
+medium.com
+entertainment
+2022-10-18 19:51:56
+
+While blockchain is mostly mentioned in the context of bitcoin and other forms of cryptocurrency, this type of tech also has major implications for medical billing. Blockchain refers to a decentralized database managed by an independent third party. In the bitcoin blockchain, all transactions take place in unique 'blocks,' which prevents the reuse of cryptocurrency.In healthcare billing, these attributes of the blockchain structure enhance data security and transparency, which can, in turn, improve management of your revenue cycle, increase profits, and encourage patient retention.

@@ -1,0 +1,7 @@
+Android 13 update for Windows 11! Yes, Microsoft to make it happen soon
+hindustantimes.com
+tech
+2022-10-22 04:32:52
+
+Android 13 update is coming for Windows 11 Subsystem, should make integration with Windows PCs better.
+ Windows 11 aims to offer much better integration with various other platforms and it showed an exemplary one with Android. With Windows 11 launch last year, it was possible for Windows users to now run their Android apps directly on the PC. You can even cast your Android phone's screen directly on your PC, and even do easy file transfers with the Windows drag-n-drop function. It seems it is now set to get even better once Microsoft updates the Windows 11 Subsystem for Android to Android 13.

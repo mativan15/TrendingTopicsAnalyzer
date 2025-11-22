@@ -1,0 +1,34 @@
+Fine-Grained Urban Air Quality Mapping from Sparse Mobile Air Pollution Measurements and Dense Traffic Density
+Creative Commons Attribution (CC-BY)
+science
+2022-05-30 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2,*, 2,3, 4,5, 2,3, 4, 2,3 and 1,2 
+
+
+1
+imec-TELIN-IPI, Department of Telecommunications and Information Processing, Ghent University, Sint-Pietersnieuwstraat 41, 9000 Ghent, Belgium
+
+
+2
+imec, Kapeldreef 75, 3001 Leuven, Belgium
+
+
+3
+Department of Electronics and Informatics, Vrije Universiteit Brussel, Pleinlaan 2, 1050 Brussels, Belgium
+
+
+4
+imec The Netherlands, High Tech Campus 31, 5656 Eindhoven, The Netherlands
+
+
+5
+Flemish Institute for Technological Research (VITO), Boeretang 200, 2400 Mol, Belgium
+
+
+*
+Author to whom correspondence should be addressed.

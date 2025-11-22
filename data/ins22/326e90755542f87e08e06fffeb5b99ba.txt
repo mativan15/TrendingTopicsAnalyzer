@@ -1,0 +1,16 @@
+LastPass vs. 1Password: How to choose between two great password managers
+zdnet.com
+tech
+2022-10-20 17:53:00
+
+Getty Images/iStockphoto
+
+Passwords are a fact of life, and if you're one of those people who reuses the same couple of passwords because that's all you can remember, then you really need to think seriously about a password manager.
+
+But in a world where there are countless options, which one is the right one for you?
+
+Here I'm going to look at two of the most popular options -- LastPass and 1Password -- and examine the pros and cons of each.
+
+But before I go on, what is a password manager?
+
+A password manager is an app, or a combination of online services and apps that safely and securely store your passwords -- it also securely distributes them to all of your devices.

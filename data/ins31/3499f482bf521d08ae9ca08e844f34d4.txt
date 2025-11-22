@@ -1,0 +1,8 @@
+Next-gen Thunderbolt goes up to 120Gbps for 8K displays
+Copyright © 2022, Situation Publishing
+news
+2022-10-19 16:00:07
+
+A new generation of Thunderbolt interconnect technology is coming, with Intel promising data speeds up to 120Gbit/sec when it ships.
+The next-generation Thunderbolt tech doesn't have an official name yet, but we will be surprised if it turns out to be anything other than Thunderbolt 5. Full details have yet to be disclosed, including when it will be available, but we predict it will be sometime next year.
+What we do know is that it is "aligned with" USB4 v2, meaning that both standards are based on the same underlying physical layer hardware, even down to using the same USB-C connector – just as happened with Thunderbolt 4 and USB4.

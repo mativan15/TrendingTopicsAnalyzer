@@ -1,0 +1,50 @@
+Numerical Investigation of the Knocking Combustion Characteristics of the N-Butanol/N-Octanol RCCI Engine
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ *, , , and 
+
+
+School of Mechanical and Power Engineering, Nanjing Tech University, Nanjing 211816, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Albert Ratner
+
+Processes 2022, 10(10), 2142; https://doi.org/10.3390/pr10102142 (registering DOI)
+
+
+Received: 30 September 2022
+/
+Revised: 18 October 2022
+/
+Accepted: 19 October 2022
+/
+Published: 20 October 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+The n-butanol/n-octanol fueled reactivity-controlled compression ignition engine was numerically studied based on the KIVA-CHEMKIN code.

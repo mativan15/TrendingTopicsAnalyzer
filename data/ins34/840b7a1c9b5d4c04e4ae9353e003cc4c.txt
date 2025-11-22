@@ -1,0 +1,6 @@
+Kubernetes or other Container Orchestrators: Select the right one for your applications
+medium.com
+tech
+2022-06-03 07:15:35
+
+Container Orchestrator ComponentsContainers are an affordable way to build, test and deploy applications across multiple environments: from a developer's local laptop to on-premises production servers and the cloud. A single container might use to run anything from a small micro-service or a more extensive application, although micro-service is probably the more common use case. In large application deployments, multiple containers are preferred and more common. This approach enables better scaling strategies, is more secure, is easier to manage, and saves more resources.

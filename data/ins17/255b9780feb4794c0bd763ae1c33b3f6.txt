@@ -1,0 +1,6 @@
+Nvidia RTX 4080 vs Nvidia RTX 3080 Ti: which epic GPU is best?
+techradar.com
+tech
+2022-10-22 10:00:56
+
+The comparison between the Nvidia RTX 4080 vs Nvidia RTX 3080 TI graphics card just got a lot more simple – but that could actually make the choice more difficult for consumers. Nvidia was initially planning to launch two versions of the RTX 4080 GPU, one with 16GB of memory, the AD103 GPU chip, and 9728 CUDA cores, and a cut-down model with 12GB of memory, fewer CUDA cores, and an AD104 chip. However, there was a rather severe backlash, where many people (including us) pointed out that the performance difference between the two versions of the RTX 4080 was likely to be so great, that calling them both the RTX 4080 was extremely confusing.

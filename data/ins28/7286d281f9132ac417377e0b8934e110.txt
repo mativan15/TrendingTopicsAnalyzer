@@ -1,0 +1,8 @@
+Lumigo Applauded by Frost & Sullivan for Simplifying Complex Business App Architectures With Its Cloud-native App Observability Platform
+yahoo.com
+news
+2022-06-02 12:00:00
+
+The Monitoring and Debugging Platform provides outstanding user experience, easy onboarding, and full self-serve capabilities, helping businesses benefit from the tremendous value of modern cloud architectures .
+
+SAN ANTONIO, June 2, 2022 /CNW/ -- Frost & Sullivan recently researched the European and Israeli serverless operations and artificial intelligence (AI) market, and based on its findings, recognizes Lumigo with the 2022 Europe and Israel Technology Innovation Leadership Award. The company helps organizations adopt serverless observability via distributed tracing with an artificial intelligence engine natively architected for the serverless world.

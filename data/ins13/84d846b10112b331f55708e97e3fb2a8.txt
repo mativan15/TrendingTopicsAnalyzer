@@ -1,0 +1,6 @@
+Cloud computing dominates. But security is now the biggest challenge
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-06-01 14:55:52
+
+Cloud computing security is complicated, but now a top priority for business. Credit: Getty Images/Charday PennIt's clear that cloud computing is rapidly becoming the dominant model for used by business to host data and applications, and to develop new services.Adoption of cloud computing has been growing rapidly over the past decade, and soon a tipping point will be reached, with use of cloud computing for application software, infrastructure software, business process services and system infrastructure overtaking traditional on-premises technology options within the next two or three years.

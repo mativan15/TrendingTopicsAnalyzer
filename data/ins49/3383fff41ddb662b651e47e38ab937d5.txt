@@ -1,0 +1,6 @@
+Top 5 stories of the week: Cloud innovations from Google amid a cloud spending slowdown
+venturebeat.com
+news
+2022-10-15 12:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Coverage of Google's latest innovations and leading predictions dominated news coverage this week as the tech giant touted new strides in artificial intelligence (AI), computer vision, open source, cloud and the future of passwords — or lack thereof with its new rollout of passkey authentication.   At its Google Next 2022 event, the company debuted several tools and technologies to help enterprises navigate a rapidly evolving technological world, including its new Vertex AI Vision service, OpenXLA Project and support for unstructured data and Apache Spark on BigQuery, to name a few.

@@ -1,0 +1,8 @@
+GitHub Copilot may steer Microsoft into a copyright lawsuit
+theregister.com
+news
+2022-10-19 11:28:05
+
+Special report GitHub Copilot – a programming auto-suggestion tool trained from public source code on the internet – has been caught generating what appears to be copyrighted code, prompting an attorney to look into a possible copyright infringement claim.
+On Monday, Matthew Butterick, a lawyer, designer, and developer, announced he is working with Joseph Saveri Law Firm to investigate the possibility of filing a copyright claim against GitHub. There are two potential lines of attack here: is GitHub improperly training Copilot on open source code, and is the tool improperly emitting other people's copyrighted work – pulled from the training data – to suggest code snippets to users?
+Butterick has been critical of Copilot since its launch.

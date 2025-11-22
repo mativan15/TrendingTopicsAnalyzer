@@ -1,0 +1,7 @@
+Otonomo Strengthens Partnership With SAP by Integrating Its Smart Mobility Data Platform With SAP Digital Vehicle Hub
+virtual-strategy.com
+news
+2022-10-18 16:00:00
+
+HERZLIYA, Israel and SAN FRANCISCO, Oct. 18, 2022 (GLOBE NEWSWIRE) — Otonomo Technologies Ltd. (Nasdaq: OTMO), the platform powering the mobility economy, today announced the integration of its Otonomo Smart Mobility Data Platform with SAP Digital Vehicle Hub. The integration will help enable businesses to derive new insights for fleet management and maintenance based on connected vehicle data, drive future mobility business models, and generate new value and revenue streams.
+SAP Digital Vehicle Hub is a central cloud-based repository for vehicle-related master, transactional and usage data based on SAP Business Network for Asset Management enhanced for the automotive industry.

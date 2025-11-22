@@ -1,0 +1,6 @@
+Forter Announces Forter Plugin
+businesswire.com
+news
+2022-06-02 00:00:00
+
+June 02, 2022 09:00 AM Eastern Daylight Time NEW YORK--(BUSINESS WIRE)--Forter, the Trust Platform for digital commerce, today announced it has launched Forter Plugin for Salesforce Commerce for B2C on Salesforce AppExchange, empowering customers using the B2C platform to prevent fraud and abuse at checkout. Consequently, merchants can shift their focus to improving experiences and growing revenue from their best customers. Forter is the first and only stand-alone, automation-based fraud solution available to Salesforce Commerce for B2C users.

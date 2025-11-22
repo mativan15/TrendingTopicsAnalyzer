@@ -1,0 +1,7 @@
+Red Hat to help DOE to containerize supercomputing
+theregister.com
+news
+2022-06-01 10:45:05
+
+Cloud-native architectures have changed the way applications are deployed, but remain relatively uncharted territory for high-performance computing (HPC). This week, however, Red Hat and the US Department of Energy will be making some moves in the area.
+The IBM subsidiary – working closely with the Lawrence Berkeley, Lawrence Livermore, and Sandia National Laboratories – aims to develop a new generation of HPC applications designed to run in containers, orchestrated using Kubernetes, and optimized for distributed filesystems.

@@ -1,0 +1,6 @@
+Coralogix streams $142M into its coffers to expand its production analytics into a full-stack observability platform – TechCrunch
+techcrunch.com
+tech
+2022-06-01 10:59:39
+
+We've long documented the challenges that DevOps and operations teams in specific areas like security face these days when it comes to data observability: a wide range of services across the landscape of an organization's network translates into many streams of data that they need to track for performance, security and other reasons. That's leading to the rise of a wave of startups building tools to improve how to manage this. In one of the latest developments, Coralogix, which has built a platform to harness those data streams into one mighty river is announcing a mighty round of funding to expand its business.

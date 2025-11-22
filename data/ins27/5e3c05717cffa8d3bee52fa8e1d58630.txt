@@ -1,0 +1,7 @@
+Oracle unveils a bevy of products across its cloud BI/analytics stack, explains its business advantage
+venturebeat.com
+news
+2022-10-18 12:06:00
+
+To further strengthen our commitment to providing industry-leading coverage of data technology, VentureBeat is excited to welcome Andrew Brust and Tony Baer as regular contributors. Watch for their articles in the Data Pipeline.
+At Oracle's CloudWorld conference today, the database and applications juggernaut is announcing a range of enhancements to its cloud BI/analytics stack. These include new base features in the core Oracle Analytics Cloud (OAC) platform and, perhaps more important, new coverage for an array of analytics business use cases in Oracle Fusion Analytics, the pre-built analytics models, data pipelines and dashboards for Oracle's Fusion Applications.

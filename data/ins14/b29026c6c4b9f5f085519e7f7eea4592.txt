@@ -1,0 +1,6 @@
+Cloud-native strategies for digital business acceleration
+indiatimes.com
+business
+2022-10-19 23:30:00
+
+The cloud ecosystem, which has been such an important lever in digital transformation, has undergone a significant evolution from the early days of on-demand or Software-as-a-Service (SaaS) applications, all through the 2010s era of PaaS (Platform-as-a-Service), IaaS (Infrastructure-as-a-Service), and MBaaS (Mobile Back-end as-a-Service), fostered by the advances in public, private, community and later on industry cloud ecosystems. As companies embarked upon their journeys of embracing cloud across applications, assets, software, and infrastructure, the Linux Foundation project of the cloud native computing foundation (CNCF) in 2015 offered the cloud-native approach: a radically different strategy from the traditional 'lift and shift'/ repurchase approach.

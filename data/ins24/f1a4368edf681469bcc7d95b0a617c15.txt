@@ -1,0 +1,8 @@
+An Intrinsic Calculation For Pennon Group Plc (LON:PNN) Suggests It's 30% Undervalued
+yahoo.com
+news
+2022-05-27 08:15:21
+
+Today we will run through one way of estimating the intrinsic value of Pennon Group Plc (LON:PNN) by taking the expected future cash flows and discounting them to their present value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.

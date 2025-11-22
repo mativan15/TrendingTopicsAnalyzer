@@ -1,0 +1,32 @@
+Using Unified Modeling Language to Analyze Business Processes in the Delivery of Child Health Services
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+ * and 
+
+
+Institute for Research on Population and Social Policies, National Research Council, 00185 Rome, Italy
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Paul B. Tchounwou
+
+Int. J. Environ. Res. Public Health 2022, 19(20), 13456; https://doi.org/10.3390/ijerph192013456 (registering DOI)
+
+
+Received: 19 August 2022
+/
+Revised: 27 September 2022
+/
+Accepted: 3 October 2022
+/
+Published: 18 October 2022
+ 
+
+Business Process Management (BPM) has been increasingly used in recent years in the healthcare domain to analyze, optimize, harmonize and compare clinical and healthcare processes.

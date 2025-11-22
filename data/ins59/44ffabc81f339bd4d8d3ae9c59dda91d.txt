@@ -1,0 +1,8 @@
+Developers say they work for tech-first companies, but data may not support it
+techrepublic.com
+news
+2022-05-31 22:35:32
+
+Image: monsitj/Adobe Stock
+Over 3,700 front-end development professionals filled out The Software House's survey on front-end software development, but only 82% of them think they work for a tech-first company.
+I say only because if we've learned anything over the past decade or so, it's that every organization needs to be serious about software. This isn't to suggest that software is the only thing organizations need to worry about, but these survey results make me worry that while the biggest slice of the survey respondents think that software is central to their businesses, other data shows that very few non-software businesses do software very well.

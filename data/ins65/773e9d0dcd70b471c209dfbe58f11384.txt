@@ -1,0 +1,6 @@
+Backpropagation! Propagating the info back to you!
+medium.com
+entertainment
+2022-05-29 00:32:08
+
+Photo by Bruce Röttgers on UnsplashTo unlock the mystical blackbox of backpropagation, for new machine learning enthusiasts, I've created this short analogy.To use an everyday analogy, we'll consider cooking your favorite food!!To cook your favorite food, you'll need ingredients. To get/buy your ingredients, you'll need money. The amount of money you're willing to spend (budget) influences how much you can spend on your ingredients, and the amount of ingredients you have would determine how many portions of your favorite food that you can prepare.

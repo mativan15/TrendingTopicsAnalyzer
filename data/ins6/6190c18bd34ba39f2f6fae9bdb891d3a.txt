@@ -1,0 +1,7 @@
+Oracle Invites Customers and Partners To Build on Its Applications Platform
+prnewswire.com
+news
+2022-10-19 12:06:00
+
+Oracle Applications Platform enables enterprise developers to leverage Redwood UX components and services to extend investments in Oracle Fusion Cloud Applications
+LAS VEGAS, Oct. 19, 2022 /PRNewswire/ -- Oracle CloudWorld -- To help enterprise developers extend Oracle business applications with a consistent consumer-grade user experience (UX), Oracle is making the design system and platform powering its applications available to customers and partners. Oracle Applications Platform enables organizations to leverage Oracle's award-winning Redwood UX components, advanced technologies such as search, self-learning recommendations, and conversational experiences as well as telemetry and low-code development tools, to quickly and easily deliver secure apps that complement and seamlessly integrate with Oracle's complete suite of cloud applications.

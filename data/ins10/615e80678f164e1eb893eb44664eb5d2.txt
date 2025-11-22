@@ -1,0 +1,8 @@
+Microsoft Outlook's Exchange Online mailbox issues will be fixed… eventually
+techradar.com
+news
+2022-10-19 22:08:46
+
+(Image credit: Shutterstock / monticello)
+
+ Microsoft has acknowledged a known issue that's preventing some users from configuring their Exchange Online mailboxes in Outlook for Windows - but has given no timeline for a fix.As reported by BleepingComputer (opens in new tab), Microsoft has shared (opens in new tab) a manual fix for IT admins until a code fix is issued. The company also said that the issue with Outlook, its hosted email service for businesses, stems from Error 603 codes after the configuration process fails during the Outlook Connectivity Test.

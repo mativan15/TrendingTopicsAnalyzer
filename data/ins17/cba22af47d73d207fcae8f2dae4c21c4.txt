@@ -1,0 +1,10 @@
+Houseware Launches Integration With the dbt Semantic Layer to Accelerate Warehouse-native Data Apps
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 12:00 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Houseware, the world's first warehouse-native revenue experience company, today announced it has partnered with dbt Labs, the pioneer in analytics engineering, and released an integration with the newly launched dbt Semantic Layer. This will help joint customers extend the value of their data workflows to non-technical business users by standardizing how key business metrics are defined.
+
+
+
+Houseware powers the revenue experience for leading SaaS businesses by providing an easy-to-use canvas on top of cloud data platforms like Snowflake and BigQuery.

@@ -1,0 +1,8 @@
+An Intrinsic Calculation For Haleon plc (LON:HLN) Suggests It's 34% Undervalued
+yahoo.com
+news
+2022-10-19 05:43:17
+
+Does the October share price for Haleon plc (LON:HLN) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by taking the expected future cash flows and discounting them to their present value. This will be done using the Discounted Cash Flow (DCF) model. It may sound complicated, but actually it is quite simple!
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

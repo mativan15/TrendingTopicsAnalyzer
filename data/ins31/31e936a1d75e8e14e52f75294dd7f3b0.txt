@@ -1,0 +1,6 @@
+Reduction Model Checking for Multi-Agent Systems of Group Social Commitments
+Creative Commons Attribution (CC-BY)
+science
+2022-05-28 00:00:00
+
+Innumerable industries now use multi-agent systems (MASs) in various contexts, including healthcare, security, and commercial deployments. It is challenging to select reliable business protocols for critically important safety-related systems (e.g., in healthcare). The verification and validation of business applications is increasingly explored concerning multi-agent systems' group social commitments. This study explains a novel extended reduction verification method to model-check business applications' critical specification rules using action restricted computation tree logic (ARCTL).

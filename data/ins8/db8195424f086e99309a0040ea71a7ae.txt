@@ -1,0 +1,6 @@
+XLY ETF: Consumer Discretionary Dashboard For October
+seekingalpha.com
+finance
+2022-10-18 07:30:53
+
+97 This monthly article series shows a dashboard with aggregate subsector metrics in Consumer Discretionary. It is also a top-down analysis of sector ETFs like the Consumer Discretionary Select Sector SPDR ETF (NYSEARCA:XLY), the Fidelity MSCI Consumer Discretionary Index ETF (FDIS) and the Vanguard Consumer Discretionary ETF (VCR), whose largest holdings are used to calculate these metrics. Shortcut The next two paragraphs in italic describe the dashboard methodology. They are necessary for new readers to understand the metrics.

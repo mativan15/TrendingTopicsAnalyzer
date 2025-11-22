@@ -1,0 +1,10 @@
+Bridge Security Is ‘Unresolved Technical Challenge,' Chainalysis Research Director Says
+yahoo.com
+news
+2022-10-17 17:25:33
+
+The crypto industry needs to overcome its issues with bridge security, according to Kimberly Grauer, director of research at software company Chainalysis Inc.
+
+'Bridge security is an unresolved technical challenge in the industry,' Grauer said during an appearance on CoinDesk TV's 'First Mover' on Monday.
+
+Bridges in particular are one of the leading types of decentralized finance (DeFi) protocols that have been targeted extensively by hackers, according to Grauer. 'The perception around that is not that there's a honey pot of money, but a lot of funds stored in one place that are backing funds on another blockchain,' she said.

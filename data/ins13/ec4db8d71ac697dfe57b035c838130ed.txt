@@ -1,0 +1,6 @@
+GlobalFoundries to scale GaN chips production at Vermont site with $30M federal funding
+seekingalpha.com
+finance
+2022-10-17 14:59:03
+
+blackdovfx GlobalFoundries (NASDAQ:GFS) announced on Monday $30M in federal funding to advance the development and production of next-generation gallium nitride chips at its facility in Essex Junction, Vermont. The fund, secured by U.S. Senator Patrick Leahy as an appropriation in the Consolidated Appropriations Act for Fiscal Year 2022, will allow GlobalFoundries (GFS) to acquire tools and extend development and implementation of 200mm GaN wafer manufacturing. The incorporation of scaled GaN manufacturing into the Fab's capabilities positions the company to produce chips for high-power applications, including electric vehicles, industrial motors, and energy applications.

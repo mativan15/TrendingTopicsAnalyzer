@@ -1,0 +1,6 @@
+Overcoming traditional IT security technology limitations with remote workforce
+techradar.com
+tech
+2022-10-17 13:21:08
+
+As the world's businesses had to regroup and rethink their business-continuity strategies at the beginning of this year, organizations had to quickly transition to a remote workforce.  Seemingly overnight, business-processes and the technologies used to accomplish those processes changed.  Business could no longer be carried out safely or effectively on-premises with the onset of the global pandemic.With this very quick and abrupt change, the security solutions, policies, and other details of the entire IT operations strategy could no longer be carried out as it had been before.

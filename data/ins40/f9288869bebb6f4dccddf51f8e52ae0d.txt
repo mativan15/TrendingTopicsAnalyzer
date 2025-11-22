@@ -1,0 +1,6 @@
+Legal Theory Lexicon: Uncertainty, Risk, and Ignorance
+typepad.com
+news
+2022-05-29 13:00:00
+
+Introduction First year students soon learn that the law must deal with uncertainty--imperfect knowledge about the past, present, or future.  What level of precaution is required by the duty of reasonable care when engaging in behavior that might or might not cause a harm?  How should regulators deal with a new technology (e.g., genetically modified organisms when they were first introduced) when the possible harms (and benefits) are speculative?  What should a jury do when conflicting evidence makes it uncertain whether a defendant is innocent or guilty?  What should a judge do when crucial evidence has been destroyed and we cannot know which side it would have (decisively) favored? Questions like these can be made more tractable with tools developed by decision theorists, economists, policy scientists, and philosophers.

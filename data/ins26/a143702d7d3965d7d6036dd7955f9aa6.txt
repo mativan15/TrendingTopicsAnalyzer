@@ -1,0 +1,27 @@
+A Profit Maximization Inventory Model: Stock-Linked Demand Considering Salvage Value with Tolerable Deferred Payments
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+Open AccessArticle by
+ 1, 2, 3, 4,* and 4,* 
+
+
+1
+Department of Mathematics, Institute of Technology, Nirma University, Ahmedabad 382481, Gujarat, India
+
+
+2
+United World School of Computational Intelligence, Karnavati University, Gandhinagar 382422, Gujarat, India
+
+
+3
+Department of Computer Sciences and Engineering, Institute of Advanced Research, Gandhinagar 382426, Gujarat, India
+
+
+4
+Faculty of Materials Science and Engineering, Gheorghe Asachi Technical University of Iasi, 700050 Iasi, Romania
+
+
+*
+Authors to whom correspondence should be addressed.

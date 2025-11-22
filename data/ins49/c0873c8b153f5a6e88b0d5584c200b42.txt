@@ -1,0 +1,6 @@
+Medibank hack: what do we know about the data breach, and who is at risk?
+theguardian.com
+sport
+2022-10-21 01:29:23
+
+A major cybersecurity incident has occurred at Medibank Private just weeks after one-third of Australians had their information held to ransom in the Optus data breach.As one of Australia's biggest health insurance providers, Medibank holds information that includes intimate medical records, making the breach orders of magnitude more serious than the Optus hack.There was another data breach earlier this week of the online wine retailer Vinomofo, which led to the records of 700,000 users being sold on a Russian-language cybercriminal forum.

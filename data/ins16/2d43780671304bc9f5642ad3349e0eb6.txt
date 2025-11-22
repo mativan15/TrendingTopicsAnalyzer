@@ -1,0 +1,25 @@
+Bearing Fault Diagnosis Based on Randomized Fisher Discriminant Analysis
+Creative Commons Attribution (CC-BY)
+science
+2022-10-22 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 1,2,*, 1, 1, 2, 3 and 1 
+ 
+1
+School of Information Science and Engineering, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+2
+Key Laboratory of Intelligent Manufacturing Quality Big Data Tracing and Analysis of Zhejiang Province, China Jiliang University, Hangzhou 310018, China
+
+
+3
+College of Control Science and Engineering, Zhejiang University, Hangzhou 310058, China
+
+
+*
+Author to whom correspondence should be addressed.

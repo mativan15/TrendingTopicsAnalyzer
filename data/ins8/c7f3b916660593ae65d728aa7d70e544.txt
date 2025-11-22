@@ -1,0 +1,8 @@
+Deadbolt ransomware is being used to target NAS vendors and customers
+techradar.com
+tech
+2022-10-19 14:54:22
+
+(Image credit: Avast)
+
+ Operators of the dreaded Deadbolt ransomware are attacking network-attached storage (NAS (opens in new tab)) users and NAS manufacturers in equal measure.In a study (opens in new tab) titled 'Deadbolt ransomware: nothing but NASty', Cybersecurity researchers from Group-IB published their analysis of an ongoing ransomware attack campaign being waged against NAS devices built by the Taiwanese manufacturer QNAP. The attackers are using a zero-day exploit (a never-before-seen vulnerability) in QNAP's NAS devices to compromise the endpoints and deliver the malware (opens in new tab) variant to small and medium-sized businesses (SMB), schools, and regular consumers.

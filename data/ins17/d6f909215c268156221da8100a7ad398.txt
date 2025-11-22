@@ -1,0 +1,8 @@
+Machine learning has an alarming threat: undetectable backdoors
+thenextweb.com
+news
+2022-05-27 15:00:20
+
+This article is part of our coverage of the latest in AI research.
+If an adversary gives you a machine learning model and secretly plants a malicious backdoor in it, what are the chances that you can discover it? Very little, according to a new paper by researchers at UC Berkeley, MIT, and the Institute of Advanced Study.
+The security of machine learning is becoming increasingly critical as ML models find their way into a growing number of applications. The new study focuses on the security threats of delegating the training and development of machine learning models to third parties and service providers.

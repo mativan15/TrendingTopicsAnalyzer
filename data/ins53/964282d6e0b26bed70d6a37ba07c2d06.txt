@@ -1,0 +1,8 @@
+Salesforce complexity can be 'difficult' to govern – Gartner
+theregister.com
+business
+2022-05-31 13:30:09
+
+The set of enterprise technologies acquired by Salesforce in recent years, together with its own applications, have proved "more difficult and expensive to govern than expected for many customers," says Gartner.
+The global tech analyst offered a balanced view of the SaaS company in a research report, saying Salesforce was "strong" in both its strategy and corporate viability. However, its overall rating had fallen from "strong" to "positive".
+For context, Gartner offers a five step rating, with the first three being "weak", "caution" and "variable.

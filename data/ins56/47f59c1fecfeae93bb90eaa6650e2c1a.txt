@@ -1,0 +1,10 @@
+Rampant spam has reportedly forced Google to turn off RCS ads in India
+theverge.com
+news
+2022-06-01 18:31:32
+
+Users in India reported that Google Messages' RCS ads feature was being abused.
+Illustration by Alex Castro / The Verge
+
+
+Google Messages users in India have reported receiving a deluge of unwanted ads in recent weeks using Rich Communication Services (RCS), and it seems Google has employed a response strategy: turn them all off. A Google spokesperson told Gadgets 360 that the company is 'aware that some businesses are abusing our anti-spam policies to send promotional messages to users in India,' and it would be 'disabling this feature in India while we work with the industry to improve the experience for users.

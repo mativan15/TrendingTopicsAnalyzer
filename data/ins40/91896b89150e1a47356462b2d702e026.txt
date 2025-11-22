@@ -1,0 +1,8 @@
+Businesses increasing encryption efforts
+techradar.com
+tech
+2022-10-17 11:42:30
+
+(Image credit: Shutterstock)
+
+ Businesses are increasingly adopting encryption strategies, according to a new report by Thales. More than four in ten (41 per cent) of respondents in the report said their organisation has an encryption strategy that is applied ‘consistently', across the enterprise.What's also interesting as that for the first time since Thales started making these reports (12 years), business unit leaders have more influence on these things than IT operations.FiguresLooking at the figures, the report states that two thirds (67 per cent) use one of two routes: They either perform on-premise encryption, or send the data into the cloud (opens in new tab), where it's encrypted using on-premise generated keys.

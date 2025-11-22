@@ -1,0 +1,6 @@
+Reducing scope of GDPR is one way to avoid fines
+techradar.com
+tech
+2022-10-17 13:24:57
+
+The General Data Protection Regulation (opens in new tab) has meant that the age-old debate about the adequacy of security in the cloud has reared its head again, with a recent eperi (opens in new tab) study of 250 IT security professionals indicating uncertainty when it comes to cloud security in relation to the regulation. It found that 53 per cent of respondents felt GDPR data security requirements would keep them from putting sensitive data in the cloud. For the majority (85 per cent), this was due to their lack of confidence in the protection of sensitive data.

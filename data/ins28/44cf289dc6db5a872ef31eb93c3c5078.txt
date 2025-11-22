@@ -1,0 +1,7 @@
+Novel method for early disease detection using DNA droplets
+phys.org
+news
+2022-06-03 17:36:54
+
+-. Credit: Tokyo Tech 
+Aqueous droplet formation by liquid-liquid phase separation (or coacervation) in macromolecules is a hot topic in life sciences research. Of these various macromolecules that form droplets, DNA is quite interesting because it is predictable and programmable, which are qualities useful in nanotechnology. Recently, the programmability of DNA was used to construct and regulate DNA droplets formed by coacervation of sequence designed DNAs. A group of scientists at Tokyo University of Technology (Tokyo Tech) led by Prof.

@@ -1,0 +1,37 @@
+Innovation of Family-Owned Enterprises and Government Subsidies: From A Policy-Oriented Perspective
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+Open AccessArticle by
+ 1,* and 2 
+
+
+1
+School of Economics, Qingdao University, Qingdao 266071, China
+
+
+2
+College of Architecture and Urban Planning, Qingdao University of Technology, Qingdao 266033, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Jason Jolley
+
+Sustainability 2022, 14(20), 13331; https://doi.org/10.3390/su142013331 (registering DOI)
+
+
+Received: 9 September 2022
+/
+Revised: 2 October 2022
+/
+Accepted: 11 October 2022
+/
+Published: 17 October 2022
+ 
+
+This paper investigates the influence effects of government subsidies on the innovation of family-owned enterprises in China through a panel data model and Heckman two-stage model, and explores the possible influence mechanisms of government subsidies on different innovation behaviors of family-owned enterprises through a mediation analysis method.

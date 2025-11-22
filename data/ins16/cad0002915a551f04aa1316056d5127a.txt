@@ -1,0 +1,31 @@
+Failure Prediction in 3D Printed Kevlar/Glass Fiber-Reinforced Nylon Structures with a Hole and Different Fiber Orientations
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 
+
+
+Department of Mechanical Engineering, College of Engineering, Qassim University, Unaizah 56452, Saudi Arabia
+
+
+
+Academic Editor: Khalil Abdelrazek Khalil
+
+Polymers 2022, 14(20), 4464; https://doi.org/10.3390/polym14204464 (registering DOI)
+
+
+Received: 18 September 2022
+/
+Revised: 15 October 2022
+/
+Accepted: 20 October 2022
+/
+Published: 21 October 2022
+
+
+(This article belongs to the Section Polymer Composites and Nanocomposites)
+ 
+
+This study examined the mechanical performance of 3D-printed, fiber-reinforced composites with a rectangular shape and a hole at one end.

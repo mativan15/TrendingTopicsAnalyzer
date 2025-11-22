@@ -1,0 +1,8 @@
+Microsoft sets multi-factor authentication as default for all Azure AD customers
+techrepublic.com
+news
+2022-06-01 15:39:21
+
+The latest move will enable MFA as the default security setting even for older Azure accounts. 
+ Image: tete_escape/Adobe Stock
+Microsoft is taking a more aggressive step to try to protect users of Azure Active Directory from account compromise. In a new blog post, the company revealed that it's adding multi-factor authentication as the default security setting for existing Azure customers who haven't changed that setting on their own. This means that administrators and users alike will be required to set up MFA and use it to secure their logins each time they sign in.

@@ -1,0 +1,11 @@
+Couchbase Adds App Services to Enhance Couchbase Capella with Mobile Support, Allowing Developers to More Easily Build Modern Distributed Applications
+prnewswire.com
+news
+2022-06-02 13:00:00
+
+Couchbase launches Capella App Services, simplifying the design and deployment of fast and resilient mobile and IoT apps
+
+Tweet this
+
+
+Without built-in, robust bi-directional synchronization, developers have to design and build this complex capability themselves to prevent mobile applications from suffering from downtime, incorrect or lost data, delayed operations unpredictable costs and frustrated end users. Reliability is a core attribute of today's modern applications and must be powered by a database that can support backend app services and synchronization to maintain data integrity and consistency.

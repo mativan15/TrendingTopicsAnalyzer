@@ -1,0 +1,6 @@
+SnapLogic Introduces Amazon HealthLake Accelerator to Help Organizations Quickly Connect Data and Automate Processes
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time SAN MATEO, Calif.--(BUSINESS WIRE)--SnapLogic, a leader in Enterprise Automation, today launched the SnapLogic Accelerator for Amazon HealthLake, which enables healthcare and life sciences organizations to easily ingest a range of raw data into Amazon HealthLake, powered by Amazon Web Services (AWS), and transform it into healthcare-related insights and actions. This new Amazon HealthLake-dedicated integration and automation accelerator will help organizations looking to quickly connect systems, automate processes, and accelerate analytics to create a secure, modern healthcare experience.

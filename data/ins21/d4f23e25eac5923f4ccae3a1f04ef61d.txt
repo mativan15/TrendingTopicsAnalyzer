@@ -1,0 +1,8 @@
+SolarWinds Announces Launch of SolarWinds Observability to Provide Comprehensive Visibility in Hybrid and Multi-Cloud Environments
+yahoo.com
+news
+2022-10-19 11:30:00
+
+Fully-integrated, cloud-native SaaS solution ensures optimal performance and user experience across complex IT environments
+
+AUSTIN, Texas, October 19, 2022--(BUSINESS WIRE)--SolarWinds (NYSE:SWI), a leading provider of simple, powerful, and secure IT management software, today announces the launch of SolarWinds® Observability, a fully-integrated, cloud-native SaaS offering that provides unified and comprehensive visibility for today's modern, distributed, hybrid, and multi-cloud IT environments.

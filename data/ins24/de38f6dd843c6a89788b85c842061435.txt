@@ -1,0 +1,8 @@
+Microsoft Is Killing Money In Excel Along With Wolfram Alpha Data Types
+Copyright 1997-2016, SlashdotMedia. All Rights Reserved.
+news
+2022-06-01 02:02:00
+
+Do you develop on GitHub? You can keep using GitHub but automatically sync your GitHub releases to SourceForge quickly and easily with this tool so your projects have a backup location, and get your project in front of SourceForge's nearly 30 million monthly users. It takes less than a minute. Get new users downloading your project releases today! ×
+ 162497448 story Posted by BeauHD on Tuesday May 31, 2022 @10:02PM from the no-reasons-given dept. 
+ In an email sent to Microsoft 365 subscribers, the company announced that is killing off Money and Wolfram Alpha data types in Excel starting next year.

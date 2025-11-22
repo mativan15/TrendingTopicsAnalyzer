@@ -1,0 +1,8 @@
+An Intrinsic Calculation For PTC Inc. (NASDAQ:PTC) Suggests It's 48% Undervalued
+yahoo.com
+news
+2022-05-28 13:54:29
+
+In this article we are going to estimate the intrinsic value of PTC Inc. (NASDAQ:PTC) by projecting its future cash flows and then discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. It may sound complicated, but actually it is quite simple!
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

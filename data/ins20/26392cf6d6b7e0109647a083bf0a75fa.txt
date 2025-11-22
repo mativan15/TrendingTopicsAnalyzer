@@ -1,0 +1,35 @@
+Tribological, Corrosion, and Mechanical Properties of Selective Laser Melted Steel
+Creative Commons Attribution (CC-BY)
+science
+2022-10-16 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessReview by
+, , , , , , and * 
+
+
+Department of Mechanical Engineering, University of Nevada Reno, Reno, NV 89557, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Dmitry A. Chinakhov
+
+Metals 2022, 12(10), 1732; https://doi.org/10.3390/met12101732 (registering DOI)
+
+
+Received: 21 September 2022
+/
+Revised: 8 October 2022
+/
+Accepted: 8 October 2022
+/
+Published: 16 October 2022
+ 
+
+In additive manufacturing (AM), selective laser melting (SLM) is a relatively novel technique that utilizes thermal energy via laser beams to melt and solidify metallic powders into three-dimensional components.

@@ -1,0 +1,35 @@
+Modeling of Thermal-Lag Engine with Validation by Experimental Data
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+ * and 
+
+
+Department of Aeronautics and Astronautics, National Cheng Kung University, No.1, University Road, Tainan 70101, Taiwan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Maria Cristina Cameretti
+
+Energies 2022, 15(20), 7688; https://doi.org/10.3390/en15207688 (registering DOI)
+
+
+Received: 14 September 2022
+/
+Revised: 7 October 2022
+/
+Accepted: 14 October 2022
+/
+Published: 18 October 2022
+
+
+(This article belongs to the Section I: Energy Fundamentals and Conversion)
+ 
+
+Thermal-lag engines are external combustion engines with a single moving piston.

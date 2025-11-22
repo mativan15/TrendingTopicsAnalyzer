@@ -1,0 +1,7 @@
+Why and How Java Continues to Be One of the Most Popular Enterprise Coding Languages
+dzone.com
+news
+2022-06-01 16:45:00
+
+Java was created over 25 years ago, and it is still one of the most popular programming languages. This article will present an overview of how Java has grown into today's complex system and why it continues to remain a contemporary development environment.
+According to The PYPL Popularity of Programming Language Index, in February 2022, Java was the second most popular language globally, and its use has grown by 1.2% compared to February 2021. This ranking is determined by analyzing requests for language tutorials on Google.

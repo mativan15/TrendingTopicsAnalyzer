@@ -1,0 +1,6 @@
+Google's Privacy Settings Finally Won't Break It's Apps Anymore
+gizmodo.com
+news
+2022-10-20 13:00:00
+
+For years, Google offered a way to disable targeted ads, but it came with an enormous drawback: you had to give up a variety of useful features across the company's services. Today, that's changing. In a major revamp of its ads settings, Google will let you use its advertising controls without breaking the apps you use everyday.It used to be that the only way to prevent Google from using your data for targeted ads was turning off a couple of settings, including Web & App Activity and YouTube History.

@@ -1,0 +1,14 @@
+Alteryx Announces New Analytics Cloud Capabilities and Enterprise Readiness Enhancements To Enable Analytics For All
+yahoo.com
+news
+2022-10-18 13:00:00
+
+New cloud, machine learning and security advancements accelerate enterprise-wide analytics to deliver business-changing insights.
+
+IRVINE, Calif., Oct. 18, 2022 /PRNewswire/ -- Alteryx, Inc. (NYSE: AYX), the Analytics Automation Company, today revealed new enhancements to enable cloud analytics and enterprise readiness, announced at the company's annual customer and partner conference Inspire EMEA 2022.
+
+Alteryx logo (PRNewsfoto/Alteryx, Inc.)
+
+Expanded Cloud and Snowflake Analytic Capabilities Enable Everyone to Deliver Valuable Insights
+
+Businesses are embracing modern data architecture and cloud data warehouses like Snowflake to empower everyone in their organization to deliver data-driven insights from anywhere.

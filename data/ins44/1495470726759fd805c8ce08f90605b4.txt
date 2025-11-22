@@ -1,0 +1,8 @@
+Most businesses remain woefully unprepared for the next major supply chain attack
+techradar.com
+tech
+2022-05-31 15:17:46
+
+(Image credit: Shutterstock.com / TMLsPhotoG)
+
+ Many businesses are woefully unprepared to defend against supply chain cyberattacks, despite a number of successful high-profile incidents and the increase in awareness, new research has found.A poll of 1,000 CIOs by Venafi found 82% of respondents saying they would be vulnerable to cyberattacks targeting software supply chains. Since the Covid-19 pandemic, and the increasing speed of development (thanks to technologies such as DevOps), securing the supply chain has become an infinitely more complex task, the report has found.

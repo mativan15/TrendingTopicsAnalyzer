@@ -1,0 +1,8 @@
+MYR Group Inc. (NASDAQ:MYRG) Shares Could Be 33% Below Their Intrinsic Value Estimate
+yahoo.com
+news
+2022-05-30 13:14:11
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of MYR Group Inc. (NASDAQ:MYRG) as an investment opportunity by taking the expected future cash flows and discounting them to their present value. Our analysis will employ the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.

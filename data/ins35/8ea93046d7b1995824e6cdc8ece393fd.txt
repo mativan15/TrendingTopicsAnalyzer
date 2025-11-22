@@ -1,0 +1,10 @@
+Terra's Mirror Protocol Allegedly Suffers New Exploit
+yahoo.com
+news
+2022-05-30 22:14:38
+
+Don't miss CoinDesk's Consensus 2022, the must-attend crypto & blockchain festival experience of the year in Austin, TX this June 9-12.
+
+DeFi application Mirror Protocol, which is built on Terra, is allegedly suffering another exploit, according to pseudonymous 'Mirroruser' who posted on the Terra Research Forum May 28, 2022. It was amplified on Twitter by '@FatManTerra' this afternoon.
+
+According to FatMan, who has been providing commentary on the Terra research forum for the past few weeks, the latest exploit has allegedly drained over $2 million, with the potential for more, due to a bug in the LUNC pricing oracle.

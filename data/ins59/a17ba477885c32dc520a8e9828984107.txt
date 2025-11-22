@@ -1,0 +1,14 @@
+Is the online shopping fad threatening malls?
+jpost.com
+business
+2022-06-01 18:45:00
+
+The increase in the volume of online shopping is threatening malls and shopping centers.
+
+At least, so said Israel Vizel, director of business development at Tnuport and Yishpro.
+
+A survey conducted by Israeli companies Tnuport and Yishpro shows that in the past year, more than 80% of Israelis have made at least one purchase on online sites.
+
+cnxps.cmd.push(function () { cnxps({ playerId: '36af7c51-0caf-4741-9824-2c941fc6c17b' }).render('4c4d856e0e6f4e3d808bbc1715e132f6'); });
+
+console.log("catid body is "+catID);if(catID==120){document.

@@ -1,0 +1,6 @@
+Keysight Introduces Automated and AI-Driven Testing to Optimize Experiences on 5G Smartphones
+Copyright 2022, Business Wire.
+tech
+2022-10-17 15:00:00
+
+October 17, 2022 11:00 AM Eastern Daylight Time SANTA ROSA, Calif.--(BUSINESS WIRE)--Keysight Technologies, Inc. (NYSE: KEYS), a leading technology company that delivers advanced design and validation solutions to help accelerate innovation to connect and secure the world, introduces enhancements to the company's Nemo Device Application Test Suite. This software-centric solution uses automation and artificial intelligence (AI) to enable wireless service providers and application developers to accelerate the assessment of smartphone users' real-world interactions with native applications.

@@ -1,0 +1,8 @@
+Which? warns smart homes hackable if out of support
+theregister.com
+news
+2022-06-01 11:32:05
+
+Smart homes are increasingly becoming hackable homes, according to consumer research.
+The report by consumer rights organization Which? paints a grim picture for people who have equipped their residences with gadgets, many from trusted tech names.
+As with pretty much everything in IT, if you connect a device to the internet, ensuring it's patched and has a decent password is the very least owners can do. Even then, there are no guarantees that this is secure. Unsurprisingly, the Which? team found that out-of-support devices were relatively straightforward for hackers to compromise.

@@ -1,0 +1,6 @@
+Edge Computing Helps Feed Taco Bell's Digital Business
+wsj.com
+news
+2022-10-20 21:44:00
+
+Taco Bell is making aggressive use of edge computing to support the many digital ways customers can place orders, the fast-food chain's head of technology said.Part of Yum Brands Inc., Taco Bell is processing customer requests and account data using a mix of central cloud services and connected devices and software at its local restaurants. Though this edge-computing setup hasn't been easy to implement, the ability to offer consumers technology options is a business advantage, said Vadim Parizher, vice president of technology, speaking at a WSJ Pro Enterprise Technology virtual event on Thursday.

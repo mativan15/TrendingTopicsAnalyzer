@@ -1,0 +1,6 @@
+Solana slumps after outage, bitcoin stays range-bound (Cryptocurrency:SOL-USD)
+seekingalpha.com
+finance
+2022-06-02 11:45:28
+
+Diego Thomazini/iStock Editorial via Getty Images Solana (SOL-USD) is dropping 9.9% to $40.17 on Thursday after suffering an outage on Wednesday that halted transactions for about four and a half hours after the network failed to reach consensus. The outage was caused by a bug in the network's "durable nonce transactions" feature. That led to "nondeterminism when nodes generated different results for the same block, which prevented the network from advancing," according to Solana's post on Twitter.

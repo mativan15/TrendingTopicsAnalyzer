@@ -1,0 +1,41 @@
+The Optimal Error Estimate of the Fully Discrete Locally Stabilized Finite Volume Method for the Non-Stationary Navier-Stokes Problem
+Creative Commons Attribution (CC-BY)
+science
+2022-05-30 00:00:00
+
+Open AccessArticle by
+ 1,† and 2,* 
+
+
+1
+School of Mathematical Science, University of Electronic Science and Technology of China, Chengdu 610056, China
+
+
+2
+School of Medical Information and Engineering, Southwest Medical University, Luzhou 646099, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+†
+Current address: West Hi-Tech Zone, Xiyuan Ave, No. 2006, Chengdu 611731, China.
+
+
+
+Academic Editor: Serge M. Prudhomme
+
+Entropy 2022, 24(6), 768; https://doi.org/10.3390/e24060768 (registering DOI)
+
+
+Received: 24 April 2022
+/
+Revised: 23 May 2022
+/
+Accepted: 26 May 2022
+/
+Published: 30 May 2022
+ 
+
+This paper proves the optimal estimations of a low-order spatial-temporal fully discrete method for the non-stationary Navier-Stokes Problem.

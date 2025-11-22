@@ -1,0 +1,6 @@
+Google's Next-Gen Video Chat Tech Is Ready for the Real World
+wired.com
+news
+2022-10-15 13:00:00
+
+Good news for anyone who's sick of Zoom calls but also hates talking to people in real life: Google's Project Starline is becoming more widely available.Google introduced Starline in 2021 with the goal of making video calls less weird and awkward. It's essentially a very complicated video conferencing booth that uses cameras, depth sensors, and three-dimensional imagery to approximate face-to-face conversations between two remote participants. A suite of cameras even track both participants' eye movements and adjust the view on the other side to enable the two people to make eye contact.

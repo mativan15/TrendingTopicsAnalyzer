@@ -1,0 +1,7 @@
+authID Introduces Human Factor Authentication with the Launch of Verified 3.0 to Accelerate Zero Trust Strategies
+virtual-strategy.com
+news
+2022-10-20 16:00:00
+
+Designed to combat the weaknesses of legacy MFA, Human Factor Authentication (HFA) combines strong FIDO2 passwordless authentication with cloud biometrics to authorize the human behind the device
+DENVER, Oct. 20, 2022 (GLOBE NEWSWIRE) — authid.ai [Nasdaq: AUID], a leading provider of secure authentication solutions, today announced the launch of Verified 3.0, its next-generation platform that delivers Human Factor Authentication™ (HFA). authID's Verified platform binds strong, 'unphishable', passwordless authentication with biometric identity, which offers our customers a streamlined path to zero trust architecture.

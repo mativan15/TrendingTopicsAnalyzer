@@ -1,0 +1,8 @@
+One AI to Take on Global Language AI Challenge with NLP-as-a-service Platform for Developers
+prnewswire.com
+news
+2022-05-30 22:43:00
+
+One AI, Language AI startup, will enable seamless integration into developer workflows with use-case ready API
+SACRAMENTO, Calif., May 30, 2022 /PRNewswire/ -- One AI, an NLP-as-a-service startup, empowering developers to embed Language AI in their products, officially launched today. One AI has raised $8M in seed funding from leading angel investors and VCs, including Ariel Maislos, Tech Aviv, Tomer Wiengarten, CEO of Sentinel One.
+One AI allows developers to seamlessly embed language comprehension into their projects, transforming texts from any source into structured data, with no training data or machine learning knowledge required.

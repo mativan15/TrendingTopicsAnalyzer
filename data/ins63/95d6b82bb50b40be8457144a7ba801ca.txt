@@ -1,0 +1,6 @@
+Financial services giant Plaid makes first foray into crypto
+Fortune Media IP Limited
+business
+2022-10-20 11:00:00
+
+Plaid, the financial services decacorn, has announced the launch of its first crypto-native product, Wallet Onboard. Similar to Plaid Link, which allows users to connect financial accounts to apps, Wallet Onboard helps developers connect crypto wallets such as Metamask to decentralized Web3 apps. Founded in 2012, Plaid has established itself as a preeminent fintech firm, with over $730 million in funding, including a $425 million Series D round in 2021 at a $13.4 billion valuation. The company helps link bank accounts to fintech apps and provides identity verification services.

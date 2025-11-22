@@ -1,0 +1,7 @@
+3 Facts About Polygon You Should Know
+fool.com
+business
+2022-10-18 09:45:00
+
+Despite what you might have heard, the perfect blockchain doesn't exist. To achieve that goal, a blockchain should be highly secure, decentralized, and be able to scale effectively, meaning it can quickly and cheaply process lot of transactions. 
+The failure to offer all three features was dubbed the "blockchain trilemma" by Ethereum (ETH 0.64%) co-founder Vitalik Buterin, who was describing how there are always trade-offs when blockchains prioritize one feature over the others. Decentralization is inherent to blockchain structure, security is an essential property, yet scalability is typically the main challenge.

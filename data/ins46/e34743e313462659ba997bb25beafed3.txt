@@ -1,0 +1,32 @@
+Stock Market Prediction Using Microblogging Sentiment Analysis and Machine Learning
+Creative Commons Attribution (CC-BY)
+science
+2022-05-27 00:00:00
+
+Open AccessArticle by
+, and * 
+
+
+School of Science and Technology, International Hellenic University, 57001 Thessaloniki, Greece
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Markos G. Tsipouras
+
+Telecom 2022, 3(2), 358-378; https://doi.org/10.3390/telecom3020019 (registering DOI)
+
+
+Received: 29 March 2022
+/
+Revised: 23 May 2022
+/
+Accepted: 23 May 2022
+/
+Published: 27 May 2022
+ 
+
+The use of Machine Learning (ML) and Sentiment Analysis (SA) on data from microblogging sites has become a popular method for stock market prediction.

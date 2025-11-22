@@ -1,0 +1,11 @@
+pfSense vs Netgear router: What are the main differences?
+techrepublic.com
+news
+2022-06-02 20:06:24
+
+Image: Blue Planet Studio/Adobe Stock
+
+
+Choosing the right router and firewall combination is a key element when it comes to both blocking outside security threats but also maximizing the efficiency of your network. Two options that look to fill this role are pfSense and the Netgear series of routers and its bundled firewall software.
+Jump to: What is pfSense?
+pfSense is a fully open-source network firewall solution that is free to use and is based on the FreeBSD operating system. It works with a host of routers and appliances, and you can even build your own if you need the added customization and options.

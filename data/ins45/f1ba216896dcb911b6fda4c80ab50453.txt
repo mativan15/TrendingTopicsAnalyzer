@@ -1,0 +1,6 @@
+Amazon Watches Its Workers and Waits for Them to Fail
+wired.com
+news
+2022-06-04 13:00:00
+
+Ever sit there waiting for an Amazon package to be delivered, constantly refreshing your screen to see up-to-the-minute location updates? That's kind of how it works in an Amazon warehouse too. The only difference is that Amazon isn't only tracking packages, it's tracking its workers' movements.This week, Vice revealed internal Amazon documents that outline the techniques the company uses to surveil its warehouse employees. The documents detail how intricately Amazon tracks workers, monitoring the activity of each workers' handheld package scanner to determine whether that worker is spending "time off task.

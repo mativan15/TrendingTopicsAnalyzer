@@ -1,0 +1,7 @@
+Global tech industry objects to India's new infosec regime
+theregister.com
+business
+2022-05-29 23:58:06
+
+Eleven significant tech-aligned industry associations from around the world have reportedly written to India's Computer Emergency Response Team (CERT-In) to call for revision of the nation's new infosec reporting and data retention rules, which they criticise as inconsistent, onerous, unlikely to improve security within India, and possibly harmful to the nations economy.
+The rules were introduced in late April and are extraordinarily broad. For example, operators of datacenters, clouds, and VPNs, are required to register customers' names, dates on which services were used, and even customer IP addresses, and store that data for five years.

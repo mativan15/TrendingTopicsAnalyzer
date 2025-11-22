@@ -1,0 +1,8 @@
+Expeditors International of Washington, Inc.'s (NASDAQ:EXPD) Intrinsic Value Is Potentially 25% Above Its Share Price
+yahoo.com
+finance
+2022-06-03 11:59:55
+
+In this article we are going to estimate the intrinsic value of Expeditors International of Washington, Inc. (NASDAQ:EXPD) by taking the expected future cash flows and discounting them to their present value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. There's really not all that much to it, even though it might appear quite complex.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

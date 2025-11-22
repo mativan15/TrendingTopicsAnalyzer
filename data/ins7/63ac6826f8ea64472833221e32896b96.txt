@@ -1,0 +1,6 @@
+Bank heist: Retd manager snuck into bank server room 3 days before crime
+hindustantimes.com
+news
+2022-10-21 22:30:23
+
+A few laptops, remote access tools, an internet dongle and a few technophiles were how a 146 crore-bank heist, albeit an unsuccessful one, was pulled off. In a first-of-its-kind ‘technical' investigation, the UP cybercrime cell on Friday claimed to have cracked the case of a failed attempt to steal ₹146 crore from Uttar Pradesh Cooperative Bank (UPCB) on October 15. The accused had mischievously installed a laptop in the bank network. That was how the hackers remotely accessed the bank server, the police said.

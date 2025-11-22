@@ -1,0 +1,12 @@
+Blockchain Shardeum Raises $18.2M to Tackle Slow Traffic, High Fees
+yahoo.com
+news
+2022-10-18 13:00:00
+
+Layer 1 blockchain Shardeum has raised $18.2 million in a seed funding round from over 50 investors, including Jane Street, Struck Crypto and The Spartan Group.
+
+The capital will go toward building out its team, ecosystem and community, Shardeum co-founder Nischal Shetty told CoinDesk in an interview. Shetty is also the co-founder of Indian crypto exchange WazirX.
+
+Other investors in the round included Big Brain Holdings, DFG, Ghaf Capital Partners and Foresight Ventures, among others.
+
+Shardeum is an Ethereum Virtual Machine (EVM)-based sharded blockchain, meaning anything that works on Ethereum can work on Shardeum.

@@ -1,0 +1,8 @@
+AWS targets VDI with lift and shift to DaaS offering
+theregister.com
+news
+2022-10-18 04:59:07
+
+Amazon Web Services is moving to bring desktop virtualization (VDI) into the age of desktop-as-a-service.
+VDI's share of all desktops has hovered below five percent for years because the tech is not trivial to deploy: hefty servers and a well-groomed network – and often a fast SAN – are required. Some overprovisioning of that rig is all but assumed, to cope with predictable peak loads that happen when most of a workforce fires up their PC at the start of the working day. VDI also needs a client, so ironically organizations that take their desktops virtual still need to maintain end points – some of them physical PCs!
+Most VDI users are in regulated industries such as government or healthcare in which security concerns – or machines shared among many workers – make a virtual machine preferable.

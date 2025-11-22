@@ -1,0 +1,6 @@
+Can SQL and NoSQL coexist?
+venturebeat.com
+news
+2022-05-27 17:07:00
+
+We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Relational databases and SQL were invented in the 1970s, but still dominate the data world today. Why? Relational calculus, consistent data, logical data representation are all reasons that a relational database advocate might credit to its success. However, the success of relational databases could be boiled down to two practical considerations: momentum and the power of the SQL query language.

@@ -1,0 +1,6 @@
+Nearly 600,000 people on LinkedIn listed Apple as their employer on one day in October. The next day, half the profiles disappeared as the platform cracks down on fake accounts.
+Insider
+business
+2022-10-20 21:14:24
+
+Last week, the number of employees who listed Apple as their employer on LinkedIn was slashed in half over a 24-hour period. Despite what it may look like, this wasn't the result of massive internal turmoil at Apple, but rather, a crackdown by LinkedIn on fake and bot accounts. Jay Pinho, a developer who tracks data on the professional networking site, was the first to spot plummeting employee numbers at Apple and Amazon. He shared his findings with Krebs on Security, a cybersecurity blog.On October 10, 576,562 LinkedIn accounts listed Apple as their current employer.

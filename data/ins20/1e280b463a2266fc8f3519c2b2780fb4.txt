@@ -1,0 +1,14 @@
+Bitcoin mining hashrate, difficulty drop since crypto crash
+yahoo.com
+news
+2022-05-26 02:43:00
+
+Bitcoin's hashrate dropped by 10.6% to 204.4 exahashes per second on Wednesday on a seven-day average from its peak earlier this month, Blockchain.com data show.
+
+See related article: Beijing banned crypto mining, so China miners went underground
+
+Fast facts
+
+The Bitcoin mining difficulty level fell by 4.33% to 29.9 trillion at block height 737,856 on Wednesday, after hitting a record high two weeks ago.
+
+Bitcoin mining difficulty measures how hard a miner would have to work to verify transactions in the blockchain to 'dig out' Bitcoins as rewards.

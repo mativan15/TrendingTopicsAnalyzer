@@ -1,0 +1,7 @@
+Is data observability recession-proof? – TechCrunch
+techcrunch.com
+tech
+2022-05-31 20:12:25
+
+Following its $135 million Series D last week, Monte Carlo became the latest unicorn in a fast-rising category: data observability, which the startup defines as 'an end-to-end approach to enable teams to deliver more reliable and trustworthy data.'
+If you are wondering how serious data quality issues are, Monte Carlo CEO Barr Moses has an answer: 'Data quality issues still plague even the most data-driven companies. Just a few weeks ago, Unity, the popular gaming software company, cited ‘bad data' for a $110 million impact on their ads business.

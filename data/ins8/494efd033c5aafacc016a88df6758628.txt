@@ -1,0 +1,6 @@
+A Digital Media Subscription Management System Combined with Blockchain and Proxy Re-encryption Mechanisms
+Creative Commons Attribution (CC-BY)
+science
+2022-10-16 00:00:00
+
+The subscription economy was born because the relationship between creators and customers is different than it used to be. The era of the creator economy seems to be filled with boundless promise, but at the end of the day, creators are just slaves to tech giants. Neither the control of the content created, nor the money made in their pockets is in complete control of the creator. The blockchain can completely solve these injustices monopolized by enterprises. In the blockchain era, all kinds of creations from music, and video-to-text can be turned into assets that can be purchased and traded through smart contracts.

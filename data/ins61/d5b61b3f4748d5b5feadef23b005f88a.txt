@@ -1,0 +1,6 @@
+Accountability and Liability in Computing
+acm.org
+news
+2022-10-20 22:00:00
+
+In 2017, I wrote:a "So here we are, 70 years into the computer age and after three ACM Turing Awards in the area of cryptography (but none in cybersecurity), and we still do not seem to know how to build secure information systems." What would I write today? Clearly, I would write: "75 years," but I would not change a word in the rest of the sentence. In fact, one could argue that the cybersecurity threat has increased, as critical infrastructure is now vulnerable to cyberattacks. Indeed, in May 2021 the U.

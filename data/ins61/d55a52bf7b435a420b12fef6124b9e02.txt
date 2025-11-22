@@ -1,0 +1,6 @@
+Strategy Analytics: Electric Vehicle Power Electronics Increasingly Integrating and Moving to Wide Bandgap Technologies and 800 Volts
+Copyright 2022, Business Wire.
+tech
+2022-10-18 07:58:00
+
+October 18, 2022 03:58 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Electric vehicles face consumer concerns over 'range anxiety' and 'charge anxiety' with auto makers responding by integrating components further, using advancements in power electronics to raise powertrain efficiency and using 800 Volt+ electrical networks to shorten charging times. Silicon carbide (SiC) is among many wide bandgap technologies being adopted to enhance efficiency in switching power to drive electric motors, receiving charge through on-board chargers and converting direct current.

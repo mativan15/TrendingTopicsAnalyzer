@@ -1,0 +1,6 @@
+Can Decentralised Edge Rendering Technology be economic for real time computing solutions?
+medium.com
+business
+2022-06-01 18:00:18
+
+Edge rendering covers a range of applications including Metaverse, mobile (internet), and the IoT (Internet of Things), and so in order to deal with compatibility issues across different networks, Caduceus has designed a set of edge rendering and real time computing solutions for different application scenarios and computing modes.This has not only paved the way for the compatibility of edge rendering across a number of applications, but perhaps more importantly, has helped to optimize performance, security and energy consumption — with a host of added benefits including low cost, flexible features and scalability.

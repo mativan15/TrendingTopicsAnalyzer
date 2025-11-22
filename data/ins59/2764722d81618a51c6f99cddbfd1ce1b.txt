@@ -1,0 +1,6 @@
+Sigma Computing and dbt Labs Announce Partnership to Provide Greater Visibility on Data With New Integration at Coalesce 2022
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 12:00 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Sigma Computing ('Sigma'), the fast, intuitive alternative to traditional business intelligence (BI), announced today a new partnership with dbt Labs, the pioneer in analytics engineering, at Coalesce, the annual conference hosted by dbt Labs. The partnership includes a new integration that makes metadata from dbt Cloud directly accessible to users in Sigma to increase transparency and trust in data provided by analytics teams to their business users.

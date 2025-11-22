@@ -1,0 +1,6 @@
+Worried About Being Spied On By Your Tech? New AI Algorithm Can Stop Eavesdropping
+indiatimes.com
+news
+2022-06-02 13:20:03
+
+Is the paranoia of being eavesdropped on by technology fuelling your Black Mirror themed nightmares? Worry not, for an artificial intelligence (AI) algorithm has found a workaround.The new technology, called Neural Voice Camouflage can protect you against being snooped on. Its operation is quite simple - every time you talk, it generates custom audio noise in the background to mask the real audio.In turn, this confuses whatever artificial intelligence mechanisms may be transcribing your recorded voices in the background.

@@ -1,0 +1,6 @@
+Adobe's new AI prototype turns photos into dancing videos
+theverge.com
+news
+2022-10-19 13:58:42
+
+Adobe will reveal a prototype AI project later today at Adobe Max 2022 that can convert a still image of a person into an animated dancer. Adobe says that all you need to do is load a full-body picture into Project Motion Mix, and the system will turn that individual into an AI-controlled puppet, animating new dance moves. The system uses a combination of AI-based motion generation and what Adobe is calling 'human rendering technologies' to create its animations. The software lets users select from different dance styles, tweak the background, and add multiple dancers into one frame.

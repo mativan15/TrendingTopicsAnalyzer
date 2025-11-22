@@ -1,0 +1,46 @@
+Non-Intrusive Load Monitoring Applied to AC Railways
+Creative Commons Attribution (CC-BY)
+science
+2022-06-04 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 
+
+
+DITEN, University of Genova, 16145 Genova, Italy
+
+
+
+Academic Editors: Adam Szeląg, Mladen Nikšić and Marcin Steczek
+
+Energies 2022, 15(11), 4141; https://doi.org/10.3390/en15114141 (registering DOI)
+
+
+Received: 11 May 2022
+/
+Revised: 2 June 2022
+/
+Accepted: 3 June 2022
+/
+Published: 4 June 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+Non-intrusive load monitoring takes place in residential and industrial contexts to disaggregate and identify loads connected to a distribution grid.

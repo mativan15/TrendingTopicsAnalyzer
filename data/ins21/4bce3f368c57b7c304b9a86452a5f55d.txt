@@ -1,0 +1,8 @@
+Why Cruise is making its own chips, and a lot more besides
+techcrunch.com
+tech
+2022-10-16 23:05:56
+
+Cruise never planned to make its own silicon. But in the quest to commercialize robotaxis — and make money doing it — those never planned pursuits can suddenly seem a lot more appealing.
+Cruise realized that the price of chips from suppliers was too high, the parts were too big and the reliability of the third-party technology just wasn't there, Carl Jenkins, Cruise's vice president of hardware, told TechCrunch during a tour of the company's hardware lab last month.
+Amid a hiring spree that began in 2019 and continued into 2020, Cruise doubled down on its own hardware, including its own board and sensors.

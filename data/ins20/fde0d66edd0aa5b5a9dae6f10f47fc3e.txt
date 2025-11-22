@@ -1,0 +1,23 @@
+Optimization of Variable Stiffness Joint in Robot Manipulator Using a Novel NSWOA-MARCOS Approach
+Creative Commons Attribution (CC-BY)
+science
+2022-05-27 00:00:00
+
+Open AccessArticle by
+ 1, 2, 3,* and 4,* 
+
+
+1
+Department of Mechanical Engineering, Sri Sairam Institute of Technology, Chennai 600 044, India
+
+
+2
+Department of Mechanical Engineering, MPSTME, SVKM's Narsee Monjee Institute of Management Studies (NMIMS), Shirpur Campus, Dhule 425 405, India
+
+
+3
+Department of Control Systems and Instrumentation, Faculty of Mechanical Engineering, VSB-Technical University of Ostrava, 17. Listopadu 2172/15, 708 00 Ostrava, Czech Republic
+
+
+4
+Department of Mechanical Engineering, Vel Tech Rangarajan Dr.

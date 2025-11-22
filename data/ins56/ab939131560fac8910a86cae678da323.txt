@@ -1,0 +1,10 @@
+Advertisers Turn to ‘Clean Rooms' to Keep Consumer Data Private
+wsj.com
+news
+2022-10-19 14:00:00
+
+Changes in privacy measures are giving rise to ‘clean rooms' where consumers' online information is pooled while protecting individual identities.
+
+For years, marketers have tapped into consumer data from other companies to help ensure their ads reach the right audiences, and to track whether those ads were effective. But new privacy measures have made that tougher.
+
+To help brands keep the data flowing, a buzzy new technology has sprouted up: 'clean rooms.' The term is borrowed from manufacturing, where a clean room refers to a controlled environment that is free of contamination.

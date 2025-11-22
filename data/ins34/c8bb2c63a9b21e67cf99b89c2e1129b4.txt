@@ -1,0 +1,8 @@
+MariaDB and MindsDB Raise the IQ for Cloud Databases
+yahoo.com
+gaming
+2022-05-31 13:00:00
+
+Collaboration makes machine learning predictions easily accessible to all with MariaDB SkySQL
+
+REDWOOD CITY, Calif. and HELSINKI, May 31, 2022 /PRNewswire/ -- MariaDB Corporation and MindsDB , the leader in in-database machine learning, today together announced a technology collaboration that makes machine learning predictions easy and accessible to cloud database users. By using MindsDB in SkySQL , MariaDB's fully managed cloud database service, data science and data engineering teams can increase their organization's predictive capabilities to plan for and address real-world business issues.

@@ -1,0 +1,6 @@
+Developers pour into crypto space despite stagnant markets – TechCrunch
+stl.news
+news
+2022-10-17 20:01:11
+
+This year was huge for the crypto developer space even though the digital asset market continues to wallow in a downturn, according to a new report by web3 developer platform Alchemy.Although the crypto market capitalization is down about 58% year to date, web3 developers are pouring into the space.The report found that developer activity increased based on the number of crypto software developer kit (SDK) libraries being downloaded, smart contracts being stored on blockchains, and the growth in the number of decentralized applications (dApps) in the market.

@@ -1,0 +1,8 @@
+Buildkite Eradicates "Nightmare" Flaky Coding Tests for Developers With Revolutionary New Tool
+prnewswire.com
+news
+2022-06-02 21:50:00
+
+Buildkite launches Test Analytics, an industry-first tool for identifying and eliminating problematic tests — saving developers and companies time, money and effort
+MELBOURNE, Australia, June 2, 2022 /PRNewswire/ -- A game-changing new tool by Buildkite, an industry-leading CI/CD platform used by the likes of Shopify, Venmo, Wayfair and Pinterest, launches today, promising to fix one of the biggest and most expensive problems in software development — flaky tests.
+Buildkite's new product Test Analytics speeds up delivery pipelines for DevOps engineers by eliminating waste in the development process.

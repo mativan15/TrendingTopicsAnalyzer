@@ -1,0 +1,8 @@
+Is Codan Limited (ASX:CDA) Trading At A 45% Discount?
+yahoo.com
+news
+2022-05-30 22:30:47
+
+Today we will run through one way of estimating the intrinsic value of Codan Limited (ASX:CDA) by taking the expected future cash flows and discounting them to their present value. Our analysis will employ the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

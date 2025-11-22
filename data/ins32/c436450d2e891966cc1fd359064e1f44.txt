@@ -1,0 +1,7 @@
+Android update brings Pixel's custom text stickers to more phones
+engadget.com
+news
+2022-06-02 18:06:35
+
+While we wait to learn more about Android 13, Google continues to release new features to its platform in the same regular cadence it's adopted for the last few years. Today, the company has announced a set of updates around GBoard stickers, the Play Store and accessibility apps like Lookout and Sound Amplifier.
+First, Google is bringing custom text stickers, which it previously launched on Pixel phones, to all Android devices. The feature allows you to convert English words into images, so if you type "Hi Ma" into GBoard and tap the custom stickers button in the suggested emojis row, you'll see some auto-generated graphics featuring that text in different designs.

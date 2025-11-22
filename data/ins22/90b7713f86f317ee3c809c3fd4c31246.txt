@@ -1,0 +1,8 @@
+Lightbits Launches Online Tools that Demonstrate Lower TCO
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time SAN JOSE, Calif.--(BUSINESS WIRE)--Lightbits®, the first software-defined NVMe® data platform for any cloud, today announced its TCO Calculator and Configurator tools. Developed in collaboration with Intel, these freely available online tools provide Cloud Service Providers (CSPs), Financial Services, and Telco organizations with an intuitive way of determining the value of the Lightbits Cloud Data Platform.
+
+Architected for enterprise IT organizations and CSPs supporting modern applications that are challenged with the same business problems–how to maximize profitability by extracting the full value of their data while providing services that are secure, fast, highly available, and resilient.

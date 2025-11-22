@@ -1,0 +1,7 @@
+Dice Taxonomy Earns Patent Approval
+prnewswire.com
+news
+2022-06-01 20:15:00
+
+CENTENNIAL, Colo., June 1, 2022 /PRNewswire/ -- DHI Group, Inc. (NYSE: DHX) today announced the United States Patent & Trademark Office has issued a patent for the taxonomy incorporated in its Dice service, which helps technologist candidates find more relevant jobs and customers find the right technology professionals to quickly fill immediate job openings. 
+Dice's taxonomy associates job skill terms with a job skill listed on a candidate's profile by referencing a glossary of skills, then ranking the relationship between the terms and the actual skills by relevance.

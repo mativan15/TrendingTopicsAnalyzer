@@ -1,0 +1,14 @@
+How to bypass MSCHAPv2 authentication on stock Android 11+
+reddit.com
+tech
+2022-10-19 15:30:49
+
+Hi, most of you don't have to deal with this, but some of you might find this useful.
+
+This method requires root.
+
+Keep in mind this is for stock Android 11 and up. Most Android skins (OneUI, MIUI, etc.) can bypass it with no problem.
+
+Anyways, let's get into the tutorial.
+
+Turn off your wifi. Download and install Termux from here (taken from this webiste). After installed, open Termux. Type su and allow root access. Type vi /data/misc/apexdata/com.android.wifi/WifiConfigStore.xml . Hold the arrow down button, untill you see your wifi SSID (name).

@@ -1,0 +1,7 @@
+Council Post: Warning: This Product Contains Cyber Bugs
+Copyright 2022 Forbes Media LLC
+business
+2022-10-17 11:45:00
+
+Denis Mandich is the CTO of Qrypt, a post quantum cryptography company, and founding member of the Quantum Economic Development Consortium.
+getty Modern software is often riddled with bugs of varying severity missed in testing. Infrequently, code with known flaws is used in production applications. Rarer still is developers choosing to deliberately build in highly publicized software vulnerabilities. Incurring this type of technical debt would be a firing offense in almost any organization and precipitate an insider-threat investigation.

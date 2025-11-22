@@ -1,0 +1,6 @@
+Container airport with OpenShift
+medium.com
+tech
+2022-06-02 18:33:20
+
+What is the problem we are trying to address?With more and more entrancement of Hybrid cloud adoption along with multi-cloud approach there will be various challenges for seamless, secured and fast container migration across clouds.In future more and more the public and private clouds become specialized for specific business purposes, an organization will need to use multiple private and public clouds.Future business will need extremely high clock speed for change responsiveness which will mandate fast, secured and seamless movement of containers from and to various private and public clouds which will result immense complexity for container movement across these various cloudsAgain there will be competition across various business lines to move their container early compare to other business lines.

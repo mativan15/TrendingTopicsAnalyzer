@@ -1,0 +1,6 @@
+How does an application go from code to user?
+medium.com
+tech
+2022-10-16 01:44:17
+
+ver wonder how software developers deploy applications onto the world wide web? Most internet consumers have no clue how an app goes from code to something that is interactable. In this breakdown of the most understated software development tools, we dive into topics even more important than coding itself, packaging, and deployment.Monolithic software development:In the early 2000s, software development was comprised of a myriad of components. From the UI to libraries, frameworks, code, and databases, all components were monolithically packaged.

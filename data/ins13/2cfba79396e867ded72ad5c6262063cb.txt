@@ -1,0 +1,6 @@
+Amazon Web Services Pushes The Price Performance Envelope Again With Graviton3
+Copyright 2022 Forbes Media LLC
+business
+2022-05-29 18:29:07
+
+Amazon Elastic Compute Cloud (Amazon EC2) C7g instances supported by AWS Graviton3 processors have been available in preview since Amazon's annual re:Invent last year. Now generally available, it is an excellent time to dig into the details. The Six Five Summit (June 7-9, 2022) is a virtual conference on technology innovation led by myself Pat Moorhead (Moor Insights & Strategy), and DanIel Newman (Futurum Research). Last year, we featured a session with Dave Brown, VP of Amazon EC2, focusing on Amazon Web Services (AWS) silicon innovation, where we also announced the Graviton Challenge.

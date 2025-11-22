@@ -1,0 +1,7 @@
+Confidentiality in the cloud: the delicate bargain of trust
+theregister.com
+news
+2022-10-20 06:32:14
+
+Sponsored Feature The concept behind Confidential Computing isn't new – organisations have been using hardware-assisted technology to encrypt and decrypt data for a while now. But fresh impetus from the Confidential Computing Consortium , new technology, and greater reliance on off prem public clouds to host and process sensitive information is prompting a more widespread re-evaluation of its benefits.
+The Register recently caught up with Intel director of strategic business development and confidential computing Paul O'Neill and his colleague Simon Johnson, Confidential Compute Lead, to ask more about this approach to data security and the Intel products that support it.

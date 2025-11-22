@@ -1,0 +1,6 @@
+Dissecting the hype over low-code
+venturebeat.com
+news
+2022-05-30 17:07:00
+
+We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! We've reached the point where the industry attention being paid to low-code development has moved it from 'a hot topic' to 'normal.' Gartner, for instance, predicts that 65% of app activity will fall into this category by 2024. It's a monumental industry shift. But – and I cannot stress this enough – it has already taken place.

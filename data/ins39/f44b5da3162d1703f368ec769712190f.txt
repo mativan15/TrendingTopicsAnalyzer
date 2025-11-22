@@ -1,0 +1,10 @@
+Startups Offer to Pay Consumers for Permission to Track Them Online
+wsj.com
+news
+2022-10-19 12:22:00
+
+Startups that pay consumers to track their online activity are struggling to attract users—and the advertisers they would draw.
+
+Growing privacy protections for internet users are breathing new life into an old idea: paying consumers for permission to track them as they surf the web. So-called paid-to-surf, paid-to-browse or browsing-rewards companies just need to get enough people to take the deal.
+
+Startups in this space usually offer browser extensions that collect anonymized data on people's internet use much the same way that standard tracking tech does, with the goal of helping marketers target their ads to the right consumers.

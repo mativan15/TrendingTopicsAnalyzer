@@ -1,0 +1,29 @@
+A Novel Framework for Extracting Knowledge Management from Business Intelligence Log Files in Hospitals
+Creative Commons Attribution (CC-BY)
+science
+2022-06-01 00:00:00
+
+Open AccessArticle by
+ 1,2,* and 3 
+
+
+1
+Department of Health Informatics and Technologies, Faculty of Health Sciences, Marmara University, 34722 Istanbul, Turkey
+
+
+2
+TESODEV Technology Solutions Development Co., Ltd., Esenler, 34220 Istanbul, Turkey
+
+
+3
+Institute for International Strategy, Tokyo International University, 1-13-1 Matoba-Kita, Kawagoe 350-1197, Saitama, Japan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Rafael Valencia-Garcia
+
+Appl. Sci. 2022, 12(11), 5621; https://doi.

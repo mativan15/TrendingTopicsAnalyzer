@@ -1,0 +1,6 @@
+ORCL Stock Price
+Copyright 2022, MarketWatch, Inc.
+finance
+2022-10-21 13:18:21
+
+Oracle Corp. engages in the provision of products and services that address all aspects of corporate information technology environments. It operates through the following business segments: Cloud and License, Hardware, and Services. The Cloud and License segment markets, sells, and delivers applications, platform, and infrastructure technologies. The Hardware segment provides hardware products and hardware-related software products including Oracle Engineered Systems, servers, storage, industry-specific hardware, operating systems, virtualization, management and other hardware related software, and related hardware support.

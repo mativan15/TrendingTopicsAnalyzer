@@ -1,0 +1,6 @@
+Real-Time USD-Euro Payments Set To Launch In 2023
+Copyright 2022 Forbes Media LLC
+business
+2022-10-17 16:19:51
+
+A real-time cross border payment pilot linking the U.S. Dollar and the euro is underway and there's not a blockchain or central bank digital currency (CBDC) in sight. The effort, called the Immediate Cross-Border Payments (IXB) pilot service, has been developed by three well-known financial institutions — The Clearing House (TCH) in the U.S., EBA Clearing in Europe and SWIFT. In a pre-Sibos announcement, the consortium said the service has been developed with the support of 25 financial institutions from both sides of the Atlantic and has been progressing during the past six months.

@@ -1,0 +1,6 @@
+Fernhill Corp is Pleased to Provide the Following Shareholder Updates
+globenewswire.com
+news
+2022-10-21 00:00:00
+
+Las Vegas, NV, Oct. 21, 2022 (GLOBE NEWSWIRE) -- Fernhill Corp (OTC Markets: FERN), a Web3 Cloud Based Enterprise Infrastructure platform focused on providing APIs for digital asset trading, NFT marketplaces and data aggregation solutions, is pleased to announce the following updates: MainBloq - Current MainBloq client CryptoWire, aka 3.0 Wire, has now gone live with the MainBloq's proprietary Multi Exchange Trade Routing Platform with 6 trading venues integrated so far. In addition, MainBloq options chain availability is currently in development.

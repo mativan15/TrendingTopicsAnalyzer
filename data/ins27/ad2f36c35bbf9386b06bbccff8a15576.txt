@@ -1,0 +1,6 @@
+Implications of the Cloud
+techradar.com
+news
+2022-10-17 14:26:36
+
+The cloud is enabling the trends already inherent in the IT industry at a lower price point with standard services universally accessible. There are, though, five trends worth considering as we move beyond the cloud.The corporate network and security have dominated much of IT in the past. However, in these enterprise cloud-enabled times; the corporate network has no further purpose. The pandemic has accelerated the trend with significant sectors now working from home and accessing corporate IT via a VPN.

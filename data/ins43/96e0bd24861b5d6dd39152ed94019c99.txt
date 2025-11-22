@@ -1,0 +1,10 @@
+Next-Level ERP Collaboration: The Evolution of SAP S/4HANA Cloud
+sap.com
+news
+2022-10-18 07:00:54
+
+The evolving shape of the world today means it needs an interactions economy to survive and thrive. New ways of working, collaborating, and interacting completely transform how we operate and have a profound effect on business.
+
+SAP and Microsoft are excited to announce that they have teamed up to take collaboration in SAP S/4HANA Cloud to the next level — easier, faster, more effective — with the integration of Microsoft Teams.
+
+The shift to a hybrid working model in most companies makes collaboration tools and business process efficiency more critical than ever before.

@@ -1,0 +1,10 @@
+New Bitcoin-Focused VC Firm Ego Death Capital Raising $30M
+yahoo.com
+news
+2022-10-18 20:42:09
+
+Ego Death Capital, a new venture capital firm dedicated to the Bitcoin ecosystem, is raising $30 million for its first fund.
+
+'There was a fundamental shift underway when we decided to take this plunge,' Ego Death partner Nico Lechuga told CoinDesk in an interview. 'You had the Taproot upgrade on the main chain of Bitcoin. Lightning as a scaling solution was really coming to maturity.'
+
+Lechuga was referring to the fact that last month Lighting Labs, the developer of Bitcoin scaling layer Lightning Network, launched a test version of Taro, new software that allows Bitcoin developers to issue assets such as stablecoins on the blockchain.

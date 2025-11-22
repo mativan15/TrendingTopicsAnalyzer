@@ -1,0 +1,6 @@
+Council Post: Are Your Predictive Models Sustainable?
+Copyright 2022 Forbes Media LLC
+business
+2022-06-01 13:15:00
+
+Matt Berseth, co-founder and CIO of NLP Logix. getty The deployment and integration of a predictive model into one's business processes often require a significant investment from both a time and labor perspective. As more businesses rely on predictive models within their day-to-day operations, it is imperative to protect that investment and ensure the models are working as they were originally intended. The ongoing health and sustainability of a deployed model are essential in ensuring critical business decisions are made using the most accurate information.

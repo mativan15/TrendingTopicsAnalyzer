@@ -1,0 +1,6 @@
+Discord Finally Adds Text Chat Support in Voice Channels
+ign.com
+tech
+2022-06-01 15:00:22
+
+Discord announced today that it is finally adding text chats to voice channels. Meaning you no longer have to worry about making sure your text message is sent to the wrong text channel on your Discord server while on a voice call.The new feature is similar to text chats available on video communication services, such as Google Meet or Zoom. Previously, if you were on a Discord voice chat and wanted to send a message, you had to go out of your way to either message the one or multiple people on Discord DMs, create an entirely new text channel, or share the message in a text channel on a Discord server.

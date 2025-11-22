@@ -1,0 +1,8 @@
+GitHub saved plaintext passwords of npm users in log files
+theregister.com
+news
+2022-05-27 12:15:14
+
+GitHub has revealed it stored a "number of plaintext user credentials for the npm registry" in internal logs following the integration of the JavaScript package registry into GitHub's logging systems.
+The information came to light when the company today published the results of its investigation into April's unrelated OAuth token theft attack, where it described how an attacker grabbed data including the details of approximately 100,000 npm users.
+The code shack went on to assure users that the relevant log files had not been leaked in any data breach; that it had improved the log cleanup; and that it removed the logs in question "prior to the attack on npm.

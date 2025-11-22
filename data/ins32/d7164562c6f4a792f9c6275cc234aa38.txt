@@ -1,0 +1,6 @@
+My First KubeCon, and Why a Whole Conference for a Single Open-Source Project?
+medium.com
+tech
+2022-06-01 15:29:05
+
+Even though KubeCon has been running since 2015 — first sponsored by KubeAcademy and later taken over by Linux Foundation's Cloud-Native Computing Foundation (CNCF) — this was my very first time there, as it was for 60% of the 7,000 onsite participants (more joined in virtually).There's no doubt that Kubernetes has become a major force since it was first launched in 2014. According to a Cloud Native Computing Foundation report from IOD partner SlashData, use of Kubernetes shot up in 2021 by 67% over the previous year.

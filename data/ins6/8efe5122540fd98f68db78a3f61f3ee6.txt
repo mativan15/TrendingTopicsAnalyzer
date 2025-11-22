@@ -1,0 +1,8 @@
+Enterprise Metrics and Optimization
+acm.org
+news
+2022-06-02 16:30:00
+
+Collecting and publishing metrics are important for any organization, and there are many framework options such as Ganglia, Prometheus, and the ELK (Elastic, Logstash, Kibana) stack for such tasks. As important as metrics are for understanding current state, collection and publishing are just the first step, the next being metric interpretation to understand whether a metric is positive or negative, and then finally the process to determine what metrics to optimize.
+Let's Buy An Example Zoo
+A useful concrete example to illustrate these points is a zoo, something most readers should be acquainted with.

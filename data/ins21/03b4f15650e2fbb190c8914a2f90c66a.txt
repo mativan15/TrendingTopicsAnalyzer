@@ -1,0 +1,6 @@
+A.I.-driven robots are cooking your dinner
+Fortune Media IP Limited
+business
+2022-10-18 17:30:00
+
+Your next Friday night pizza may be made by robot hands. That's the vision of Ajay Sunkara, who launched the Pizzaiola autonomous chef, an A.I.-driven, voice-controlled pizza maker that's making its way to Chicago-based regional pizza chain, Slice Factory. The robotic chef monitors more than 1,200 parameters every microsecond, from managing food quality to the point-of-sales machine. When a customer places a pizza order, Pizzaiola will select, press, and stretch the dough; add the sauce, cheese, and toppings; then cook, slice, and box the pizza all to the customer's specified preferences.

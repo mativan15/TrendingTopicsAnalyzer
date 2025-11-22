@@ -1,0 +1,7 @@
+The Auto Struggle: How To Re-Architect The Company In A Software-Defined World
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 08:15:00
+
+The playing field has changed from being the most efficient assembler of mechatronics to the most ... [+] efficient coder of vehicles.getty
+My mom used to frequently describe disruptive change as 'trying to thread a moving sewing machine,' and that's the exact metaphor that the automotive industry faces as it grapples with a rapidly-changing marketplace. Multiple startup threats – including the not-so-startup of Tesla – have designed a computer and added wheels rather than cobbling computers into a host of mechanical systems.

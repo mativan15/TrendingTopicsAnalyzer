@@ -1,0 +1,6 @@
+Design considerations for building multi-cloud strategy
+techradar.com
+tech
+2022-10-17 13:46:12
+
+Delivering on a multi-cloud strategy is as difficult as deciding whether to have a multi-cloud strategy at all. Careful thought must be made for a multi-cloud decision, and then careful planning and flawless execution are required to achieve your goals. Let's not confuse a multi-cloud strategy with the usage of multiple clouds. In the former, the intention is to have applications and services deployed at multiple clouds. Common to a multi-cloud strategy is the requirement that a network exists to route between the two locations.

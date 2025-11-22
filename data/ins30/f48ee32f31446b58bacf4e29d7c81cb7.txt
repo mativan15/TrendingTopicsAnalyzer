@@ -1,0 +1,6 @@
+Verilock announces a new security paradigm for protecting cryptocurrency
+prweb.com
+news
+2022-05-31 13:30:00
+
+ESTES PARK, Colo. (PRWEB) May 31, 2022 The primary target for crypto thieves is the exfiltration of private keys from an exchange's hot wallets. Compromises also occur frequently with cold wallets that are not properly kept offline or during transfers or withdrawals of funds. To help protect their users, exchanges are tightening internal security and maintaining insurance policies against what is proving to be a higher risk than many crypto coin holders recognize. While these steps may make some users feel better, they certainly reflect the extent of this security problem.

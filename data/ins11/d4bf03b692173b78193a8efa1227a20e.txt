@@ -1,0 +1,8 @@
+A Look At The Intrinsic Value Of NIKE, Inc. (NYSE:NKE)
+yahoo.com
+news
+2022-06-01 17:12:34
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of NIKE, Inc. (NYSE:NKE) as an investment opportunity by estimating the company's future cash flows and discounting them to their present value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

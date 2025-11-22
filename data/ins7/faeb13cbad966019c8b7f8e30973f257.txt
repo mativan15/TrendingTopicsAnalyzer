@@ -1,0 +1,7 @@
+Is it possible to create algo stablecoin that doesn't collapse? Ethereum co-founder has an answer
+indianexpress.com
+news
+2022-05-28 12:50:21
+
+The recent Luna-Terra crash has led to tens of billions of dollars of losses, which has led to wide criticism of 'algorithmic stablecoins' as a category, with many considering it to be a fundamentally flawed product. Ethereum co-founder Vitalik Buterin has shared two experiments on evaluating whether an algorithmic (algo) stablecoin is sustainable.
+In a blog post, Buterin writes, 'While there are plenty of automated stablecoin designs that are fundamentally flawed and doomed to collapse eventually, and plenty more that can survive theoretically but are highly risky, there are also many stablecoins that are highly robust in theory and have survived extreme tests of crypto market conditions in practice.

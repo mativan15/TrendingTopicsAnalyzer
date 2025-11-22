@@ -1,0 +1,6 @@
+Google Messages updates bring iOS reactions and YouTube embeds
+copyright Oath 2022
+news
+2022-10-20 13:00:43
+
+The tech giant has detailed the new and upcoming features for its Messages app.M. Moon|10.20.22GoogleGoogle has detailed the new, recent and upcoming changes to its Messages app in an effort to advocate for the more widespread adoption of the RCS messaging protocol. Apple chief Tim Cook recently made clear that the company has no plans to fix the 'green bubbles' texting experience anytime soon, but Google's feature additions improve messaging interoperability between iOS and Android. Earlier this year, it rolled out an update for the Messages app that allowed it to display iMessage reactions as emoji.

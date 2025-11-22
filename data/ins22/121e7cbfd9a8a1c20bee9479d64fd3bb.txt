@@ -1,0 +1,8 @@
+Estimating The Fair Value Of Pioneer Natural Resources Company (NYSE:PXD)
+yahoo.com
+news
+2022-10-21 14:00:54
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Pioneer Natural Resources Company (NYSE:PXD) as an investment opportunity by projecting its future cash flows and then discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method.

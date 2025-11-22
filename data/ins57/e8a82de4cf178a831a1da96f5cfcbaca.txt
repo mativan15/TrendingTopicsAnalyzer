@@ -1,0 +1,8 @@
+How to reprogram an Apple AirTag and play custom sounds
+theregister.com
+economics
+2022-05-27 00:52:31
+
+At the Workshop on Offensive Technologies 2022 (WOOT) on Thursday, security researchers demonstrated how to meddle with AirTags, Apple's coin-sized tracking devices.
+Thomas Roth (Leveldown Security), Fabian Freyer (Independent), Matthias Hollick (TU Darmstadt, SEEMOO), and Jiska Classen (TU Darmstadt, SEEMOO) describe their exploration of Apple's tracking tech in a paper [PDF] titled, "AirTag of the Clones: Shenanigans with Liberated Item Finders."
+The boffins discuss tools they've developed and released to advance the exploration of AirTag hardware and firmware, made possible by existing imperfections.

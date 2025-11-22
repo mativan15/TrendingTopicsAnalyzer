@@ -1,0 +1,6 @@
+Syncfusion Releases Essential Studio 2022 Volume 3
+globenewswire.com
+news
+2022-10-18 00:00:00
+
+RESEARCH TRIANGLE PARK, N.C., Oct. 18, 2022 (GLOBE NEWSWIRE) -- Syncfusion, Inc., the developer solutions company of choice, is pleased to announce the release of Essential Studio 2022 Volume 3. This release includes dozens of new controls and features for web, mobile, and desktop platforms, including three controls in preview for .NET MAUI, five for Blazor, and seven for the JS 2 platforms. 'Essential Studio 2022 Volume 3 includes some of our customers' most highly requested controls, especially for the Blazor and .

@@ -1,0 +1,6 @@
+How to Stop Microsoft Edge From Hogging System Resources
+lifehacker.com
+news
+2022-10-20 15:30:00
+
+Microsoft Edge has earned its spot as a reputable browser, making it a fine default option for most Windows users. However, it isn't perfect. If Microsoft Edge is slowing your computer down, there are a few fixes you can try before switching to a different browser. We've combed through the app's performance settings to help you both speed up your browser and minimize its resource use on your PC.Enable Efficiency ModeDesigned specifically for those who use Edge on a laptop, Efficiency Mode reduces the browser's resource usage and helps you squeeze a bit more battery life from your machine.

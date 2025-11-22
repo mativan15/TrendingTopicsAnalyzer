@@ -1,0 +1,6 @@
+AI trends 2022 — VI — Bias removal in ML
+medium.com
+entertainment
+2022-06-06 01:22:31
+
+As AI algorithms become more prevalent in business, they have come under greater scrutiny. Many fear that these systems can perpetuate and even worsen historic bias issues like racism, sexism and bigotry.Business and data scientists must remove bias during AI development to combat these problems. Companies can reduce bias in AI by checking the inputs and adjusting them where possible. For example, if a system is trained on photos of people but has no images of older women, it may have trouble recognizing them when provided with their photographs.

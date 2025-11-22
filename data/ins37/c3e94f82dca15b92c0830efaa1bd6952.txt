@@ -1,0 +1,6 @@
+Cloud computing security: Where it is, where it's going
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-06-01 14:54:47
+
+ShutterstockMany firms are realising that while shifting applications and infrastructure over to cloud computing services can make life easier in some ways, it doesn't mean they can give up all responsibility for keeping their data secure.Cloud security is the fastest growing segment of the security market, with spending jumping from $595 million in the US in 2020 to $841 million last year, largely because companies are discovering that it's a more complicated topic than they realised.Most businesses use multiple cloud services and cloud providers, a hybrid approach that can support granular security options where vital data is kept close (perhaps in a private cloud) while less sensitive applications run in a public cloud to take advantage of big tech's economies of scale.

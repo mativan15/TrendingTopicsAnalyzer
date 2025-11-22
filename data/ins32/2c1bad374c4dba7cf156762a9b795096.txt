@@ -1,0 +1,7 @@
+DePay launches WordPress plugin for Web3 donations with any-to-any token conversion
+prnewswire.com
+news
+2022-05-31 14:39:00
+
+A common way is to use a centralized crypto payment gateway. Going this way implies that one has to trust intermediaries who accept the donations on one's behalf, which contradicts the core idea of decentralization. Additionally, the number of cryptocurrencies that can be accepted with this option is often very limited.
+Another option is to provide wallet addresses in plain text on their site. Besides the aesthetics, this way requires that you have high administrative overhead with monitoring different wallets and converting tokens to hedge against volatility.

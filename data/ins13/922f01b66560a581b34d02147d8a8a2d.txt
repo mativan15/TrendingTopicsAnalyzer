@@ -1,0 +1,6 @@
+Artificial Intelligence And Machine Learning
+medium.com
+entertainment
+2022-05-30 19:19:59
+
+Artificial Intelligence and Machine Learning are two very hot buzzwords right now, and often seem to be used interchangeably.Artificial Intelligence has been broadly defined as the science and engineering of making intelligent machines, especially intelligent computer programs (McCarthy, 2007). AI may employ statistical models, if-then expert systems, and machine learning.Machine Learning is an artificial intelligence technique that can be used to design and train software algorithms to learn from and act on data.

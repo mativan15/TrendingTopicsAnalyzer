@@ -1,0 +1,10 @@
+Deepwatch Report: IT Security Professionals Say Alert Noise Undermines Response To Disruptive Cyber Threats
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time TAMPA, Fla.--(BUSINESS WIRE)--Deepwatch, the leader in advanced managed detection and response (MDR) security, today released the State of the Modern SOC report. Recent research by Deepwatch found that most IT security professionals believe they could have stopped business impacting cyber events if equipped with better response capabilities. Many seek more automation and less alert noise to shorten response times.
+
+
+
+The report found that 85% of IT security professionals have experienced preventable business impacts resulting from insufficient response procedures, while 97% said that more accurate alerting would increase their confidence in automating threat response actions.

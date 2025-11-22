@@ -1,0 +1,8 @@
+Intel shows off faster Thunderbolt version with speeds of up to 120Gbps
+indianexpress.com
+news
+2022-10-22 05:50:55
+
+Not long after the introduction of USB 4 version 2.0, Intel has announced that it's been working on 'the next generation of Thunderbolt ' connectivity standard which will be capable of speeds of up to 80Gbps. While a name has not yet been officially confirmed, the new standard may be called Thunderbolt 5.
+The foundation of the next-gen Thunderbolt standard is USB4v2, which also supports 80Gbps connections.
+With the new and improved Thunderbolt, higher speeds do max out at 80Gbps in regular scenarios but during transmitting HD video, can bump up to 120Gbps of available bandwidth.

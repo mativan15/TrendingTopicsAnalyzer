@@ -1,0 +1,37 @@
+Augmented Analytics Driven by AI: A Digital Transformation beyond Business Intelligence
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1 and 2,* 
+
+
+1
+Management Information Systems Department, College of Business Administration, King Saud University, Riyadh 11362, Saudi Arabia
+
+
+2
+Information Technology Department, College of Computer and Information Sciences, King Saud University, Riyadh 11362, Saudi Arabia
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Javad Rezazadeh, Omid Ameri Sianaki, Reza Farahbakhsh and John Ayoade
+
+Sensors 2022, 22(20), 8071; https://doi.org/10.3390/s22208071 (registering DOI)
+
+
+Received: 19 August 2022
+/
+Revised: 7 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 21 October 2022
+ 
+
+Lately, Augmented Analytics (AA) has increasingly been introduced as a tool for transforming data into valuable insights for decision-making, and it has gained attention as one of the most advanced methods to facilitate modern analytics for different types of users.

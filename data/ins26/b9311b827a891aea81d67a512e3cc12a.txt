@@ -1,0 +1,9 @@
+ARM vs. RISC-V: Is one better than the other?
+digitaltrends.com
+news
+2022-05-31 20:12:59
+
+If you wanted to make a CPU, and you're not AMD or Intel, there are two real choices: ARM and RISC-V. But what are the differences between the two, and why do companies choose one over the other? These questions are fundamentally intertwined with differing philosophies about open source hardware and what's best for the processor and computing industry.
+What are ARM and RISC-V?
+
+ARM and RISC-V are instruction set architectures, or ISAs. The ISA is the foundation of a processor and is the most fundamental and basic component of any CPU.

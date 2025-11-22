@@ -1,0 +1,10 @@
+1Kosmos Adds SOC 2 Type II to Long List of Technology Certifications
+Copyright 2022, Business Wire.
+tech
+2022-10-19 13:04:00
+
+October 19, 2022 09:04 AM Eastern Daylight Time SOMERSET, N.J.--(BUSINESS WIRE)--1Kosmos, the only company that unifies identity proofing and passwordless authentication, today announced it has received a System and Organization Controls (SOC) 2 Type II certification. This certification validates that 1Kosmos, which provides identity proofing and passwordless as a cloud service, maintains effective system level controls that ensure the security of its platform.
+
+
+
+This is the latest in a series of certifications the company has received including support for the FIDO Alliance FIDO2 for strong and multi factor authentication, Kantara Initiative NIST SP 800-63 rev.

@@ -1,0 +1,8 @@
+Are Investors Undervaluing Balfour Beatty plc (LON:BBY) By 43%?
+yahoo.com
+news
+2022-05-27 13:44:33
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Balfour Beatty plc (LON:BBY) as an investment opportunity by taking the expected future cash flows and discounting them to today's value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method.

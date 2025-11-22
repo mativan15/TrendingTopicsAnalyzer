@@ -1,0 +1,10 @@
+Plex Systems Introduces Machine Learning to Help Companies Improve Demand Forecasting Accuracy
+yahoo.com
+news
+2022-06-02 13:00:00
+
+Plex DemandCaster Supply Chain Planning with Machine Learning Increases Predictability and Responsiveness
+
+MILWAUKEE, June 02, 2022--(BUSINESS WIRE)--Plex Systems, a Rockwell Automation company and a leader in cloud-delivered smart manufacturing solutions, today announced new machine learning capabilities for Plex DemandCaster Supply Chain Planning (SCP), enhancing forecast accuracy to improve customer service at lower levels of inventory coverage.
+
+Manufacturers need more sophisticated supply chain planning technology in response to shortages in workforce and raw materials, logistics challenges, and impacts to overall business revenue.

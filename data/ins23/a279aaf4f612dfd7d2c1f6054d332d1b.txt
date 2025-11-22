@@ -1,0 +1,6 @@
+Failover strategies for the modern enterprise
+techradar.com
+tech
+2022-10-17 13:56:23
+
+Modern enterprises are reliant on consistent Internet connectivity.  Outages can have an immediate impact on revenue, render a company to unable to meet compliance obligations, and significantly increase security risks.  More difficult to calculate is the damage that will be caused to a brand's reputation, and the continuing loyalty of its customers. In today's globalised business landscape, organisations have multiple locations and connections to manage.  One location can be bad enough, but what happens when a wired Internet connection fails at several locations simultaneously?  Distributed enterprise networks now include connected people and ‘things', as well as more traditional branch connectivity.

@@ -1,0 +1,6 @@
+Zero Trust: designing an authorization model for enterprises
+techradar.com
+tech
+2022-06-01 10:36:47
+
+Enterprises that build complex applications using multiple codebases need to make sure the right people or services can only access what they need without a slew of difficult to maintain code buried in the application. Nor do they want to manage a cumbersome and manual way of tracking the changes in access logic. The rules around this logic regularly change, new features, regulations and so on, so rebuilding the code, essentially reinventing permissions is not a reliable nor scalable approach for good cybersecurity (opens in new tab).

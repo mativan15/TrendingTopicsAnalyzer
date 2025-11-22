@@ -1,0 +1,6 @@
+Japanese university develops 3D telemedical system
+nhk.or.jp
+news
+2022-06-03 10:45:00
+
+A university in Tokyo and a tech firm have developed an online medical examination system that enables doctors to see patients using 3D images. Juntendo University demonstrated the system on Friday. The system connected the university with a nursing home for people with Parkinson's disease in Ishikawa Prefecture, on the Sea of Japan coast. A doctor wearing a special headset asked questions about a patient's symptoms while looking at 3D images of the person in real time. The university says the images can show patients' detailed movements to enable treatment.

@@ -1,0 +1,6 @@
+Oracle Database Users Are Unlocking 3X Storage Performance Boost on AWS with FlashGrid
+prweb.com
+news
+2022-10-18 14:45:00
+
+"FlashGrid has already helped many Oracle customers who need high availability on AWS. Now we are also bringing high performance to users of single-instance Oracle databases, removing one of the last barriers in migrating to the cloud", said Art Danielov, CEO FlashGrid SUNNYVALE, Calif. (PRWEB) October 18, 2022 Organizations use Oracle databases to run highly demanding applications. They may need to process large volumes of transactions, run end-of-month reports, or other heavy-duty workloads. Occasionally, the required storage throughput can exceed the limits of a single Amazon EC2 instance, causing delays in data processing.

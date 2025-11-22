@@ -1,0 +1,6 @@
+NetApp's cloud-based Spot PC: Right solution, right direction, wrong company
+computerworld.com
+news
+2022-06-03 15:30:00
+
+(Disclosure: most of the vendors mentioned are clients of the author.)There should be no doubt that the current trend surrounding personal computing is to move the loads and the cost from the desktop to the cloud, where there are better economies of scale for things like updates, security, and performance-on-demand. The barriers against this move are past poor experiences with thin clients; excessive costs associated with some vendor solutions; and network access, capacity, and latency — all of which are being mitigated by 5G.

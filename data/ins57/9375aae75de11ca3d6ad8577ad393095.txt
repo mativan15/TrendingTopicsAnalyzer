@@ -1,0 +1,8 @@
+How to deploy Joomla with Docker
+techrepublic.com
+news
+2022-06-03 18:19:55
+
+Illustration: Lisa Hornung/TechRepublic
+Joomla is a world-class, open-source content management system that is search-engine and mobile-friendly, multilingual and flexible; it also offers unlimited design potential. With more than 110 million downloads, 10,000+ extensions and templates, Joomla is used on 2 million+ websites. You might deploy Joomla for business websites or portals, e-commerce or online publications.
+With the help of Docker, you can quickly deploy a containerized version of Joomla and use it for just about anything.

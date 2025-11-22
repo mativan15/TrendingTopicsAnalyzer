@@ -1,0 +1,6 @@
+Splunk BrandVoice: The $5 Trillion Threat To Network Security–And How To Prevent It
+forbes.com
+news
+2022-06-01 14:00:00
+
+Security incident and event management (SIEM) technology has been around for years, but before we talk about the tech, let's talk about the threat it protects your organization from: According to research by market analysts Juniper Networks, the cost of data breaches is likely to exceed $5 trillion by 2024. That's almost double the amount reported in 2019, which totaled $3 trillion. Let's all ruminate on that for a moment, shall we? getty Moving to the cloud brings tremendous benefits, but as we saw during COVID-driven mass migration to work-from-home, rapid changes aren't always the safest — even if they're essential for business survival.

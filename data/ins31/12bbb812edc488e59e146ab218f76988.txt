@@ -1,0 +1,7 @@
+Okta's Fearful Cyber Response Worse Than Hackers' Peek—How 3 Tempting Tech Crisis Shortcuts Cost More
+Copyright 2022 Forbes Media LLC
+business
+2022-06-01 12:30:43
+
+getty 
+Regardless of precautions and incident plans, cyberattacks terrify c-suites. The recent identity-security firm Okta breach spotlights a common leadership response mistake — sacrificing customer trust for overestimated legal risk. In January 2022, hacker group LAPSUS$ infiltrated an Okta contractor's computer. Relying on its vendor's initial forensics, Okta opted not to disclose the brief attack. The breach was eventually made public in March via a series of hacker posts. Okta's attempts to minimize that bad news soon escalated into a public relations nightmare, stock downgrades, senior leader apologies and a class-action lawsuit.

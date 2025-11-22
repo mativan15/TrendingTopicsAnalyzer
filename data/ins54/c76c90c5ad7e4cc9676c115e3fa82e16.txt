@@ -1,0 +1,8 @@
+Huawei claims it's halved the time needed to build a 1,000-rack data center
+theregister.com
+economics
+2022-05-27 05:15:11
+
+Huawei has entered the data center construction business with an offering that it claims can be built in half the time required by competing methods, then run more efficiently.
+The prosaically-named 'Next-Generation Data Center Facility', as depicted in a video posted to Chinese social media, employs suspiciously-shipping-container-sized modules stacked into a larger building.
+In the video, a pre-school girl and her father use Lego to assemble a cube-shaped building. The scene cuts to film of a very similar building under construction in the real world, before the director makes sure the metaphor can't be missed by morphing the Lego and actual buildings, as depicted below.

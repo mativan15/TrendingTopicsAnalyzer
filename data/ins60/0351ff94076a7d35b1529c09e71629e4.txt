@@ -1,0 +1,10 @@
+Beanstalk Stablecoin Protocol 'Barn Raise' Aims to Restore $77M in Lost Funds
+yahoo.com
+news
+2022-06-02 15:38:25
+
+Don't miss CoinDesk's Consensus 2022, the must-attend crypto & blockchain festival experience of the year in Austin, TX this June 9-12.
+
+Ethereum-based stablecoin protocol Beanstalk will kick off a fundraising campaign on June 6 to restore $77 million of liquidity lost from a governance exploit that drained $182 million from the project.
+
+In April, an attacker bought a controlling stake of Beanstalk tokens, then used that position to exploit the governance structure, voting to send themself all of Beanstalk's funds.

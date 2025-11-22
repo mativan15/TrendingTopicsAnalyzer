@@ -1,0 +1,8 @@
+Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers
+yahoo.com
+news
+2022-10-17 13:33:00
+
+HUNTSVILLE, Ala., October 17, 2022--(BUSINESS WIRE)--Hexagon's Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence (AI) capabilities to HxGN Connect, Hexagon's real-time incident center as a service solution. With assistive AI, the collaboration platform can mine operational data from different systems to deliver real-time alerts, insights and results.
+
+Hosted in Microsoft Azure, HxGN Connect provides real-time crime centers, operations centers and others with real-time views of different data sources, collaboration channels to coordinate across teams and the ability to dynamically add new participants and channels as needed.

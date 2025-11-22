@@ -1,0 +1,6 @@
+Optimism's BitBTC Bridge Vulnerability Leads To Hacker Minting 200 Billion Tokens
+ibtimes.com
+news
+2022-10-19 04:05:41
+
+The cross-chain bridge on Optimism, a layer-two blockchain on top of Ethereum that supports privacy coin BitBTC, led an attacker to mint 200 billion BitBTC tokens out of thin air owing to its vulnerability.As pointed out by Arbitrum tech lead Lee Bousfield on Twitter, the BitBTC and Optimism bridge is "trivially vulnerable" and when he reached out to the development of the BitBTC project, he did not receive a reply. After that, in a Twitter thread, Bousfield said the platform has close to seven days before any attacker's transaction goes through.

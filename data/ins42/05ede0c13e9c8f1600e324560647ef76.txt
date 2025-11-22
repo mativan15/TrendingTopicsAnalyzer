@@ -1,0 +1,50 @@
+A Development of Optimal Algorithm for Integrated Operation of UGVs and UAVs for Goods Delivery at Tourist Destinations
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+, and * 
+
+
+Department of Hotel and Tourism Management, College of Hospitality and Tourism, Sejong University, 209 Neungdong-ro, Gwangjin-gu, Seoul 05006, Korea
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Mingcong Deng, Augusto Ferrante, Mihaiela Iliescu and Tai Yang
+
+Appl. Sci. 2022, 12(20), 10396; https://doi.org/10.3390/app122010396 (registering DOI)
+
+
+Received: 30 September 2022
+/
+Revised: 14 October 2022
+/
+Accepted: 14 October 2022
+/
+Published: 15 October 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+Although the actual use of delivery robots like UGVs and UAVs has not yet been generalized, they are also used for additional purposes like fun and enjoyment in some limited areas such as tourist destinations.

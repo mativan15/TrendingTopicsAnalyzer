@@ -1,0 +1,6 @@
+How Stochastic Games work part2(Artificial Intelligence)
+medium.com
+news
+2022-10-21 03:01:33
+
+Photo by Thomas Buchholz on UnsplashA Stochastic Game Approach to Masking Fault-Tolerance: Bisimulation and Quantification(arXiv)Author : Pablo F. Castro, Pedro D'Argenio, Luciano Putruele, Ramiro DemasiAbstract : We introduce a formal notion of masking fault-tolerance between probabilistic transition systems based on a variant of probabilistic bisimulation (named masking simulation). We also provide the corresponding probabilistic game characterization. Even though these games could be infinite, we propose a symbolic way of representing them, such that it can be decided in polynomial time if there is a masking simulation between two probabilistic transition systems.

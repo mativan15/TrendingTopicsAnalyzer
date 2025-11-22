@@ -1,0 +1,10 @@
+Passwords Are Now a Weakness — Here's Why It's Time to Eliminate Them.
+entrepreneur.com
+science
+2022-10-19 20:30:00
+
+It's time to wake up to an uncomfortable truth: Passwords aren't going to keep us safe online anymore. A recent breach of Fast Company's content management system (CMS) should prove it. The hacker, known as Thrax, seemed more interested in posting offensive messages and highlighting the weaknesses than in stealing data, but the situation nevertheless provides a stark reminder that passwords aren't secure anymore.
+
+So, what's the alternative?
+
+Granted, Fast Co.'s password management didn't align with password management recommendations.

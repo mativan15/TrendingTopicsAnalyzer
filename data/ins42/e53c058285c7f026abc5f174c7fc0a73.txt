@@ -1,0 +1,6 @@
+Unpaid social media moderators perform labor worth $3.4 million a year on Reddit alone
+northwestern.edu
+news
+2022-06-01 03:18:37
+
+The social networking platform Reddit relies on volunteer moderators to prevent the site from being overrun by problematic content—including hate speech—and ensure that it remains appealing for users. Though uncompensated, this labor is highly valuable to the company: According to a pair of new studies led by Northwestern University computer scientists, it's worth at minimum $3.4 million per year, which is equivalent to 2.8% of Reddit's 2019 revenue.Social media companies and tech platforms have gained an increasingly outsized role in shaping how information is consumed and shared as they've sought to expand their market shares, said lead study author Hanlin Li, a PhD student at Northwestern.

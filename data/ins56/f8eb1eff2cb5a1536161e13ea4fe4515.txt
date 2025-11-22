@@ -1,0 +1,37 @@
+Object Detection: Custom Trained Models for Quality Monitoring of Fused Filament Fabrication Process
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 1, 1, 2, 2, 2, 2 and 1,* 
+
+
+1
+IRES—Innovation in Research & Engineering Solutions, Rue Koningin Astritlaan 59B, 1780 Wemmel, Belgium
+
+
+2
+BioG3D P.C., 1 Lavriou Ave., Technological & Cultural Park of Lavrion, 19500 Lavrion, Greece
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Yanzhen Zhang
+
+Processes 2022, 10(10), 2147; https://doi.org/10.3390/pr10102147 (registering DOI)
+
+
+Received: 29 September 2022
+/
+Revised: 17 October 2022
+/
+Accepted: 19 October 2022
+/
+Published: 21 October 2022
+ 
+
+Process reliability and quality output are critical indicators for the upscaling potential of a fabrication process on an industrial level.

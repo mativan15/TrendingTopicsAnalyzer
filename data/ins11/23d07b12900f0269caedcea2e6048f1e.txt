@@ -1,0 +1,8 @@
+AI programming tools may mean rethinking compsci education
+theregister.com
+news
+2022-10-20 07:31:04
+
+Analysis While the legal and ethical implications of assistive AI models like Github's Copilot continue to be sorted out, computer scientists continue to find uses for large language models and urge educators to adapt.
+Brett A. Becker, assistant professor at University College Dublin in Ireland, provided The Register with pre-publication copies of two research papers exploring the educational risks and opportunities of AI tools for generating programming code.
+The papers have been accepted at the 2023 SIGCSE Technical Symposium on Computer Science Education, to be held March 15 to 18 in Toronto, Canada.

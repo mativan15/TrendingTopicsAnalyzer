@@ -1,0 +1,6 @@
+Starlink signals can be reverse-engineered to work like GPS—whether SpaceX likes it or not
+technologyreview.com
+news
+2022-10-21 10:00:00
+
+In a non peer-reviewed paper that he has posted on his lab's website, Humphreys claims to have provided the most complete characterization of Starlink's signals to date. This information, he says, is the first step toward developing a new global navigation technology that would operate independently of GPS or its European, Russian, and Chinese equivalents.  'The Starlink system signal is a closely guarded secret,' says Humphreys. 'Even in our early discussions, when SpaceX was being more cooperative, they didn't reveal any of the signal structure to us.

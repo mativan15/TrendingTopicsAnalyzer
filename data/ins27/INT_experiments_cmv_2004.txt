@@ -1,0 +1,99 @@
+User Evaluations of Interactive Multimodal Data Presentation
+
+Veridiana C. L. Salvador, Rosane Minghim, Haim Levkowitz
+ICMC-USP, ICMC-USP , ICMC-USP & IVPR-CS-UML
+veridiana.salvador@comcast.net, rminghim@icmc.usp.br, haim@icmc.usp.br/haim@cs.uml.edu
+
+Abstract
+A set of user evaluation studies were performed to test
+hypotheses about the efficacy and value of the use of sonification
+by itself and together with visualization to improve
+the process of interactive data exploration. Our results
+show that, in some cases, sonification yielded more accurate
+analysis results, and when combined with visualization,
+yield much better results than either one (visualization
+or sonification) yielded separately. That supports sonification
+as a valuable and promising tool that should be further
+studied as a complement to visualization systems.
+
+References
+[1] T. L. Bonebright, N. E. Miner, T. E. Goldsmith, and
+T. P. Caudell. Data collection and analysis techniques
+for evaluating the perceptual qualities of auditory
+stimuli. In ICAD’98 International Conference
+on Auditory Display, Sydney, Australia, July 1998.
+http://www.icad.org/icad1998.
+[2] E. Brazil and M. Fernström. Where’s that sound? exploring
+arbitrary user classifications of sounds for audio
+management. In ICAD’03 International Conference
+on Auditory Display, Boston, USA, July 2003.
+http://www.icad.org/icad2003.
+[3] T. Hermann, C. Niehus, and H. Ritter. Interactive
+visualization and sofinication for monitoring complex
+processes. In ICAD’03 International Conference
+on Auditory Display, Boston, USA, July 2003.
+http://www.icad.org/icad2003.
+[4] M.-S. K. Ju-Hwan Lee, Myoung-Hoon Jeon.
+Auditory displays on the depth of hypertext.
+In ICAD’03 International Conference
+on Auditory Display, Boston, USA, July 2003.
+http://www.icad.org/icad2003.
+[5] H. Levkowitz, S. Smith, and M. Torpey. An environment
+and studies for exploring auditory representations
+of multidimensional data. In G. Grinstein and
+H. Levkowitz, editors, Perceptual Issues in Visualization.
+Springer-Verlag, 1998.
+[6] R. Minghim and A. R. Forrest. An illustrated analysis
+of sonification for scientific visualisation. In
+Proceedings of IEEE Visualization’95, Atlanta, USA,
+October 2004. IEEE CS Press.
+[7] R. Minghim and H. Levkowitz. Sonification for support
+to visual data interpretation - a survey. in preparation,
+2005.
+[8] V. C. L. Salvador. Development of a Model for Exploration
+in Distributed Scientific Visualization using
+Sound (in Portuguese). PhD thesis, USP - Instituto
+de Ciências Matemáticas e Computação, São Carlos
+- SP, Brazil, August 2003.
+[9] V. C. L. Salvador and R. Minghim. An interaction
+model for scientific visualization using sound.
+In Proceedings of the XVI Brazilian Symposium
+on Computer Graphics and Image Processing (SIBGRAPI’
+03), S˜ao Carlos - SP, Brazil, 2003. USP -
+Instituto de Ciências Matemáticas e de Computação,
+IEEE CS Press.
+[10] V. C. L. Salvador, R. Minghim, and M. L. Pacheco.
+Sonification to support visualization tasks. In Proceedings
+of Sibgrapi’98, São Carlos - SP, Brazil,
+1998. IEEE CS Press.
+[11] C. Stevens, D. Brennan, and S. Parker. Simultaneous
+manipulation of parameters of auditory icons to convey
+direction, size, and distance: Effects on recognition
+and interpretation. In ICAD’04 International
+Conference on Auditory Display, Sydney, Australia,
+July 2004. http://www.icad.org/icad2004.
+[12] E. Tejada, R. Minghim, and L. G. Nonato. On improved
+projection techniques to support visual exploration
+of multi-dimensional data sets. Information
+Visualization Journal, Special Issue on Coordinated
+& Multiple Views in Exploratory Visualization,
+2(4):218–231, 2003.
+[13] B. N. Walker. Magnitude estimation of conceptual
+data dimensions for use in sonification. Journal of
+Experimental Psychology: Applied, 8(4):211–221,
+Dec. 2002.
+[14] B. N. Walker, G. Kramer, and D. M. Lane.
+Psychophysical scaling of sonification mappings.
+In ICAD 2000 International Conference on Auditory
+Display, Atlanta, Georgia, USA, July 2000.
+http://www.icad.org/icad2000.
+[15] B. N. Walker, J. Lindsay, and J. Godfrey. The audio
+abacus: Representing a wide range of values with accuracy
+and precision. In ICAD’04 International Conference
+on Auditory Display, Sydney, Australia, July
+2004. http://www.icad.org/icad2004.
+[16] B. N. Walker and L. Mauney. Individual differences,
+cognitive abilities and the interpretation of auditory
+graphs. In ICAD’04 International Conference
+on Auditory Display, Sydney, Australia, July 2004.
+http://www.icad.org/icad2004 .

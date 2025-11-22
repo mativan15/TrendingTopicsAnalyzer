@@ -1,0 +1,6 @@
+Early trials show that Google FLEDGE is flopping
+searchengineland.com
+news
+2022-10-18 14:56:21
+
+Google began testing FLEDGE in AdSense in August but after just four months of trials, it seems to have gone stale, with only only RTB House, Criteo and Google itself using it in any meaningful way. Ad tech companies aren't using it because it's unknown. It's an expensive test that could prove catastrophic if it fails. As Digiday reports, 'No one can afford to be first, especially when there are so many unresolved issues.'  What is FLEDGE. FLEDGE stands for First Locally-Executed Decision over Groups Experiment.

@@ -1,0 +1,6 @@
+Use Sign In With Apple to Protect Your Privacy. 5 Things to Know About the Security Feature
+cnet.com
+news
+2022-06-03 11:00:00
+
+Sign In with Apple is a privacy tool that helps improve iOS users' security when using third-party apps and websites with their Apple ID. It has been available for some time. You can choose the Sign In with Apple tool to verify your credentials instead of signing in with Facebook, Google or making a brand-new account on an app or website. Sign In with Apple is part of the tech giant's commitment to privacy. In the last few years, Apple has added more privacy controls to iOS, including the ability to stop apps from tracking you across websites and "nutrition labels" that let you see what information apps collect before you download.

@@ -1,0 +1,7 @@
+Report: Tim Hortons collected location data without consent
+theregister.com
+news
+2022-06-03 01:10:11
+
+From May 2019 through August 2020, the mobile app published by multinational restaurant chain Tim Hortons surveilled customers constantly by gathering their location data without valid consent, according to a Canadian government investigation.
+In a report published Wednesday, Office of the Privacy Commissioner (OPC) of Canada and the privacy commissioners from three provinces – Alberta, British Columbia, and Quebec – presented the results of an inquiry that began shortly after the publication of a June 2020 National Post article.

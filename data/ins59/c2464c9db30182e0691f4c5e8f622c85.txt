@@ -1,0 +1,8 @@
+Which AI Creates the Best (and Most Terrifying) Art?
+pcmag.com
+news
+2022-10-18 14:40:30
+
+The tech world never lacks trending topics, but one of the most interesting this year is the use of artificial intelligence (AI) to create art. The resulting images can be everything from grotesque to stunning.
+
+Here's an ultra-simplified explanation of how they work: Take millions, if not billions, of captioned images, and generate something new and unique based on a text description you provide, called a "prompt." (This article(Opens in a new window) provides a more detailed breakdown of the process.

@@ -1,0 +1,6 @@
+Splunk BrandVoice: 5 Key Benefits Of Observability From Leading Organizations
+forbes.com
+news
+2022-06-01 14:00:00
+
+The pandemic-era rush of cloud adoption has exacerbated monitoring challenges for traditional IT teams. And catching up to the growing number of frontline practitioners, analysts now advise that observability is a solid aspect of modern IT rather than a fad. Which means just as more IT orgs are experiencing the visibility challenges of hybrid, multicloud infrastructure, they're also more readily identifying observability as the solution. getty Thanks to a new global survey of 1,250 companies in 15 industries, we can definitively show you that one of our favorite topics, observability, is worth your time.

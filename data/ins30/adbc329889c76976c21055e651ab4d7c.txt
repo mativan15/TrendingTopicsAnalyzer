@@ -1,0 +1,6 @@
+Council Post: Three Keys To A Harmonious Relationship Between Data Science And Data Engineering
+Copyright 2022 Forbes Media LLC
+business
+2022-06-03 11:30:00
+
+Director of data science at Wavicle Data Solutions. Driving client value through data science and advanced analytics. getty Data scientists and data engineers are both critical roles for data-driven organizations. When they work well together, it can be magical. But too often, their relationships are fraught with tension and misunderstanding. This is because their roles and tasks are related, but they often struggle with imprecise boundaries and lack of clarity about each other's roles. They often use similar language for slightly different tasks—the language and subtleties can cause conflict and confusion and even bring projects to a standstill.

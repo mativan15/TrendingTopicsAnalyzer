@@ -1,0 +1,6 @@
+Stability AI, proponent of hands-off AI image generation, gets a $1 billion valuation
+theverge.com
+news
+2022-10-18 10:36:14
+
+Stability AI, the company behind popular text-to-image AI program Stable Diffusion, has raised new funding that values the company at around $1 billion (according to a report from Bloomberg citing a 'person familiar with the matter'). It's a significant validation of the company's approach to AI development, which, in contrast to incumbents like OpenAI and Google, focuses on open-source models that anyone can use without oversight. In a press statement, Stability AI said it raised $101 million in a round led by Coatue, Lightspeed Venture Partners, and O'Shaughnessy Ventures, and that it will use the money to 'accelerate the development of open AI models for image, language, audio, video, 3D, and more, for consumer and enterprise use cases globally.

@@ -1,0 +1,8 @@
+Nabla is now offering a health tech stack for patient engagement
+yahoo.com
+finance
+2022-06-02 10:00:18
+
+After setting out to examine digital healthcare from the inside by launching its own women's health clinic as an app last year, French startup Nabla is executing the next step in a planned pivot to b2b -- announcing today that it's opened its machine learning tech stack to other digital health businesses and healthcare providers so they can offer what it bills as "personalized medicine".
+
+Nabla's AI-powered patient communications and engagement/retention platform is designed to support clinicians to deliver a more continuous, data-driven service, whether the client is offering real-time telehealth consultations or delivering a service to patients via asynchronous, text-based messaging.

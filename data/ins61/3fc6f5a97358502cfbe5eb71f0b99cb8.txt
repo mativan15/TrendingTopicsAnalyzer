@@ -1,0 +1,35 @@
+Cooling a Rotating Mirror Coupled to a Single Laguerre–Gaussian Cavity Mode Using Parametric Interactions
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+, , , and * 
+
+
+School of Science, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Onofrio M. Maragò
+
+Nanomaterials 2022, 12(20), 3701; https://doi.org/10.3390/nano12203701 (registering DOI)
+
+
+Received: 29 September 2022
+/
+Revised: 17 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 21 October 2022
+
+
+(This article belongs to the Special Issue Advanced Fiber Laser)
+ 
+
+We study the cooling of a rotating mirror coupled to a Laguerre–Gaussian (L–G) cavity mode, which is assisted by an optical parametric amplifier (OPA).

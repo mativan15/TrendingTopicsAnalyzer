@@ -1,0 +1,6 @@
+The Hacker Gold Rush That's Poised to Eclipse Ransomware
+2022 Google Inc.
+news
+2022-06-05 11:00:00
+
+Ransomware attacks, including those of the massively disruptive and dangerous variety, have proved difficult to combat comprehensively. Hospitals, government agencies, schools, and even critical infrastructure companies continue to face debilitating attacks and large ransom demands from hackers. But as governments around the world and law enforcement in the United States have grown serious about cracking down on ransomware and have started to make some progress, researchers are trying to stay a step ahead of attackers and anticipate where ransomware gangs may turn next if their main hustle becomes impractical.

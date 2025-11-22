@@ -1,0 +1,7 @@
+CyberQ Technologies Inc. Managed AI for Splunk UBA Customers
+prnewswire.com
+news
+2022-06-02 16:10:00
+
+CyberQ, a CyberSecurity AI services business with HQ located in Boston Massachusetts, announces a comprehensive Managed AI Service for Splunk User Behavior Analytics (UBA) customers. CyberQ MAI manages UBA in the customer cloud provider of choice. This service helps customers focus on outcomes, detections and alerts and provides a 24/7/365 managed UBA AI stack with 99.9% uptime.
+A dedicated, global team of operators manage customer's UBA stacks, integrated with Splunk Cloud, to deliver data ingestion and alert results.

@@ -1,0 +1,7 @@
+Cybellum Announces Critical New Management and Automation Module for Product Security Incident Response Teams (PSIRT)
+prnewswire.com
+news
+2022-10-19 12:00:00
+
+Enhanced workflow automation enables advanced cyber threat monitoring, impact assessment, triage, and remediation of vulnerabilities for products and devices in the field 
+TEL AVIV, Israel, Oct. 19, 2022 /PRNewswire/ -- Cybellum, provider of the Product Security Platform for connected product and device manufacturers, announced today the availability of a new Product Incident Response module to help Product Security Incident Response Teams (PSIRT) to monitor and investigate threats related to devices that are already in operational use in the field.

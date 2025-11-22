@@ -1,0 +1,29 @@
+A Bayesian Nonlinear Reduced Order Modeling Using Variational AutoEncoders
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ 1,*, 1, 2 and 3 
+
+
+1
+Safran Tech, Digital Sciences and Technologies Department, Rue des Jeunes Bois, Châteaufort, 78114 Magny-Les-Hameaux, France
+
+
+2
+Centre de mise en forme des matériaux, MINES Paristech, CNRS UMR 7635, 06904 Sophia Antipolis, France
+
+
+3
+Mines Paris, Université PSL, Centre des Matériaux (MAT), UMR7633 CNRS, 91003 Evry, France
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Mehrdad Massoudi and Jian Fang
+
+Fluids 2022, 7(10), 334; https://doi.

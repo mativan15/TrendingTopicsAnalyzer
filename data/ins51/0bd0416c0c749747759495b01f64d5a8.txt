@@ -1,0 +1,32 @@
+Reliability Analysis of RC Slab-Column Joints under Punching Shear Load Using a Machine Learning-Based Surrogate Model
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+, and * 
+
+
+School of Civil Engineering and Architecture, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Ming-Hung Hsu, Zheng-Yun Zhuang and Ying-Wu Yang
+
+Buildings 2022, 12(10), 1750; https://doi.org/10.3390/buildings12101750 (registering DOI)
+
+
+Received: 12 September 2022
+/
+Revised: 5 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 20 October 2022
+ 
+
+Reinforced concrete slab-column structures, despite their advantages such as architectural flexibility and easy construction, are susceptible to punching shear failure.

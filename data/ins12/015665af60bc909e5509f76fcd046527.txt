@@ -1,0 +1,6 @@
+Liquid-Markets Announces a Range of Intel FPGA-based Products for Financial Services and Beyond
+Copyright 2022, Business Wire.
+tech
+2022-10-17 06:00:00
+
+October 17, 2022 02:00 AM Eastern Daylight Time ZUG, Switzerland--(BUSINESS WIRE)--Liquid-Markets GmbH ('LMS') today announced a strategic collaboration with Intel Corporation to propel development of a range of Intel Agilex FPGA-based products to solve challenges faced by industries where data transmission latency and throughput are critical to business success. While Intel and LMS will initially focus on the financial services industry, both companies believe the products, including the initial Collaboration Products ÜberNIC™ and Naros.

@@ -1,0 +1,6 @@
+We're using this rally to make a few trades in the portfolio: one sale, two buys
+cnbc.com
+news
+2022-10-18 13:24:20
+
+We're buying 20 shares of Danaher (DHR) at roughly $263.99 and 40 shares of Estee Lauder (EL) at roughly $217.05. In addition, we are selling 350 shares of Marvell Technology (MRVL) at roughly $39.25. Following Tuesday's trades, the Trust will own 530 shares of DHR, increasing its weighting in the portfolio to 5.11% from 4.92%. It will also own 170 shares of EL, increasing its weighting in the portfolio to 1.34% from 1.03%. Lastly, it will own 1050 shares of MRVL, decreasing its weighting in the portfolio to about 1.

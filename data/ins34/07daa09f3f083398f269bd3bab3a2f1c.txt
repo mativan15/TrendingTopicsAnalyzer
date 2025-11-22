@@ -1,0 +1,8 @@
+What's new in WordPress 6.0
+techrepublic.com
+news
+2022-05-31 14:08:23
+
+Image: IB Photography/Adobe Stock
+WordPress is the most widely-used blogging platform on the market. According to W3 Technology Surveys, WordPress is used by 64.1% of content management systems and 42.9% of all websites. That's significant. It also means the developers of WordPress are always active and working diligently to improve the platform.
+Recently, the developers released the latest major milestone in version 6.0. This release includes over 500 enhancements and 400 bug fixes, so not only should you want to upgrade, you should consider this a must.

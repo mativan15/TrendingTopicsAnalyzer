@@ -1,0 +1,6 @@
+Revisiting the Long-Run Dynamic Linkage between Dividends and Share Price with Advanced Panel Econometrics Techniques
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+The log-linearized present value model (PVM) has been widely used in corporate finance to understand the long-run relationship between share price and dividends using panel data. However, the application of recently established panel econometric approaches that account for slope heterogeneity and cross-section dependency in the recent literature regarding the long-run link between share price and dividends in an Indian setting is limited. This paper re-examines the log-linearized PVM in an Indian setting using newly developed panel unit root, cointegration, and long-run dynamic estimation approaches.

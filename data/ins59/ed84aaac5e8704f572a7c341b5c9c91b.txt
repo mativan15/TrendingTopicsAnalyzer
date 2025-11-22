@@ -1,0 +1,50 @@
+A System for a Real-Time Electronic Component Detection and Classification on a Conveyor Belt
+Creative Commons Attribution (CC-BY)
+science
+2022-05-31 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ and * 
+
+
+Department of Electronic Systems, Vilnius Gediminas Technical University (VILNIUS TECH), 03227 Vilnius, Lithuania
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Amy J.C. Trappey, John P.T. Mo and Ching-Hung Lee
+
+Appl. Sci. 2022, 12(11), 5608; https://doi.org/10.3390/app12115608 (registering DOI)
+
+
+Received: 26 April 2022
+/
+Revised: 27 May 2022
+/
+Accepted: 29 May 2022
+/
+Published: 31 May 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+The presented research addresses the real-time object detection problem with small and moving objects, specifically the surface-mount component on a conveyor.

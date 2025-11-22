@@ -1,0 +1,6 @@
+Cybersecurity For Small Businesses Is Booming, But Data Is Scant
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 21:18:12
+
+A new cybersecurity market is emerging among business that till recently have been thought to be mostly insulated from attacks: small and medium-sized Main Street businesses. The market is growing based on a small wave of hacks and ransomware attacks targeting companies in Middle America, and a much larger wave of fear, and a response by insurance companies to require small businesses that want insurance to meet minimum standards for security. The growth is happening despite a relatively small number of reported attacks, numbering over 2,500 globally against small and large businesses, according to the best publicly available data I could find.

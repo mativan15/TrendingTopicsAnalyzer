@@ -1,0 +1,10 @@
+North Korea's Lazarus Group Attacks Japanese Crypto Firms
+yahoo.com
+news
+2022-10-17 10:16:26
+
+North Korea's state-sponsored cyber criminal group Lazarus has attacked Japanese crypto firms, according to a joint statement by Japan's National Police and Financial Services Agencies.
+
+The attacks were carried out using phishing and social engineering techniques, according to a report by Japan News.
+
+Lazarus hackers allegedly reached out to target companies by pretending to be crypto company executives in emails and on social media. After establishing contact, the attackers then infected target companies' internal systems with malware before making off with crypto.

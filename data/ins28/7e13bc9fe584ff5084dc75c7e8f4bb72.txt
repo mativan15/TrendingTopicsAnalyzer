@@ -1,0 +1,6 @@
+IIT Mandi develops tech to overcome spectrum shortages in future wireless communication applications
+indiatimes.com
+news
+2022-06-01 14:00:00
+
+New Delhi: Researchers at the Indian Institute of Technology in Mandi have developed state-of-art solutions to enhance the reusability of radiofrequency spectrum which can overcome shortage and meet the growing demands of data communication in the future wireless communication applications. The findings of the team's work have recently been published in IEEE Transactions on Consumer Electronics, and other IEEE journals.According to the team, radio frequency waves or "spectrum" as they are known in the telecommunication field, are low energy radiation that is used in wireless communication.

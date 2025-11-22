@@ -1,0 +1,6 @@
+Project Volterra could encourage switch to Arm-based PCs
+Copyright TechTarget - All rights reserved
+news
+2022-06-02 08:00:00
+
+Microsoft will release a refreshed Arm-based desktop PC for developers later this year. Project Volterra will speed up machine learning algorithms for data scientists and AI developers. The vendor introduced the stackable PC, which can connect to multiple units for additional capabilities, last week at Microsoft Build, its annual software and web developer conference. The PC will enable developers to use Arm-native versions of Microsoft developer tools to build apps. The small PCs, which look like Mac minis, are built from recycled ocean plastic.

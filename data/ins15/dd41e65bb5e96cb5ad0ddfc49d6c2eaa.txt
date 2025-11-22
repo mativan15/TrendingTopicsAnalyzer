@@ -1,0 +1,8 @@
+RNT Rausch partners with Submer for immersion cooling
+theregister.com
+news
+2022-06-01 13:30:11
+
+Immersion cooling has long been the domain of larger datacenter operators but with increasing density and therefore smaller datacenter facilities, there is a need for shops of all sizes to get around heavy-duty AC and air cooling.
+This is the target for German server maker RNT Rausch, which has teamed up with cooling specialist Submer to provide immersion cooling for RNT's server and storage systems
+The partnership means businesses of any size can deploy liquid cooling in their datacenter. A relatively small space is required for this as it eliminates the need for air-conditioning units to cool servers, or for expensive and sophisticated fire extinguisher systems, the companies said.

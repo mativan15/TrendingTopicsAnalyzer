@@ -1,0 +1,6 @@
+Meta Has Developed AI for Real-Time Translation of Hokkien
+gizmodo.com
+news
+2022-10-19 19:30:00
+
+Meta is chugging along on their Universal Speech Translator, which hopes to train an artificial intelligence to translate hundreds of languages in real time. Today, the tech giant claims to have generated the first artificial intelligence to translate Hokkien, which is a language primarily spoken and not written.Hokkien is a language that is spoken by approximately 49 million people in countries like China, Taiwan, Singapore, Malaysia, and the Phillippines. Typically, training an AI to understand human speech—and in Meta's case, translation—researchers will feed the computer a large dataset of written transcripts.

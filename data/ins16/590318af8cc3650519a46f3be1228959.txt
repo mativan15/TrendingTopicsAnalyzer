@@ -1,0 +1,6 @@
+Virtual Engineering and Commissioning to Support the Lifecycle of a Manufacturing Assembly System
+Creative Commons Attribution (CC-BY)
+science
+2022-10-16 00:00:00
+
+Prior to the physical build of the industrial automation system, some challenges arise, such as processes' cycle times calculations, ergonomics and safety evaluation, and the integration of separate machines to the complete production shops. This, in turn, requires reconfiguring the processes and component parameters. As a result, the lifecycle of the system development is prolonged, and the potential for erroneous performance increases. In modern digital manufacturing environments, virtual engineering (VE) and virtual commissioning (VC) serve as effective tools to tackle the aforementioned problems and their consequences.

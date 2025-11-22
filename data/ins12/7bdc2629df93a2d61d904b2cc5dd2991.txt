@@ -1,0 +1,10 @@
+Massive podcast outage caused by Spotify's failure to renew security certificate
+theverge.com
+news
+2022-05-31 18:32:15
+
+Illustration by Alex Castro / The Verge
+
+
+Podcast listeners could not access many of their favorite shows for more than eight hours on Monday night and early Tuesday morning due to an outage on Megaphone, a podcast hosting platform owned by Spotify. The outage stemmed from the company's failure to renew Megaphone's security certificate.
+'Megaphone experienced a platform outage due to an issue related to our SSL certificate,' Spotify spokesperson Erin Styles said in a statement. 'During the outage, clients were unable to access the Megaphone CMS and podcast listeners were unable to download podcast episodes from Megaphone-hosted publishers.

@@ -1,0 +1,103 @@
+Morse Operators for Digital Planar Surfaces and Their Application to Image Segmentation
+
+Luis Gustavo Nonato, Antônio Castelo Filho, Rosane Minghim, and João Batista
+
+Abstract—This paper introduces the concept of digital planar
+surfaces and corresponding Morse operators. These operators
+offer a novel and powerful method for construction and de-construction
+of such surfaces in a way that global topological control
+of the resulting object is always maintained. In that respect, this
+paper offers a complete pixel characterization tool. Image handling
+is a natural application for such approach.We present a novel fast
+algorithm for image segmentation using Morse operators for digital
+planar surfaces. It classifies as a region growing technique with
+added topological control and is extremely useful for applications
+that need proper object description. Results from real data are
+stimulating, and show that the segmentation algorithm compares
+very well with other methods. The topological approach also
+forms a base for future expansion to applications such as volume
+segmentation.
+
+
+REFERENCES
+[1] A. Baraldi and F. Parmiggiani, “Single linkage region growing algorithms
+based on the vector degree of match,” IEEE Trans. Geosci. Remote
+Sensing, vol. 34, no. 1, pp. 137–148, 1996.
+[2] J. Batista and R. Freitas, “An adaptive gradient-based boundary detector
+for MRI images of brain,” in Proc. 7th Int. Conf. Image Processing Applications,
+1999, pp. 440–444.
+[3] J. C. Bezdek, “Review ofMR image segmentation techniques using pattern
+recognition,” Med. Phys., vol. 20, no. 4, pp. 1033–1048, 1993.
+[4] C. Bouman, “Markov random fields and stochastic image models,” in
+IEEE Int. Conf. Image Processing, Oct. 1995, pp. 23–25.
+[5] J. Canny, “A computational approach to edge detection,” IEEE Trans.
+Pattern Anal. Machine Intell., vol. PAMI-8, pp. 679–698, Nov. 1986.
+[6] A. Castelo, H. Lopes, and G. Tavares, “A handlebody representation for
+surfaces and morse operators,” in Proc. Curves and Surfaces in Computer
+Vision and Graphics III, Boston, MA, 1992, pp. 270–283.
+[7] J. Cornelis, J. D. Becker, M. Bister, C. Vanhove, G. Demonceau, and A.
+Cornelis, “Techniques for cardiac image segmentation,” in Proc. 14th
+IEEE EMBS Conf., vol. 14, Paris, France, 1992, pp. 1906–1908.
+[8] R. Deklerck, J. Cornelis, and M. Bister, “Segmentation of medical images,”
+Image Vis. Comput., vol. 11, no. 8, pp. 486–503, 1993.
+[9] R. Deriche, “Using canny’s criteria to derive a recursively implemented
+optimal edge detector,” Int. J. Comput. Vis., pp. 167–187, 1987.
+[10] B. Dobrin, T. Viero, and M. Gabbouj, “Fast watershed algorithms: Analysis
+and extensions,” Proc. SPIE, vol. 2180, pp. 209–220, 1994.
+[11] J. Gauch and S. Pizer, “Multiresolution analysis of ridges and valleys in
+gray-scale images,” IEEE Trans. Pattern Anal. Machine Intell., vol. 15,
+pp. 635–646, June 1993.
+[12] R. Haralick and L. Shapiro, “Image segmentation techniques,” Comput.
+Vis., Graph., Image Process., vol. 29, pp. 100–132, 1985.
+[13] , Computer and Robot Vision. Reading, MA: Addison-Wesley,
+1992, vol. 1.
+[14] K. Haris and S. Efstratiadis, “Hybrid image segmentation using watersheds
+and fast region merging,” IEEE. Trans. Image Processing, vol. 7,
+pp. 1684–1699, Dec. 1998.
+[15] W. Higgins and E. Ojard, “3D images and use of markers and other
+topological information to reduce oversegmentations,” Comput. Med.
+Imag. Graph., vol. 17, pp. 387–395, 1993.
+[16] C. J. Hilditch, “Linear skeletons from square cupboards,” in Machine
+Intelligence, B. Meltzer and D. Michie, Eds. Edinburgh, U.K.: Edinburgh
+Univ. Press, 1969, vol. 4, pp. 403–420.
+[17] Z. Kato, “Multi-Scale Markovian Modelization in Computer Vision
+With Application to SPOT Image Segmentation,” Ph.D. dissertation,
+Univ. Nice, Nice, France, 1994.
+[18] T. Y. Kong and A. Rosenfeld, “Digital topology: Introduction and
+survey,” Comput. Vis., Graph. Image Process., vol. 48, pp. 357–393,
+1989.
+[19] T. Kurita, “An efficient clustering algorithm for region merging,” IEICE
+Trans. Inform. Syst., vol. E78-D, pp. 1546–1551, 1995.
+[20] M.Mäntylä, An Introduction to Solid Modeling. New York: Computer
+Science, 1988.
+[21] R. Marik and J. Matas, “Membrane method for graph construction. Computer
+anaysis of images and patterns,” in Proc. 3rd Int. Conf. on Automatic
+Image Processing, Leipzig, Germany, Sept. 1989.
+[22] W. S. Massey, Algebraic Topology: An Introduction. New York: Harcourt
+Brace, 1967.
+[23] O. Monga, R. Deriche, G. Malandain, and J. P. Cocquerez, “Recursive
+filtering and edge tracking: Two primary tools for 3D edge detection,”
+Image Vis. Comput., vol. 9, no. 4, pp. 203–214, 1991.
+[24] L. G. Nonato, R. Minghim, M. C. F. Oliveira, and G. Tavares, “A novel
+approach to delaunay 3D reconstruction with a comparative analysis in
+the light of applications,” Comput. Graph. Forum, vol. 20, no. 2, pp.
+161–174, 2001.
+[25] L. G. Nonato, R. Minghim, and M. H. Shimabukuro, “Qualitative analysis
+of two reconstruction techniques and their application in dentistry,”
+J. Electron. Imag., vol. 9, no. 4, pp. 385–393, 2000.
+[26] S. J. Roberts, “Parametric and Non-Parametric Unsupervised Cluster
+Analysis,” Imperial College, Univ. London, London, U.K., Tech. Rep.
+msg-7-95, 1995.
+[27] M. H. Shimabukuro, R. Minghim, and P. R. D. B. Licciardi, “Visualization
+and reconstruction in dentistry,” in Proc. IEEE IV’98, London,
+U.K., 1998, pp. 25–31.
+[28] M. Sonka et al., Image Processing, Analysis and Machine Vision. New
+York: PWS, 1999.
+[29] R. Wilson and M. Spann, “A new approach to clustering,” Pattern
+Recognit., vol. 23, no. 12, pp. 1413–1425, 1990.
+[30] C. Xu, D. L. Pham, and J. L. Prince, “Image segmentation using
+deformable models,” in Handbook of Medical Imaging. Bellingham,
+WA: SPIE, 2000, vol. 2, ch. 3.
+[31] O. A. Zuniga and R. M. Haralick, “Corner detection using the facet
+model,” in Proc. Conf. Computer Vision and Pattern Recognition, 1983,
+pp. 30–37.

@@ -1,0 +1,6 @@
+Photoshop's answer to Dall-E hints at the future of photo editing
+techradar.com
+news
+2022-10-20 05:00:00
+
+This year's Adobe Max 2022 went big on 3D design and mixed-reality headsets, but the AI-generated elephant in the room was the rise of text-to-image generators like Dall-E. How is Adobe planning to respond to these revolutionary tools? Slowly and cautiously, according to the keynote – but a significant feature buried in the new version of Photoshop shows the process has already started. Towards the end of the release notes (opens in new tab) for the latest Photoshop v24.0 is a beta feature called 'Backdrop neural filter'.

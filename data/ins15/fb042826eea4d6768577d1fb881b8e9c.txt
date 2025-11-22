@@ -1,0 +1,37 @@
+Optimization of Hammer Peening Process for Gas Turbine Rotor Straightening
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+Open AccessArticle by
+ 1 and 2,* 
+
+
+1
+Department of Mechanical Design Engineering, Tech University of Korea, Siheung-si 15073, Gyeonggi-do, Korea
+
+
+2
+Department of Aeronautical and Mechanical Engineering, Cheongju University, Cheongju-si 28503, Chungcheongbuk-do, Korea
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Konstantinos Kyprianidis and Valentina Zaccaria
+
+Machines 2022, 10(10), 950; https://doi.org/10.3390/machines10100950 (registering DOI)
+
+
+Received: 4 September 2022
+/
+Revised: 8 October 2022
+/
+Accepted: 17 October 2022
+/
+Published: 19 October 2022
+ 
+
+Some rotors are bent permanently due to high operating temperatures, repeated transition periods, and so on.

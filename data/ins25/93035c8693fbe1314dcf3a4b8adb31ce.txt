@@ -1,0 +1,6 @@
+Stablecoin Mechanics 2: Tether-Celsius
+medium.com
+tech
+2022-10-17 04:16:17
+
+Canonically a stablecoin is only issued in return for fiat currency. Everyone knows that rule is not followed 100% of the time in crypto. Here we are going to look, in depth, at not-for-fiat transactions between Tether and Celsius. There are also direct transfers but those are boring.tl;dr: We found the Tether-Celsius loans, Tether's equity investment into Celsius, and can therefore prove a lot about both defects in the Celsius business model and questionable conduct by Tether.Our goal here is to show what sorts of flow-of-funds information can be gleaned from on-chain analysis with proper tools.

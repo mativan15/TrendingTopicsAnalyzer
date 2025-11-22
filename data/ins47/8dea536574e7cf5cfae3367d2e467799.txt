@@ -1,0 +1,13 @@
+Fortinet Next-Generation Firewall training and what are NSE 4, NSE 5 …
+slideshare.net
+news
+2022-05-27 07:26:03
+
+1. Fortinet Next-Generation Firewall training and what are NSE 4, NSE 5 and
+NSE 7 certifications?
+A firewall is one of the most important and standard devices in any company's
+network security setup. The next firewall Fortigate Firewall is a smart firewall,
+which is capable of threat protection against modern threats and it is fully
+programmable. A Fortinet/Fortigate next-generation firewall delivers high quality
+against the contemporary threats and cyber attacks in the company's complex
+networks.

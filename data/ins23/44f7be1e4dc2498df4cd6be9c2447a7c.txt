@@ -1,0 +1,6 @@
+Ubiquitous South Korea App Goes Offline, Raising Fresh Concerns Over Tech Giants
+wsj.com
+news
+2022-10-17 12:31:00
+
+With Kakao servers knocked offline, taxi drivers couldn't connect with potential passengers via Kakao's ride-hailing app.Photo: SeongJoon Cho/Bloomberg NewsBy Jiyoung Sohn and Timothy W. MartinOct. 17, 2022 8:25 am ETListen to article(2 minutes)SEOUL—Kakao Corp., South Korea's 'everything app,' dropped out of service over the weekend, spurring widespread disruption in life and business that exposed the vulnerabilities created should an ubiquitous tech giant be forced offline.Kakao's main services—messaging to ride hailing to mobile payments—suffered outages on Saturday, following a fire at a facility housing a large proportion of the company's data servers.

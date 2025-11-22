@@ -1,0 +1,6 @@
+Key concerns about online payments and ways to overcome them
+indiatimes.com
+economics
+2022-05-28 05:15:00
+
+iStockFraudsters are becoming more sophisticated by the day, using methods like Phishing, Vishing, SIM cloning/swapping for receiving OTP on the fraudsters mobile, and more.In India, digital transactions were up by 33% to 7,422 crore transactions in FY 22 [till 28 Feb'22 ] with UPI contributing to Rs 452 crore transactions worth Rs 8.27 lakh crore. The country has also witnessed a proportional rise in all other digital payment forms like credit cards, online banking, mobile banking, QR etc. With growing digital payments, frauds are also on the rise.

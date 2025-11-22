@@ -1,0 +1,6 @@
+SITM Stock Price
+marketwatch.com
+finance
+2022-10-20 13:00:00
+
+SiTime Corp.is a micro-electromechanical system based silicon timing solutions. The company is transforming the timing industry with configurable solutions that replace legacy quartz devices and enable customers to differentiate their products with performance, smaller size, lower power and reliability. SiTime was founded by Markus Lutz and Aaron Partridge in 2005 and is headquartered in Santa Clara, CA.

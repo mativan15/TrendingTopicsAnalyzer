@@ -1,0 +1,6 @@
+Materials, Vol. 15, Pages 7386: High-Temperature Mechanical Properties of Stress-Relieved AlSi10Mg Produced via Laser Powder Bed Fusion Additive Manufacturing
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+The present study is dedicated to the evaluation of the mechanical properties of an additively manufactured (AM) aluminum alloy and their dependence on temperature and build orientation. Tensile test samples were produced from a standard AlSi10Mg alloy by means of the Laser Powder Bed Fusion (LPBF) or Laser Beam Melting (LBM) process at polar angles of 0&deg;, 45&deg; and 90&deg;. Prior to testing, samples were stress-relieved on the build platform for 2 h at 350 &deg;C. Tensile tests were performed at four temperature levels (room temperature (RT), 125, 250 and 450 &deg;C).

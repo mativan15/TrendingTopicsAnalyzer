@@ -1,0 +1,6 @@
+As the iOS15 update and the removal of third-party cookies approach, what are the new rules of privacy?
+techradar.com
+tech
+2022-10-17 13:22:51
+
+After Apple announced its latest software update – iOS15 – will be available from late September, e-commerce leaders and digital marketers will be curious to see how the changes will affect their strategies.   There are two features in the iOS15 update that necessitate a strategic change in direction for marketers – 'Mail Privacy Protection' (MPP) and 'Hide My Email'. Apple is the world's largest email sender, delivering 40 percent of the world's commercial and transactional emails, meaning these updates will have a substantial impact on email marketing as we know it with Apple users gaining greater control over their data and how it is shared, in another move that will prove to accelerate the consumer privacy mandate.

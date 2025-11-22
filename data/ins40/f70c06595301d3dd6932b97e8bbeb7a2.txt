@@ -1,0 +1,7 @@
+Neosec Introduces Industry First Expert Managed Threat Hunting Service for Detecting and Investigating API Abuse and Vulnerabilities
+prnewswire.com
+news
+2022-06-02 16:00:00
+
+Neosec threat hunters from the "ShadowHunt" team jumpstart the API Security process quickly and help build the knowledge in today's overstretched security teams. 
+PALO ALTO, Calif., June 2, 2022 /PRNewswire/ -- Neosec, the pioneer in discovering and identifying API threats using behavioral analytics, today announced the availability of ShadowHunt, an expert-staffed managed threat hunting service to augment its platform with human oversight from active threat hunters to identify the most clandestine and obfuscated API abuse.

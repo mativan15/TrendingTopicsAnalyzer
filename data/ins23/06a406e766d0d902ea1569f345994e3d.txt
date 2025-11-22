@@ -1,0 +1,8 @@
+Ransomware actors have found a new way to make victims pay up
+techradar.com
+tech
+2022-06-03 15:23:25
+
+(Image credit: Future)
+
+ Deploying ransomware is one thing, but getting the victim to pay up is an entirely different matter. Now, a relatively new entrant to the ransomware (opens in new tab) game is using a unique new strategy to force its victims to cave in to demands.As spotted by BleepingComputer, a data extortion gang that only recently added ransomware to its arsenal, called Industrial Spy, has started defacing the websites of attacked companies in order to pressure them into paying the ransom.

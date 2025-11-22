@@ -1,0 +1,8 @@
+Theneo wants to bring Stripe-like API documentation to all developers
+techcrunch.com
+tech
+2022-10-19 23:35:39
+
+A new company is taking a leaf out of Stripe's API playbook with a platform that makes it easy for any company to create clear API documentation, while also allowing non-technical team members to contribute to the process.
+Demoing as part of the Battlefield 200 cohort at TC Disrupt this week, TechCrunch met up with Theneo to find out how they plan to get their slice of the $4.5 billion API management market — a figure that's predicted to rise to nearly $14 billion within five years.
+APIs, or 'application programming interfaces,' are the glue that hold most modern software together.

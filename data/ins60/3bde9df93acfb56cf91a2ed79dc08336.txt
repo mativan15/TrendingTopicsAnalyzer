@@ -1,0 +1,10 @@
+Should the Russia-based Kaspersky anti-virus software be removed from PCs, and what is the easiest way to uninstall Windows 11?
+seattletimes.com
+business
+2022-06-04 07:00:00
+
+Q: I finally decided that the perceived risks of keeping Kaspersky were too much. I looked on the internet for advice on how to remove it, which went smoothly, including the registry edits. I still had a couple years on the five-year plan I had originally purchased. Windows Defender Security Center automatically started working after the restart without Kaspersky.
+
+
+
+I found a couple of invalid charges on my latest bill from my primary credit card, which is now canceled and replaced. I've also experienced a big increase in the identified scam calls on my home phone.

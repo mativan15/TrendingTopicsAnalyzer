@@ -1,0 +1,10 @@
+Horizon3.ai's NodeZero Takes Top Honors in the TMC 2022 Cloud Security Excellence Awards
+yahoo.com
+news
+2022-10-20 10:00:00
+
+NodeZero, an Autonomous Pentesting Platform, Enables Organizations to Continuously Verify Their Security Posture.
+
+SAN FRANCISCO, October 20, 2022--(BUSINESS WIRE)--Horizon3.ai, a leading cybersecurity firm focused on autonomous penetration testing, announced that its NodeZero autonomous pentesting platform has won the 2022 Cloud Computing Excellence Award in the highly competitive Cloud-Delivered Security category.
+
+Cloud Computing Magazine and TMCnet's 2022 Cloud Security Excellence Awards recognize those solutions and services that demonstrate leadership, innovation and quality in keeping up with the evolving threat landscape and helping secure business applications, infrastructure, services, and devices.

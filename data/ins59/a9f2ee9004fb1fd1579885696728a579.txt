@@ -1,0 +1,10 @@
+OutThink raises $10 million to track human errors behind data breaches
+yahoo.com
+news
+2022-10-18 07:18:07
+
+By Juliette Portala
+
+(Reuters) - London-based cybersecurity company OutThink has raised $10 million in early-stage investments backed by venture capital firm AlbionVC, it said on Tuesday, as it looks to help organisations identify human behaviour that can lead to data breaches.
+
+The company, which says human behaviour is the source of 91% of data breaches, uses machine learning, natural language processing and applied psychology to identify, understand and manage the attitudes, intentions and sentiment of individuals.

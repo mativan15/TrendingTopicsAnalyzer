@@ -1,0 +1,6 @@
+Datadog's 2022 State of Serverless Report Finds Serverless Reaching Mainstream Adoption
+businessinsider.com
+finance
+2022-06-02 22:05:00
+
+Product maturity and increased options for leveraging serverless—through functions or serverless container products—is spurring adoption throughout all types of organizations and teamsNEW YORK, June 2, 2022 /PRNewswire/ -- Datadog, Inc. (NASDAQ: DDOG), the monitoring and security platform for cloud applications, today released the third edition of its The State of Serverless report, which is based on usage data from thousands of companies of all sizes and across all industries in Datadog's global customer base.

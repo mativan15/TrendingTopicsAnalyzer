@@ -1,0 +1,6 @@
+Don't overlook the risk of 'people doing people things'
+techradar.com
+tech
+2022-10-17 13:51:42
+
+With the traditional security perimeter all but eroded due to remote working, the pressure on IT departments to keep data protected has never been higher. Company data is now distributed across so many locations and home networks, that enforcing consistent data security policies no matter where people are working has become almost impossible for some organizations.Businesses can no longer rely on security systems designed for fixed office use, as they do not offer visibility or control for businesses to understand wider security risks.

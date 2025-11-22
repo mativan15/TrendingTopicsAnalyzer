@@ -1,0 +1,6 @@
+Computer Vision — How Does It Work?
+medium.com
+news
+2022-10-16 19:56:17
+
+omputer Vision is an interdisciplinary scientific field of Computer Science that enables computers to generate meaningful information from digital images, videos and other visual inputs to take actions or decisions based on that information. In Agriculture, Healthcare, Manufacturing, Facial Recognition, Autonomous Vehicles, and so on, Computer Vision is used nowadays rapidly. According to Forbes, the computer vision and hardware market is expected to reach $48.6 billion by 2022. Artificial Intelligence enables computer systems to think, whereas Computer Vision enables computer systems to see and observe.

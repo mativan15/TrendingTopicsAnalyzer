@@ -1,0 +1,8 @@
+Bad DIMM on Linus Torvalds' Desktop System Moves Kernel Merges to His Laptop
+slashdot.org
+news
+2022-10-16 19:15:00
+
+166804571 story Posted by EditorDavid on Sunday October 16, 2022 @07:34AM from the penguin-migrations dept. 
+ When a kernel developer asked Linus Torvalds if he'd missed a Git pull, Torvalds "revealed the request was still in his queue as 'I'm doing merges (very slowly) on my laptop, while waiting for new ECC memory DIMMs to arrive,'" reports The Register:
+Torvalds needs the DIMMs because over the last few days he experienced what he described as "some instability on my main desktop... with random memory corruption in user space resulting in my allmodconfig builds randomly failing with internal compiler errors etc.

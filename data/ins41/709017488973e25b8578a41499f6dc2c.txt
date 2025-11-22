@@ -1,0 +1,6 @@
+WEX Stock Price
+Copyright 2022, MarketWatch, Inc.
+finance
+2022-10-20 13:50:27
+
+WEX, Inc. engages in the provision of payment processing and information management solutions. It operates through the following segments: Fleet Solutions, Travel and Corporate Solutions, and Health and Employee Benefit Solutions. The Fleet Solutions segment provides payment and transaction processing services for the needs of commercial and government fleets. The Travel and Corporate Solutions segment focuses on the payment environment of business-to-business payments, providing customers with payment processing solutions for their corporate payment, and transaction monitoring needs.

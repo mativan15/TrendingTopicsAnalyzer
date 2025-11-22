@@ -1,0 +1,6 @@
+Lithium-Ion Battery Recycling in the Circular Economy: A Review
+Creative Commons Attribution (CC-BY)
+science
+2022-05-28 00:00:00
+
+Lithium-ion batteries have become a crucial part of the energy supply chain for transportation (in electric vehicles) and renewable energy storage systems. Recycling is considered one of the most effective ways for recovering the materials for spent LIB streams and circulating the material in the critical supply chain. However, few review articles have been published in the research domain of recycling and the circular economy, with most mainly focusing on either recycling methods or the challenges and opportunities in the circular economy for spent LIBs.

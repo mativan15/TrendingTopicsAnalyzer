@@ -1,0 +1,6 @@
+Automation is the answer to the skill and resource shortage in S/4HANA transformation market
+indiatimes.com
+tech
+2022-05-30 12:01:34
+
+Independent of the data source you choose, the backlog of SAP customers who have not moved to S/4HANA yet is still huge. Research from German-Speaking SAP User Group DSAG in cooperation with American SAP User Group ASUG, end of 2020 listed 20% of customers to be productive on S/4HANA, 30% actively working on the transformation, 30% in preparation, and 20% not started yet. Taking the 41,500 SAP customers into account and considering that most customers run more than one SAP system, the transformation backlog is enormous, and the end of life of SAP ECC in 2027 gets closer.

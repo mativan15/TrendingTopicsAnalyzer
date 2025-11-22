@@ -1,0 +1,8 @@
+An Intrinsic Calculation For GDI Integrated Facility Services Inc. (TSE:GDI) Suggests It's 36% Undervalued
+yahoo.com
+news
+2022-05-29 14:46:01
+
+In this article we are going to estimate the intrinsic value of GDI Integrated Facility Services Inc. (TSE:GDI) by estimating the company's future cash flows and discounting them to their present value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. It may sound complicated, but actually it is quite simple!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.

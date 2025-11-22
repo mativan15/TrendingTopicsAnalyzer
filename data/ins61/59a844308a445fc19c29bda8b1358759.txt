@@ -1,0 +1,7 @@
+Syntegra and the Institute for Health Metrics Expand Strategic Partnership to Bring Privacy-Guaranteed Healthcare Data to Life Sciences
+prnewswire.com
+news
+2022-10-18 16:50:00
+
+SAN FRANCISCO, Oct. 18, 2022 /PRNewswire/ -- Syntegra, a leader in synthetic data generation, and the Institute for Health Metrics (IHM), the not-for-profit hospital data collaborative, today  announced an expanded partnership to enable easier and faster access to millions of privacy-guaranteed electronic health records for life sciences companies.
+This strategic partnership combines the privacy-preserving capabilities of Syntegra's synthetic data engine with IHM's vast data repository to provide access to high-fidelity, patient-level data that would not otherwise be available.

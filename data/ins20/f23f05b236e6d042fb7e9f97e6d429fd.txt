@@ -1,0 +1,6 @@
+The Mechanics of Bioinspired Stiff-to-Compliant Multi-Material 3D-Printed Interfaces
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Complex interfaces that involve a combination of stiff and compliant materials are widely prevalent in nature. This combination creates a superior assemblage with strength and toughness. When combining two different materials with large stiffness variations, an interfacial stress concentration is created, decreasing the structural integrity and making the structure more prone to failure. However, nature frequently combines two dissimilar materials with different properties. Additive manufacturing (AM) and 3D printing have revolutionized our engineering capabilities concerning the combination of stiff and compliant materials.

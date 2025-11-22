@@ -1,0 +1,7 @@
+How to use ReBAR on Arc GPUs
+digitaltrends.com
+tech
+2022-10-21 22:00:13
+
+A gaming GPU from Intel? It may sound like blasphemy, but the new Arc chip line proves otherwise. In fact, we're seriously impressed with Intel's gaming graphic cards, calling them 'the right GPU at the right time' with their excellent 1440p performance, competitive ray tracing, and pricing that's somehow relatively reasonable. They even – dare we say it – work quite well with AMD Ryzen processors.
+ Contents What is Resizable BAR?How to enable ReBAR on Intel Arc GPUs But there's a small catch: You'll need to make sure that Resizable BAR is turned on if you want to get full performance.

@@ -1,0 +1,8 @@
+Taking ‘Abrasive' and ‘Nice' Out of Performance Reviews
+bloomberg.com
+news
+2022-10-17 14:00:10
+
+Performance reviews can be painful for all involved. But worse than that, they're biased. And the inequities that show up in the feedback that bosses give their underlings are more likely to work against women and people of color, holding them back from promotions and pay raises.
+
+Textio is trying to fix that. The Seattle tech startup built its business using machine learning and natural language processing to weed out bias in job postings, and it's about to roll out a product to do the same for performance reviews.

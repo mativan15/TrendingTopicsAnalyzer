@@ -1,0 +1,8 @@
+No robot-built datacenters on Earth, let alone the Moon
+theregister.com
+news
+2022-05-30 09:11:10
+
+Opinion Making a call on the quality of a new idea in tech can be hard. But if you ask me, not in the case of Lonestar Data Holdings, whose plan to build datacenters on the Moon is literal lunacy.
+
+Every detail of the roadmap, from tentative tiny proofs of concept to massive underground server farms built and tended by Moon robots, is priceless nonsense. From Apollo onward, every spacecraft has had data storage and network access. We have retrieved data held in New Horizon's 16GB filing system from Kuiper Belt object Arrokoth, 16 thousand times more distant than the Moon.

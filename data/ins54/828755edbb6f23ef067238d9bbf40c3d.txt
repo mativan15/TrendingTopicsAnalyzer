@@ -1,0 +1,7 @@
+Council Post: Tech Created The Web's Inequality Gap, And Now It Should Fix It
+Copyright 2022 Forbes Media LLC
+business
+2022-10-17 12:30:00
+
+Chief technology officer at accessiBe, a market leader in web accessibility. 
+getty Technology has become so advanced that it has evened out its own playing field, now enabling any individual, regardless of development experience, to become a website creator. In fact, building a website using an intuitive platform has made the creation process so streamlined that 175 new websites are launched each minute. However, with this modern ability to drag and drop website elements into a navigable website structure, an inequality gap on the web emerged and continues to persist, whether its existence is addressed or not.

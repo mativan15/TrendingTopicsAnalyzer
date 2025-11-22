@@ -1,0 +1,8 @@
+First Week of July 22nd Options Trading For Lumentum Holdings (LITE)
+nasdaq.com
+news
+2022-06-03 10:57:00
+
+Investors in Lumentum Holdings Inc (Symbol: LITE) saw new options begin trading this week, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the LITE options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $75.00 strike price has a current bid of $1.25. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $75.00, but will also collect the premium, putting the cost basis of the shares at $73.

@@ -1,0 +1,8 @@
+Los Alamos unveils all-Nvidia Venado supercomputer at ISC
+theregister.com
+news
+2022-05-30 16:30:08
+
+Nvidia will reveal more details about its Venado supercomputer project today at the International Supercomputing Conference in Hamburg, Germany.
+Venado is hoped to be the first in a wave of high-performance computers that use an all-Nvidia architecture, in this case using Grace-Hopper Superchips that combine CPU and GPU dies, and Grace CPU-only Superchips.
+This supercomputer "will be the first system deployed not just with Grace-Hopper in terms of the converged Superchip but it'll also have a cluster of Grace CPU-only Superchip modules,' Dion Harris, Nvidia's head of datacenter product marketing for HPC, AI, and Magnum IO, said during an Nvidia press conference ahead of ISC.

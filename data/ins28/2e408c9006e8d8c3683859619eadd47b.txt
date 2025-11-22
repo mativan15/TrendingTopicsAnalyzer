@@ -1,0 +1,6 @@
+Reading Candlesticks: A Basic Guide
+ibtimes.com
+news
+2022-10-17 03:45:29
+
+Candlesticks are a symbolic representation of the price action of an asset during a specific period of time, and they display the high, low, open, and closing prices of the said asset.To trade any cryptocurrency pair, traders make use of data from price-tracking websites that have charts and candlesticks integrated into them, a method introduced to the world by Japanese trader Munehisa Homma.These candlesticks are associated with a timeframe and have several uses in the crypto industry.First, it is imperative to decide what timeframe you are trading on.

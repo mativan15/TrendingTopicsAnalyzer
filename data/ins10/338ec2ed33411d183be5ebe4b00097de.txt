@@ -1,0 +1,8 @@
+Spotify's podcast hosting service went down because of a lapsed security certificate
+yahoo.com
+news
+2022-05-31 20:30:56
+
+Podcast listeners, no matter the app they use, were unable to access shows hosted on Spotify's Megaphone platform Monday night and early Tuesday. Those include The Joe Rogan Experience and podcasts from The Ringer and Gimlet Media. Worst of all, it seems the problem was entirely avoidable — it was due to a lapsed security certificate.
+
+'Megaphone experienced a platform outage due to an issue related to our SSL certificate,' Spotify spokesperson Erin Styles told The Verge . 'During the outage, clients were unable to access the Megaphone CMS and podcast listeners were unable to download podcast episodes from Megaphone-hosted publishers.

@@ -1,0 +1,15 @@
+Cyber Security Works reveals 13 vulnerabilities have become newly associated with Ransomware
+Copyright 2022, Business Wire.
+tech
+2022-10-20 11:17:00
+
+October 20, 2022 07:17 AM Eastern Daylight Time ALBUQUERQUE, N.M.--(BUSINESS WIRE)--Cyber Security Works (CSW) latest Ransomware Index Report reveals that 13 vulnerabilities have become newly associated with Ransomware in 2022 Q2 and Q3 taking the overall count to 323 vulnerabilities.
+
+
+
+Published in collaboration with Securin, Ivanti, and Cyware, the report highlights many key index numbers in relation to ransomware threats.
+
+The top five takeaways from this report include -
+
+
+13 new vulnerabilities have become associated with Ransomware in the past two quarters, and 10 out of 13 vulnerabilities have critical severity ratings.

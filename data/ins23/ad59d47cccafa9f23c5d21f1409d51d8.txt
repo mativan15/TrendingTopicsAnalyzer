@@ -1,0 +1,8 @@
+An Intrinsic Calculation For Dynatrace, Inc. (NYSE:DT) Suggests It's 41% Undervalued
+yahoo.com
+news
+2022-05-30 17:06:11
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Dynatrace, Inc. (NYSE:DT) as an investment opportunity by taking the expected future cash flows and discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method.

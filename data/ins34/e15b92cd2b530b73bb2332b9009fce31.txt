@@ -1,0 +1,7 @@
+Jasper's robots assemble fresh meals for nearby apartment dwellers
+techcrunch.com
+tech
+2022-10-21 23:22:17
+
+After attempting to sell its tech to large food service companies, cooking automation startup Jasper has shifted to direct-to-consumer. In a recent conversation, CEO Gunnar Froh told TechCrunch about the pivot and gave a general update on the company, a member of this year's Battlefield 200 at Disrupt 2022.
+When Gunnar founded Jasper several years ago (as YPC Technologies) with human-robot interaction expert Camilo Perez Quintero, their motivation was primarily to save time on cooking. After developing robotics technologies to automate cooking processes, they opted for a business-to-business go-to-market approach, hoping to sell their platform to food suppliers and service vendors.

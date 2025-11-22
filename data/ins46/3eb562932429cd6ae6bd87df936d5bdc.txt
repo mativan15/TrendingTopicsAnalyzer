@@ -1,0 +1,10 @@
+What is Data Deduplication? A Plain-English Guide
+hubspot.com
+news
+2022-10-17 11:00:00
+
+As a marketer, you likely deal with data in some form on a regular basis. So, how is data deduplication relevant to you?
+
+With so much critical information saved on our computer systems, we've learned to backup data regularly — including our email inboxes, Word documents, photos, and entire folders of old work. It's typically a ton of data.
+
+Since we usually backup and save our data on auto-pilot, we might not realize just how much has been re-copied and re-saved. Over time, our data storage becomes unnecessarily burdened with redundant copies of data, costing money as data requirements grow and processing time slows down.

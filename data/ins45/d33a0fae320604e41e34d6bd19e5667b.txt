@@ -1,0 +1,12 @@
+Chainlink Price Feeds Now Live on Solana
+yahoo.com
+news
+2022-06-03 15:00:17
+
+Don't miss CoinDesk's Consensus 2022, the must-attend crypto & blockchain festival experience of the year in Austin, TX this June 9-12.
+
+Chainlink is expanding to Solana.
+
+The blockchain oracle network said Friday that developers who build decentralized finance (DeFi) applications on the Solana mainnet can now incorporate seven of Chainlink's Price Feeds into their products.
+
+Popular DeFi projects such as Aave, Compound, and dYdX already use Chainlink's data services. However, Chainlink's launch on Solana makes it the first non-Ethereum Virtual Machine (EVM) chain supported by the network.

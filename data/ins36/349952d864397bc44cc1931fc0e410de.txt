@@ -1,0 +1,6 @@
+Marvell Announces Industry's Most Comprehensive 3nm Data Infrastructure IP Portfolio
+prnewswire.com
+news
+2022-10-20 13:00:00
+
+SANTA CLARA, Calif., Oct. 20, 2022 /PRNewswire/ -- Marvell Technology, Inc. (NASDAQ: MRVL), a leader in data infrastructure semiconductor solutions, today announced a comprehensive 3nm silicon platform to advance its industry-leading products across the cloud data center, carrier, enterprise, and automotive markets. Leveraging Marvell's success in 5nm, which includes the industry's first 5nm Data Processing Unit (DPU) – the OCTEON® 10 platform, this suite of advanced technology enables cutting-edge monolithic and multi-die solutions for its customers in the industry's most advanced process node, delivering the performance, power, and density (size) necessary to meet most demanding infrastructure requirements for compute, next generation 100T Ethernet switching, and 5G Advanced baseband processing.

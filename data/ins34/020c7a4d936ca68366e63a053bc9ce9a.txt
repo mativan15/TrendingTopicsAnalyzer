@@ -1,0 +1,8 @@
+Oracle and Nvidia want to help your business use AI better
+techradar.com
+tech
+2022-10-18 20:10:55
+
+(Image credit: Future)
+
+ Getting your business up to speed with AI should soon be a lot easier and more powerful thanks to Nvidia and Oracle.The two technology giants have announced an extension to their decade-long partnership that aims to help businesses embrace and scale up AI applications and platforms quicker than ever.The move will see tens of thousands more Nvidia GPUs, including the A100 and upcoming H100, supporting Oracle Cloud Infrastructure (OCI) as well as full support for Nvidia AI software and services.

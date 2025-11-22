@@ -1,0 +1,6 @@
+Real time content processing with AI.
+medium.com
+entertainment
+2022-05-30 19:47:35
+
+Photo by Markus Spiske on UnsplashOut of the many use cases that AI has, real time content processing is one of the more fascinating ones because of the added importance of the time constraint. Even though all aspects of AI are built to work in the least time, in real time content processing it is of utmost importance. The ability of AI to process not only the content feed, but also generate a response in certain cases gives rise to a myriads of use cases from remote exam proctoring to algorithmic trading systems, self driving cars and a lot more.

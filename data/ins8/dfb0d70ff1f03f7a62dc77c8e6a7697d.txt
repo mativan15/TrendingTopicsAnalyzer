@@ -1,0 +1,10 @@
+InRule Technology® Democratizes Machine Learning by Enhancing Platform with AutoML Capabilities
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time CHICAGO--(BUSINESS WIRE)--InRule Technology®, an intelligence automation company providing integrated decisioning, explainable AI and digital process automation software to the enterprise, today announced the addition of AutoML within xAI Workbench, the company's suite of machine learning modeling engines.
+
+
+
+Incorporating AutoML (automated machine learning) into xAI Workbench allows enterprises to scale the use of machine learning throughout the organization with confidence.

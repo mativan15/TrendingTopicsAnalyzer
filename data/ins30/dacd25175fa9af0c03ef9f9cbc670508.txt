@@ -1,0 +1,7 @@
+Kingston Releases Super Secure USB IronKey Drive
+forbes.com
+news
+2022-05-31 13:15:00
+
+The new Kingston IronKey Vault Privacy 50 (VP50) has FIPS 197 certification as well as AES 256-bit ... [+] hardware encryption in XTS mode. Kingston 
+Earlier this month, Kingston Technology announced the release of its latest super-secure IronKey SSD with a built-in screen for tapping in a PIN or password. Now Kingston has launched an encrypted USB thumb drive version for situations where data needs to be portable and completely secure should it fall into the wrong hands. The Kingston IronKey Vault Privacy 50 (VP50) has FIPS 197 certification as well as AES 256-bit hardware encryption in XTS mode.

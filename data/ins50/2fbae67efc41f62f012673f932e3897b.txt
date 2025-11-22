@@ -1,0 +1,8 @@
+Calculating The Fair Value Of Western Energy Services Corp. (TSE:WRG)
+yahoo.com
+news
+2022-05-31 11:06:41
+
+Does the May share price for Western Energy Services Corp. (TSE:WRG) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by taking the forecast future cash flows of the company and discounting them back to today's value. Our analysis will employ the Discounted Cash Flow (DCF) model. It may sound complicated, but actually it is quite simple!
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

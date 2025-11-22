@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Trending Topics Analyzer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    textarea { width: 500px; height: 120px; }
+    pre { background: #f4f4f4; padding: 15px; border-radius: 8px; }
+    input[type=range] { appearance: none; -webkit-appearance: none; -moz-appearance: none; width: 100%; background: transparent; }
+    input[type=range]::-webkit-slider-runnable-track { height:6px; background:#ccc; border-radius:3px; }
+    input[type=range]::-webkit-slider-thumb { appearance: none; -webkit-appearance:none; -moz-appearance:none; width:16px; height:16px; border-radius:50%; background:#ff6b6b; border:2px solid #fff; margin-top:-5px; cursor:pointer; }
+    input[type=range]::-moz-range-track { height:6px; background:#ccc; border-radius:3px; }
+    input[type=range]::-moz-range-thumb { width:16px; height:16px; border-radius:50%; background:#ff6b6b; border:2px solid #fff; cursor:pointer; }
+  </style>
+</head>
+<body>
+  <h1 style="margin-bottom: 20px; font-size: 32px;">Trending Topics</h1>
+
+  <div style="display:flex; gap:30px;">
+    <div id="leftPanel" style="flex:1;">
+      <p>Presiona el botón para insertar el siguiente bloque de datos:</p>
+      <button id="insertBtn">Insertar bloque</button>
+
+      <h1>Consulta</h1>
+      <label>Top K (número de Trending Topics a consultar): </label>
+      <input type="number" id="kInput" min="1" /><br><br>
+
+
+      <h3>Ventana temporal</h3>
+
+      <label style="font-weight:bold;">
+        <input type="checkbox" id="toggleFix"> Fijar sliders
+      </label>
+      <br><br>
+
+      <div style="width: 500px; margin-bottom: 20px;">
+        <p style="font-weight: bold; text-align: center; margin-bottom: 6px;">
+          <- mas antiguo   |   mas reciente ->
+        </p>
+        <div style="text-align: right; padding-right: 4px; margin: 0; font-weight: bold;">
+          Inicio: <span id="lblInicio">0</span>
+        </div>
+        <div style="position: relative; height: 40px;">
+          <input type="range" id="sliderInicio"
+                 min="1" max="0" value="1"
+                 style="position:absolute; left:0; right:0; top:5px; width:100%; z-index:2; pointer-events:auto;">
+          <input type="range" id="sliderFin"
+                 min="1" max="0" value="1"
+                 style="position:absolute; left:0; right:0; top:20px; width:100%; z-index:1; pointer-events:auto;">
+        </div>
+
+        <div style="font-weight: bold;">
+          Fin: <span id="lblFin">0</span>
+          
+          
+        </div>
+      </div>
+
+      <button id="consultBtn">Consultar</button>
+      <br><br>
+
+      <h2>Respuesta:</h2>
+      <pre id="output"></pre>
+    </div>
+    <div id="rightPanel" style="flex:1; display:flex; flex-direction:column; justify-content:flex-start; align-items:center; border-left:2px solid #ddd; padding-left:20px;">
+      <h2 style="text-align:center; width:100%; margin-bottom:10px;">Wordcloud!</h2>
+      <div id="wordcloudContainer" style="width:100%; height:1100px; background:#eee; display:flex; justify-content:center; align-items:center;">
+        <img id="wordcloud" src="" alt="Wordcloud" style="max-width:100%; max-height:100%; width:auto; height:auto; display:none; object-fit:contain;">
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const output = document.getElementById("output");
+    document.getElementById("consultBtn").disabled = true;
+
+    let windowMax = 0;
+    let fixedMode = false;
+
+    const sliderInicio = document.getElementById("sliderInicio");
+    const sliderFin = document.getElementById("sliderFin");
+    const lblInicio = document.getElementById("lblInicio");
+    const lblFin = document.getElementById("lblFin");
+
+    const toggleFix = document.getElementById("toggleFix");
+
+    toggleFix.onchange = () => {
+      fixedMode = toggleFix.checked;
+    };
+
+    document.addEventListener("DOMContentLoaded", () => {
+      updateTimelineMax(windowMax);
+    });
+
+    function updateTimelineMax(newMax) {
+      newMax = Math.max(Number(newMax) || 0, 1);
+      windowMax = newMax;
+
+      let prevInicio = Number(sliderInicio.value);
+      let prevFin = Number(sliderFin.value);
+
+      sliderInicio.min = 1;
+      sliderFin.min = 1;
+      sliderInicio.max = newMax;
+      sliderFin.max = newMax;
+
+      if (fixedMode) {
+        let newInicio = Math.min(prevInicio + 1, newMax);
+        let newFin = Math.min(prevFin + 1, newMax);
+        sliderInicio.value = newInicio;
+        sliderFin.value = newFin;
+      } else {
+        if (prevInicio >= 1 && prevInicio <= newMax) {
+          sliderInicio.value = prevInicio;
+        } else {
+          sliderInicio.value = newMax;
+        }
+
+        if (prevFin >= 1 && prevFin <= newMax) {
+          sliderFin.value = prevFin;
+        } else {
+          sliderFin.value = newMax;
+        }
+      }
+
+      lblInicio.textContent = sliderInicio.value;
+      lblFin.textContent = sliderFin.value;
+
+      if (fixedMode) {
+        const kAuto = Number(document.getElementById("kInput").value) || 0;
+        if (kAuto >= 1) {
+          document.getElementById("consultBtn").click();
+        }
+      }
+
+      document.getElementById("consultBtn").disabled = (windowMax < 1);
+    }
+
+    sliderInicio.oninput = () => {
+      let v = Number(sliderInicio.value);
+      if (v < Number(sliderFin.value)) {
+        sliderFin.value = v;
+      }
+
+      lblInicio.textContent = sliderInicio.value;
+      lblFin.textContent = sliderFin.value;
+    };
+
+    sliderFin.oninput = () => {
+      let v = Number(sliderFin.value);
+      if (v > Number(sliderInicio.value)) {
+        sliderInicio.value = v;
+      }
+      lblInicio.textContent = sliderInicio.value;
+      lblFin.textContent = sliderFin.value;
+    };
+
+    document.getElementById("insertBtn").onclick = async () => {
+      output.textContent = "Procesando...";
+
+      console.log("DEBUG: Enviando POST a /insertar con payload:", {});
+      let res = await fetch("/insertar", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({})
+      });
+      console.log("DEBUG: Response status:", res.status);
+
+      let data = await res.json();
+      console.log("DEBUG: Respuesta JSON recibida:", data);
+      if (data.backend_response && data.backend_response.tiempo_actual !== undefined) {
+          updateTimelineMax(data.backend_response.tiempo_actual);
+      }
+
+      if (data.no_more_folders === true) {
+        output.textContent = "No existen más carpetas para procesar.";
+        return;
+      }
+
+      let msg = "";
+      msg += "Estado: " + (data.backend_response.status || "desconocido") + "\n";
+      msg += "Mensaje: " + (data.backend_response.message || "sin mensaje") + "\n";
+
+      if (data.backend_response.tiempo_insercion !== undefined) {
+        msg += "Tiempo inserción: " + data.backend_response.tiempo_insercion + " ms\n";
+        if (data.backend_response.token_count !== undefined) {
+          msg += "Tokens insertados: " + data.backend_response.token_count + "\n";
+        }
+      }
+
+      msg += "\n";
+
+      if (data.files_processed && data.files_processed.length > 0) {
+        msg += "Archivos procesados:\n";
+        for (let f of data.files_processed) {
+          msg += "  - " + f + "\n";
+        }
+        msg += "\n";
+      }
+      //msg += "Tokens generados:\n" + JSON.stringify(data.preprocessed_tokens, null, 2);
+      output.textContent = msg;
+    };
+    document.getElementById("consultBtn").onclick = async () => {
+      output.textContent = "Consultando...";
+
+      const k = Number(document.getElementById("kInput").value) || 0;
+      const inicio = Number(sliderInicio.value);
+      const fin = Number(sliderFin.value);
+
+      if (k < 1) { output.textContent = "Error: k debe ser >= 1"; return; }
+      if (inicio < 1 || fin < 1) { output.textContent = "Error: los índices de ventana deben ser >= 1"; return; }
+      if (inicio > windowMax || fin > windowMax) { output.textContent = `Error: el rango debe estar entre 1 y ${windowMax}`; return; }
+      if (inicio < fin) { output.textContent = "Error: inicio debe ser >= fin (inicio es más reciente)"; return; }
+
+      const payload = { k, inicio, fin };
+      console.log("DEBUG: Enviando POST a /consultar con payload:", payload);
+
+      let res = await fetch("/consultar", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload)
+      });
+
+      console.log("DEBUG: Response status:", res.status);
+
+      let data = await res.json();
+      console.log("DEBUG: Respuesta JSON de consulta:", data);
+
+      let msg = "Consulta realizada correctamente:\n";
+      msg += "Estado: " + (data.status || "desconocido") + "\n";
+
+      if (data.tiempo_consulta !== undefined) {
+        msg += "Tiempo consulta: " + data.tiempo_consulta + " ms\n";
+      }
+
+      msg += "\nTrending topics:\n";
+      if (Array.isArray(data.trending)) {
+        for (let item of data.trending) {
+          msg += "  - " + item.topic + ": " + item.frequency + "\n";
+        }
+      } else {
+        msg += "  (sin resultados)\n";
+      }
+
+      output.textContent = msg;
+      if (data.wordcloud) {
+          const wc = document.getElementById("wordcloud");
+          wc.style.display = "block";
+          wc.src = data.wordcloud + "?t=" + Date.now();
+      } else {
+          const wc = document.getElementById("wordcloud");
+          wc.style.display = "none";
+      }
+    };
+  </script>
+</body>
+</html>

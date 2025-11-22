@@ -1,0 +1,8 @@
+Phishing works so well crims won't use deepfakes: Sophos
+theregister.com
+news
+2022-10-17 03:01:11
+
+Panic over the risk of deepfake scams is completely overblown, according to a senior security adviser for UK-based infosec company Sophos.
+"The thing with deepfakes is that we aren't seeing a lot of it," Sophos researcher John Shier told El Reg last week.
+Shier said current deepfakes – AI generated videos that mimic humans – aren't the most efficient tool for scammers to utilize because simpler and cheaper attacks like phishing and other forms of social engineering work very well. "People will give up info if you just ask nicely," said Shier.

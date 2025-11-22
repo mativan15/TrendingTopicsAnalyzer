@@ -1,0 +1,6 @@
+Microsoft says Ukraine, Poland targeted with novel ransomware attack
+indiatimes.com
+economics
+2022-10-15 08:45:00
+
+A newly discovered hacking group has attacked transportation and logistics companies in Ukraine and Poland with a novel kind of ransomware, Microsoft said in a blog post. The attackers targeted a wide range of systems within an hour on Tuesday, Microsoft said, adding that it hadn't been able to link the attacks to any known group yet. Notably, however, researchers found that the hacks closely mirrored earlier attacks by a Russian government-linked cyber team that had disrupted Ukraine government agencies.

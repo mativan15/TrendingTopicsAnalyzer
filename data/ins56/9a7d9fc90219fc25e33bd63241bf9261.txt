@@ -1,0 +1,6 @@
+Primer to use Coinbase Commerce to let merchants accept crypto payments (NASDAQ:COIN)
+seekingalpha.com
+finance
+2022-10-18 21:45:58
+
+Leon Neal/Getty Images News Payments platform Primer is integrating Coinbase Global's (NASDAQ:COIN) commerce platform to allow merchants to add cryptocurrency as a standard payment method, the companies said Tuesday. Through Coinbase Commerce, which enables merchants to accept crypto payments, merchants using Primer can now add crypto payments quickly to their checkout page, in a move that could help to boost overall crypto adoption. "With Coinbase Commerce and Primer working together, any merchant can make secure cryptocurrency payments as readily available to their customers as traditional payment methods like credit cards," said Roy Zhang, group product manager at Coinbase Commerce.

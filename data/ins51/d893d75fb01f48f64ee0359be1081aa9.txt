@@ -1,0 +1,6 @@
+Fixing Automatic Speech Recognition (ASR) with NLU
+medium.com
+entertainment
+2022-10-22 01:08:36
+
+Automatic Speech Recognition (ASR) isn't approaching human levels. How to fix it — NLU. Image: Adobe Stock.Why doesn't speech recognition operate at human-levels?Didn't we have a revolution in artificial intelligence (AI) with machine learning (ML) and deep learning (DL) in 2012 that has improved AI since then?Automatic Speech Recognition (ASR), or just ‘speech rec', remains a somewhat useful feature, with the tech giants bringing the best of ML / DL…

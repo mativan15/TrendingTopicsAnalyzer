@@ -1,0 +1,8 @@
+N26 adds crypto trading with new Bitpanda integration
+techcrunch.com
+tech
+2022-10-20 08:30:00
+
+Challenger bank N26 is launching a new trading feature in its app — N26 Crypto. Users will be able to easily trade crypto assets using money in their N26 account. Behind the scenes, N26 is partnering with Bitpanda to handle trading and custody.
+N26 is going to slowly roll out N26 Crypto across Europe. At first, only some users in Austria will be able to access the new feature. Other countries should get the feature at some point over the next six months.
+N26 will let you buy, sell and hold 100 different crypto assets.

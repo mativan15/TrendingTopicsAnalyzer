@@ -1,0 +1,6 @@
+Beware, There Is Only One Bitcoin, It Is BTC. A Miner of the Ersatz BSV Has Taken Control of 80% of the Hash Rate.
+substack.com
+news
+2022-10-21 07:09:45
+
+In life, generally speaking, you should always be wary of counterfeits. In the case of Bitcoin, this is even more true!So you have the real Bitcoin, BTC, which was officially launched on January 3, 2009, by Satoshi Nakamoto.In the summer of 2017, some people tried a failed putsch during the Blocksize War. So they created an ersatz Bitcoin, Bitcoin Cash, the BCH. From there, you had Craig Wright who himself hard-forked Bitcoin Cash to create the Bitcoin Satoshi Vision, the BSV.Why make a new hard fork of Bitcoin? To improve the scalability of BTC and BCH which was not good enough in his eyes.

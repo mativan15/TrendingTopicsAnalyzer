@@ -1,0 +1,9 @@
+Google and the Monk Skin Tone Scale: How It Came About and How It Will Be Used
+cnet.com
+tech
+2022-05-27 11:15:00
+
+Google has adopted a more diverse skin tone scale to reshape its artificial intelligence systems.
+The new 10-shade scale could reduce racial bias and improve skin tone representation across Google's popular services.
+
+Google is working to improve skin tone representation within its services. In mid-May, the tech giant announced its adoption of the Monk Skin Tone (MST) Scale, a more-inclusive 10-shade scale it's begun using to test and train its artificial intelligence systems.Using the scale is designed to allow Google's services to better see and understand images that feature people with darker skin tones.

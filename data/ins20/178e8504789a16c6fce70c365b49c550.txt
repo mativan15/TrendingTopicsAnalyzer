@@ -1,0 +1,8 @@
+God of War adds AMD's performance-boosting FSR 2.0 tech
+Copyright (c) 2022 IDG Communications, Inc.
+news
+2022-06-01 14:23:49
+
+Sony Interactive Entertainment 
+
+If you've been looking for a title to test out AMD's latest and greatest graphics tech, you now have several more options. FSR 2.0, the company's competitor to Nvidia's DLSS, debuted on the well-received Deathloop. It then expanded to the bizarrely resilient Farming Simulator. But today the graphics tech comes to a certified smash hit: Sony's God of War reboot. The second iteration of Fidelity FX Super Resolution takes super-sampling tech to a new level, using 'Temporal upscaling and motion vectors' among other incredibly complex tools to make a game's frames look more high-def than they technically should, while running much faster than a game normally would rat native resolution.

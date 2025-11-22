@@ -1,0 +1,6 @@
+Public-private cooperation: A key pillar in creating a cyber-secure India
+hindustantimes.com
+news
+2022-06-02 10:58:03
+
+The guidelines, among other things, have mandated all service providers, data centres, corporate bodies, and government organisations to report all cyber incidents within six hours. Cyber incidents include data leaks and breaches, attacks on mobile apps, unauthorised access to IT systems, identity thefts, and phishing attacks. They are also required to maintain logs of all their tech systems for a rolling period of 180 days within the Indian jurisdiction. In addition, virtual private network (VPN) service provider details, details of customers of data centres and virtual asset exchange providers (for example, crypto-exchanges), have also been covered under the directives.

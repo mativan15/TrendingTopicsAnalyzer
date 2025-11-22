@@ -1,0 +1,12 @@
+CloseFactor raises $4.5M Led By Sequoia Capital to Accelerate AI/ ML-enabled Go-to-market Strategy and Execution
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time PALO ALTO, Calif.--(BUSINESS WIRE)--CloseFactor today announced a $4.5M seed funding round led by Sequoia Capital to reimagine the business to business sales process, bringing the benefits of greater automation and precision targeting to sales teams.
+
+
+
+CloseFactor, already in use at several companies such as Zuora, LaunchDarkly, and Chronosphere, uses machine learning to deliver customized sales insights about target accounts and buyer personas.
+
+Alignment between go-to-market strategy and feet-on-the-ground execution has always been hindered by the lack of visibility into a dynamic total addressable market (TAM) that also incorporates the details behind every account's initiatives and buyer personas, which is actionable by sales and marketing teams.

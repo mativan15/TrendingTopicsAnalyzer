@@ -1,0 +1,6 @@
+The Download: Open source censorship in China, and US kids are more anxious than ever
+technologyreview.com
+tech
+2022-05-30 12:30:24
+
+Earlier this month, thousands of software developers in China woke up to find that their open-source code hosted on Gitee, a state-backed Chinese competitor to the international code repository platform GitHub, had been locked and hidden from public view.Gitee released a statement later that day explaining that the locked code was being manually reviewed, as all open-source code would need to be before being published from then on. The company 'didn't have a choice,' it wrote. Gitee didn't respond to MIT Technology Review, but it is widely assumed that the Chinese government had imposed yet another bit of heavy-handed censorship.

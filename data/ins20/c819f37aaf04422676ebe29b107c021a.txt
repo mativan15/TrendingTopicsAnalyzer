@@ -1,0 +1,6 @@
+Xbox Insider Release Notes – Omega (2210.221014-1030)
+xbox.com
+news
+2022-10-15 21:27:00
+
+Hey Xbox Insiders! We have a new Xbox Update Preview coming to the Omega ring. It's important we note that some updates made in these preview OS builds include background improvements that ensure a quality and stable build for Xbox consoles. We continue to post these release notes, even when the noticeable changes to the UI are minimal, so you're aware when updates are coming to your device. Details can be found below! System Update Details: OS version released: XB_FLT_2210NI\22621.2486.221014-1030Available: 5 p.

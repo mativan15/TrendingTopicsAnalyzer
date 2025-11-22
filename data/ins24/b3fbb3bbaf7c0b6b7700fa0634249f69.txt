@@ -1,0 +1,7 @@
+Google announces Android 13 Go Edition: Here's what's new
+indianexpress.com
+news
+2022-10-20 11:02:55
+
+Back in 2017, Google introduced a lightweight version of the Android operating known as Android Go. Designed for low-end budget devices with less than 2GB RAM, the first version of Android Go was available on Android Oreo.
+In a recent blog post, Google announced Android 13 Go Edition. With the Go Edition now available for the latest version of Android, the tech giant introduced a new feature called Google Play System Updates, which makes sure the devices running Android Go get important software updates easily without straining the device storage.

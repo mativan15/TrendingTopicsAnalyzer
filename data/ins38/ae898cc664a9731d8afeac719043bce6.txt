@@ -1,0 +1,6 @@
+Striking a balance: Fortifying all three sides of the information security triangle
+techradar.com
+tech
+2022-10-17 13:04:15
+
+According to the Office of National Statistics in 2019, more than 50 per cent of the UK workforce will be working remotely this year. With remote working now essential for many businesses to maintain operations, this is likely to be a considerable underestimate. Unfortunately, it's a fact of life that wherever any businesses travels, cyber-threats follow. The sudden move to a predominantly remote working profile has introduced several new attack surfaces and a new threat landscape for most organisations.

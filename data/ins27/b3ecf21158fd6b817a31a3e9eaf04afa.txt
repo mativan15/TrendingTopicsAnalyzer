@@ -1,0 +1,6 @@
+Battery digital twin standard to drive EV sustainability
+venturebeat.com
+news
+2022-05-31 19:16:51
+
+Battery performance, supply chain challenges and their carbon footprint are some of the biggest bottlenecks for the electrical vehicle (EV) industry. A new Battery State of Health (SOH) Standard will make it easier to create digital twins of different battery designs and the processes that produce them to address all these challenges.  The standard supports tools to ensure EV batteries are produced, distributed, maintained and recycled safely and sustainably. This promises to open the door to an array of second and third-life battery uses, such as creating decentralized energy storage systems.

@@ -1,0 +1,7 @@
+Council Post: Amid Growing Cyber Threats, A Virtual CISO Can Provide Security.
+Copyright 2022 Forbes Media LLC
+business
+2022-10-19 12:00:00
+
+Doug Howard is CEO of Pondurance.
+getty Cybercrime is one of the fastest-growing crimes in the U.S. And given that the average cost of a data breach is $4.35 million, according to IBM, it makes sense for every company—large or small—to provide itself with the absolute best cybersecurity it can afford. For some, that means hiring a full-time chief information security officer (CISO). After all, a smart, experienced CISO can beef up the cybersecurity program and protect the organization and its customers from today's onslaught of security threats.

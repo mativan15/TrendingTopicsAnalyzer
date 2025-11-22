@@ -1,0 +1,6 @@
+Cloudera Puts The Exclamation Point On Hybrid, Multi-Cloud Data Capabilities At Evolve
+Copyright 2022 Forbes Media LLC
+business
+2022-10-18 15:34:34
+
+On October 12th, I was honored to be a keynote speaker at Evolve 2022 in NYC. The event was a who's who of data leaders and enthusiasts hosted by industry luminaries Cloudera, Intel, and IBM. Cloudera chose the event to announce enhancements to the Cloudera Data Platform One (CDP One), which I reviewed recently. CDP One recently added an open lake house that enables self-service analytics across the entire data life cycle from ingestion to machine learning on any data without requiring specialized operations.

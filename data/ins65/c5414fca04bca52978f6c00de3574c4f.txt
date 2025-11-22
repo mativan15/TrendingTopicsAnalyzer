@@ -1,0 +1,8 @@
+This Windows malware uses PowerShell to subvert Chrome
+theregister.com
+news
+2022-05-27 11:26:09
+
+A strain of Windows uses PowerShell to add a malicious extension to a victim's Chrome browser for nefarious purposes. A macOS variant exists that uses Bash to achieve the same and also targets Safari.
+The makers of the ChromeLoader software nasty ensure their malware is persistent once on a system and is difficult to find and remove, according to threat hunters at cybersecurity shop Red Canary, who have been tracking the strain since early February and have seen a flurry of recent activity.
+"We first encountered this threat after detecting encoded PowerShell commands referencing a scheduled task called 'ChromeLoader' – and only later learned that we were catching ChromeLoader in the middle stage of its deployment," Aedan Russell, detection engineer at Red Canary, wrote in a blog post this week.

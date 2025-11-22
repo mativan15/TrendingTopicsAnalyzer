@@ -1,0 +1,6 @@
+Wednesday's top prospect performers
+mlb.com
+business
+2022-10-20 05:31:21
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"prospect-roundup-for-october-19\",\"type\":\"story\"}).parts.6":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"prospect-roundup-for-october-19\",\"type\":\"story\"}).parts.6.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

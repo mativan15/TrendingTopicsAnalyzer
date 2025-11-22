@@ -1,0 +1,7 @@
+How Zette plans to let people access paywalled news with a single monthly subscription
+techcrunch.com
+tech
+2022-10-21 21:31:50
+
+A new startup wants to help online media outlets make money by making it easier for consumers to access paywalled content without being locked in to multiple subscriptions.
+Demoing as part of the Battlefield 200 cohort at TC Disrupt this week, Zette is trying to achieve something that others before have tried. Since the dawn of time (well, at least since the advent of the web), digital media businesses have sought new ways to make money. While traditional newspapers and magazines' path to monetization was relatively straight forward, insofar as they charged money for a physical product (usually filled with paid advertising), the online sphere has had to flirt with a multitude of models, from advertising and events, to — increasingly, it seems — paywalls.

@@ -1,0 +1,32 @@
+Learning to Prioritize Test Cases for Computer Aided Design Software via Quantifying Functional Units
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2, 3, 3, 3, 3 and 3,* 
+
+
+1
+Wuhan KM Information Technology Co., Ltd., Wuhan 430070, China
+
+
+2
+Huazhong University of Science and Technology, Wuhan 430070, China
+
+
+3
+School of Computer Science, Wuhan University, Wuhan 430072, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Juan-Carlos Cano
+
+Appl. Sci. 2022, 12(20), 10414; https://doi.org/10.

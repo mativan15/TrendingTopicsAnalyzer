@@ -1,0 +1,6 @@
+Simplification of data architectures overcomes the skills shortages exposed by cloud migration
+techradar.com
+tech
+2022-10-17 13:02:57
+
+Cloud migration has taken off during the pandemic providing many organizations with gains in agility but exposing a significant lack of skillsets when it comes to integrating data to supercharge business value.The upward trend in cloud usage started almost immediately after the spread of Covid. In the early days of the outbreak in April last year, it was Microsoft who trumpeted at an earnings call that they had seen two years of digital transformation in the space of two months – an early indication of what was to come across industries.

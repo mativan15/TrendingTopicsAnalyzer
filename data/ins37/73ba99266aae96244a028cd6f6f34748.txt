@@ -1,0 +1,8 @@
+AutoRABIT Accelerates Release Management Processes with Automation & Key Integrations
+prnewswire.com
+news
+2022-10-18 13:01:00
+
+Improving the flow of clean, safe code with heightened visibility and automation
+SAN FRANCISCO, Oct. 18, 2022 /PRNewswire/ -- AutoRABIT announces a new update to its Salesforce DevSecOps platform that includes strategic integrations with major communication applications Slack and Microsoft Teams, new automation functionality, and seamless operation with Salesforce's newest update API version 56.
+The expanded functionality also includes opening the 600+ rules of CodeScan—AutoRABIT's static code analysis solution—to Salesforce DX users, bringing best-in-class code security to a new group of Salesforce power users.

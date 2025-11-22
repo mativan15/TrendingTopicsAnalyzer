@@ -1,0 +1,7 @@
+Adobe Photoshop update adds refined selections and AI photo restoration
+engadget.com
+news
+2022-10-18 13:00:52
+
+Adobe's annual design and technology conference begins today, so the company is making updates across much of its software lineup as part of the fall event. When it comes to Photoshop, Adobe has a host of new features for desktop and iPad as well as an update on the progress of the web version. With additional tools for selections, Neural Filters, collaboration and working on a tablet, there could be something to make everyone's workflow a bit easier in the latest releases. 
+First, Adobe has refined the Object Selection tool to improve the accuracy of automatic selections and expanded the list of items that Photoshop can recognize on its own.

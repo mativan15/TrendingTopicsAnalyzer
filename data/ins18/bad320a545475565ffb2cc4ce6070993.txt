@@ -1,0 +1,8 @@
+How to scale service deployments with Portainer
+techrepublic.com
+news
+2022-06-01 14:14:53
+
+Image: vectorhot/Adobe Stock
+One of the many reasons why containers have taken enterprises by storm is their ability to easily scale up and down as needed. This aspect of containers is so crucial that some developers go out of their way to make it such that their deployments can auto-scale to meet demands.
+But not every deployment requires that level of flexibility. For those container service deployments that could benefit from manual scaling, there's always the command line, which isn't at all challenging (find out how in my piece How to deploy a service to a Docker Swarm cluster).

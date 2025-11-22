@@ -1,0 +1,6 @@
+A bias bounty for AI will help to catch unfair algorithms faster
+technologyreview.com
+tech
+2022-10-20 12:00:00
+
+The EU's new content moderation law, the Digital Services Act, includes annual audit requirements for the data and algorithms used by large tech platforms, and the EU's upcoming AI Act could also allow authorities to audit AI systems. The US National Institute of Standards and Technology also recommends AI audits as a gold standard. The idea is that these audits will act like the sorts of inspections we see in other high-risk sectors, such as chemical plants, says Alex Engler, who studies AI governance at the think tank the Brookings Institution.

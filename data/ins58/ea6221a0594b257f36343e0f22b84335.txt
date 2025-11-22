@@ -1,0 +1,6 @@
+Taiwan Restricts Russia, Belarus To CPUs Under 25 MHz Frequency
+slashdot.org
+news
+2022-06-01 23:30:00
+
+An anonymous reader quotes a report from Tom's Hardware: From now on, Russian and Belarusian entities can only buy CPUs operating at below 25 MHz and offering performance of up to 5 GFLOPS from Taiwanese companies. This essentially excludes all modern technology, including microcontrollers for more or less sophisticated devices. Due to restrictions imposed on exports to Russia by the United States, United Kingdom, and the European Union, leading Taiwanese companies were among the first to cease working with Russia after the country started full-scale war against Ukraine in late February.

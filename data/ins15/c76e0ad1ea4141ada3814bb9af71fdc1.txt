@@ -1,0 +1,8 @@
+Semtech Introduces the HotSwitch® Platform for Superior System Protection of Electronic Systems Against Transient and Steady-State Fault Conditions for Industrial, Telecom and Consumer Applications
+yahoo.com
+news
+2022-10-19 12:00:00
+
+New HotSwitch® devices expand Semtech's robust offering of protection solutions to provide a superior defense to electronic systems and subsystems from electrical surges and faults
+
+CAMARILLO, Calif., October 19, 2022--(BUSINESS WIRE)--Semtech Corporation (Nasdaq: SMTC), a leading global supplier of high-performance analog and mixed-signal semiconductors and advanced algorithms, announced the release of the HotSwitch® platform. This platform includes integrated load switches and eFuses with first-of-their-kind elevated protection feature sets optimized for protecting electronics systems against typical electrical transients and steady-state fault conditions.

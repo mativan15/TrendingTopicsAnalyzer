@@ -1,0 +1,14 @@
+ADVA launches GPS-backup-as-a-service to help service providers combat GNSS cyberattacks
+yahoo.com
+news
+2022-06-01 07:00:00
+
+News summary:
+
+Vulnerabilities of satellite-based and in-network timing put critical network infrastructure at serious risk
+
+ADVA aPNT+ ™ platform empowers service providers to deliver differentiated timing services with alternative PNT sources
+
+Offerings with integrated GNSS backup enable utilities, finance, telecom customers and more to meet new guidelines and standards
+
+MUNICH, June 01, 2022--(BUSINESS WIRE)--ADVA (FSE: ADV) today announced that it's enabling service provider customers to offer GPS/GNSS-backup-as-a-service (GBaaS).

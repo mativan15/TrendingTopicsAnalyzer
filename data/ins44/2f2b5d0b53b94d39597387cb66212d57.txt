@@ -1,0 +1,7 @@
+How to test and use the new DuckDuckGo private browser for the Mac
+techrepublic.com
+news
+2022-06-02 19:06:29
+
+Image: Adobe Stock
+The privacy-minded DuckDuckGo leads a full life as a search engine, a browser extension and a mobile app. But now it's also accessible as a dedicated web browser for the Mac. With the DuckDuckGo browser for macOS, you can block third-party trackers, disable cookies, turn on HTTPS for websites and tighten other security and privacy via the browser settings. Let's check it out. DuckDuckGo is now in beta testing for macOS with a Windows version promised later in 2022. As such, you currently must request an invitation to use the Mac version.

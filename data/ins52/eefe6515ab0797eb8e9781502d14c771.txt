@@ -1,0 +1,28 @@
+ID2SBVR: A Method for Extracting Business Vocabulary and Rules from an Informal Document
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,*, 2 and 2 
+
+
+1
+Informatics Department, Faculty of Engineering, Univeristas Negeri Manado, Minahasa 95618, Indonesia
+
+
+2
+Informatics Department, Faculty of Intelligent Electrical and Informatics Technology, Institut Teknologi Sepuluh Nopember, Surabaya 60111, Indonesia
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Konstantinos Kotis and Dimitris Spiliotopoulos
+
+Big Data Cogn.

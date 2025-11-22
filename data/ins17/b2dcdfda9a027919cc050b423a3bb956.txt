@@ -1,0 +1,32 @@
+Roadmap: Numerical-Experimental Investigation and Optimization of 3D-Printed Parts Using Response Surface Methodology
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2,*, 2 and 3 
+
+
+1
+Léonard de Vinci Pôle Universitaire, Research Center, 92916 Paris La Défense, France
+
+
+2
+Arts et Métiers Institute of Technology, CNAM, LIFSE, HESAM University, 75013 Paris, France
+
+
+3
+Arts et Métiers Institute of Technology, CNRS, CNAM, PIMM, HESAM University, 75013 Paris, France
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Giovanni Bruno
+
+Materials 2022, 15(20), 7193; https://doi.

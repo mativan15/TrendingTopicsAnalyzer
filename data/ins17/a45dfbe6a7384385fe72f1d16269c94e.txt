@@ -1,0 +1,10 @@
+Dutch public sector gets green light to use Google Workspace
+theregister.com
+news
+2022-05-30 14:15:13
+
+A year after the Dutch data protector said there were too many "legal obstacles" for its civil servants to use Google Workspace, a re-worked agreement will permit the public sector to fire up the productivity suite.
+
+Google's Netherlands HQ, in Amsterdam's Claude Debussylaan in the CBD
+
+A Data Protection Impact Assessment (DPIA) into Google Workspace was launched by the Central Dutch government in 2020. The report noted there were eight high-risk issues, principally around data collection. It also noted that Google did not provide all the personal data it held when asked to do so under the GDPR provisions for the right to request access.

@@ -1,0 +1,8 @@
+Oracle opens internal dev tools for customers to build apps
+theregister.com
+business
+2022-10-19 15:15:10
+
+Oracle CloudWorld Oracle's vision for the coming year is to start putting the same tools it uses internally into the hands of customers.
+This sharing of internal tooling was the theme the global software giant's annual conference in Las Vegas this week. Other news includes the ability to rebadge Oracle Cloud@customer services to provide branded enterprise cloud service, and new database features supporting JSON documents.
+In the Oracle Applications Platform, Big Red is offering access to its Redwood UX Building Blocks, a software development toolkit that allows developers to build and modify the UX components.

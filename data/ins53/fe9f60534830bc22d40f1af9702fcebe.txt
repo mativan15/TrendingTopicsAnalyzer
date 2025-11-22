@@ -1,0 +1,6 @@
+A Study on Over-Molded Copper-Based Flexible Electronic Circuits
+Creative Commons Attribution (CC-BY)
+science
+2022-10-16 00:00:00
+
+Over-molding has been proposed in recent years as an integrated functional flexible circuit board in a plastic part. This method uses the conventional process for film insert technology. Over-molding has attracted significant attention across many industries due to its potential to deliver different electrical functions in a variety of different part geometries, especially in automotive interiors and home appliances. While it has great application potential, manufacturing challenges continue throughout foil fabrication and injection molding.

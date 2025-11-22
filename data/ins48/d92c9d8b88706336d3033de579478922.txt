@@ -1,0 +1,10 @@
+Want to tip for your Amazon delivery? Drivr is a new app for that
+yahoo.com
+finance
+2022-10-17 16:50:36
+
+Tipping in the U.S. is a critical part of how the wheels turn in the service economy. One service area that's been very overlooked, however, is the world of last-mile delivery -- a service job that falls between the cracks when it comes to tipping because those who deliver products typically don't work for the company that is selling you the product, leaving the responsibility and incentive for tipping up in the air.
+
+Now a new startup called Drivr is launching to try to close that gap.
+
+Drivr is a crowdsourced tipping platform that uses data science to map drivers to neighborhoods, and then creates tipping pools to collect monthly contributions from residents in those neighborhoods, with the sum then divided up among drivers serving those areas proportionately based on how many deliveries they've made there.

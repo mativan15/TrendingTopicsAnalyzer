@@ -1,0 +1,6 @@
+How to create a drop-down list in Microsoft Excel
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-06-03 19:53:00
+
+Whether you're running a business or running a home, keeping things organized is key to success. There are tons of apps and websites to help you stay organized nowadays, but I always come back to old faithful: Microsoft Excel. I just can't seem to break up with it.  Microsoft Excel is more than just what your parents used at their desk jobs. When used effectively, it can be a rewarding tool in your arsenal, whether you're running a business, a home, or simply need a budget. Drop-down lists simplify data input, which is helpful where time is money.

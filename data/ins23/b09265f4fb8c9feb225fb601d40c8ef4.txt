@@ -1,0 +1,14 @@
+Why you should always back up your data
+seattletimes.com
+business
+2022-10-15 06:00:00
+
+Q: Since moving to Windows 10 a while ago, I frequently receive an error message when I try to open email attachments or even my own files. The message is: 'This operation requires elevation.' How do I acquire this mysterious elevation?
+
+— Scott Norman
+
+A: That error message means that the user account you logged on with doesn't have 'rights' to those files.
+
+There are three ways to solve the problem.
+
+First, it's possible that your user account may have become corrupted, and you need to create a new one.

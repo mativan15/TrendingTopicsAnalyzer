@@ -1,0 +1,6 @@
+Automatic Shuttlecock Fall Detection System in or out of a Court in Badminton Games—Challenges, Problems, and Solutions from a Practical Point of View
+Creative Commons Attribution (CC-BY)
+science
+2022-10-22 00:00:00
+
+We built an Instant Review System (IRS) for badminton, also named a Challenge System. It allows players to verify linesmen in/out decisions and makes the game fairer. Elements such as lighting, the influence of air-conditioning on the flight trajectory, or the moving mats can significantly impact the final in/out decision. Due to the construction of the shuttlecock, it behaves differently during the flight than, for example, a tennis ball. This publication discusses the problems we encountered during our work with the proposed solution.

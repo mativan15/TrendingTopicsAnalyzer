@@ -1,0 +1,8 @@
+Advocate Aurora Health in potential 3 million patient leak
+theregister.com
+science
+2022-10-20 23:42:48
+
+A hospital network in Wisconsin and Illinois fears visitor tracking code on its websites may have transmitted personal information on as many as 3 million patients to Meta, Google, and other third parties.
+Advocate Aurora Health (AAH) reported the potential breach to the US government's Health and Human Services. As well as millions of patients, AAH has 27 hospitals and 32,000 doctors and nurses on its books.
+Essentially, AAH is saying that it placed analytics code on its online portals to get an idea of how many people visit and login to their accounts, what they use, and so on.

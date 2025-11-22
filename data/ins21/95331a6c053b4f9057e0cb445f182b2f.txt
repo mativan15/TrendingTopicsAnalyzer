@@ -1,0 +1,6 @@
+Python vulnerability highlights open source security woes
+businesstelegraph.co.uk
+news
+2022-10-18 20:15:38
+
+Remediation efforts for a 15-year-old unpatched Python vulnerability have raised questions around open source security after one company took on the immense task itself.Cybersecurity vendor Trellix spent the last month releasing fixes for CVE-2007-4559, a Python vulnerability in the programming language's tarfile module that affected more than 300,000 open source repositories. Trellix researcher Kasimir Schulz stumbled upon the bug earlier this year and initially believed it was a new vulnerability.

@@ -1,0 +1,6 @@
+Red Hat and IBM Research Advance IT Automation with AI-Powered Capabilities for Ansible
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 06:00 PM Eastern Daylight Time CHICAGO — ANSIBLEFEST--(BUSINESS WIRE)--Red Hat, Inc., the world's leading provider of open source solutions, and IBM Research today announced Project Wisdom, the first community project to create an intelligent, natural language processing capability for Ansible and the IT automation industry. Using an artificial intelligence (AI) model, the project aims to boost the productivity of IT automation developers and make IT automation more achievable and understandable for diverse IT professionals with varied skills and backgrounds.

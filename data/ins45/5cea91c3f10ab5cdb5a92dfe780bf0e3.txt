@@ -1,0 +1,8 @@
+Clipminer group rakes in $1.7 million in crypto hijacking
+theregister.com
+news
+2022-06-03 12:30:11
+
+A crew using malware that performs cryptomining and clipboard-hacking operations have made off with at least $1.7 million in stolen cryptocurrency.
+The malware, dubbed Trojan.Clipminer, leverages the compute power of compromised systems to mine for cryptocurrency as well as identify crypto-wallet addresses in clipboard text and replace it to redirect transactions, according to researchers with Symantec's Threat Intelligence Team.
+The first samples of the Windows malware appeared in January 2021 and began to accelerate in their spread the following month, the Symantec researchers wrote in a blog post this week.

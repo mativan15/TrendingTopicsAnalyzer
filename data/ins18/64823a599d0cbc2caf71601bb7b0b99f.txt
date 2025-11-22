@@ -1,0 +1,6 @@
+Direct Digital Manufacturing of a Customized Face Mask
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Direct Digital Manufacturing (DDM) is considered by many as one of the most promising approaches towards cost- and time-efficient mass customization. Compared to conventional manufacturing systems, DDM systems are not as common and incorporate several distinctive features, such as higher flexibility in product form and structure, lower economies of scale and higher potential for decentralized production network. The initial design phase of a DDM production system, where very important in term of efficiency and quality, decisions are made, is a relatively unexplored topic in the relevant literature.

@@ -1,0 +1,6 @@
+Stonebranch Provides Real-Time IT Automation for AWS Mainframe Modernization Service
+globenewswire.com
+news
+2022-10-19 00:00:00
+
+ALPHARETTA, Ga., Oct. 19, 2022 (GLOBE NEWSWIRE) -- Stonebranch, a leading provider of service orchestration and automation solutions, today announced that it is working with Amazon Web Services (AWS) to provide time-based and event-based automation capabilities for AWS Mainframe Modernization service.  'As a member of the AWS Partner Network, we're pleased to work with AWS to provide a true IT automation solution that pairs with AWS Mainframe Modernization,' said Peter Baljet, CTO at Stonebranch.

@@ -1,0 +1,6 @@
+Aptos Blockchain Debuts Mainnet, Analyst Claims Its Unusable
+ibtimes.com
+news
+2022-10-18 05:02:21
+
+Aptos, a highly-anticipated blockchain founded by former Meta employees, was finally launched Monday, putting to test millions invested by venture capital firms. However, the launch attracted critics mainly due to the low scalability and sluggishness of the blockchain.The multi-billion valuation of the blockchain created by people working on Meta's failed stablecoin project Diem was put to test, CoinDesk reported, but the ecosystem has yet to be completed. While the network is "live," the teams are yet to launch the wallets, trading platforms, non-fungible tokens (NFTs) and a governance token as well.

@@ -1,0 +1,8 @@
+Nvidia's plans to hype up its next-gen RTX 4000 GPUs could backfire
+techradar.com
+news
+2022-05-27 10:06:11
+
+(Image credit: Nvidia)
+
+ Nvidia has observed that stock levels of its RTX 3000 graphics cards are almost back to normal now, but then hinted that while supply will remain strong enough going forward, demand is set to fall off as next-gen Lovelace GPUs hove into view.This comes from Seeking Alpha (opens in new tab) which published an earnings conference call (spotted by PC Gamer (opens in new tab)) for Nvidia's fiscal Q1 2023 (the quarter running up to May 1), featuring CEO Jensen Huang and Chief Financial Officer Colette Kress.

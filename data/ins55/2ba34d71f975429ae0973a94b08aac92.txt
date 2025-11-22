@@ -1,0 +1,8 @@
+Why it isn't easy to throw cloud spending on the cutting block – TechCrunch
+techcrunch.com
+tech
+2022-06-02 13:00:02
+
+There's been an onslaught of negative economic news of late, with gloom and doom aplenty out there. However the economy plays out in the coming months, people perceive that there is turbulence ahead and are behaving accordingly.
+One thing businesses may try to do is rein in cloud infrastructure spending to reduce the substantial bills they have from AWS, Azure, Google Cloud, and others. But simply wanting to cut costs and actually being able to do it are two entirely different matters.
+What you can't do is limit your ability to operate your business in the name of trying to cut expenses.

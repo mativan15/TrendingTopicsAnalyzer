@@ -1,0 +1,8 @@
+Helix and Visa DPS Collaboration Gives Companies a Personalized Approach to Fraud Management
+yahoo.com
+news
+2022-10-21 13:00:00
+
+Helix partnered with Visa DPS to enable fintechs and brands to use Visa DPS' suite of data and fraud solutions to build more profitable businesses through personalization
+
+AUSTIN, Texas, October 21, 2022--(BUSINESS WIRE)--Helix by Q2 (NYSE: QTWO), a cloud-native core purpose-built for embedded finance, today announced it has embedded its finance platform with Visa Debit Processing Service's data and fraud solutions. This collaboration will provide a personalized and cardholder-centric approach to fraud management, allowing fintechs and consumer brands access to PCI-compliant fraud and risk management solutions through the Helix Admin Console.

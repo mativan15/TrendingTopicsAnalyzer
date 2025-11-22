@@ -1,0 +1,8 @@
+Microsoft's Power Apps can now turn images into apps
+theregister.com
+news
+2022-06-01 08:30:10
+
+Interview "We implemented this as an 'AI+human' experience," said Ryan Cunningham, VP of Power Apps, "and not 'AI does it 100 percent for you' experience."
+He was speaking about Power Apps, Microsoft's graphical software for creating low code applications, which is previewing a new feature called "Express design" that recognizes your scribbles.
+The thinking is that as a human tells the tools what's what, the AI gets trained over time. The vendor was keen to show off the new development at its Build event last week, where the rest of the Power Platform cloud services set was also on show, including Power Automate, which is used to implement business workflows, and Power BI, a handy visualizer.

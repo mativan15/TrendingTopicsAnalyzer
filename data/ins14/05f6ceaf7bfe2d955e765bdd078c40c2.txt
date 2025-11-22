@@ -1,0 +1,8 @@
+Capita plc's (LON:CPI) Intrinsic Value Is Potentially 94% Above Its Share Price
+yahoo.com
+news
+2022-10-16 08:55:39
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Capita plc (LON:CPI) as an investment opportunity by taking the expected future cash flows and discounting them to today's value. We will use the Discounted Cash Flow (DCF) model on this occasion. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation.

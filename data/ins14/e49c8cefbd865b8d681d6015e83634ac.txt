@@ -1,0 +1,59 @@
+Effectively Combining Risk Evaluation Metrics for Precise Fault Localization
+Creative Commons Attribution (CC-BY)
+science
+2022-10-22 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 1,*, 2 and 1 
+
+
+1
+School of Computer Science and Technology, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+2
+Institute of Mathematics and Computer Science, University of Sindh, Jamshoro 76080, Sindh, Pakistan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Ioannis G. Tsoulos
+
+Mathematics 2022, 10(21), 3924; https://doi.org/10.3390/math10213924 (registering DOI)
+
+
+Received: 9 September 2022
+/
+Revised: 14 October 2022
+/
+Accepted: 19 October 2022
+/
+Published: 22 October 2022
+
+
+(This article belongs to the Section Mathematics and Computer Science)
+
+
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+Spectrum-based fault localization (SBFL) is an automated fault localization technique that uses risk evaluation metrics to compute the suspiciousness scores from program spectra.

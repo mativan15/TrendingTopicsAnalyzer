@@ -1,0 +1,8 @@
+YouTube more likely to recommend conservative vidoes to all
+theregister.com
+business
+2022-10-18 23:16:55
+
+YouTube's recommendation algorithm not only gently traps viewers in mild echo chambers, it is more likely to suggest conservative-leaning videos regardless of your political alignment.
+That's according to a study out of New York University's Center for Social Media and Politics (CSMP) that was highlighted this month by Brookings.
+Social networks live and die by their recommendation algorithms: they're designed to keep visitors on the sites and apps by feeding them content that keeps them hooked, and if that drives up engagement – sharing links with others, commenting, subscribing, upvoting, etc – all the better.

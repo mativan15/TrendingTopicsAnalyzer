@@ -1,0 +1,10 @@
+Microsoft's Xbox Series X trick could make PC games load up to three times faster
+yahoo.com
+news
+2022-10-18 05:00:09
+
+Acer Predator Triton 500 SE (2021) review
+
+Windows 11 and Windows 10 gaming laptops will get a new performance-enhancing tool from Microsoft with support for DirectStorage 1.1 in a forthcoming update and an SDK will open it up to developers.
+
+DirectStorage debuted in the Xbox Series X|S as a method to improve load times for games and naturally Microsoft leveraged it for Windows as well with DirectStorage 1.0 making its way first to Windows 11 and then Windows 10 in March. The original method could reduce load times in games by up to 40% on laptops or desktops with a compatible NVMe drive, but DirectStorage 1.

@@ -1,0 +1,6 @@
+Non-Tech to Data Science Role- Beginner's Guide.
+medium.com
+entertainment
+2022-06-06 04:09:07
+
+How YouTube helped me to make decision to transition from Non-Tech to Data Science Role.I am writing this post for all my colleagues/ freshers who are in Non-Tech job roles and feel intrigued by Data Analytics / Data Science World.Here are some steps which I followed to understand the world of Data.Series 1 — YouTube series1. Introductory videos on Data Science Job Roles- Many YouTube channels host short videos on Introduction to Data Science , various job roles under Data science domain e.g Data Analyst, Data Scientist, Data Visualization Expert, Machine Learning Engineer , Natural Language Processing Engineer (NLP Engineer) etc.

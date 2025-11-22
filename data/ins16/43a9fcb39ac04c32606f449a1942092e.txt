@@ -1,0 +1,30 @@
+The Integrated Production-Inventory-Routing Problem with Reverse Logistics and Remanufacturing: A Two-Phase Decomposition Heuristic
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2,*, 2,3, 2,4 and 1 
+
+
+1
+Laboratoire d'Innovation Durable et de Recherche Appliquée, Université Internationale d'Agadir—Universiapolis, Agadir 80000, Morocco
+
+
+2
+Laboratoire de Génie Informatique, de Production et de Maintenance (EA 3096), 57070 Metz, France
+
+
+3
+ICN Business School, 54003 Nancy, France
+
+
+4
+UFR MIM, Université de Lorraine, 54000 Nancy, France
+
+
+*
+Author to whom correspondence should be addressed.

@@ -1,0 +1,6 @@
+Developmental robotics, the study of knowledge development in Artificial Intelligence (AI)
+medium.com
+entertainment
+2022-10-18 08:01:45
+
+Last update: 18/10/2022This article for the general public is also co-published in French on the 'Blog Binaire', a scientific mediation blog associated with the newspaper 'lemonde.fr'. Thanks to Pascal Guitton and Thierry Vieville for reviewing the French version of this article and to the Binaire team for sharing it. This article is also available on: https://ikramchraibik.com/blog/Learning to learn, an AI issue but not onlyPhoto de Andrea De Santis de UnsplashIt is often said and admitted that many algorithms are inspired by living organisms and that, conversely, the artificial can advance the understanding of the living*.

@@ -1,0 +1,6 @@
+Mandiant and SentinelOne Integrate, Enriching XDR with Threat Intelligence
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 09:00 AM Eastern Daylight Time MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)--SentinelOne (NYSE: S), an autonomous cybersecurity platform company, today announced an integration with Mandiant to improve threat detection, triage, hunting, and response processes. SentinelOne's Singularity XDR platform coupled with Mandiant's threat intelligence and incident response expertise enables organizations to face the increasing threats of today's cyber landscape with machine speed technology and services.

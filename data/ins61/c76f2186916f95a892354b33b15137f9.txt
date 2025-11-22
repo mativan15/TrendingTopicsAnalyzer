@@ -1,0 +1,8 @@
+HP Inc. (NYSE:HPQ) Shares Could Be 39% Below Their Intrinsic Value Estimate
+yahoo.com
+news
+2022-10-18 16:04:41
+
+Today we will run through one way of estimating the intrinsic value of HP Inc. (NYSE:HPQ) by taking the forecast future cash flows of the company and discounting them back to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

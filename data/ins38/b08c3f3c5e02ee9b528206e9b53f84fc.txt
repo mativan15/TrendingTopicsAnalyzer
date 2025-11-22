@@ -1,0 +1,23 @@
+Design of Dust-Filtering Algorithms for LiDAR Sensors Using Intensity and Range Information in Off-Road Vehicles
+Creative Commons Attribution (CC-BY)
+science
+2022-05-27 00:00:00
+
+Open AccessArticle by
+ 1, 1,*, 2 and 2 
+
+
+1
+Department of Automotive and Mechatronics Engineering, Ontario Tech University, Oshawa, ON L1G 0C5, Canada
+
+
+2
+Department of Smart Industrial Machine Technologies, Korean Institute of Machinery & Materials, Daejeon 34103, Korea
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+†
+This paper is an extended version of our paper published in Afzalaghaeinaeini, A.; Seo, J.; Lee, D.; Lee, H. Design of a LIOR-Based De-Dust Filter for LiDAR Sensors in Off-Road Vehicles.

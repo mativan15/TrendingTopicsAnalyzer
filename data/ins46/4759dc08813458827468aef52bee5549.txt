@@ -1,0 +1,8 @@
+Major Google Drive update could be a blessing for IT teams
+techradar.com
+tech
+2022-05-30 20:29:22
+
+(Image credit: Google)
+
+ Google has announced that admins can now place shared drives into sub-organizational units (OUs) in certain editions of its Workspace suite.In what could be a boon for IT teams working with Google Drive cloud storage, admins will now be able to configure sharing policies, data regions, and access management at a granular level. This feature is available now as an open beta, which means you can use the feature without opting-in to a specific program. What does this mean for users?Currently, all shared drives reside in the 'root' OU and are, as such, subject to the same policies.

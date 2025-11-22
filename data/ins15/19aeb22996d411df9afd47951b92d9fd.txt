@@ -1,0 +1,6 @@
+Council Post: How Finance Professionals Can Create Effective Financial Models
+Copyright 2022 Forbes Media LLC
+business
+2022-06-02 12:00:00
+
+Ian Schnoor, CFA, CFM, Executive Director at the Financial Modeling Institute (FMI) getty Financial models have become one of the most important decision-making tools in modern finance. They are critical to enabling informed decision-making. But oftentimes, they are flawed with deep and problematic implications. What is financial modeling? A financial model is simply a forecast. More specifically, it's a dynamic forecast in a spreadsheet of a company's financial statements. These models often cover a period of five to 10 years, though some models are shorter and some are longer.

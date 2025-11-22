@@ -1,0 +1,6 @@
+Data centric enterprises – An idea whose time has come and it is NOW
+indiatimes.com
+news
+2022-10-18 11:05:37
+
+Data-centric strategy is witnessing two extremes. On one hand, everyone agrees that enterprises need to leverage the data more effectively to drive innovation, optimize existing processes and set up new revenue channel. On the other hand, around 68% of enterprise is not discoverable, unusable and of poor quality. To resolve this dichotomy, enterprises need to adopt an holistic data strategy which is led by CDO but have equal partnership from other stakeholders including data leaders, AI scientists, data stewards and business leaders.

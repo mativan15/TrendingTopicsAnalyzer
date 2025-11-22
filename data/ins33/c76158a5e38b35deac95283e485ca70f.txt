@@ -1,0 +1,6 @@
+Beyond SLAs: Why You Need Experience-Level Agreements (XLAs) in the Digital Workplace
+computerworld.com
+news
+2022-05-31 15:45:00
+
+Service-level agreements (SLAs) are the long-standing gauge of IT performance. The problem with them, however, is that they leave out one critical question: Are users satisfied with the result?This shortcoming has recently given rise to a new concept called experience-level agreements (XLAs), which measure success based on the quality of experience delivered versus the processes that went into it. According to many, it more accurately reflects what counts in a relationship and business outcomes.An XLA considers the fact that 99.

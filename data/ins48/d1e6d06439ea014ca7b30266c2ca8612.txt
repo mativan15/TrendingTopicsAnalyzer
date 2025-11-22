@@ -1,0 +1,9 @@
+Future M.2 SSDs will be powerful, but with one key flaw
+digitaltrends.com
+news
+2022-05-31 20:23:42
+
+Future PCIe Gen 5.0 SSDs may be much larger than the previous models, and while that can be a good thing in terms of performance and cooling, it could also have one key flaw — compatibility.
+These new, larger M.2 SSDs may be unable to fit on today's motherboards. How big of an issue could this really be, and will the pros outweigh the cons?
+Getty Images
+Gigabyte said at Computex 2022 that it believes many of the future PCIe 5.0 SSDs will be considerably larger than the M.2 SSDs that are commonplace right now.

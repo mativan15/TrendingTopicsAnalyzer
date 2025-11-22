@@ -1,0 +1,7 @@
+Oracle and NVIDIA Partner to Speed AI Adoption for Enterprises
+prnewswire.com
+business
+2022-10-18 16:00:00
+
+Oracle Cloud Infrastructure Gets Supercharged with Major GPU Expansion Supporting Full Stack of NVIDIA AI Software and Services
+LAS VEGAS, Oct. 18, 2022 /PRNewswire/ -- Oracle CloudWorld -- Expanding their longstanding alliance, Oracle and NVIDIA today announced a multi-year partnership to help customers solve business challenges with accelerated computing and AI. The collaboration aims to bring the full NVIDIA accelerated computing stack — from GPUs to systems to software — to Oracle Cloud Infrastructure (OCI).

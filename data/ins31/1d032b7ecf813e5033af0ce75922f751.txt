@@ -1,0 +1,7 @@
+Council Post: Why The Supply Chain Is A CIO Problem
+Copyright 2022 Forbes Media LLC
+business
+2022-10-21 12:45:00
+
+Wendy is the CIO of Nutanix, where she leads the global Information Technology team and functions.
+getty As the global economy continues to grapple with long-term supply chain crises, there is a growing pressure on CIOs to expand employee access to IT resources—particularly from workers stationed in remote, hybrid and satellite offices. However, without effective ways to purchase hardware, options for IT teams looking to expand their ability to support distributed workforces and more complex workloads will continue to be limited.

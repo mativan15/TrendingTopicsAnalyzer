@@ -1,0 +1,9 @@
+How to create a custom template in Portainer to ease Docker deployments
+techrepublic.com
+news
+2022-05-31 16:01:03
+
+Jack Wallen shows you how to build custom templates in Portainer to help make your container developer process more efficient. 
+ Image: Gorodenkoff/Adobe Stock
+Portainer has become my go-to for managing container deployments. This one-stop-shop makes it incredibly easy to build apps and services and takes care of nearly every step required for full-stack, containerized app deployment.
+One feature Portainer includes is the ability to create custom app templates. With these app templates, you can create reusable manifests for full-stack applications.

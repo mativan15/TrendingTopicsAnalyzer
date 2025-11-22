@@ -1,0 +1,8 @@
+Someone Made Off With $90M In DeFi Exploit And Nobody Knew For 7 Months!
+ibtimes.com.au
+news
+2022-05-31 09:50:04
+
+DeFi application Mirror Protocol was hacked for almost $90 million on Terra Classic in October last year, Twitter handle @FatManTerra revealed just last week.
+According to FatMan, the attacker stole $89,706,164.03 from the protocol owing to an exploit that allowed them to unlock collateral from the lock contract 'over and over at little cost and zero risk.'
+A look at Terra Classic on-chain data reveals that the attacker was able to unlock UST funds multiple times from the protocol within the same transaction, paying only about $17.

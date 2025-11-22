@@ -1,0 +1,36 @@
+Reduction of Dewaxing and Sintering Time by Controlling the Particle Size of YSZ Particles for Stereolithography
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+ 1,*, 2 and 2 
+
+
+1
+Graduate School of Engineering, Osaka University, Osaka 565-0871, Japan
+
+
+2
+Joining and Welding Research Institute, Osaka University, Osaka 567-0047, Japan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Enrico Bernardo 
+Ceramics 2022, 5(4), 814-820; https://doi.org/10.3390/ceramics5040059 (registering DOI)
+
+
+Received: 30 September 2022
+/
+Revised: 13 October 2022
+/
+Accepted: 14 October 2022
+/
+Published: 18 October 2022
+ 
+
+In ceramic stereolithography, composite 'green' bodies must be thermally processed to de-bind organic content and sinter the material.

@@ -1,0 +1,6 @@
+Ironing out the material challenge for the metaverse and digital twins
+venturebeat.com
+news
+2022-05-31 20:20:00
+
+Did you miss a session from GamesBeat Summit 2022? All sessions are available to stream now. Watch now. Better file formats and standards for representing 3D structures like USD and glTF have played a crucial role in progressing the metaverse and digital twins. However, there has been far less agreement on representing materials. Vendors, artists and enterprises mitigate these issues today by sticking within a given ecosystem of design tools and rendering engines or generating multiple versions.  Now, the 3D industry and industrial designers are exploring ways to promote material interoperability across tools.

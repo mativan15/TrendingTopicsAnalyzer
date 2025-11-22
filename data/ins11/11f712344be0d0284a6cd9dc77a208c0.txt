@@ -1,0 +1,8 @@
+Nordson Corporation's (NASDAQ:NDSN) Intrinsic Value Is Potentially 64% Above Its Share Price
+yahoo.com
+news
+2022-06-02 15:00:17
+
+Today we will run through one way of estimating the intrinsic value of Nordson Corporation (NASDAQ:NDSN) by taking the forecast future cash flows of the company and discounting them back to today's value. Our analysis will employ the Discounted Cash Flow (DCF) model. There's really not all that much to it, even though it might appear quite complex.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

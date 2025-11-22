@@ -1,0 +1,6 @@
+A new scale to curb skin tone bias in AI
+Copyright 2022 The Hindu
+news
+2022-06-01 11:59:22
+
+Tech firms have been using a skin tone scale developed in 1970s to grade colour of objects in an image. The Fitzpatrick Skin Type (FST) scale classifies skin tone based on six-point scale.This measure has been used by several companies to know whether facial recognition systems, smartwatch heart-rate sensors, or AI cameras perform equally well across skin tones. But the FST scale lacked representation from darker skin tones.The FST scale has four categories for 'white' skin, and only one each for 'black' and 'brown' skins.

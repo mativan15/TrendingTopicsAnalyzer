@@ -1,0 +1,6 @@
+Borg (1) — Kubernetes' Mother
+medium.com
+tech
+2022-10-16 06:30:34
+
+When I've first put my hands on the subject of container orchestration, what was only vaguely and shortly mentioned was the fact that Kubernetes is not the only technology used to manage a massive number of containers and their life cycles. Docker Swarm being the most prominent competitor (but falling seriously short of matching the first-place holder's popularity), however, I do remember the name Borg also came up as 'the competitor' of Kubernetes. That's how the material I read described Borg, the competitor.

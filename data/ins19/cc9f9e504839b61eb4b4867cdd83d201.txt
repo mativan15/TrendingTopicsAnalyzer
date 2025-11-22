@@ -1,0 +1,11 @@
+Chainlink Price Feeds Go Live on Solana Mainnet
+prnewswire.com
+business
+2022-06-03 15:00:00
+
+"Chainlink's launch on Solana will give DeFi developers access to the most widely used oracles in blockchain.''
+
+Tweet this
+
+
+Securing tens of billions in total value across hundreds of applications on more than a dozen blockchains, Chainlink is the market-leading solution for highly accurate and tamper-proof market data and secure off-chain computation. Made up of independent, geographically distributed, Sybil-resistant oracle nodes run by world-class DevOps teams from organizations like Deutsche Telekom's T-Systems, Swisscom, The Associated Press, LexisNexis, and more, the Chainlink Network now powers more than 980 oracle networks and has securely delivered more than 2.

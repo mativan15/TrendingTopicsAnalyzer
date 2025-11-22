@@ -1,0 +1,8 @@
+Oracle pushes Cloud as a Service, AI/ML for data analysis
+techrepublic.com
+news
+2022-10-19 13:26:12
+
+The Oracle CloudWorld conference this week brings together developers and customers to showcase new cloud services, database services and more. 
+ Image: Panama/Adobe Stock
+Making better business decisions faster is a top priority for tech-savvy organizations today, as shown in the top announcements from Oracle's CloudWorld conference. The biggest announcement in the edge and cloud computing world from Oracle is Oracle Alloy, a cloud infrastructure platform designed to let organizations become cloud providers to their customers.

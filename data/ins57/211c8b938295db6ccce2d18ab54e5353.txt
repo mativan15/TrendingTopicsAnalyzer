@@ -1,0 +1,7 @@
+Intel tackles GPU management ahead of Ponte Vecchio debut
+theregister.com
+news
+2022-05-31 16:57:13
+
+With Intel poised to enter the datacenter GPU market, the chipmaker showed off a new software platform mean to simplify management of these devices at scale this week at the International Supercomputing Conference in Hamburg, Germany.
+The open-source software, dubbed Intel XPU Manager, is an in-band remote management service for upgrading firmware, monitoring system utilization, and administering GPUs at the individual node level. The code is an important step as Intel prepares to compete against industry stalwarts Nvidia and AMD, which not only lead it in GPU silicon but software management as well.

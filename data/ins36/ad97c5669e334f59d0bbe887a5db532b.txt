@@ -1,0 +1,8 @@
+This Microsoft PowerShell training bundle is on sale for 98% off
+Copyright 2022 Mashable, Inc. All Rights Reserved.
+news
+2022-05-27 04:00:00
+
+Deal pricing and availability subject to change after time of publication.
+
+TL;DR: The 2022 Windows PowerShell Certification Bundle is on sale for £15.90, saving you 98% on list price.If you work in tech and hate how much time you waste doing overly tedious administrative tasks, you need to learn PowerShell. To the uninitiated, PowerShell is a cross-platform tool that aims to help tech pros automate a range of time-consuming tasks, find, filter, and export information, and ultimately, do their job better.

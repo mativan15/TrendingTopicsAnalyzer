@@ -1,0 +1,6 @@
+Altova MobileTogether 8.0
+yahoo.com
+news
+2022-06-01 13:29:00
+
+BEVERLY, Mass., June 1, 2022 /PRNewswire/ -- Altova® (http://www.altova.com) announced the release of MobileTogether 8.0, its rapid app development platform for building enterprise solutions and native apps for iOS, Android, and Windows. This latest release adds several exciting new features, including a brand new way of interacting with relational databases, support for modularization, and more. The launch of MobileTogether 8.0 coincides with the launch of Altova RecordsManager, a new offering that gives developers a no-code option for creating business database apps.

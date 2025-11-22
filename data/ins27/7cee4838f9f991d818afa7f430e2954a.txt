@@ -1,0 +1,7 @@
+IronCore Labs Mentioned in Gartner® Report on Preparing for the Quantum World With Crypto-Agility
+prnewswire.com
+news
+2022-10-18 06:30:00
+
+BOULDER, Colo., Oct. 18, 2022 /PRNewswire/ -- IronCore Labs, the leading provider of data security for modern cloud applications, announced today that Gartner® has identified the company as one of the vendors in the public key infrastructure (PKI) and cryptography space in the 2022 report "Preparing for the Quantum World With Crypto-Agility."
+"SaaS Shield helps software companies prepare for massive changes to best practices in cryptography as quantum computers get more powerful," said Patrick Walsh, CEO of IronCore Labs.

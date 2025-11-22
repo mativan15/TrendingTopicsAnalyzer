@@ -1,0 +1,10 @@
+Core Scientific Again Raises Bitcoin Mining Hosting Rates
+yahoo.com
+news
+2022-10-21 21:00:13
+
+The world's largest bitcoin miner, Core Scientific (CORZ), raised its rates for hosting other companies' machines to just under 10 cents per kilowatt hour, two people familiar with the matter told CoinDesk.
+
+It's the latest price hike for Core Scientific, which had previously raised its rates by 20%-25% in recent months because of soaring energy costs. With the price of bitcoin stubbornly hanging around in the $20,000 area, the boosted costs make it even more difficult for miners to break even.
+
+Hosting is a service that data centers provide to crypto miners so that customers can store their mining rigs and mine digital assets for a fee without having to build the infrastructure themselves.

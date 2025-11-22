@@ -1,0 +1,6 @@
+Virtual Private Networks (VPNs): What businesses need to know
+techradar.com
+news
+2022-10-17 12:07:36
+
+Virtual provide networks provide a way of communicating securely over an ordinary internet connection. For individuals using one of the many VPN subscription services means greater privacy and the ability to access websites that might be blocked for geographical or other reasons.But VPNs have uses in business too, allowing remote workers secure access to corporate data, and the safe use of public Wi-Fi networks for example.How VPNs workIn simple terms a VPN uses a public network, usually the internet, to connect private sites and users together.

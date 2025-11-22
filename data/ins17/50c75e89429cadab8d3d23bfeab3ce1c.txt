@@ -1,0 +1,6 @@
+What is DNS Hijacking and how can you avoid being a victim of it
+techradar.com
+tech
+2022-10-17 12:29:26
+
+DNS hijacking – where a device reroutes your messages or takes you to a completely new and fake destination may seem like the stuff of dreams. After all, one might somehow expect that this conversion of website addresses into a numerical code is automatic and beyond manipulation – but it's not.Domain Name System (DNS) is often called the phonebook or the librarian of the Internet. When you type in an address, for example techradar.com, this is translated into an Internet Protocol address. It's like a librarian telling you the shelf number and the Dewey Decimal Number of that nonfiction book you are looking for.

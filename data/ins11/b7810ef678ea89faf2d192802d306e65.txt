@@ -1,0 +1,8 @@
+UK government seeks views on cloud, datacenter security
+theregister.com
+news
+2022-05-30 10:17:07
+
+The UK government has kicked off a consultation to collate feedback on strengthening the security and resilience of local datacenters and cloud services to protect against outages and national security threats.
+Companies that run, purchase or rent any element of a datacenter are being asked to detail the types of customers they serve.
+Announced by the Department for Digital, Culture, Media and Sport (DCMS) late last week, the move is perhaps a recognition that the UK may need to beef up measures to safeguard key infrastructure against cyber threats and other disruptions.

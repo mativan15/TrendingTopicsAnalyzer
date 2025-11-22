@@ -1,0 +1,6 @@
+Numerical simulation of closed plastic impeller molding process and its parameter optimization
+© 2022 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+news
+2022-10-15 00:00:00
+
+Numerical simulation of closed plastic impeller molding process and its parameter optimization Aiming at the warping deformation and volume shrinkage of the closed plastic impeller, the relevant compression molding process parameters were optimized.Based on the theoretical equation of the pressing pressure for general sheet plastics, the theoretical derivation of the pressing pressure suitable for cylindrical cavities was carried out, and the theoretical derivation of the pressing pressure suitable for closed plastic impeller molding was derived, and the pressing pressure was calculated to be 15 MPa.

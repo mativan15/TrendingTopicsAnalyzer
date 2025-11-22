@@ -1,0 +1,7 @@
+Deep Render believes AI holds the key to more efficient video compression
+techcrunch.com
+tech
+2022-10-18 21:52:15
+
+Chri Besenbruch, CEO of Deep Render, sees many problems with the way video compression standards are developed today. He thinks they aren't advancing quickly enough, bemoans the fact that they're plagued with legal uncertainty and decries their reliance on specialized hardware for acceleration.
+'The codec development process is broken,' Besenbruch said in an interview with TechCrunch ahead of Disrupt, where Deep Render is participating in the Disrupt Battlefield 200. 'In the compression industry, there is a significant challenge of finding a new way forward and searching for new innovations.

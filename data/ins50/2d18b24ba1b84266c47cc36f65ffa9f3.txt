@@ -1,0 +1,6 @@
+Cost of a data breach 2022
+ibm.com
+news
+2022-10-17 16:30:00
+
+A million-dollar race to detect and respond For the 12th year in a row, the United States holds the title for the highest cost of a data breach, USD 5.09 million more than the global average. Average cost of a data breach in the United States Global average total cost of a data breach The cost of a breach in the healthcare industry went up 42% since 2020. For the 12th year in a row, healthcare had the highest average data breach cost of any industry. Average total cost of a breach in the healthcare industry Stolen or compromised credentials were not only the most common cause of a data breach, but at 327 days, took the longest time to identify.

@@ -1,0 +1,6 @@
+Microsoft Wants to Prove You Exist with Verified ID System, if You'll Let It
+gizmodo.com
+tech
+2022-05-31 18:10:00
+
+In the decade-spanning conflict between the need for online privacy and efforts to stop fake accounts from accessing sensitive info, the tech monolith that is Microsoft is putting its massive weight behind the creation of standardized online identities. In its announcement Tuesday, Microsoft talked up its Entra management systems that includes Verified ID, promoting itself as a quick way of giving sensitive identification to entities that need to verify that you are who you say you are.In its release, the company said that old means of restricting electronic access was 'no longer sustainable' because of how digital estates have become 'boundary-less.

@@ -1,0 +1,6 @@
+Deep Learning Ideas That I Think Are Interesting
+medium.com
+news
+2022-10-19 03:08:39
+
+In no particular order. It's likely that some of these are not original (please let me know if you know of a good implementation!). I will probably attempt to implement some of these as I have time in the future.Fair warning, it's very possible that some of these are stupid (please let me know if you can clearly articulate why!)Use hypernetworks to get around some of the generalization and sample-efficiency problems of traditional deep learning. – Existing deep neural networks cannot dirctly learn robust addition that generalizes to unseen numbers of digits, and must resort to tricks like 'think step by step' which copy human strategies).

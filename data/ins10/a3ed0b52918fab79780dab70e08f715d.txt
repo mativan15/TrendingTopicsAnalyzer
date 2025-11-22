@@ -1,0 +1,7 @@
+Ransomware, crypto miner, and botnet malware installed using patched VMware bug
+arstechnica.com
+news
+2022-10-21 22:31:00
+
+Hackers have been exploiting a now-patched vulnerability in VMware Workspace ONE Access in campaigns to install various ransomware and cryptocurrency miners, a researcher at security firm Fortinet said on Thursday.
+CVE-2022-22954 is a remote code execution vulnerability in VMware Workspace ONE Access that carries a severity rating of 9.8 out of a possible 10. VMware disclosed and patched the vulnerability on April 6. Within 48 hours, hackers reverse-engineered the update and developed a working exploit that they then used to compromise servers that had yet to install the fix.

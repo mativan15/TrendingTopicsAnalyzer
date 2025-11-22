@@ -1,0 +1,8 @@
+An Intrinsic Calculation For Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) Suggests It's 37% Undervalued
+yahoo.com
+news
+2022-10-17 14:00:18
+
+Today we will run through one way of estimating the intrinsic value of Regeneron Pharmaceuticals, Inc. (NASDAQ:REGN) by taking the expected future cash flows and discounting them to today's value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

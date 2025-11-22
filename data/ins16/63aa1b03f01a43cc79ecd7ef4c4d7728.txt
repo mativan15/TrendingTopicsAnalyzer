@@ -1,0 +1,7 @@
+pareIT Launches the First Medicolegal Platform for Automated Medical Record Summaries
+prnewswire.com
+news
+2022-06-01 14:15:00
+
+The platform offers the first and only AI solution for medicolegal lawyers, insurance companies & hospitals
+LOS ANGELES , June 1, 2022 /PRNewswire/ -- pareIT, an automated medical record analysis company, today announced the official launch of its platform. pareIT's patent-pending artificial intelligence and machine learning models have been trained on more than a million medicolegal data points, allowing for automatic analysis of medical cases files. The platform, powered by Amazon Web Services (AWS) and leveraging Amazon Comprehend Medical, is set to disrupt the medicolegal industry through providing a solution that automatically categorizes medicolegal case files, and analyzes medical case files, including, removing duplicative and void documents, placing files into a chronological timeline, and extracting diagnoses, prognoses, treatment recommendations, medical history, and hand-written records.

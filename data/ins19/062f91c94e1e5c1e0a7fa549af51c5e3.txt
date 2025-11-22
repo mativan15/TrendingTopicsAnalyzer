@@ -1,0 +1,9 @@
+How to enable Ubuntu Pro to gain expanded security maintenance and compliance
+techrepublic.com
+news
+2022-10-19 14:14:46
+
+Image: IB Photography/Adobe Stock
+Canonical has announced that its security and maintenance subscription service is now free for personal usage for up to five machines. This service offers 10 years of security for both the system and over 23,000 applications.
+SEE: 40+ open source and Linux terms you need to know (TechRepublic Premium)
+'Since we first launched Ubuntu LTS, with five years of free security coverage for the main OS, our enterprise customers have asked us to cover more and more of the wider open-source landscape under private commercial agreements,' said Canonical CEO Mark Shuttleworth.

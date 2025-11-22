@@ -1,0 +1,8 @@
+SiPearl partners with HPE, Nvidia on supercomputer efforts
+theregister.com
+news
+2022-05-30 14:58:12
+
+European microprocessor designer SiPearl revealed deals with Nvidia and HPE today, saying they would up the development of high-performance compute (HPC) and exascale systems on the continent.
+Announced to coincide with the ISC 2022 High Performance conference in Hamburg this week, the agreements see SiPearl working with two big dogs in the HPC market: HPE is the owner of supercomputing pioneer Cray and Nvidia is a leader in GPU acceleration.
+With HPE, SiPearl said it is working to jointly develop a supercomputer platform that combines HPE's technology and SiPearl's upcoming Rhea processor.

@@ -1,0 +1,12 @@
+Fantasy Football Week 7 Analysis: Has a new tight end savior emerged?
+yahoo.com
+news
+2022-10-20 16:37:20
+
+Welcome to Week 7, fantasy managers! If you are new to this article series, I will be using my Expected Fantasy Points model to determine which players relied on volume or efficiency to produce for fantasy. In short, the two metrics that we will use each week are:
+
+Expected Fantasy Points (or xFP)
+
+Fantasy Points Over Expected (or FPOE = Actual Points - Expected Points)
+
+Why do these metrics matter? Basically, fantasy production rooted in volume (or xFP) is usually sustainable week to week. We want to target players who rank highly in this metric.

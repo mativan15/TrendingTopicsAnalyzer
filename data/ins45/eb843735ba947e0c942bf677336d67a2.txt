@@ -1,0 +1,8 @@
+Linux system container tool Distrobox releases v1.3.0
+theregister.com
+news
+2022-05-31 12:15:14
+
+Developer Luca di Maio has released version 1.3.0 of DistroBox, a tool to simplify running different versions of Linux in containers.
+Distrobox is likely to be one of those tools that sounds either great or totally mystifying, depending on the sort of Linux user you are. If you routinely have to work with multiple different distros, you may be in the former group, and DistroBox could save you a fair amount of time and effort.
+The tool is intended to simplify the creation and use of Linux system containers, making it easy to run one distro on top of another without the overhead of virtual machines.

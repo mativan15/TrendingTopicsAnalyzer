@@ -1,0 +1,8 @@
+Algorithm spots 104 asteroids in huge piles of data
+theregister.com
+news
+2022-06-01 07:24:08
+
+Researchers at The Asteroid Institute have developed a way to locate previously unknown asteroids in astronomical data, and all it took was a massive amount of cloud computing power to do it.
+Traditionally, asteroid spotters would have to build so-called tracklets of multiple night sky images taken in short succession that show a suspected minor planetoid's movement. If what's observed matches orbital calculations, congratulations: it's an asteroid. 
+Asteroid Institute scientists are finding a way around that time sink with a novel algorithm called Tracklet-less Heliocentric Orbit Recovery, or THOR, that can comb through mountains of data, make orbital predictions, transform sky images, and match it to other data points to establish asteroid identity.

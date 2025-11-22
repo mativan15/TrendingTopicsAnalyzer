@@ -1,0 +1,6 @@
+Council Post: The Evolution And Expansion Of AIOps In Network Management
+Copyright 2022 Forbes Media LLC
+business
+2022-05-31 13:45:00
+
+CTO and Co-founder at Selector. 16+ years of experience in networking, taking concepts from whiteboards to revenue-generating products. getty Expected to be worth more than $40 billion by 2026, AIOps solutions are paving the way for improved IT operations in digitally-driven organizations. A major factor driving this is that traditional operations management models are no longer good enough to deal with a world where distributed work has been normalized. Instead, by leveraging big data, machine learning, artificial intelligence (AI) and other advanced technologies, companies can bring greater automation to enterprise IT infrastructure and service management as well as gain complete visibility of the network infrastructure challenges they face.

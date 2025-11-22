@@ -1,0 +1,8 @@
+A Look At The Intrinsic Value Of Amtech Systems, Inc. (NASDAQ:ASYS)
+yahoo.com
+news
+2022-05-30 15:42:17
+
+In this article we are going to estimate the intrinsic value of Amtech Systems, Inc. (NASDAQ:ASYS) by taking the expected future cash flows and discounting them to today's value. We will use the Discounted Cash Flow (DCF) model on this occasion. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

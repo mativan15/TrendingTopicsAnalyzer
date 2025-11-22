@@ -1,0 +1,8 @@
+Microsoft disables hackers working with Iranian intelligence
+indiatimes.com
+economics
+2022-06-04 06:45:00
+
+San Francisco: Microsoft has detected and disabled a previously undocumented Lebanon-based activity group that is working with other actors affiliated with Iran's Ministry of Intelligence and Security (MOIS) to attack organisations in Israel. Microsoft Threat Intelligence Center (MSTIC) named the group 'Polonium'.
+
+The tech giant suspended more than 20 malicious OneDrive applications created by Polonium actors, notified affected organisations, and deployed a series of security intelligence updates that will quarantine tools developed by Polonium operators.

@@ -1,0 +1,6 @@
+Faculty Earns NSF CAREER Award to Create Greener, More Advanced Indoor Navigation and Security Systems
+gatech.edu
+news
+2022-06-01 16:30:00
+
+Precision, millimeter-level 3D tracking of robotic arm movements – without cameras and in the dark ­– is just one of the expected benefits of new research into ultra-wideband radio (UWB) technology underway at Georgia Tech. UWB technology uses low-level energy signals to enable short-range, high-bandwidth communications that do not interfere with other types of radio communications. To push forward on what's next in the field, School of Computer Science Assistant Professor Ashutosh Dhekne recently received a National Science Foundation (NSF) CAREER award for his proposal, Closing the Gaps in UWB Localization and Sensing: Algorithms, Architectures, and Prototypes.

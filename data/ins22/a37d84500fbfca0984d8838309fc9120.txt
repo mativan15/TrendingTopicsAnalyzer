@@ -1,0 +1,6 @@
+Research on Environmental Governance, Local Government Competition, and Agricultural Carbon Emissions under the Goal of Carbon Peak
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+By introducing network game theory, this paper analyzes the internal relationship and interaction mechanism among environmental governance, local government competition, and agricultural carbon peak level. On the basis of theoretical analysis, a spatial panel model is constructed using panel data from 30 provincial-level regions in China for empirical analysis. The research finds that local governments have positive competition with respect to the agricultural carbon peak, they adopt complementary carbon peak competition strategies, and they are more inclined to take geographical distance to adjacent regions as the yardstick in the competition with respect to the agricultural carbon peak strategy.

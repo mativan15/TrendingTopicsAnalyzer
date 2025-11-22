@@ -1,0 +1,6 @@
+Foundry Launches Contact-Level B2B Intent Data for Tech Marketers Globally
+globenewswire.com
+news
+2022-10-19 00:00:00
+
+Boston, Mass., Oct. 19, 2022 (GLOBE NEWSWIRE) -- Foundry (an IDG, Inc. company), the leading B2B media and martech provider, announced today the launch of the company's proprietary intent data product, Foundry Intent, marking the company's first major release since it acquired data and martech companies LeadSift, KickFire, Triblio, and Selling Simplified. Built upon Foundry's existing Neon ABM data infrastructure and its history of strong IT audience and activation, the contact-level intent capability brings together KickFire and LeadSift data capture technologies and machine learning to enhance and expand the company's knowledge graph across all technology verticals, and offers a more comprehensive view of intent to tech marketers looking to understand and respond to buyers' individual needs efficiently and at scale.

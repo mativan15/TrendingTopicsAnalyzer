@@ -1,0 +1,8 @@
+Are Investors Undervaluing Insteel Industries, Inc. (NYSE:IIIN) By 35%?
+yahoo.com
+news
+2022-10-15 12:29:36
+
+In this article we are going to estimate the intrinsic value of Insteel Industries, Inc. (NYSE:IIIN) by taking the expected future cash flows and discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

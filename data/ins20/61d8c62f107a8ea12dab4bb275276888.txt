@@ -1,0 +1,6 @@
+StorPool Overhauls Cloud-based Storage Analytics and Monitoring Suite
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 08:30 AM Eastern Daylight Time SOFIA, Bulgaria--(BUSINESS WIRE)--StorPool Storage today announced an update to their hosted analytics instrument that collects hundreds of metrics per second to deliver deep insights into each StorPool storage system's performance, reliability and availability - at a per-second granularity for the last 48 hours and per-minute for the most recent 365 days. The update also impacts the cloud-based monitoring console that converts the collected metrics into per-node and whole-system status reports and alerts.

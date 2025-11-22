@@ -1,0 +1,6 @@
+DevRev announces the general availability of Product-Led Support, the first app built on its DevCRM platform
+businessinsider.com
+finance
+2022-10-18 18:12:00
+
+This new take on CRM allows modern software companies to bring departments together and support their customers "as one"PALO ALTO, Calif., Oct. 18, 2022 /PRNewswire/ -- DevRev, a company bringing developers and engineers closer to customers, today announced the public launch of DevCRM: the only API-driven, developer-first customer relationship management (CRM) platform for product-led SaaS companies.In an era of all things product-led, DevRev's converged "DevCRM" platform brings together customer support conversations and tickets with developer issues and product enhancements.

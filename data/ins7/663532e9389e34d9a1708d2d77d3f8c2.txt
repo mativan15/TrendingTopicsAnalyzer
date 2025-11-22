@@ -1,0 +1,6 @@
+OpenBots Capitalizes on Security With SOC2 and HIPAA Certifications
+globenewswire.com
+news
+2022-10-17 00:00:00
+
+SEATTLE, Oct. 17, 2022 (GLOBE NEWSWIRE) -- With its release, OpenBots gains security and compliance certifications that include PCI DSS, SOC2 Type 1, and HIPAA. "OpenBots' SOC 2 Type 1 certification is an essential milestone in our compliance journey as it reinforces our commitment to security for our customers," said Ashish Nangla, co-founder and CEO of OpenBots.   There is a demand for automation software to be immensely flexible and protect and secure data for various applications. The security improvements of the OpenBots Platform go hand in hand with the need to exchange sensitive customer data securely between systems in industries like banking and healthcare.

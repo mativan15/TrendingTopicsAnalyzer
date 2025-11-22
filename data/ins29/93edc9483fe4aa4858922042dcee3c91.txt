@@ -1,0 +1,8 @@
+Hospitals heal humans but machines protect hospitals
+theregister.com
+news
+2022-06-01 07:15:07
+
+Sponsored Feature Browse through a selection of hospital mission statements and common themes quickly emerge: putting patients and community first, acting with integrity, pushing the bounds of medical research.
+What you probably won't see is a commitment to running a 24x7 cyber security team, tightening up intrusion detection and response, or denying cybercrime gangs the funding to expand their activities.
+The problem is hospitals, and the healthcare sector in general, are prime targets for hackers.

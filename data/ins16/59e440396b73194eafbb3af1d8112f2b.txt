@@ -1,0 +1,10 @@
+Ethereum Co-Founder Gavin Wood Steps Down as CEO of Company Behind Polkadot
+yahoo.com
+news
+2022-10-21 18:20:45
+
+Gavin Wood, co-founder of Parity Technologies, the company behind the Polkadot blockchain, is stepping down as the firm's CEO, according to a Bloomberg report.
+
+Wood, also an early Ethereum contributor and co-founder, will remain Parity's majority shareholder and chief architect. Parity co-founder Björn Wagner will assume the title of CEO. The move is reportedly of Wood's own volition, due to his feeling that serving as chief executive has limited his ability to pursue 'eternal happiness.'
+
+Polkadot—widely considered to have been masterminded by Wood—is a so-called multichain network that allows its developers to each build upon their own blockchain, and connects those myriad, smaller networks together as 'parachains.

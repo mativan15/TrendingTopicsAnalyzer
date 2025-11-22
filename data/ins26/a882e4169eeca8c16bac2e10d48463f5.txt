@@ -1,0 +1,7 @@
+Datacenter fire takes out South Korea's top two web giants
+theregister.com
+news
+2022-10-17 00:59:05
+
+South Korea's two largest domestic internet companies, Naver and Kakao, have experienced significant service interruptions after the datacenter that hosts much of their infrastructure was shut down by a Sunday fire.
+The datacenter in question is operated by SK C&C, one of the many arms of South Korean conglomerate SK. SK C&C offers a range of cloud and tech infrastructure services, bills itself as a "total digital transformation partner" and operates three datacenters, in which it happily houses client systems.

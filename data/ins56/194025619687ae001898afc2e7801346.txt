@@ -1,0 +1,7 @@
+Google will soon let Android users able to switch audio between cast devices
+indianexpress.com
+news
+2022-10-18 11:11:34
+
+In the last few years, Google has been constantly improving and adding several new features to Android's notification tray. With Android 11, the tech giant added a dedicated space in the notification panel to control media playback.
+Soon after, the notification panel media playback controller received a new feature that let users easily switch the audio to whatever device they want to play their media on. But for years, users only have had the option to only switch between the speaker and connected Bluetooth devices.

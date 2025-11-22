@@ -1,0 +1,7 @@
+Clonezilla 3 is out
+theregister.com
+business
+2022-05-27 10:02:09
+
+Clonezilla 3 is a new version of an (almost) universal disk-imaging and duplication tool which can copy, or image, almost any mass storage device.
+Remember Norton Ghost? It was discontinued nearly a decade ago now, in 2013. There are lots of alternatives to it out there, including commercial ones, but Clonezilla is handy because it can handle almost any disk format, and it's totally free. Version 3 just appeared and it's got a bunch of new features, including support for Apple APFS, ChromeOS Flex, and Linux drives encrypted with LUKS.

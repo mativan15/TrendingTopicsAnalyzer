@@ -1,0 +1,7 @@
+Do Kwon returns with Terra 2.0, but it is already crashing
+indianexpress.com
+news
+2022-05-30 07:00:28
+
+Do Kwon, CEO and co-founder of Terraform Labs' grand revival plan to salvage the Terra ecosystem from its current stage has failed. On Saturday, Kwon launched Luna 2.0, the revamped version of the Luna coin. The company CEO believes that validating all invalid blocks as well as transactions on the blockchain network will make the coin boom once again. This plan will be done via something called—a hard fork.
+A hard fork will ensure that Terra is not linked to the current Terra blockchain, instead will be linked to a new blockchain, then the Terra token can be switched to TerraClassic, the stablecoin by Terraform labs that are not algorithmically designed.

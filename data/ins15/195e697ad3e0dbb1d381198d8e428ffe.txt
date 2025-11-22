@@ -1,0 +1,10 @@
+Ingram Micro Cloud Achieves AWS Cloud Management Tools ISV Competency Status
+businesswire.com
+news
+2022-05-31 00:00:00
+
+May 31, 2022 09:00 AM Eastern Daylight Time IRVINE, Calif.--(BUSINESS WIRE)--Ingram Micro Cloud today announced that it has achieved Amazon Web Services (AWS) Cloud Management Tools (CMT) ISV Competency status. This designation recognizes Ingram Micro Cloud's proprietary resource and cost optimization solutions, which help collaborators and their customers maximize Return on Investment (ROI) on their AWS spend and have been vetted, validated, and verified by AWS.
+
+
+
+The AWS CMT Competency confirms that Ingram Micro Cloud's proprietary cloud automation technology is capable of streamlining application and workload deployments, and resource management across private, hybrid and public cloud stacks.

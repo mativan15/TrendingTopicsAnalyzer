@@ -1,0 +1,6 @@
+A new duality solves a physics mystery
+eurekalert.org
+science
+2022-06-01 23:26:27
+
+In conventional wisdom, producing a curved space requires distortions, such as bending or stretching a flat space. A team of researchers at Purdue University have discovered a new method to create curved spaces that also solves a mystery in physics. Without any physical distortions of physical systems, the team has designed a scheme using non-Hermiticity, which exists in any systems coupled to environments, to create a hyperbolic surface and a variety of other prototypical curved spaces. 'Our work may revolutionize the general public's understanding of curvatures and distance,' says Qi Zhou, Professor of Physics and Astronomy.

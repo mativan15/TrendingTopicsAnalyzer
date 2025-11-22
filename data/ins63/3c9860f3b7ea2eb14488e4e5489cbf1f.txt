@@ -1,0 +1,7 @@
+Solana's Future Uncertain After High-Throughput Blockchain Suffers Latest Crash
+Copyright 2022 Forbes Media LLC
+business
+2022-06-02 23:08:27
+
+Solana's sol token has plunged lately shortly after a network outage. Photographer: Gabby ... [+] Jones/Bloomberg © 2021 Bloomberg Finance LP 
+Solana has been having a tough time lately, suffering its latest outage after a bug prevented its network from producing new blocks. As a result of this situation, the Solana network was offline for more than four hours. This was certainly not the first time this high-performance blockchain suffered downtime, as it has experienced several outages in the last year.

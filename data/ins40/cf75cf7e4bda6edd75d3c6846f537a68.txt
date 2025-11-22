@@ -1,0 +1,7 @@
+Council Post: How IoT Is Playing A Key Role In Production Uptime
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 13:45:00
+
+CEO and Director of Engineering at National Control Devices and has designed over 100 Wireless IoT Sensors.
+getty We are facing supply chain issues in all sectors. One of the key reasons behind supply issues is production downtime. It is commonly estimated that a factory can lose up to 20% of its productivity due to downtime. The idea of predictive maintenance goes back to the '90s. The unavailability of sensors and a lack of computational resources made implementation difficult back then. The introduction of the Internet of Things (IoT), machine learning, cloud computing and big data analytics has brought predictive maintenance to the mainstream.

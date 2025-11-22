@@ -1,0 +1,6 @@
+Platinum CCTV Announces Ability to Search Video Based on License Plates in their AVM Security Camera Software
+prnewswire.com
+news
+2022-06-02 12:38:00
+
+WARRENVILLE, Ill., June 2, 2022 /PRNewswire/ -- Platinum CCTV (https://platinumcctv.com/) has announced release of their newest version AVM and CMS4 software which now allows searching of video by vehicle license plates. This new searching capability allows business owners to quickly search for specific vehicles with their security cameras, making finding important data and video about clients as well as vandals even easier. This new feature for our AVM (Advanced Video Management) security camera platform works with ANPR (Automatic Number Plate Reading) cameras like our HD-LPR2 ANPR License Plate Capture Camera as well as with any standard security camera when used with our optional separate NumberOk software license.

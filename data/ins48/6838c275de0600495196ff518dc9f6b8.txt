@@ -1,0 +1,7 @@
+How digital twins help us understand tomorrow's tech and infrastructure
+thenextweb.com
+business
+2022-06-02 15:00:09
+
+A digital twin is a virtual representation of a real system – a building, the power grid, a city, even a human being – that mimics the characteristics of the system. A digital twin is more than just a computer model, however. It receives data from sensors in the real system to constantly parallel the system's state.
+A digital twin helps people analyze and predict a system's behavior under different conditions. The systems being twinned are typically very complex and require significant effort to model and track.

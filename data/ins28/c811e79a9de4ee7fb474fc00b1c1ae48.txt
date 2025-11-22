@@ -1,0 +1,6 @@
+The cybersecurity risks of merging business and pleasure
+techradar.com
+tech
+2022-10-17 12:45:32
+
+Imagine a castle built with impregnable walls and a huge door so thick that not even an army could knock it down. Now imagine that all the people living or working inside this fortress have each installed themselves an entrance in a section of the wall which they use to get in and out whenever they feel like it. Oh – and they've told all their friends about its location so they can visit whenever they feel like it too, rendering all the protective measures totally useless.This is the situation organizations are facing right now after the coronavirus pandemic forced them to hurriedly send employees home armed with – at best – a flimsy VPN and a password that's about as secure as the unlocked, user-installed doors in our hypothetical citadel.

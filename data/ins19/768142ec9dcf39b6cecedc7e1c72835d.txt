@@ -1,0 +1,6 @@
+Stable Diffusion creator Stability AI raises $101M funding to accelerate open-source AI
+venturebeat.com
+news
+2022-10-18 15:55:53
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. There is much to say about the groundbreaking technology that underpins today's generative AI, but one key innovation is worth mentioning: diffusion models. Inspired by thermodynamic concepts, diffusion models have piqued the public interest, quickly displacing generative adversarial networks (GANs) as the go-to method for AI-based image generation.  These models learn by corrupting their training data with incrementally added noise and then determining how to reverse this noising process in order to recover the original image.

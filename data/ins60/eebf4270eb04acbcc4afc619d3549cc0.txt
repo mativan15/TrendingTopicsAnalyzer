@@ -1,0 +1,7 @@
+BetterData taps the blockchain to help create better synthetic data
+techcrunch.com
+tech
+2022-10-19 22:13:41
+
+As the global data privacy regulatory landscape gets more convoluted and constrictive, engineering teams looking to use structured data to improve their products and AI models are being pushed to jump through plenty of hoops to stay compliant.
+BetterData, which is launching onstage at the TechCrunch Disrupt SF Battlefield startup competition, is aiming to help customers quickly generate representative, synthetic structured data so that technical teams can work with data in a compliant way without waiting for months to gain clearance to use actual user data or generate their own.

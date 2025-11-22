@@ -1,0 +1,6 @@
+BGI Releases 1st Panoramic Atlases of Life
+apnews.com
+science
+2022-06-02 08:02:35
+
+SHENZHEN, China--(BUSINESS WIRE)--Jun 2, 2022--International scientists led by China's BGI•Research released the world's first panoramic spatial atlases of life on May 4, examining the cellular dynamics of organisms at different developmental stages and providing potentially significant new information for disease treatment, development and aging, and an improved understanding of biological evolution.In a series of studies published in Cell Press journals, members of the Spatio-Temporal Omics Consortium (STOC), an international scientific consortium, used the BGI-developed spatially resolved transcriptomics technology Stereo-seq to produce spatio-temporal cellular maps of mice, Drosophila, zebrafish and the Arabidopsis (thale cress) plant.

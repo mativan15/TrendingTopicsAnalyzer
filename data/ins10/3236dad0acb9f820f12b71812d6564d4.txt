@@ -1,0 +1,35 @@
+Application of Artificial Neural Networks for Predicting the Impact of Tractor Speed on Soil Compaction Using Penetrologger Test Results
+Creative Commons Attribution (CC-BY)
+science
+2022-06-02 00:00:00
+
+Open AccessArticle by
+ 1,2, 1,*, 3, 4, 5, 6, 2, 2 and 1 
+
+
+1
+Higher Institute of Agricultural Sciences, University of Sousse, Chott Meriem 4042, Tunisia
+
+
+2
+Department of Environment—UNESCO Chair on Eremology, University of Ghent, 9000 Ghent, Belgium
+
+
+3
+Department of Engineering and Chemical Sciences, Karlstad University, 65188 Karlstad, Sweden
+
+
+4
+Higher School of Engineers, University of Jendouba, Medjez El Bab 9070, Tunisia
+
+
+5
+CESAM—GRASP, Institute of Physics, University of Liege, Building B5a, Sart Tilman, 4000 Liege, Belgium
+
+
+6
+TERRA Teaching and Research Centre, Biosystems Dynamics and Exchanges (BioDynE), Gembloux Agro-Bio Tech, University of Liege, 5030 Gembloux, Belgium
+
+
+*
+Author to whom correspondence should be addressed.

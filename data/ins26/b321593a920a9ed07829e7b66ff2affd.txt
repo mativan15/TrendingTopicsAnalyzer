@@ -1,0 +1,7 @@
+Adobe's AI prototype pastes objects into photos while adding realistic lighting and shadows
+techcrunch.com
+tech
+2022-10-19 13:00:29
+
+Every year at Adobe Max, Adobe shows off what it calls 'Sneaks,' R&D projects that might — or might not — find their way into commercial products someday. This year is no exception, and lucky for us, we were given a preview ahead of the conference proper.
+Project Clever Composites (as Adobe's calling it) leverages AI for automatic image compositing. To be more specific, it automatically predicts an object's scale, determining where the best place might be to insert it in an image before normalizing the object's colors, estimating the lighting conditions and generating shadows in line with the image's aesthetic.

@@ -1,0 +1,13 @@
+Enterprises Over-spending by More Than $8.75 Million on Cloud Services, Couchbase Research Finds
+prnewswire.com
+news
+2022-06-02 13:00:00
+
+Couchbase survey of senior IT leaders finds enterprises over-spent by $8.75M+ on cloud services.
+
+Tweet this
+
+
+
+Cloud services are not meeting expectations, and are adding to complication and cost: More than one third (36%) of enterprises said cloud services adopted in the last three years had not met expectations, while 56% said past cloud decisions had made digital transformation projects more difficult in 2021, and 48% more expensive.
+Contributors to overspending: The factors adding to costs included not having enough insight into spend or ways to optimize costs; the need to improve security and compliance functionality; inflexible pricing plans that don't give enterprises what they need in a single package; management tools that don't give the control needed; data not being stored where needed to meet regulatory or performance requirements; and vendor lock-in, meaning enterprises cannot use the specific cloud infrastructure they want.

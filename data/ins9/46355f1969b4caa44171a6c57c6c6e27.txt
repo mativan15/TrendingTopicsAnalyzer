@@ -1,0 +1,14 @@
+DeFi Exchange Mango's $114M Exploit Was 'Market Manipulation,' Not a Hack, Ex-FBI Special Agent Says
+yahoo.com
+news
+2022-10-20 18:22:51
+
+The $114 million in funds siphoned out of decentralized crypto exchange (DEX) Mango Markets wasn't the result of a hack, according to former FBI Special Agent Chris Tarbell.
+
+Tarbell, who previously worked at the FBI's cybercrime squad in New York, told CoinDesk TV's 'First Mover' the exploit of Mango Market was 'more of a market manipulation.'
+
+'This wasn't [about] getting into a system and getting unauthorized access,' Tarbell said, referring to the strategy used by the illicit actors.
+
+Read more: Solana-Based Decentralized Finance Platform Mango Hit by $100 Million Exploit
+
+Earlier this month, exploiters manipulated Mango's native token, MNGO, via the use of smart contract protocol loopholes.

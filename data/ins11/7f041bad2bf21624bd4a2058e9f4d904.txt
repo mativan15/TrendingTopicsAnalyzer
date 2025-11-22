@@ -1,0 +1,6 @@
+How to record screen in Windows 10
+Copyright:(C)2022 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html
+economics
+2022-10-21 10:37:15
+
+Did you know that Windows 10 has a tool to record your screen called Xbox Game Bar? You may use it to get a video record of your movements in any Windows software on your system, even if you want to capture games or produce a Microsoft Office tutorial for someone. To make things easier, we've described a few straightforward steps for recording your screen in Windows 10. • Launch the app that you wish to record. Unfortunately, the screen recorder tool is unable to capture specific programs, such as File Manager or the complete desktop, but it does function with typical desktop apps.

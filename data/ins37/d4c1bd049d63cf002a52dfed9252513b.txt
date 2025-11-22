@@ -1,0 +1,6 @@
+The features required for compliance and security in a hybrid cloud
+techradar.com
+tech
+2022-10-17 12:43:00
+
+With employees already using the cloud for productivity and many business apps like SalesForce or QuickBooks etc based in the cloud, it's no surprise that many businesses are embracing the cloud. But embracing the cloud doesn't mean abandoning the private data centre.We are seeing traditional IT transform to Hybrid IT and with that comes certain complexities, namely compliance, security and authentication. So what features are required from a hybrid cloud solution to ensure your organisation is compliant and protected?The transformation from traditional IT to Hybrid IT is well on the way and it's not hard to see why.

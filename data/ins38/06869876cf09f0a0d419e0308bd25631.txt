@@ -1,0 +1,8 @@
+Is Datadog, Inc. (NASDAQ:DDOG) Trading At A 45% Discount?
+yahoo.com
+news
+2022-06-03 10:13:26
+
+Does the June share price for Datadog, Inc. (NASDAQ:DDOG) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by taking the forecast future cash flows of the company and discounting them back to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

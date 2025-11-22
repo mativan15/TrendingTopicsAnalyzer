@@ -1,0 +1,7 @@
+Council Post: Enterprises Are Deploying Business-Critical Applications In The Cloud: What You Need To Know
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 13:30:00
+
+Steve Mullaney is CEO at Aviatrix, a pioneer in Intelligent Cloud Networking and a recognized leader in network infrastructure.
+getty The transformation of the enterprise computing model to the cloud has now—finally—begun. More than eight years ago, every enterprise I talked to said they would never go to the cloud. Ever. They said it was too expensive, not secure enough and so on. I laughed and thought, 'Isn't it funny that they think they aren't going to the cloud? They are; they just don't know it yet.

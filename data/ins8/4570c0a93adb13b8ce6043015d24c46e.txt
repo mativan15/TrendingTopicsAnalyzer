@@ -1,0 +1,6 @@
+Microsoft announces new ‘family' of identity and access management tools
+venturebeat.com
+news
+2022-05-31 13:00:00
+
+We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Today, Microsoft announced the launch of Entra, a new product family of identity and access management solutions. The family includes existing tools like Azure AD alongside two new product categories; Cloud Infrastructure Entitlement Management (CIEM) and Decentralized Identity.  For users, Entra product family is designed to protect access to any app or resource by enabling security teams to discover and manage permissions in multicloud environments so they can secure digital identities from end-to-end.

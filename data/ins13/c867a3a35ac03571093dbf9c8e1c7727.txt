@@ -1,0 +1,8 @@
+Is Sigma Healthcare Limited (ASX:SIG) Trading At A 39% Discount?
+yahoo.com
+news
+2022-06-06 02:16:14
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Sigma Healthcare Limited (ASX:SIG) as an investment opportunity by taking the expected future cash flows and discounting them to today's value. We will use the Discounted Cash Flow (DCF) model on this occasion. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

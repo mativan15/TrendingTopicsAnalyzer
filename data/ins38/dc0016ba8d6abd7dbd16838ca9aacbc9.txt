@@ -1,0 +1,7 @@
+Apple says App Store stopped fraudulent transactions worth $1.5 billion
+indianexpress.com
+news
+2022-06-02 11:58:20
+
+Apple released their second annual fraud prevention analysis which says that it protected customers from nearly $1.5 billion in potentially fraudulent transactions, while also stopping 1.6 million risky and vulnerable app updates from affecting users. The company states that it has many processes that continuously monitor its App Store to reduce fraud.
+The company states that it prevented more than 3.3 million stolen cards from being used and that it banned nearly 600,000 accounts from transacting again.

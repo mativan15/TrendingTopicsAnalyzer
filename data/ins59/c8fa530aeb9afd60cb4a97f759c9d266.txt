@@ -1,0 +1,16 @@
+Inequality in the United States
+slideshare.net
+news
+2022-06-01 15:23:40
+
+1. US Inequality
+along numerous dimensions
+Gaetan Lion, June 1, 2022 2. Introduction
+Objective
+Studying trends in US inequality along several social dimensions including education, ethnicity, percentiles,
+and work status.
+We don't explore gender because it is not disaggregated within the mentioned data that focuses on
+families (fairly similar to households).
+Data source
+US Government Survey of Consumer Finance (SCF) data. The SCF aggregates financial data on US families
+every three years. And, it discloses a time series from 1989 to 2019.

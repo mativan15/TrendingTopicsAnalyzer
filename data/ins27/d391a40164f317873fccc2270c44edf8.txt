@@ -1,0 +1,6 @@
+Demand for local and resilient cloud capabilities keeps growing: Here's how Microsoft is bringing more options to Australia and New Zealand
+microsoft.com
+news
+2022-10-16 16:51:16
+
+'The Cloud' plays an increasingly significant role in our lives – enabling remote work and learning, global collaboration, business continuity, supporting discovery and innovation, and importantly, powering critical life and safety services. Today we're outlining additional cloud infrastructure investments Microsoft is making to ensure organisations of all sizes in Australia and New Zealand can continue to transform their business operations and accelerate the pace of innovation. This includes upcoming availability of Azure Availability Zones (AZs) in our Australia Southeast (Melbourne) and New Zealand North (Auckland) datacenter regions, to support additional services and higher reliability.

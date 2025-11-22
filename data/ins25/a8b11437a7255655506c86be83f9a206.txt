@@ -1,0 +1,7 @@
+Google Chrome is getting way more useful for Android tablets
+digitaltrends.com
+news
+2022-10-18 17:00:15
+
+Google today announced the release of its redesign for the Chrome app on Android tablets. After long being neglected on the big screen, especially in comparison to Apple's or Samsung's browsers, Google says it'll be rebuilding the browser to help you get work done faster with a tablet or other large-screened device.
+These updates can be broken down into design and functionality improvements, and we'll be kicking things off with the redesign. The first change adds a new side-by-side design when using Chrome paired with another app.

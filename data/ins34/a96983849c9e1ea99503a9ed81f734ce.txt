@@ -1,0 +1,8 @@
+3 Strategies for Developing More-Accessible Software
+hbr.org
+news
+2022-06-01 12:15:38
+
+Leer en español Ler em português
+
+The U.S. General Services Administration recently released its Equity Action Plan, specifying a focus on accessibility beyond the bare minimum for all digital government services. This move from a federal agency signals to businesses that they'll need to follow suit and strive for accessibility that exceeds basic inclusive changes. But going above the bare minimum demands a different mindset from developers. Many of the people who are tasked with re-envisioning the bar for accessibility rely too heavily on a small set of tools that give them tunnel vision when building.

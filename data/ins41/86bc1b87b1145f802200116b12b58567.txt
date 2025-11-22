@@ -1,0 +1,6 @@
+UK Discusses Blackout Planning With Data Center Operators
+bnnbloomberg.ca
+news
+2022-10-17 14:58:48
+
+(Bloomberg) -- UK government officials held detailed discussions with some of the biggest data center operators about ways to keep those businesses running through any potential power shortages in coming months, according to people familiar with the matter.The talks focused on allocating diesel for backup generators if Britain's energy infrastructure operator, National Grid Plc, needed to cut power, the people said, asking not to be named because the discussions are private. The sides also discussed whether data centers should be considered critical national infrastructure.

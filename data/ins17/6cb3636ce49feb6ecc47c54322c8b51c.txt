@@ -1,0 +1,6 @@
+Hightouch Adds dbt Code Checks to its Data Activation Platform
+prnewswire.com
+news
+2022-10-18 10:00:00
+
+dbt code checks gives analytics engineers peace of mind that model changes won't break downstream Hightouch syncs, further bolstering marketing-leading dbt integrations that activate modeled data into over 100 SaaS toolsNEW ORLEANS, Oct. 18, 2022 /PRNewswire/ -- Today, at the annual dbt Coalesce conference, Hightouch, the Data Activation platform, announced dbt code checks, the company's latest integration with dbt Labs. Now, as users update their dbt models in GitHub, they are proactively notified of any potential breaking changes to downstream Hightouch syncs, giving them the guardrails and visibility needed to empower more teams with data.

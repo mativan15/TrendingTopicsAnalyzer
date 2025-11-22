@@ -1,0 +1,9 @@
+Q&A: The benefits of SD-WAN and its future in the market
+techradar.com
+tech
+2022-10-17 13:24:15
+
+(Image credit: Shutterstock)
+
+
+SD-WAN is the 'Netflix of Networks', capable of transforming infrastructure and bringing greater power and control to network managers. Andrew Halliwell, product director at Virgin Media Business, talks more about what exactly it is and how it's creating commercial opportunities for businesses.SD-WAN is ‘The Netflix of Networks'. It's a cloud-ready service designed to support next-generation networking. It provides essential tools that enable large organisations to access cloud data, applications and software - such as Office 365 - from multiple locations.

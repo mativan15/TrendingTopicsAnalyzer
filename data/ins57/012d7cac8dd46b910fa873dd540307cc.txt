@@ -1,0 +1,6 @@
+Russia-Linked Ransomware Groups Are Changing Tactics to Dodge Crackdowns
+wsj.com
+news
+2022-06-02 14:00:00
+
+Russia-linked ransomware groups are splitting into smaller cells or cycling through different types of malware in attempts to evade a growing array of U.S. sanctions and law-enforcement pressure, cybersecurity experts say.After the U.S. in 2019 sanctioned a Russia-based group known as Evil Corp, which Washington accused of stealing over $100 million from more than 300 banks, hackers believed to be affiliated with the gang switched its operating model, according to a report published Thursday by security firm Mandiant Inc.

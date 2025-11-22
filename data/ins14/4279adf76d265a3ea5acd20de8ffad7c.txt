@@ -1,0 +1,8 @@
+Ransomware attack sends New Jersey county back to 1977
+theregister.com
+news
+2022-05-29 23:36:13
+
+In brief Somerset County, New Jersey, was hit by a ransomware attack this week that hobbled its ability to conduct business, and also cut off access to essential data.
+"Services that depend on access to county databases are temporarily unavailable, such as land records, vital statistics, and probate records. Title searches are possible only on paper records dated before 1977," the county said in a statement.
+The attack, which happened on Tuesday, took down email services for county government departments as well as leaving the county clerk's office "unable to provide most services which are reliant on internet access.

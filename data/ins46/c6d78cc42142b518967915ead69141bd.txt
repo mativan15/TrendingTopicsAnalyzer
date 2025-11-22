@@ -1,0 +1,10 @@
+Tufin Expands Security Policy Automation Capabilities for Hybrid Cloud Environments
+Copyright 2022, Business Wire.
+tech
+2022-06-01 12:00:00
+
+June 01, 2022 08:00 AM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Tufin® (NYSE: TUFN), a company pioneering a policy-centric approach to security and IT operations, today announced the release of Tufin Orchestration Suite R22-1, enabling users to increase their security posture by gaining visibility and control of Azure Firewall policies. The release also features new capabilities that reduce risk and increase security and compliance across the hybrid environment.
+
+
+
+'Our latest release is a testament to our belief that a centralized, automated security policy solution can deliver security with agility in a hybrid multi-cloud world,' said Yoram Gronich, SVP of Products and Engineering, Tufin.

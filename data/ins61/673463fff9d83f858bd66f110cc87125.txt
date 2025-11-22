@@ -1,0 +1,6 @@
+Zapier extends its automation service with first-party database and UI tools
+techcrunch.com
+tech
+2022-10-20 20:00:50
+
+For the longest time, Zapier, which launched in 2011, was content with helping its users automate simple workflows and build integrations between various business-critical tools. That's been a great business for the company, but users today expect a bit more, and over the course of the last couple of years, the company decided it was time to expand its product portfolio. The first of these new products was Transfer, a tool for moving data between apps, which launched last October.  Today, at its ZapConnect conference, it's taking the next step in this journey with the launch of Zapier Tables and Interfaces, a database service and a UI builder for allowing end users to interact with existing Zapier workflows.

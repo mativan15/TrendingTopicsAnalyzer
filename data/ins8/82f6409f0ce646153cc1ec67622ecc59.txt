@@ -1,0 +1,9 @@
+Syniti announces Syniti Match release for efficient, AI-driven data matching
+techrepublic.com
+news
+2022-10-20 16:50:33
+
+Image: stnazkul/Adobe Stock
+On October 19th, Syniti, the global enterprise data management solutions provider, announced an upcoming release for data quality management: Syniti Match. The upcoming data matching release is an AI-powered solution that promises to support both party and operational data in deduplication efforts. Read on to learn about the highlights of this release and how it could benefit your organization's data operations.
+Jump to: Fast facts about Syniti Match
+Syniti Match is a cloud-native, AI-powered software solution that offers users a variety of features to automate and simplify the data matching process.

@@ -1,0 +1,8 @@
+Karakurt Team hits North America and Europe with data theft and extortion
+techrepublic.com
+news
+2022-06-03 16:49:13
+
+A new joint Cybersecurity Advisory (CSA) has been issued by the Federal Bureau of Investigation (FBI), the Cybersecurity and Infrastructure Security Agency (CISA), the Department of the Treasury (Treasury) and the Financial Crimes Enforcement Network (FinCEN) to raise awareness and provide information about the Karakurt Data Extortion Group.
+Who is the Karakurt Data Extortion Group?
+The Karakurt Data Extortion Group, also known as Karakurt Team and Karakurt Lair, is a threat actor threatening companies to publicly disclose internal stolen data unless they receive payment of a ransom, which ranges from $25,000 USD to $13,000,000 USD in Bitcoin (BTC), within a week.

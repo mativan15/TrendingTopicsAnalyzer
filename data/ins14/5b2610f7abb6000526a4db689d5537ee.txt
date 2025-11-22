@@ -1,0 +1,6 @@
+microsoft: How Microsoft 'saved' Android users from this big security flaw
+gadgetsnow.com
+tech
+2022-06-02 07:15:00
+
+Security flaws and vulnerabilities are found in almost every software and operating system. A big one was recently found on Android and it was Microsoft that stepped in to warn Google and ‘save' Android users from being exposed to hackers. In a blog post, Microsoft explained that it found, 'high-severity vulnerabilities in a mobile framework owned by mce Systems and used by multiple large mobile service providers in pre-installed Android System apps that potentially exposed users to remote (albeit complex) or local attacks.

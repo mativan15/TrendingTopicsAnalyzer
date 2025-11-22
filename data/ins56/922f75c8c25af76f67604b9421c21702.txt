@@ -1,0 +1,6 @@
+Bitcoin miners are feeling the heat as the network's mining difficulty reaches an all-time high
+cnbc.com
+news
+2022-10-17 15:05:29
+
+Bitcoin's mining difficulty rose to an all-time high last week for the second time in a month, which is great for the health of the network but has been putting pressure on crypto miners. It now requires 35.6 trillion hashes to mine one bitcoin. That's about 13.55% higher than the previous difficulty adjustment two weeks ago and the highest adjustment in more than a year, CryptoQuant. The difficulty algorithm is programmed in the Bitcoin code to stabilize the network by ensuring each coin is mined at a steady pace of 10 minutes.

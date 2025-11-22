@@ -1,0 +1,6 @@
+Energous Partners with NGK to Enable Maintenance-free IoT Applications via Wireless Power Networks
+Copyright 2022, Business Wire.
+tech
+2022-10-17 10:00:00
+
+October 17, 2022 06:00 AM Eastern Daylight Time SAN JOSE, Calif. & NAGOYA, Japan--(BUSINESS WIRE)--Energous Corporation (NASDAQ: WATT), a leading developer of RF-based charging for wireless power networks, and NGK INSULATORS, LTD ('NGK') — one of the world's leading battery manufacturers — today announced a partnership to develop solutions that combine Energous' WattUp technology with NGK's lithium-ion rechargeable EnerCera® battery to enable maintenance-free IoT devices such as sensors and tracking devices supporting the growing IoT ecosystem.

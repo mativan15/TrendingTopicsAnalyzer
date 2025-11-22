@@ -1,0 +1,7 @@
+LatchBio empowers scientists with a code-free platform for handling big biotech data – TechCrunch
+techcrunch.com
+news
+2022-06-02 20:26:29
+
+Biologists and other scientists are confronted these days with a deep sea of data and a bewildering panoply of tools to apply to it — many of which require a specialist to operate. Hiring one is a challenge and farming out the work may take months… but LatchBio offers an option that can have you running your data through AlphaFold and other top-tier tools in seconds. The company just raised $28 million to build out its increasingly relevant platform.
+Fundamentally, the issue is just that scientists are not all data scientists.

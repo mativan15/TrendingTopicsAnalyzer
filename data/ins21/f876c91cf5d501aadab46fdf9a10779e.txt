@@ -1,0 +1,6 @@
+The Download: Starlink's satellite signals, and joyless tech
+technologyreview.com
+tech
+2022-10-21 12:10:00
+
+For years, Todd Humphreys has been trying to persuade SpaceX to tweak its Starlink constellation to also offer ultra-precise position, navigation, and timing—creating a new system that could act as a backup to the US Army's vulnerable GPS system.Despite Elon Musk's insistence that the company avoid distractions by assisting Humphreys' proposal, Humphreys persisted.Now, without Starlink's help, Humphreys claims to have provided the most complete characterization of its signals to date. This information, he says, is the first step toward developing a new global navigation technology that would operate independently of GPS or its European, Russian, and Chinese equivalents.

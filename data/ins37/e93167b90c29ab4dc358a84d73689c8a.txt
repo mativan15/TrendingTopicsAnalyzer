@@ -1,0 +1,10 @@
+Open Source Tamper-Proof Database immudb First to Deliver Automatic Data Versioning and Querying, Helping Recover from Ransomware Attacks
+Copyright 2022, Business Wire.
+tech
+2022-06-01 16:28:00
+
+June 01, 2022 12:28 PM Eastern Daylight Time HOUSTON--(BUSINESS WIRE)--immudb, the first and only open source enterprise-class database with data immutability at scale, today added automatic data versioning with extensive querying capabilities, an industry first, along with new levels of support, as well as a 40% performance improvement.
+
+
+
+'With the new automatic data versioning, it's now possible to query data revisions at any time to see the history of changes and recover data instantly with a simple command,' said Jeronimo Irazabal, immudb project manager.

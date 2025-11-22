@@ -1,0 +1,6 @@
+Texas SUES Google for using millions of residents' biometric data
+dailymail.co.uk
+news
+2022-10-20 20:46:29
+
+Published: 16:46 EDT, 20 October 2022 | Updated: 16:46 EDT, 20 October 2022 Google is being sued by the state of Texas for using biometric data, like facial and voice recognition, of millions of residents without consent since 2015 'for its own commercial interests.'The lawsuit, filed by Ken Paxton, Attorney General of Texas, claims the tech giant used these markers to train deep neural networks that power some of its highest revenue generator products, like its Google Photos app, Nest Hub Max and Google Assistant.

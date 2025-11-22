@@ -1,0 +1,6 @@
+How Multi-Agent Reinforcement Learning is developing part2(Artificial Intelligence)
+medium.com
+news
+2022-10-21 07:06:58
+
+Photo by Vadim Sadovski on UnsplashCentralized Training with Hybrid Execution in Multi-Agent Reinforcement Learning(arXiv)Author : Pedro P. Santos, Diogo S. Carvalho, Miguel Vasco, Alberto Sardinha, Pedro A. Santos, Ana Paiva, Francisco S. MeloAbstract : We introduce hybrid execution in multi-agent reinforcement learning (MARL), a new paradigm in which agents aim to successfully perform cooperative tasks with any communication level at execution time by taking advantage of information-sharing among the agents.

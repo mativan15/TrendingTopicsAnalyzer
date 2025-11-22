@@ -1,0 +1,10 @@
+Kingston Digital Releases Latest Hardware-Encrypted USB Drive for Data Security
+Copyright 2022, Business Wire.
+tech
+2022-05-31 13:08:00
+
+May 31, 2022 09:08 AM Eastern Daylight Time FOUNTAIN VALLEY, Calif.--(BUSINESS WIRE)--Kingston Digital, Inc., the Flash memory affiliate of Kingston Technology Company, Inc., a world leader in memory products and technology solutions, today announced the release of its latest encrypted USB drive, IronKey Vault Privacy 50 (VP50) with FIPS 197 certification and AES 256-bit hardware-encryption in XTS mode for data security.
+
+
+
+Kingston IronKey Vault Privacy 50 supports Admin, User, and One-Time Recovery passwords with Complex or Passphrase modes.

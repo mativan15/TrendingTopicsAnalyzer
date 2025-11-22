@@ -1,0 +1,6 @@
+Coinbase users scammed out of $21M in crypto sue company for negligence
+arstechnica.com
+news
+2022-10-17 22:04:00
+
+Last fall, scammers infiltrated social platforms like dating apps, WhatsApp, Facebook, and Twitter, attempting to convince people to download Coinbase Wallet. Once the targeted users downloaded the wallet, the scammer would then send links to fraudulent websites, prompting users to purchase a 'voucher' that seemed like a safe transaction protected and facilitated by Coinbase's trusted platform, but was 'actually a malicious smart contract.' Horrified users eventually discovered the smart contract gave 'the scammers complete access to the entire funds in the victim's wallets' without requiring authorizations to withdraw funds.

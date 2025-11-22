@@ -1,0 +1,10 @@
+Private browser DuckDuckGo found to actually be tracking users
+metro.co.uk
+news
+2022-05-27 10:10:57
+
+When it comes to browsing the web, it's pretty much a given that everything you do is being tracked.
+Which is why DuckDuckGo has won a legion of fans for its privacy-focused browsing experience.
+The company offers desktop browsers as well as versions for iOS and Android that don't track your searches for ad targeting.
+Unfortunately, that doesn't seem to be the whole truth.
+Privacy researcher Zach Edwards has managed to upend the company's claim of users being able to ‘search the web without being tracked' with a deep-dive into an agreement it holds with tech giant Microsoft.

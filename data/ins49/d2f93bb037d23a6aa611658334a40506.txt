@@ -1,0 +1,7 @@
+Report shows that Safari reaches one billion worldwide users, still behind Google Chrome – TechCrunch
+techcrunch.com
+business
+2022-06-01 16:21:04
+
+Based on a recent report, Apple's Safari finally hit one billion users, becoming the second browser to hit the milestone, next to Google Chrome which still shines brighter in popularity. According to Atlas VPN, 1,006,232,879 internet users (19.16% of all internet users) currently use the Safari browser. Meanwhile, Google Chrome has three times more, with a whopping 3,378,967,819 users. Microsoft Edge sits in third place with about 212,695,000 users.
+Atlas VPN's findings are based on the GlobalStats browser market share percentage, which was converted into numbers using the Internet World Stats internet user metric to retrieve the precise numbers.

@@ -1,0 +1,6 @@
+How to Choose the Right Investors With So Much Changing, So Fast in Security
+entrepreneur.com
+news
+2022-05-31 19:30:00
+
+Opinions expressed by Entrepreneur contributors are their own. When Netskope was founded in 2012, my co-founders and I made a bet that the cloud would change everything faster than most businesses anticipated. It was also clear that security would fall woefully behind if it wasn't re-imagined for a cloud-first era that prioritized the protection of every organization's two most important assets: its people and its data.Fast forward to today, and we have been fortunate to grow Netskope into an acknowledged leader in what's now known as Security Service Edge (SSE), or the set of security services needed to enable every enterprise's successful journey to the cloud and an environment where team members work and access data from pretty much anywhere.

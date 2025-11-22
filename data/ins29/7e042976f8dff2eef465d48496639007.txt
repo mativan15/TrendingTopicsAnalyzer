@@ -1,0 +1,6 @@
+Tired of laundry folding? AI breaks the robot folding speed record
+arstechnica.com
+news
+2022-10-19 19:48:00
+
+Enlarge / An ABB industrial robot folding a shirt using AUTOLAB's new "SpeedFolding" method. While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding. Using machine vision, a neural network called BiManual Manipulation Network (BiMaMa-Net), and a pair of industrial robot arms, SpeedFolding can fold 30–40 randomly positioned garments per hour, usually finishing each within two minutes.

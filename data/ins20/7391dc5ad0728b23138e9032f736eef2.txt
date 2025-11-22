@@ -1,0 +1,6 @@
+Rax.bg Announced Business Continuity Cloud Server Hosting
+apnews.com
+tech
+2022-06-02 07:16:58
+
+Sofia, Sofia-Capital, Bulgaria - June 2, 2022 —The cloud infrastructure provider RAX (Rax.bg) announced a Business Continuity Cloud Servers to help small and medium businesses eliminate any interruption of website or applications services and web content delivery, as a result of an infrastructure or OS downtime. The RAX business continuity Cloud service is called 'Failover Cloud'. It applies to Cloud services, Shared Hosting, Dedicated Server Hosting, and custom Colocation services.The Failover Cloud services are available in RAX virtual data centers based out of Frankfurt, Germany; London, UK; New York, United States, Singapore and Sofia, Bulgaria.

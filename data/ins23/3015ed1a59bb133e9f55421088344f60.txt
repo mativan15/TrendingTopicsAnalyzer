@@ -1,0 +1,6 @@
+How to ensure your automation software lives up to the hype
+techradar.com
+news
+2022-10-17 14:19:54
+
+Recently considered a distant dream, automation has become a reality in many businesses across the world. Since it offers to improve efficiency and add value in business areas that previously involved highly manual processes, process automation is increasingly sought after. According to Gartner (opens in new tab), businesses across the world will be spending $2.4 billion introducing automation software to their organisations by 2022.One area where automation is adding value is in finance teams. It is becoming well established in areas such as purchase to pay (P2P), where it is used to reduce manual strain in invoice management and procurement.

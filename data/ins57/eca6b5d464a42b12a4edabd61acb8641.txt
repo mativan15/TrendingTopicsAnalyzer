@@ -1,0 +1,6 @@
+One RTX 4090 design includes a built-in bubble level
+pcworld.com
+news
+2022-10-17 17:23:41
+
+The Nvidia GeForce RTX 4090 is, if you'll forgive me for using dense tech industry jargon, a great big stomping Heffalump of a graphics card. The thing is so big you might just need a new PC case to install it, which makes sense because even the biggest PCs aren't designed to have something the size of a modern game console hanging off their PCIe ports. While we've seen a couple of OEM designs with built-in support brackets, one manufacturer takes it to the next step by including something more often seen in a construction yard.

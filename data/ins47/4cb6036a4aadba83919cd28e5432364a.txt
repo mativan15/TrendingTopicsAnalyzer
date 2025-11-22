@@ -1,0 +1,8 @@
+Ultima Genomics claims $100 full genome sequencing after stealth $600M raise
+yahoo.com
+news
+2022-05-31 21:25:19
+
+The appetite for genomic data continues to rise in the field of biotech and pharmaceutical research, but cost is still a factor even sequencing a full genome now costs as little as $1,000. But with claims of reducing that cost by another order of magnitude to $100, Ultima Genomics may even further accelerate this economy.
+
+Ultima says that its sequencing machine and software platform, the UG 100, can perform a complete sequencing of a human genome in about 20 hours, with precision comparable to existing options, but does so at a far lower cost per "gigabase," which is to say per million base pairs of DNA analyzed.

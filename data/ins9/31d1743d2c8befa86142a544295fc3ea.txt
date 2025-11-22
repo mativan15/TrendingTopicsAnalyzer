@@ -1,0 +1,6 @@
+Bluesky built a decentralized protocol for Twitter — and is working on an app that uses it
+theverge.com
+news
+2022-10-19 13:39:02
+
+Bluesky, the project started within Twitter to create a decentralized social network, announced it's getting closer to actually shipping an app. 'Closer' is the operative word here, though. Bluesky only announced that it is building an app, that it'll be called Bluesky, and that it will 'be a portal to the world of possibility on top of the AT Protocol.' We still don't have a release date, a feature list, or much of anything else.The AT Protocol is the real news for Bluesky. The whole idea behind the project was to separate social apps and social networks — to let people use the same back end and data but build and use their own apps on top of it.

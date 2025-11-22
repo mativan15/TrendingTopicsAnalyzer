@@ -1,0 +1,10 @@
+Amazon blocks MILLIONS from purchasing Kindle eBooks
+thesun.co.uk
+news
+2022-06-03 15:55:10
+
+AMAZON is shaking up its payment model for Android users.
+Android fans may have noticed a halt in transactions while using select apps from the Amazon family.
+Google wants a cut of Amazon's revenue from digital purchases made on AndroidCredit: Getty Images - Getty
+Users can no longer buy e-books, audiobooks or music from within the Kindle, Audible or the Amazon music app.
+Google made a change to its policy that forces developers to process in-app purchases of "digital goods and services" through the Google Play Store.

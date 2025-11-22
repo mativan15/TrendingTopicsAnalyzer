@@ -1,0 +1,8 @@
+Critical flaw found inside the UNISOC smartphone chip
+techrepublic.com
+news
+2022-06-02 10:00:59
+
+Image: Fxquadro/Adobe Stock
+Check Point Research has identified what it is calling a critical security vulnerability in UNISOC's smartphone chip, which is responsible for cellular communication in 11% of the world's smartphones. The vulnerability was found in the UNISOC modem firmware and not in the Android OS itself, the company said.
+UNISOC, formerly Spreadtrum Communications, is a Shanghai-based semiconductor company that produces chipsets for mobile devices and smart TVs. Left unpatched, an attacker could exploit the vulnerability to remotely deny modem services and block communications.

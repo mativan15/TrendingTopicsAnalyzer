@@ -1,0 +1,13 @@
+Clearview AI's Facial Recognition Tool Coming to Apps, Schools
+acm.org
+news
+2022-05-31 22:00:00
+
+Newer facial recognition systems match people to ID photos and other data collected with subjects' permission.
+Credit: Reuters
+
+
+
+Clearview AI said it is expanding sales of its facial recognition software to companies outside of law enforcement.
+Regulatory probes are threatening Clearview's business from helping police identify people using social media images, while the settlement of an American Civil Liberties Union (ACLU) lawsuit bans sales of this capability to corporate clients.
+Clearview's new private-sector service matches people to ID photos and other data collected with subjects' consent, in order to authenticate identities for physical or digital access.

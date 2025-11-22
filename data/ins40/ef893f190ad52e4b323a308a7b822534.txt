@@ -1,0 +1,8 @@
+Google pressing RCS adoption with latest Messages update
+techradar.com
+tech
+2022-10-20 21:12:54
+
+(Image credit: Google)
+
+ Google is updating its Messages app by adding new organizing features and multimedia support in a new effort to push the RCS protocol.RCS (Rich Communication Service) is a communication standard that aims to replace the old SMS (Short Message Service) protocol.  The more modern standard allows for "richer text features," higher quality content, and end-to-end encryption for better security, according to Google (opens in new tab). And that's pretty much what users will be getting in this update, though app security won't see any improvements.

@@ -1,0 +1,8 @@
+First Week of ETSY July 22nd Options Trading
+nasdaq.com
+news
+2022-06-03 10:57:00
+
+Investors in Etsy Inc (Symbol: ETSY) saw new options become available this week, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the ETSY options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $83.00 strike price has a current bid of $8.00. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $83.00, but will also collect the premium, putting the cost basis of the shares at $75.

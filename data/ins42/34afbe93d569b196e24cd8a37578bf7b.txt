@@ -1,0 +1,6 @@
+Oracle, Nvidia team up to boost artificial intelligence adoption in enterprise (NYSE:ORCL)
+seekingalpha.com
+finance
+2022-10-18 16:17:54
+
+Justin Sullivan Oracle (NYSE:ORCL) and Nvidia (NASDAQ:NVDA) said on Tuesday they were expanding an existing partnership in an effort to boost artificial intelligence adoption in the enterprise. The new multi-year deal will see Oracle (ORCL) add "tens of thousands" of Nvidia (NVDA) GPUs, including the A100 and upcoming H100, to its existing cloud capacity. Oracle (ORCL) Chief Executive Safra Catz described the expanded deal as a way to use both companies expertise to "help customers across industries – from healthcare and manufacturing to telecommunications and financial services – overcome the multitude of challenges they face.

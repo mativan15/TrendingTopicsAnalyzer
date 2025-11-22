@@ -1,0 +1,41 @@
+Spatio-Temporal Variability of the Impact of Population Mobility on Local Business Sales in Response to COVID-19 in Seoul, Korea
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ 1, 2, 1 and 3,* 
+
+
+1
+Department of Geoinformatics, Seoul National University, Seoul 08826, Korea
+
+
+2
+Center for Educational Research, Seoul National University, Seoul 08826, Korea
+
+
+3
+Department of Geography Education, Catholic Kwandong University, Gangneung 25601, Korea
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Godwin Yeboah and Wolfgang Kainz
+
+ISPRS Int. J. Geo-Inf. 2022, 11(10), 532; https://doi.org/10.3390/ijgi11100532 (registering DOI)
+
+
+Received: 26 August 2022
+/
+Revised: 10 October 2022
+/
+Accepted: 17 October 2022
+/
+Published: 20 October 2022
+ 
+
+Social distancing is an effective method for controlling the COVID-19 pandemic by decreasing population mobility, but it has also negatively affected local business sales.

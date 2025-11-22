@@ -1,0 +1,6 @@
+The Folks Jack Dorsey Tapped to Make a ‘Decentralized' Social Platform Now Have a Beta
+gizmodo.com
+news
+2022-10-19 15:05:00
+
+The team of crypto-nascent developers originally tapped by Twitter co-founder Jack Dorsey now have a blockchain-based social media platform in the works. Based on the company's descriptions it's certainly idealistic, as long as you can parse through all the blockchain jargon to find the kernel of actual ideas underneath.Bluesky, which was founded back in 2019, announced Tuesday they were launching the so-called Bluesky Social app 'soon' and put out a call for people to join a closed beta. At the same time, the team shared details of its underlying AT Protocol, an independent 'decentralized' framework for the social system which the team called a 'federated network.

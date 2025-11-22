@@ -1,0 +1,6 @@
+ADRs End Mixed; Gold Fields, Unilever Trade Actively
+marketwatch.com
+news
+2022-05-31 20:25:00
+
+By Kathryn Hardison International stocks trading in New York closed mixed on Tuesday. The S&P/BNY Mellon index of American depositary receipts fell almost 0.1% to 149.64. The European index fell 0.2% to 141.77, the Asian index improved 0.5% to 175.83, the Latin American index fell 1.07% to 214.94 and the emerging markets index increased almost 0.6% to 302.48. Gold Fields Ltd. and Unilever PLC were among the companies with ADRs that traded actively. ADRs of Gold Fields fell almost 23% to $9.43 after the South African gold mining firm said it will acquire Canada's Yamana Gold for $6.

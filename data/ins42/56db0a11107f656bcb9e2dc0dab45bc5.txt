@@ -1,0 +1,8 @@
+Lufthansa Changes Mind, Now Says Apple AirTags Are Allowed on Luggage
+Copyright 1997-2016, SlashdotMedia. All Rights Reserved.
+news
+2022-10-15 03:30:00
+
+Apple AirTags "are allowed on Lufthansa flights," Lufthansa announced this week — the opposite of their position last Sunday, remembers SFGate:
+The airline insisted the tech was "dangerous" and referred to International Civil Aviation Organization guidelines (set by the United Nations's specialized agency that recommends air transport policy) stipulating that baggage trackers are subject to the dangerous goods regulations. ["Furthermore, due to their transmission function, the trackers must be deactivated during the flight if they are in checked baggage," Lufthansa added on Twitter, "and cannot be used as a result"] Ars Technica reports on the public relations debacle that then ensued:
+Outcry, close reading of the relevant sections (part 2, section C) of ICAO guidelines, and accusations of ulterior motives immediately followed.

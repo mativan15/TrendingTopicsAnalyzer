@@ -1,0 +1,37 @@
+Effect of Pre-Existing Micro-Defects on Cutting Force and Machined Surface Quality Involved in the Ball-End Milling Repairing of Flawed KDP Crystal Surfaces
+Creative Commons Attribution (CC-BY)
+science
+2022-10-22 00:00:00
+
+Open AccessArticle by
+ 1,2, 1,2,*, 2, 2, 1,2, 2, 2, 2 and 2 
+
+
+1
+State Key Laboratory of Robotics and System, Harbin Institute of Technology, Harbin 150001, China
+
+
+2
+School of Mechatronics Engineering, Harbin Institute of Technology, Harbin 150001, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Antonio Polimeni and Daniela Kovacheva
+
+Materials 2022, 15(21), 7407; https://doi.org/10.3390/ma15217407 (registering DOI)
+
+
+Received: 11 September 2022
+/
+Revised: 18 October 2022
+/
+Accepted: 20 October 2022
+/
+Published: 22 October 2022
+ 
+
+When serving in extremely high-power laser conditions, KH2PO4 (KDP) surfaces are susceptible to incur laser damage points (also known as defects).

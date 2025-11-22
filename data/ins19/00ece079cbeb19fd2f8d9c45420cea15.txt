@@ -1,0 +1,37 @@
+Soft Gripper Design and Fabrication for Underwater Grasping
+Creative Commons Attribution (CC-BY)
+science
+2022-10-22 00:00:00
+
+Open AccessArticle by
+ 1 and 2,* 
+
+
+1
+Technical School of Industrial Engineering, Technical University of Cartagena, 30202 Cartagena, Spain
+
+
+2
+Faculty of Computer Science, University of Murcia, 30100 Murcia, Spain
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Vladan Papić and Josip Musić
+
+Appl. Sci. 2022, 12(21), 10694; https://doi.org/10.3390/app122110694 (registering DOI)
+
+
+Received: 26 September 2022
+/
+Revised: 10 October 2022
+/
+Accepted: 11 October 2022
+/
+Published: 22 October 2022
+ 
+
+Underwater manipulation with current robotics technology is a challenging task with significant limits in versatility and robustness terms.

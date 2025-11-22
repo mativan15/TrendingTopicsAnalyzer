@@ -1,0 +1,32 @@
+A Review on Ultrafast-Laser Power Bed Fusion Technology
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessReview by
+, *, , and 
+
+
+Defense Innovation Institute, Academy of Military Science, Beijing 100072, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Huajun Cao, Menglin Liu, Le Jia and Hao Yi
+
+Crystals 2022, 12(10), 1480; https://doi.org/10.3390/cryst12101480 (registering DOI)
+
+
+Received: 26 September 2022
+/
+Revised: 14 October 2022
+/
+Accepted: 17 October 2022
+/
+Published: 18 October 2022
+ 
+
+Additive manufacturing of metals by employing continuous wave and short pulse lasers completely changes the way of modern industrial production.

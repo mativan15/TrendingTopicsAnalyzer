@@ -1,0 +1,6 @@
+New York has passed a bill placing a moratorium on cryptocurrency mining as state lawmakers seek to address environmental concerns
+Insider
+business
+2022-06-03 16:26:20
+
+New York state lawmakers on Friday passed a bill that will halt certain cryptocurrency mining operations for two years to address environmental concerns.Senators in a 36-27 vote passed Senate Bill S6486D, which puts a moratorium on new proof-of-work carbon-based crypto mining operations. Proof-of-work is a mechanism for the verification of new blocks on a blockchain. A new block is created by a computer solving complex mathematical problems. The bill, which passed the New York Assembly in April, will move to Governor Kathy Hochul's desk for her signature.

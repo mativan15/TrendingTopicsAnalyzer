@@ -1,0 +1,6 @@
+Vertosoft Named as New Distributor for GrammaTech, Inc.
+globenewswire.com
+news
+2022-10-20 00:00:00
+
+LEESBURG, Va., Oct. 20, 2022 (GLOBE NEWSWIRE) -- Vertosoft announced today that it has been named as a new distributor for GrammaTech, Inc., a leading provider of application security testing products and software research services. With this agreement, Vertosoft will immediately begin offering GrammaTech solutions to its public sector eco-system of partners and customers.  Vertosoft will market GrammaTech's CodeSonar, an award-winning Static Application Security Testing (SAST) solution used to secure source code, and CodeSentry, a binary Software Composition Analysis (SCA) platform, to help Public Sector suppliers and customers address risk from third-party code threats.

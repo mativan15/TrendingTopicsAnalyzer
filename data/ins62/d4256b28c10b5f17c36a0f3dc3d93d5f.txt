@@ -1,0 +1,6 @@
+Mainstream CPUs ate the high-end desktop, but enthusiasts hunger for more
+pcworld.com
+news
+2022-06-03 12:45:00
+
+The high-end desktop isn't what it used to be. The market for fully loaded, enthusiast-class HEDT CPUs and motherboards has changed drastically during the last several years, stagnating in a way that has left an unaddressed gap in performance. Ultra-expensive systems using platforms such as Intel's X99 and AMD's Threadripper were once the stuff of dreams, akin to having a Lamborghini poster on your wall. Did you want an 'Extreme' 10-core CPU? Intel had you covered with the $2000 Core i7 6950X. If that wasn't enough,18 cores arrived quickly, followed by the juggernaut AMD Threadripper CPUs packing as many as 64 cores.

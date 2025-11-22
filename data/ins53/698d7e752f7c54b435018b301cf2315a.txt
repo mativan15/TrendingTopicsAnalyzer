@@ -1,0 +1,6 @@
+Nvidia made the right call to ‘unlaunch' the 12GB RTX 4080 – bring on the 4070
+techradar.com
+tech
+2022-10-19 15:36:51
+
+A few weeks ago, shortly after the official reveal of the Nvidia RTX 4090 and its two little siblings, the 16GB and 12GB flavors of the RTX 4080, I wrote an article here on TechRadar pointing out that the 12GB RTX 4080 held a dirty little secret.You can read it right here, but I'll give you the clipped version: that 12GB card isn't just the 16GB model with slightly less video memory; it's an entirely different GPU. More specifically, it's the AD104 chip, rather than the AD103 found in the 16GB RTX 4080.

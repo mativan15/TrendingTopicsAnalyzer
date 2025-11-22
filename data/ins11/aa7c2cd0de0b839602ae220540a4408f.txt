@@ -1,0 +1,6 @@
+Solana suffered its second outage in a month, sending price plunging
+cnbc.com
+news
+2022-06-02 01:27:16
+
+The logo of cryptocurrency platform Solana.Solana, one of the largest cryptocurrencies after bitcoin and ether, fell more than 12% on Wednesday as its blockchain suffered its second outage in the last month.Validators in the network were not processing new blocks for several hours. Applications built on Solana's blockchain were taken offline as a result.The Twitter account Solana Status flagged the incident at about 1 P.M. eastern. To fix this latest outage, validators had to restart, following instructions linked to from this same Twitter account, which later said the outage lasted four and a half hours.

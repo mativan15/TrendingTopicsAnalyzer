@@ -1,0 +1,7 @@
+Microsoft confirms it's taking a 'new approach' with its game streaming device
+copyright Oath 2022
+tech
+2022-05-27 09:01:44
+
+Earlier this month, a rumor suggested that Microsoft might be nearly ready to launch a Chromecast-like game streaming stick for its Xbox Cloud Gaming service. The company has now confirmed that such a device (codenamed Keystone) does exist, but it may not be coming any time soon after all, according to a report from Windows Central. 
+"As announced last year, we've been working on a game-streaming device, codename Keystone, that could be connected to any TV or monitor without the need for a console," a Microsoft spokesperson told Windows Central.

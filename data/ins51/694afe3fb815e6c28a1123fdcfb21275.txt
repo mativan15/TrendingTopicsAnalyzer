@@ -1,0 +1,6 @@
+NIIMBL and BioPhorum Announce the Full Release of the Full Data and Design Models for the New Buffer Stock Blending System for Open Access
+prnewswire.com
+news
+2022-10-18 19:15:00
+
+NEWARK, Del., Oct. 18, 2022 /PRNewswire/ -- The National Institute for Innovation in Manufacturing Biopharmaceuticals (NIIMBL) in collaboration with BioPhorum is pleased to announce that the data and design specification for the NIIMBL BioPhorum Buffer Stock Blending System are now publicly available for open-source use. This new current good manufacturing practices (cGMP) buffer technology is designed, built, and tested to deliver buffer on-demand on a commercial at significant cost savings in labor and cost per liter compared to traditional buffer preparation.

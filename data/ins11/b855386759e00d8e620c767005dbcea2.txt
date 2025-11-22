@@ -1,0 +1,6 @@
+How to use UPI 123PAY via IVR number
+Copyright:(C)2022 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html
+economics
+2022-05-27 07:32:47
+
+27 May 2022, 12:59 PM ISTThe National Payments Corporation of India (NPCI) developed the 123PAY UPI service for feature phones, which was launched by the Reserve Bank of India (RBI) earlier this year. 123PAY allows feature phone users to conduct a variety of digital transactions using one of four technology options.The features include calling an IVR (interactive voice response) number, app capability on feature phones, a missed call-based method, and proximity sound-based payments are just a few examples.

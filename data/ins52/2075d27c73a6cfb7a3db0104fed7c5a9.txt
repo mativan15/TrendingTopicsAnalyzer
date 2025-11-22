@@ -1,0 +1,13 @@
+How to manage multiple SSH sessions from a single window with EasySSH
+techrepublic.com
+news
+2022-10-20 18:38:09
+
+Image: profit_image/Adobe Stock
+I frequently remote into various servers throughout the day. Sometimes, I wind up having to bounce from machine to machine such that I can't remember what IP address is associated with what machine. Anyone who's managed numerous serves gets this.
+SEE: 40+ open source and Linux terms you need to know (TechRepublic Premium)
+How do you make this process a bit more efficient? Yes, you could always simply construct your SSH config file such that you can SSH into those machines with commands like:
+ssh web1
+ssh db1
+ssh dev1
+Although that's a simple solution if you prefer GUI tools, what should you use? For me, at least on Linux, one of the best options is called EasySSH.

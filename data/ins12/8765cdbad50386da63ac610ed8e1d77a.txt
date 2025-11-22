@@ -1,0 +1,8 @@
+Australian digital driver's licenses hackable in minutes
+theregister.com
+news
+2022-05-30 23:31:06
+
+An Australian digital driver's license (DDL) implementation that officials claimed is more secure than a physical license has been shown to easily defaced, but authorities insist the credential remains secure.
+New South Wales, Australia's most populous state, launched its DDL program in 2019, and as of 2021 officials there said that slightly more than half of the state's eight million people use the "Service NSW" app that displays the DDL and offers access to many other government services.
+Now, a security researcher at cybersecurity company Dvuln claims he was able to brute force his way into the app with nothing but a Python script and a consumer laptop.

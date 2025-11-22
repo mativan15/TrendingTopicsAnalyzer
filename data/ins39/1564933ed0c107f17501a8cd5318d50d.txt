@@ -1,0 +1,6 @@
+Impact of new VPN rules on businesses
+indiatimes.com
+news
+2022-05-30 18:01:46
+
+The new VPN rules in India will significantly impact businesses and enterprises. Under the directive, companies will be required to store user data for at least five years, regardless of whether users delete their accounts or cancel their subscriptions. This could increase costs for cloud providers, as they will need to invest in additional storage capacity to accommodate the increased data demand. In addition, the directive will require companies to report any unauthorised access to social media accounts.

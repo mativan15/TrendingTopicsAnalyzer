@@ -1,0 +1,6 @@
+Cloud Computing Trends
+medium.com
+tech
+2022-06-04 06:54:50
+
+Cloud computing, on technological viewpoint can be considered to have an extensive impact on how advancement in tech happened. Pick any sector, whether its heavily tech dependent or not, you can always find that there is something related to cloud. Tech, which was invented in last 10 years or the ones which existed even before that has evolved to use cloud in one form or another, technologies such as virtualization, distributed computing, networking are the examples.It includes distinct elements such as clients, data centers, and distributed servers.

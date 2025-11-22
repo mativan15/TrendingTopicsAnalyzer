@@ -1,0 +1,6 @@
+How external attack surface management lets you see your org through an attacker's eyes
+venturebeat.com
+news
+2022-10-20 13:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. It's not an overstatement: The Log4j vulnerability shook the cybersecurity world.  One of the most significant cyber incidents in recent memory, it was revealed in December 2021 when researchers identified a remote code execution exploit in the Apache Log4j library.  Billions of devices were put at risk and millions of attacks have been attempted (and successful) — one oft-cited early finding was that there had been attempted exploits on more than 44% of corporate networks worldwide.

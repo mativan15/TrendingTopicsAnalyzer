@@ -1,0 +1,6 @@
+Australia's Medibank says normal operations resume after ransomware attack
+reuters.com
+news
+2022-10-16 22:41:56
+
+A woman walks past a branch of the Australian health insurer Medibank Private in Sydney October 20, 2014. REUTERS/David GrayOct 17 (Reuters) - Australian health insurer Medibank Private Ltd (MPL.AX) said on Monday normal business operations had resumed after an attempted ransomware attack and reaffirmed that there was no evidence that customer data had been removed from the network.Medibank said last Thursday it would isolate and remove access to some customer-facing systems after it detected unusual activity on its network.

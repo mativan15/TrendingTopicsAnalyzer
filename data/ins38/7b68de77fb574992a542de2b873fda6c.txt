@@ -1,0 +1,8 @@
+CISA warns of holes in industrial Advantech, Hitachi kit
+theregister.com
+news
+2022-10-20 00:35:59
+
+This week, the US government's Cybersecurity and Infrastructure Security Agency (CISA) expanded its ever-growing list of vulnerability in industrial control systems (ICS) and critical infrastructure technology.
+The latest warnings flag up severe flaws in products from Advantech and Hitachi Energy, which serve both consumer and commercial markets.
+The twin advisories include alerts about security holes in Advantech's R-SeeNet that can be exploited by remote attackers to take control of this industrial network router monitoring software or to delete PDF files from the system.

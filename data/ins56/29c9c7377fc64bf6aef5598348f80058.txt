@@ -1,0 +1,41 @@
+Discussion on the Feasibility of Deep Peak Regulation for Ultra-Supercritical Circulating Fluidized Bed Boiler
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+Open AccessArticle by
+ 1,*, 1, 2, 3, 2, 1, 1 and 2 
+
+
+1
+CHN Energy Group CFB Technology R&D Center, Xi'an 710065, China
+
+
+2
+Key Laboratory of Low-Grade Energy Utilization Technologies and Systems, Chongqing University, Chongqing 400044, China
+
+
+3
+Harbin Boiler Co., Ltd., Harbin 150046, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Artur Blaszczuk
+
+Energies 2022, 15(20), 7720; https://doi.org/10.3390/en15207720 (registering DOI)
+
+
+Received: 22 July 2022
+/
+Revised: 1 September 2022
+/
+Accepted: 8 September 2022
+/
+Published: 19 October 2022
+ 
+
+In order to meet the flexibility operation needs of coal-fired units under the goal of carbon peak and carbon neutralization, it is imperative for circulating fluidized bed (CFB) units to participate in deep peak regulation.

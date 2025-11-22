@@ -1,0 +1,6 @@
+Capgemini finds gap between digital twin potential and actuality
+venturebeat.com
+news
+2022-05-29 18:30:00
+
+Digital twin implementations are already demonstrating a 76% cost reduction and a 68% increase in customer engagement. And digital twin adoption is predicted to increase by 36% in the next five years. However, only 13% of organizations have developed full-scaled digital twin strategies. These are the findings of a recent Capgemini survey on digital twin adoption. The systems' integration consultancy launched the survey to tease apart why so many companies struggled with the technology, despite the tremendous gains of early adopters.

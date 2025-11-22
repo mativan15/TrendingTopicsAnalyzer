@@ -1,0 +1,6 @@
+Telegram to auction usernames for 700 million users
+Copyright 2022, ESI Media Ltd
+news
+2022-10-21 14:18:30
+
+Telegram has announced that it will auction off usernames for its messaging app via its blockchain-based platform.The WhatsApp rival said that it would use The Open Network (TON) blockchain to host the auction, resulting in the price of the associated Toncoin crypto token surging by more than 10 per cent on Friday.The platform was originally developed to be integrated within the Telegram app, but a lawsuit from the US Securities and Exchange Commission (SEC) led to it being abandoned in 2020. The blockchain project was subsequently picked up by developers who set up the TON Foundation, which has since been endorsed by Telegram founder Pavel Durov.

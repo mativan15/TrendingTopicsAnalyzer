@@ -1,0 +1,6 @@
+CIC Chain And The Difference Between a Layer 1 And Layer 2 Blockchain
+medium.com
+news
+2022-10-18 19:49:36
+
+What Is a Layer 1 Blockchain?A layer 1 blockchain is a network that can finalize transactions and validate them within its own infrastructure without needing support from other networks. Layer 1 blockchain networks have their own native coin that is used to pay for transaction fees on their network. Another name for a blockchain is also smart contract platform. Consider a layer 1 blockchain as the initial layer, or base layer that contains the architectural framework for the network. When development occurs on the network, and projects are built, this is done on top of the structural foundation.

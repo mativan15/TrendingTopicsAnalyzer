@@ -1,0 +1,11 @@
+All Android users urged to install huge update that makes it 'more like iPhone'
+thescottishsun.co.uk
+news
+2022-10-21 11:38:13
+
+GOOGLE is giving its Messages app on Android an enormous update – and it's rolling out right now.
+The major overhaul gives it some tricks familiar to anyone who has used iMessage for iPhone on iOS, plus some extra goodies.
+Google's Messages app can now automatically transcribe voice notesCredit: Google
+There's new support for emoji reactions sent over SMSCredit: Google
+But unlike iPhone, Google's Messages app is built on something called RCS.
+"[RCS is] a modern messaging protocol that supports richer text features, higher resolution images and videos, and enables end-to-end encryption," said Google's Jan Jedrzejowicz.

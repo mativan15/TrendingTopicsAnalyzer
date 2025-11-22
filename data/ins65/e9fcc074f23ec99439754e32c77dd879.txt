@@ -1,0 +1,6 @@
+Artificial Intelligence Caught Writing Its Own Creepy Language By Researchers
+indiatimes.com
+news
+2022-06-06 07:28:28
+
+Something creepy recently happened in the world of technology after an artificial intelligence programme reached the pinnacle of independence by writing its own language.Nobody else is capable of fully understanding the language coined by OpenAI's "DALLE-E2" artificial intelligence system. Its job is to generate realistic and/or artistic images based on text descriptions entered by users. OpenAI claims that DALLE-E2 is groundbreaking, for it effectively "learned the relationship between images and the text used to describe them.

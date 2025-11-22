@@ -1,0 +1,8 @@
+Yamaha Corporation and Sumitomo Corporation Power & Mobility: Demonstration of Significant CO2 Reduction by Thermoelectric Generator Installed in a Vehicle
+yahoo.com
+news
+2022-06-02 02:00:00
+
+CO 2 reduction by up to 3.1% is expected by regenerative electric power via exhaust gas heat through Thermoelectric Generator unit on a vehicle with 2.0L gasoline engine
+
+HAMAMATSU, Japan, June 02, 2022--(BUSINESS WIRE)--Yamaha Corporation and Sumitomo Corporation Power & Mobility Co., Ltd., a Sumitomo Corporation Group company (hereafter referred to as "both companies" or "we"), have jointly demonstrated a new waste heat recovery system based on thermoelectric generator (hereafter referred to as "TEG") technology, which generates electrical power via exhaust gas heat and was proved to reduce CO 2 emissions during vehicle testing on a chassis dynamometer (hereafter referred to as "this demonstration test").

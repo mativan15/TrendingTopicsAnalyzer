@@ -1,0 +1,6 @@
+Chipsea CSC2E101 as the First EC Chip Included in Intel PCL from Chinese Mainland
+yahoo.com
+news
+2022-10-17 08:06:00
+
+SHENZHEN, China, Oct. 17, 2022 /PRNewswire/ -- Recently, CSC2E101, a 32-bit high-performance EC chip developed by a Chinese listed company Chipsea (stock code: 688595), successfully entered the Intel PCL (Platform Component List) sequence, making it the first domestic EC chip in Chinese mainland satisfactory to international industrial standards and recognized by Intel, a global PC industry leader. The PCL, as an important reference for ODM/OEM selection, contains Intel-verified devices for the latest platforms.

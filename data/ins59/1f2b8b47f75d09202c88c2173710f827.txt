@@ -1,0 +1,8 @@
+SASE adoption set for major rise, but some still don't know what it is
+techradar.com
+news
+2022-10-17 11:26:25
+
+(Image credit: Shutterstock)
+
+ The adoption of Secure Access Service Edge (SASE (opens in new tab)) among businesses has 'skyrocketed' during the pandemic, according to a report from Versa Networks.Polling 500 security and IT decision makers from the US, UK, France and Germany, the firm discovered that more than a third of businesses (34 percent) have adopted SASE in the past year, with an additional third (30 percent) planning to do so within the next twelve months. What's more, SASE has overtaken VPN (opens in new tab) as the preferred means of connectivity.

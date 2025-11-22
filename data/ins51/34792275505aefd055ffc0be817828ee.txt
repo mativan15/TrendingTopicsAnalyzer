@@ -1,0 +1,6 @@
+Two urgent WhatsApp warnings issued to all Android and iPhone users
+express.co.uk
+tech
+2022-10-18 06:16:47
+
+WhatsApp warnings have been issued to iPhone and Android users (Image: GETTY)Millions of iPhone and Android users need to be aware of two new WhatsApp warnings that could leave devices unable to send messages or hand highly personal data over to hackers. The first alert affects anyone with an Android device in their pocket with cyber criminals targeting these phones via an unofficial version of WhatsApp. As spotted by the security team at Kasperky, an app called YoWahtsApp comes laced with a nasty malware called Triada.

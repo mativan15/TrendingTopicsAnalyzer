@@ -1,0 +1,6 @@
+Airtel launches ‘Always On' IoT solution for vehicle tracking
+indiatimes.com
+news
+2022-10-19 14:30:00
+
+The statement said that Airtel's AIS-140 solution has already been tested and adopted by leading companies such as telematics provider Lumax ITuran, fleet-tech company Loconav, and vehicle tracking solutions provider e-Trans.Bharti Airtel on Friday launched its ‘Always On' Internet of Things (IoT) connectivity solution in India, which comprises a dual profile M2M eSIM, allowing an IoT device to stay connected to the networks of two telecom operators. Airtel in a statement said that the solution complies with the Automotive Research Association of India (ARAI)'s AIS-140 standard implemented by the Ministry of Road Transport and Highways (MoRTH).

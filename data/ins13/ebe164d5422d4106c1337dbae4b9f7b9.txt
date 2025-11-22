@@ -1,0 +1,6 @@
+Trilio Announces General Availability of ‘Continuous Restore,' Delivering Cloud-Native Application Portability and Recoverability in Seconds
+Copyright 2022, Business Wire.
+tech
+2022-10-20 12:05:00
+
+FRAMINGHAM, Mass.--(BUSINESS WIRE)--Trilio, a leading provider of cloud-native data protection, today announced the general availability of 'Continuous Restore.' Continuous Restore offers faster levels of replication, restoration and migration of Kubernetes data and metadata from any cloud or storage platform to another, providing near-instantaneous recovery times for cloud-native applications. Entirely distribution-, cloud- and storage-agnostic, Trilio's Continuous Restore enables users to con

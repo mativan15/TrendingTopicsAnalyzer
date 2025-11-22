@@ -1,0 +1,8 @@
+GreenPark Sports Increases Development Velocity and Accelerates Deployment of Modern Cloud Architectures with Pulumi Cloud Engineering Platform
+yahoo.com
+gaming
+2022-06-01 12:00:00
+
+Cloud engineering platform enables all of GreenPark's developers to use Infrastructure as Code, increasing the number of cloud infrastructure deployments by 70% and accelerating the rate of innovation
+
+SEATTLE, June 01, 2022--(BUSINESS WIRE)--Cloud Engineering leader Pulumi today announced GreenPark Sports, the social gaming developer for next-generation sports and esports fans, has selected the Pulumi Cloud Engineering Platform to build, deploy, and manage its cloud applications and infrastructure.

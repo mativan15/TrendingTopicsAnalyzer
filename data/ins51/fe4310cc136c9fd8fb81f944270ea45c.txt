@@ -1,0 +1,6 @@
+New Report Reveals APIs and Cloud Applications are CISOs' Greatest Threat to Security Readiness
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time TYSONS CORNER, Va.--(BUSINESS WIRE)--Just-published research, The CISOs Report, Perspectives, Challenges and Plans for 2022 and Beyond, reveals that Chief Information Security Officers (CISOs) are grappling with a wide range of risks and challenges, especially linked to accelerating utilization of technologies like cloud-based applications and the use of Application Programming Interfaces (APIs). The report is based on a survey of more than 400 Chief Information Security Officers (CISOs) working across a broad set of companies and industry sectors in the US, Canada and other select nations.

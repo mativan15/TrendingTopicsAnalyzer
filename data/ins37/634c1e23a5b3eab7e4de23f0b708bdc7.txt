@@ -1,0 +1,7 @@
+Amazon MWS Integration from Celigo Now Available on SAP® Store
+prnewswire.com
+news
+2022-06-01 12:05:00
+
+By integrating with the SAP® Business ByDesign® solution, Celigo's app delivers optimized ecommerce operations through end-to-end business process automation
+SAN MATEO, Calif., June 1, 2022 /PRNewswire/ -- Celigo Inc., a leading enterprise-wide integration platform as a service (iPaaS) company for the mid-market, today announced that its Amazon MWS Integration for SAP® Business ByDesign® is now available on SAP® Store, the online marketplace for SAP and partner offerings. Celigo's solution enables both IT and non-IT users to set up and manage order-to-cash automations between the SAP Business ByDesign solution and Amazon MWS, helping to optimize customer experiences and ecommerce operations.

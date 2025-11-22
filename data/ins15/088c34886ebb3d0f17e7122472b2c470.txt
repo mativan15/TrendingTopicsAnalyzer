@@ -1,0 +1,6 @@
+Highlights of KubeCon + CloudNativeCon Europe 2022
+medium.com
+tech
+2022-05-31 08:34:34
+
+The global cloud-native developer population has grown by 1 million in the last 12 months, according to the 2021 State of Cloud-Native Development Report developed for CNCF by SlashData. The estimated number of cloud-native developers is about 7.1 million worldwide.That represents an increase of 51% since 2020.KubeCon + CloudNativeCon Europe 2022 aimed to gather open-source contributors, vendors, and end-users from leading open source and cloud-native communities.A total of 7,000 on-site and 10,000 online participants attended the hybrid conference.

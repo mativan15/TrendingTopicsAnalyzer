@@ -1,0 +1,7 @@
+Microsoft Brings 'Windows Subsystem for Linux 2' to Window Server 2022
+Copyright 1997-2016, SlashdotMedia. All Rights Reserved.
+news
+2022-05-28 15:34:00
+
+With the latest preview patch, Windows Server 2022 now supports WSL2 Linux distros, the Register reports:
+The move ends an odyssey that began with the arrival of the Windows Subsystem for Linux (WSL) 2 on Windows 10 several years ago and with users' calls for Windows Server to get the same treatment. The change is also somewhat of an about-face from Microsoft. In 2021, in response to pleas from users to backport the tech to Windows Server 2019, [Principal program manager for Windows Server Jeff] Woolsey described WSL in early 2021 as "fantastic for dev" and "perfect for Windows client" but warned: "If we put it in Windows Server, people will use it in production scenarios for which it isn't intended.

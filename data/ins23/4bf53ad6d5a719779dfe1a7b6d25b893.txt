@@ -1,0 +1,8 @@
+CERT-In warns users to be wary of fake messages as festive season approaches
+indiatimes.com
+economics
+2022-10-19 14:00:00
+
+The Indian Computer Emergency Response Team (CERT-In), the country's nodal cybersecurity agency, has asked users to remain cautious as the festive season kicks in. The cybersecurity watchdog said users were being targeted through fake messages that claim to contain festive offers, but this ultimately leads users to suspicious websites that can potentially steal sensitive data like bank account details, passwords and One-Time Passwords.
+
+'Fake messages are in circulation on various social media platforms (WhatsApp, Telegram, Instagram, etc), that falsely claim a festive offer luring users into gift links and prizes,' according to the CERT-In advisory on October 18.

@@ -1,0 +1,8 @@
+Broadcom's strategy ignores most VMware customers
+theregister.com
+news
+2022-05-30 13:00:08
+
+Broadcom's stated strategy is very simple: focus on 600 customers who will struggle to change suppliers, reap vastly lower sales and marketing costs by focusing on that small pool, and trim R&D by not thinking about the needs of other customers – who can be let go if necessary without much harm to the bottom line.
+The Register offers that summary based on Broadcom's own words, as uttered at a November 2021 Investor Day.
+The Broadcom event kicked off with an overview from president Tom Krause, who illustrated the outfit's go-to-market plan with the following diagram.

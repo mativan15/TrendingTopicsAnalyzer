@@ -1,0 +1,6 @@
+CSC101- Slither
+medium.com
+news
+2022-10-20 17:51:04
+
+we have talked about smart contract auditing and common vulnerability in the previous tutorials. in this practical tutorial we want to audit our smart contract using slither.SlitherSlither is a Solidity static analysis framework written in Python 3. It runs a suite of vulnerability detectors, prints visual information about contract details, and provides an API to easily write custom analyses. Slither enables developers to find vulnerabilities, enhance their code comprehension, and quickly prototype custom analyses.

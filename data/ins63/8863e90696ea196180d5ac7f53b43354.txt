@@ -1,0 +1,6 @@
+Amazon and Google speakers can be hacked, investigation finds
+dailymail.co.uk
+news
+2022-05-31 23:01:49
+
+Published: 19:01 EDT, 31 May 2022 | Updated: 19:07 EDT, 31 May 2022 Smart home devices from companies such as Amazon and Google can be hacked and used to crash websites, steal data and snoop on users, an investigation reveals.Consumer group Which? has found poor security on eight smart devices, some of which are no longer supported with vital security updates due to their age.Examples include the first generation Amazon Echo smart speaker, released in 2014, and a Virgin Media internet router from 2017.

@@ -1,0 +1,8 @@
+Low- and No-Code Is the Future of App Development Amid Talent Shortages, Says Info-Tech Research Group
+prnewswire.com
+news
+2022-06-02 16:15:00
+
+Low- and no-code (LCNC) application builders leverage graphical user interfaces (GUI) and configurations to define and build databases, business logic, process flows, forms, and other application artifacts with minimal hand-coding. These tools convert the developer's designs into workable software that can then be deployed to corporate systems.
+
+Low-code technologies, alongside customizable scripts and configurations, assist GUI designers in defining and building applications. Similar to low-code, no-code technologies create deployable and functioning solutions to develop applications primarily for people who are not familiar with coding.

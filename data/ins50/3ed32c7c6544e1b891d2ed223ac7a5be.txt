@@ -1,0 +1,6 @@
+Study: 82% of CIOs Say Their Software Supply Chains Are Vulnerable
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 08:00 AM Eastern Daylight Time SALT LAKE CITY--(BUSINESS WIRE)--Venafi®, the inventor and leading provider of machine identity management, today announced the findings of a global study of 1,000 CIOs, in which 82% say their organizations are vulnerable to cyberattacks targeting software supply chains. The shift to cloud native development, along with the increased speed in development brought about by the adoption of DevOps processes, has made the challenges connected with securing software supply chains infinitely more complex.

@@ -1,0 +1,7 @@
+Berkshire Bank Selects Salt Security for API Security as its Business Operations Scale
+prnewswire.com
+news
+2022-06-01 12:00:00
+
+Salt Security allows Berkshire Bank to accurately capture, catalog, and secure its growing API activity
+PALO ALTO, Calif., June 1, 2022 /PRNewswire/ -- Salt Security, the leading API security company, today announced that Berkshire Bank, a leading socially responsible community bank with office locations in New England and New York, has selected the Salt Security API Protection Platform to secure its growing ecosystem of APIs. The Salt platform enables Berkshire Bank to reduce business risk by shielding itself, its partners, and its customers from rising API-based cybersecurity threats, while augmenting the company's zero trust security model.

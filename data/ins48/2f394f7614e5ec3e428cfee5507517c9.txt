@@ -1,0 +1,8 @@
+Estimating The Intrinsic Value Of Marathon Petroleum Corporation (NYSE:MPC)
+yahoo.com
+news
+2022-06-05 12:14:18
+
+In this article we are going to estimate the intrinsic value of Marathon Petroleum Corporation (NYSE:MPC) by estimating the company's future cash flows and discounting them to their present value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Before you think you won't be able to understand it, just read on! It's actually much less complex than you'd imagine.
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation.

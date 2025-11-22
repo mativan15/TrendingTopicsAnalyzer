@@ -1,0 +1,8 @@
+Square will integrate Apple's Tap to Pay app into the platform
+techradar.com
+news
+2022-06-03 22:00:24
+
+(Image credit: Square)
+
+ Small businesses will soon be able to accept payments from Apple's Tap to Pay app thanks to a new collaboration.Digital payment platform Square is teaming up with Apple (opens in new tab) to roll out new support for Tap to Pay on iPhones. The feature will go onto Square's Point of Sale app to allow 'in-person contactless payments'. Business owners won't have to rely on Square's add-on devices to accept payments.You may be more familiar with Square if you've ever gone to a small business and seen that the store owner's iPhone or iPad is connected to a dongle.

@@ -1,0 +1,6 @@
+ZeroFox Releases New Research Highlighting Evolution of Threats Targeting Financial Services
+globenewswire.com
+science
+2022-05-26 11:00:00
+
+WASHINGTON, May 26, 2022 (GLOBE NEWSWIRE) -- ZeroFox, a leading external cybersecurity provider, today announced new insights on the frequency and sophistication of cyberattacks. From February to April 2022, ZeroFox processed over 460,000 takedowns for customers. This represents an over 200% year-over-year increase in takedowns processed. The release of its Financial Services Quarterly Threat Landscape Q1 2022 assessment outlines the key changes to cyber threats facing the financial sector and illustrates specific threat categories of interest including: social engineering, vulnerability exploitation, botnets, Initial Access Brokers (IABs), malware, ransomware, and blockchain threats.

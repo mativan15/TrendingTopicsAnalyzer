@@ -1,0 +1,6 @@
+UCHealth is partnering with EnlitenAI to monitor patients with drug-resistant epilepsy at home
+globenewswire.com
+news
+2022-10-18 20:45:00
+
+Fort Collins, Colo., Oct. 18, 2022 (GLOBE NEWSWIRE) -- UCHealth and EnlitenAI have been awarded an Advanced Industries grant from the State of Colorado to study the applicability of a cloud platform for personalized management of seizures in epileptic patients, especially those with drug-resistant epilepsy.   A team of researchers and clinicians at UCHealth will lead efforts for the proof-of-concept study. The study will evaluate how the seamless accessibility of data from EnlitenAI's cloud-based platform can be used in conjunction with its artificial intelligence engine to enable neurologists to create patient-specific seizure management plans for timely intervention.

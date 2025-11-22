@@ -1,0 +1,6 @@
+Palantir SBC
+seekingalpha.com
+finance
+2022-05-27 13:43:57
+
+Jonathan Knowles/DigitalVision via Getty Images PLTR's Valuation with SBC Analysis Please click the following link to view the valuation model for Palantir Technologies Inc. (NYSE:PLTR). PLTR DCF Valuation Including SBC we've arrived at a value per share of $25 and excluding SBC we ended up with a $40 value per share - these valuations can be found on the first spreadsheet in the DCF valuation model. The second spreadsheet is a duplicate of the DCF valuation model but instead we've changed the growth and FCF margin projections so that the resulting value per share is close to the current price.

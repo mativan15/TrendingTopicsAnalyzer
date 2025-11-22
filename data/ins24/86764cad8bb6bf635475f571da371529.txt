@@ -1,0 +1,8 @@
+New York Moves To Put A Freeze On Crypto Mining With New Law
+ibtimes.com.au
+news
+2022-06-03 15:08:18
+
+The state of New York has taken a step closer to becoming the first in the United States to effectively institute a moratorium on Bitcoin mining. 
+New York state senators passed a law late Thursday that would freeze cryptocurrency mining statewide for two years. The law takes aim at the proof-of-work authentication that undergirds much of the blockchain infrastructure behind Bitcoin, but which produces an excess amount of carbon emissions because of the massive processing power it requires.
+The law also includes several other measures that are unpopular with the crypto community.

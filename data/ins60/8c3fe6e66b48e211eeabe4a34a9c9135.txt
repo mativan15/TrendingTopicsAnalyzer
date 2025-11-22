@@ -1,0 +1,6 @@
+Alpha and Omega Semiconductor Unveils Industry's Smallest Smart Motor Module Designed to Meet Reduced PCB Layout Requirements
+Copyright 2022, Business Wire.
+tech
+2022-10-19 12:50:00
+
+SUNNYVALE, Calif.--(BUSINESS WIRE)--Alpha and Omega Semiconductor Limited (AOS) (Nasdaq: AOSL), a designer, developer and global supplier of a broad range of power semiconductors, power ICs, and digital power products, today introduced an extension to its compact Smart Motor Module (SMM) family. Available in an ultra-compact, thermally enhanced 3mm x 3mm QFN-18L package, the highly integrated AOZ9530QV SMM is a half-bridge power stage with a slew of features and protections that simplify motor

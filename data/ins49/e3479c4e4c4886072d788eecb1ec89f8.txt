@@ -1,0 +1,8 @@
+Metaverse privacy maturity lags behind enthusiasm
+theregister.com
+economics
+2022-06-02 03:31:10
+
+The metaverse already has privacy problems, and efforts to address them are disconcertingly hard to find, argued panelists at a Singapore conference yesterday.
+Many metaverse technologies – think AR, VR, NLP AI, and 3D graphics – have been around a while but are coming together for the first time, explained Pankit Desai, CEO of cloud security company Sequretek on Tuesday at the Asia Tech x Singapore (ATxSG).
+"These technologies were built at different points of time by different sets of people without an understanding of what the end use would be," said Desai, adding "to me the security risk is a big risk.

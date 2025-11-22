@@ -1,0 +1,6 @@
+Strikingly Provides Website Builders with Built-in Data Analytics Service Powered by Kyligence
+globenewswire.com
+news
+2022-06-01 00:00:00
+
+SAN JOSE, Calif., June 01, 2022 (GLOBE NEWSWIRE) -- Kyligence, today announced that Strikingly, a leading online web platform enabling individuals to build mobile-optimized websites, is using the Kyligence Cloud Platform and Managed Services to provide data services that enable website builders to perform faster web traffic analytics. Serving more than 5,000,000 global website builders, Strikingly chose Kyligence for its ability to support high concurrency and query response times within seconds.

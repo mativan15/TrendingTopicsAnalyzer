@@ -1,0 +1,6 @@
+Tech News: 5 Things to Know in Australia Today
+msn.com
+news
+2022-10-16 22:14:01
+
+Hello, hope you had a good weekend. There are a few tech things to catch up on this morning, so we'll get straight to them.   1. Woolworths subsidiary suffers data breach Online marketplace MyDeal, which is a subsidiary of Woolworths, revealed 2.2 million customer records had leaked from its CRM thanks to a ‘compromised user credential'. Data accessed includes customer names, email addresses, phone numbers and delivery addresses, and in some instances, dates of birth (if provided to purchase alcohol).

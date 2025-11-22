@@ -1,0 +1,8 @@
+Q2-Q3 2022 Ransomware Report Reveals Ransomware Has Grown by 466% Since 2019 And Ransomware and Malware Now Being Used as a Precursor to Physical War
+yahoo.com
+news
+2022-10-20 04:01:00
+
+The report also revealed that most IT and security teams lack a complete view of all the vulnerabilities that exist and sufficient threat context around those that pose the most risk; Notably, CISA's KEV catalog is missing 124 ransomware vulnerabilities
+
+SALT LAKE CITY, October 20, 2022--(BUSINESS WIRE)--Ivanti, the provider of the Ivanti Neurons automation platform that discovers, manages, secures, and services IT assets from cloud to edge, today announced the results of the Ransomware Index Report Q2-Q3 2022 that it conducted with Cyber Security Works, a Certifying Numbering Authority (CNA), and Cyware, a leading provider of the technology platform to build Cyber Fusion Centers.

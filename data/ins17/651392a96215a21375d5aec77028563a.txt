@@ -1,0 +1,6 @@
+Lubricants, Vol. 10, Pages 266: Role of Nanofluid Minimum Quantity Lubrication (NMQL) in Machining Application
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Gaining grounds as a potential heat transfer fluid due to its superior thermal and tribological properties, Nanofluid Minimum Quantity Lubrication (NMQL) has been classified as an environmentally friendly technique and has already been successfully applied in several machining processes. This paper presents a review of the role of NMQL for different machining processes. The mechanisms of the MQL technique are thoroughly explained for achieving optimal performance based on parameters like nozzle feed position, angle of elevation, distance from the nozzle tip to cutting zone, flow rate, and air pressure.

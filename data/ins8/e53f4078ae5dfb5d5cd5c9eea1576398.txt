@@ -1,0 +1,8 @@
+Interesting SWKS Put And Call Options For July 22nd
+nasdaq.com
+news
+2022-06-02 11:41:00
+
+Investors in Skyworks Solutions Inc (Symbol: SWKS) saw new options begin trading today, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the SWKS options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $109.00 strike price has a current bid of $5.55. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $109.00, but will also collect the premium, putting the cost basis of the shares at $103.

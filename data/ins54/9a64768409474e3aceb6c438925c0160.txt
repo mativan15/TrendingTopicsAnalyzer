@@ -1,0 +1,9 @@
+Microsoft Word struck by zero-day vulnerability
+theregister.com
+news
+2022-05-30 18:01:10
+
+Infosec researchers have idenitied a zero-day code execution vulnerability in Microsoft's ubiquitous Office software.
+Dubbed "Follina", the vulnerability has been floating around for a while (cybersecurity researcher Kevin Beaumont traced it back to a report made to Microsoft on April 12) and uses Office functionality to retrieve a HTML file which in turn makes use of the Microsoft Support Diagnostic Tool (MSDT) to run some code.
+
+This is a nice find, looks like an EDR tooling gap from initial tests.

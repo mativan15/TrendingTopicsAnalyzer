@@ -1,0 +1,6 @@
+A Multi-Part Orientation Planning Schema for Fabrication of Non-Related Components Using Additive Manufacturing
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+Additive manufacturing (AM) is a technique that progressively deposits material in layer-by-layer manner (or in additive fashion) for producing a three-dimensional (3D) object, starting from the computer-aided design (CAD) model. This approach allows for the printing of complicated shaped objects and is quickly gaining traction in the aerospace, medical implant, jewelry, footwear, automotive, and fashion industries. AM, which was formerly used for single part customization, is currently being considered for mass customization of parts because of its positive impacts.

@@ -1,0 +1,6 @@
+Research Paves Way for Home Robot that Can Tidy a House on Its Own
+gatech.edu
+news
+2022-10-19 15:30:00
+
+Struggling with keeping your home clean and organized? You may soon have an extra set of hands to help around the house. Imagine a home robot that can keep a house tidy without being given any commands from its owner. Well, the next step in home robotics is here — at least virtually. A group of doctoral and master's students from Georgia Tech's School of Interactive Computing, in collaboration with researchers from the University of Toronto, believe they have created the benchmark for a home robot that can keep an entire house tidy.

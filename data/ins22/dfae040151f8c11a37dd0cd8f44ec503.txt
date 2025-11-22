@@ -1,0 +1,7 @@
+Council Post: What To Consider When Identifying Your Company's SD-WAN Needs
+Copyright 2022 Forbes Media LLC
+business
+2022-10-19 12:15:00
+
+Robert is the founder of Netify. Compare the SD-WAN & cybersecurity market by building your free vendor or MSP shortlist here.
+getty What is an SD-WAN solution? An SD-WAN, or software-defined wide area network, provides connectivity to distributed enterprise networks and remote users via software overlay to manage and control underlay. This includes internet, broadband, multiprotocol label switching (MPLS) and wireless cellular. Businesses may be considering an SD-WAN to expand their network reach to include remote users, branch offices and rural offices from multiple devices and locations.

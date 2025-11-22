@@ -1,0 +1,6 @@
+So long, home T1 line; hello, hacking the T1 router
+blogspot.com
+news
+2022-05-31 16:38:00
+
+Floodgap has had a T1 line since I moved into this house in 2011. I'm one of those weirdos who runs my own hardware and prefers to avoid co-lo so that I can access things whenever I want despite the additional logistical complexity, and also acts as useful immunity against acquiring other expensive hobbies. The area was boonies-ish when I moved here (big house, cheap price, bottom of the market after the housing crash), arguably still is, and for at least several years there was no DSL due to its distance from the central office (fiber? hahahaha).

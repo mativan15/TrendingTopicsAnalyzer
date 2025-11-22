@@ -1,0 +1,8 @@
+Sports Betting Firm Adopts Oil-Trading Tech to Fine-Tune Predictions
+yahoo.com
+news
+2022-10-17 04:01:00
+
+A complex estimation algorithm used by commodities traders to forecast prices and the Federal Reserve Bank to estimate GDP growth has a new application: predicting how an athlete's performance could affect a team's odds of winning a game. The Quant Edge, a four-year-old venture started by long-time oil trader Todd Gross and backed by New York soccer legend Shep Messing, thinks venture capitalists will want to buy into the idea to the tune of $10 million.
+
+The math is intricate, but the idea is simple enough: Kalman filtering, an algorithm used in machine learning (ML), takes many pieces of information, including some that are seemingly useless, and finds statistically significant connections among pairs of groupings of data points.

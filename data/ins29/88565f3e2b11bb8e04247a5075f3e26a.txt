@@ -1,0 +1,8 @@
+Are Deterra Royalties Limited (ASX:DRR) Investors Paying Above The Intrinsic Value?
+yahoo.com
+news
+2022-06-06 01:02:03
+
+In this article we are going to estimate the intrinsic value of Deterra Royalties Limited (ASX:DRR) by taking the expected future cash flows and discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. There's really not all that much to it, even though it might appear quite complex.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios. Anyone interested in learning a bit more about intrinsic value should have a read of the Simply Wall St analysis model.

@@ -1,0 +1,6 @@
+Man Group selects Percona for MongoDB support
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 08:00 AM Eastern Daylight Time RALEIGH, N.C.--(BUSINESS WIRE)--Percona, a leader in open source database software and services, today announced that Man Group, a global, technology-empowered active investment management firm with $151.4 billion in assets under management[1], has selected Percona for 24/7/365 support for its critical applications that depend on MongoDB. Percona will provide Premium Support to Man Group's Alpha Technology division, guaranteeing uptime for its core research and trading data applications.

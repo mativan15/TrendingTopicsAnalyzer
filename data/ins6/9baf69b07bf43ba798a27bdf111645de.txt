@@ -1,0 +1,6 @@
+AMD Strengthens Enterprise And Cloud Portfolios Pensando Acquisition (NASDAQ:AMD)
+seekingalpha.com
+finance
+2022-05-28 04:33:14
+
+Justin Sullivan/Getty Images News Advanced Micro Devices (NASDAQ:AMD) announced that it closed the Pensando acquisition. The press release as well as much of the technical and business press has categorized this transaction as AMD beefing up its DPU offerings. As discussed later in this article, this is not entirely accurate. DPU has been a popular term lately - Intel (INTC), Marvell (MRVL), and NVIDIA (NVDA) have shown considerable interest in the DPU space. Nvidia, since the Mellanox acquisition, has been hyping how it will restructure the data center with its DPUs.

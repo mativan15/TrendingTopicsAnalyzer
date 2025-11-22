@@ -1,0 +1,8 @@
+Google rolls out Gmail redesign on iOS settings
+Copyright:(C)2022 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html
+economics
+2022-10-18 07:16:32
+
+Tech giant Google has rolled out a Gmail redesign to make iOS settings simpler. Gmail settings on iPhone and iPad have been redesigned by starting with the elimination of the General and accounts separation, reports 9To5Google.
+
+The preference list starts by separating settings for Chat and Meet, allowing users to swiftly turn off those tabs. Additionally, colourful icons are used to draw attention to each element. The 'Notifications' section has high-level controls, whereas the 'Inbox' and 'Compose and Reply' sections are quite simple.

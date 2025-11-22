@@ -1,0 +1,10 @@
+Plaid Unveils ‘Wallet Onboard' Tool, Promises Crypto Product Push
+yahoo.com
+news
+2022-10-20 11:00:00
+
+Banking fintech Plaid released its first crypto product – a wallet connector – kicking off a strategy that could take the multibillion-dollar company deep into crypto's weeds.
+
+Plaid, best known for bridging consumers' bank accounts with online payments platforms, said its 'Wallet Onboard' tool will make it easy for crypto developers to plug into over 300 different Ethereum wallets – and for their customers, too.
+
+It's also the launchpad for an array of Web3-focused products that Plaid is planning, said Alain Meier, head of the company's identity division.

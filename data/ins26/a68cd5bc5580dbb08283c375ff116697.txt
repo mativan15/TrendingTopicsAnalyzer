@@ -1,0 +1,6 @@
+How Neural Machine Translation works part1(Artificial Intelligence)
+medium.com
+entertainment
+2022-10-20 08:16:54
+
+Photo by Preethi Viswanathan on Unsplash1. Hybrid-Regressive Neural Machine Translation(arXiv)Author : Qiang Wang, Xinhui Hu, Ming ChenAbstract : In this work, we empirically confirm that non-autoregressive translation with an iterative refinement mechanism (IR-NAT) suffers from poor acceleration robustness because it is more sensitive to decoding batch size and computing device setting than autoregressive translation (AT). Inspired by it, we attempt to investigate how to combine the strengths of autoregressive and non-autoregressive translation paradigms better.

@@ -1,0 +1,10 @@
+Atlan Becomes dbt Semantic Layer Launch Partner and Announces Integration
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 12:02 PM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Atlan, the active metadata platform for modern data teams, today announced a partnership with dbt Labs, the pioneer in analytics engineering. As part of this, joint customers will have access to an end-to-end governance framework for data models and metrics in the modern data stack.
+
+
+
+dbt Labs' new Semantic Layer enables organizations to centrally define key business metrics like 'revenue,' 'customer count,' or 'churn rate' in dbt, and query them in downstream analytics tools.

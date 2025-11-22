@@ -1,0 +1,8 @@
+A Look At The Fair Value Of SSR Mining Inc. (TSE:SSRM)
+yahoo.com
+news
+2022-06-05 14:40:48
+
+In this article we are going to estimate the intrinsic value of SSR Mining Inc. (TSE:SSRM) by taking the expected future cash flows and discounting them to their present value. One way to achieve this is by employing the Discounted Cash Flow (DCF) model. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.

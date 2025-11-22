@@ -1,0 +1,6 @@
+Mitsubishi Electric's AI Creates Knowledge Graphs from Text and Graphics to Visualize Information Relevance
+businesswire.com
+news
+2022-05-31 00:00:00
+
+TOKYO--(BUSINESS WIRE)--Mitsubishi Electric Corporation (TOKYO: 6503) announced today that it has developed a technology based on its Maisart®1 AI technology that automatically constructs knowledge graphs by acquiring key phrases, authors, citation relationships and whole-part relationships of elements in various materials, including figures and tables, and then visualizes the relevance of the information so that users can identify and understand the most necessary information quickly and intuitively.

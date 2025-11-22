@@ -1,0 +1,6 @@
+Data privacy is expensive — here's how to manage costs
+venturebeat.com
+news
+2022-10-18 19:00:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Data privacy has always been a top priority in both consumer and business circles. Individuals, including company employees, demand more control over how their personal data is used and greater transparency into how businesses manage customer information. If data is the currency of the future, then ensuring data privacy is the key to gaining user trust.  In light of high-profile breaches and data leakage incidents such as the Sunburst SolarWinds attack, the Estée Lauder customer database leak, the discovery of Facebook and MGM Resorts confidential data on the dark web, the resurgence of WannaCry, REvil and other ransomware attacks companies have realized the need for robust data privacy strategies and processes.

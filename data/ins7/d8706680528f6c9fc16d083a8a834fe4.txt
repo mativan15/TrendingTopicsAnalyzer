@@ -1,0 +1,8 @@
+Majority of CIOs say their software supply chains are vulnerable, execs demand action
+techrepublic.com
+news
+2022-06-02 19:57:41
+
+Image: Shutterstock/PabloLagart
+While supply chains are not as tangled as they were during the heart of the COVID-19 pandemic, there are still some large security issues at hand. A new survey of 1,000 CIOs conducted by Venafi shows that over 80% said their organizations are vulnerable to cyberattacks targeting software supply chains. These cybersecurity gaps remain a major concern for many businesses, as the rate of supply chain attacks spiked 51% last year alone.
+'Digital transformation has made every business a software developer.

@@ -1,0 +1,12 @@
+New York Senate passes moratorium to ban carbon-based crypto mining
+yahoo.com
+news
+2022-06-03 19:43:35
+
+The New York Senate has passed a bill that bans crypto mining operations that use carbon-based fuel to power their facilities.
+
+The bill specifically is targeting proof-of-work mining, which is one of the two most popular mechanisms cryptocurrencies use to verify new transactions on the blockchain and make new tokens, but it uses a lot of energy to validate blockchain transactions.
+
+Some of the most popular proof-of-work tokens include Bitcoin, Ethereum and Dogecoin.
+
+The alternative, proof-of-stake, is when cryptocurrencies – like ETH2.

@@ -1,0 +1,10 @@
+KuCoin Partnered with Pyth Network to Bring the Crypto Market Price On-Chain
+businesswire.com
+news
+2022-05-30 00:00:00
+
+May 30, 2022 06:00 AM Eastern Daylight Time VICTORIA, Seychelles--(BUSINESS WIRE)--The global cryptocurrency exchange KuCoin announced that it is strategically partnering with Pyth network, a next-generation Oracle solution built on the Solana blockchain and designed to provide trusted and verifiable market data to decentralized applications. With the partnership, KuCoin will provide real-time prices of trading pairs listed on KuCoin to Pyth network, bringing crypto market prices fully on-chain.
+
+
+
+Pyth network is a leading player in the DeFi ecosystem, having built one of the largest and most reliable oracle networks, derived from price data being contributed by now nearly 60 leading institutions in crypto and traditional finance.

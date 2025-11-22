@@ -1,0 +1,41 @@
+Pre-Inpainting Convolutional Skip Triple Attention Segmentation Network for AGV Lane Detection in Overexposure Environment
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 1,*, 1,*, 1,*, 2, 3 and 3 
+
+
+1
+School of Computer Science and Technology, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+2
+Institute of Land Aviation, Beijing 101121, China
+
+
+3
+Institute of Optical Target Simulation and Test Technology, Harbin Institute of Technology, Harbin 150001, China
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Vicente Julian
+
+Appl. Sci. 2022, 12(20), 10675; https://doi.org/10.3390/app122010675 (registering DOI)
+
+
+Received: 12 September 2022
+/
+Revised: 13 October 2022
+/
+Accepted: 19 October 2022
+/
+Published: 21 October 2022
+ 
+
+Visual navigation is an important guidance method for industrial automated guided vehicles (AGVs).

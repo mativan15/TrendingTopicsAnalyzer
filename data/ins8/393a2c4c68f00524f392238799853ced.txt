@@ -1,0 +1,29 @@
+Mathematical Formulations for Asynchronous Parallel Disassembly Planning of End-of-Life Products
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+ 1, 1, 2,*, 1, 1 and 3 
+
+
+1
+School of Computer Science, Liaocheng University, Liaocheng 252000, China
+
+
+2
+Department of Industrial Engineering, School of Intelligent Systems Science and Engineering, Jinan University, Zhuhai 519070, China
+
+
+3
+State Key Lab of Digital Manufacturing Equipment and Technology, Huazhong University of Science and Technology, Wuhan 430074, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Ripon Kumar Chakrabortty
+
+Mathematics 2022, 10(20), 3854; https://doi.

@@ -1,0 +1,7 @@
+The best games to show off Nvidia's RTX 4090
+digitaltrends.com
+news
+2022-10-18 00:00:29
+
+Nvidia's monstrous RTX 4090 is finally here, and it's powerful (just read our RTX 4090 review). It's so powerful, in fact, that there aren't a lot of games that truly showcase the GPU's power. The RTX 4090 is the best graphics card you can buy, but you'll want to install a few key games to show off what the GPU is capable of.
+There are a few games that still push the RTX 4090, though many of our recommendations come on the back of Nvidia's Deep Learning Super Sampling (DLSS). DLSS 3 includes a frame generation setting that's only available on RTX 40-series GPUs, which helps a lot of games that are traditionally limited by your processor hit a high frame rate.

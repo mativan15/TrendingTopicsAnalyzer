@@ -1,0 +1,7 @@
+GOP senators want to ban China's digital currency from US apps and app stores
+arstechnica.com
+news
+2022-05-27 16:32:00
+
+Three Republican senators are proposing a law to prohibit app stores from carrying apps that accept payments using China's digital currency. The "Defending Americans from Authoritarian Digital Currencies Act" would prohibit app stores in the US from carrying or supporting any app "that supports or enables transactions in e-CNY," also known as the digital yuan or digital renminbi.
+The app stores would also be prohibited from supporting or enabling digital yuan transactions. The bill defines an app store broadly as "a publicly available website, software application, or other electronic service that distributes applications from third-party developers to users of a computer, a mobile device, or any other general purpose computing device.

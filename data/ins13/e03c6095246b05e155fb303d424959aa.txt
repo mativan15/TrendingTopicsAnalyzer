@@ -1,0 +1,6 @@
+Cosmo Energy selects Domo to accelerate data democratization (OTCMKTS:CSGYY)
+seekingalpha.com
+news
+2022-10-20 14:34:39
+
+Cosmo Energy (OTCPK:CSGYY) has chosen Domo's (NASDAQ:DOMO) cloud-based platform to accelerate data democratization across the entire business. Cosmo also saw increased efficiency and alignment between its IT and business departments, leveraging data and Domo to make informed decisions to improve business performance. Noriko Rzonca, Chief Digital Officer at Cosmo Energy , commented, 'We started the BI process in reverse to accelerate our data democratization. By starting with visualizing our questions, rather than focusing on intensive data preparation -- which the Domo platform easily handles -- we were able to eliminate the rework and redevelopment that occurs with other traditional BI tools.

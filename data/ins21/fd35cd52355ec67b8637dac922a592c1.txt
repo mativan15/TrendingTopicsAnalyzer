@@ -1,0 +1,6 @@
+Juniper Research: Security Information & Event Management Spend to Exceed $6.4 Billion by 2027 Globally, as IBM, Rapid7 & Splunk Lead the Market
+yahoo.com
+news
+2022-10-17 06:00:00
+
+BASINGSTOKE, England, October 17, 2022--(BUSINESS WIRE)--A new study from Juniper Research has found that the total business spend on SIEM (Security Identity & Event Management) will exceed $6.4 billion globally by 2027, from just over $4.4 billion in 2022. It predicts that this growth of 45% will be driven by the transition from term licence (where businesses can use SIEM for specific licence lengths) to more flexible SaaS (Software-as-a-Service) models (where SIEM solutions are purchased via monthly subscription).

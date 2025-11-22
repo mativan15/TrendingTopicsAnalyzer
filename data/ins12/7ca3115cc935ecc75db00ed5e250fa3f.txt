@@ -1,0 +1,6 @@
+Making Crypto Hacking Less Lucrative
+bloomberg.com
+news
+2022-10-20 17:50:52
+
+Finance rewards cleverness. Sometimes this is true in a pleasingly positive-sum way; if you can cleverly think up a new way to slice cash flows or allocate risk then you can get rich by increasing economic activity. Often, though, it is true in some straightforwardly zero-sum way: If you have a contract with a counterparty, and you cleverly ferret out a hidden provision in the contract that says that your counterparty has to give you $10 million, then you get $10 million and they lose $10 million.

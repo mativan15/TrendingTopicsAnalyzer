@@ -1,0 +1,9 @@
+Helpful strategies for improving data quality in data lakes
+techrepublic.com
+entertainment
+2022-10-18 18:14:09
+
+Image: NicoElNino/Adobe Stock
+For as long as there's been data, enterprises have tried to store it and make it useful. Unfortunately, sometimes the way enterprises store data does not directly correlate with making it useful. Yes, I'm talking about data lakes.
+SEE: Hiring kit: Data scientist (TechRepublic Premium)
+The promise of data lakes is clear: A central place for an enterprise to push its data. In some ways, data lakes could be seen as the next generation of data warehouses. Unlike the warehouse, however, data lakes allow companies to dump data into the lake without cleansing and preparing it beforehand.

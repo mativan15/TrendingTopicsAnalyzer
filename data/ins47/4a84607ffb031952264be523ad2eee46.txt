@@ -1,0 +1,9 @@
+What Is Ethereum 2.0? Understanding The Merge
+forbes.com
+news
+2022-05-31 13:58:59
+
+Editorial Note: We earn a commission from partner links on Forbes Advisor. Commissions do not affect our editors' opinions or evaluations.
+ The long-awaited update to the Ethereum blockchain could finally happen this summer.
+At the ETH Shanghai Web 3.0 Developer Summit last week, Ethereum co-founder Vitalik Buterin said 'the merge' will be completed this summer. This transformative update will switch Ethereum to a proof-of-stake consensus mechanism from a proof-of-work model.
+'If there are no problems, then the merge will happen in August,' said Buterin.

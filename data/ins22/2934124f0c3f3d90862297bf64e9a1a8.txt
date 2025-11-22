@@ -1,0 +1,6 @@
+Abnormal Security Stops Email Attacks with Behavioral AI, Named to Forbes AI 50 for Third Consecutive Year
+businesswire.com
+news
+2022-06-02 00:00:00
+
+June 02, 2022 09:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Abnormal Security, the leading AI-based cloud-native email security platform, announced today that it has been named to the Forbes AI 50, a prestigious list of companies leading the way in using artificial intelligence to shape the future. Abnormal is recognized for its cloud-native email security platform that uses behavioral AI to analyze identity, content, and context and leverages 45,000+ signals from cloud email platforms to stop all types of email attacks including business email compromise, supply chain fraud, ransomware, phishing, spam, and graymail.

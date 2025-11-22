@@ -1,0 +1,10 @@
+Battery-draining Android apps with 20 million downloads pulled from the Google Play Store
+zdnet.com
+news
+2022-10-21 14:32:13
+
+A woman looking thoughtful while looking at her smartphone. Image: Getty/Guido Mieth
+
+Sixteen Android apps downloaded by a combined total of over 20 million users have been removed from the Google Play store after it was discovered they contained malware which uses up data and drains batteries.
+
+The malware has been discovered by cybersecurity researchers at McAfee who reported them to Google. The apps are no longer available on Google Play – but users who've already downloaded the apps will still be infected unless they uninstall them.

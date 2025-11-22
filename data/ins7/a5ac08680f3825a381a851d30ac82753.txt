@@ -1,0 +1,6 @@
+Replace Chrome's new tab page with this far better alternative
+pcworld.com
+news
+2022-05-31 13:15:00
+
+This may be a weird thing to admit, but I've become smitten with my web browser's new tab page. It's not the standard one that comes with Microsoft Edge or any other browser for that matter. Instead, it's a fantastic extension called Tabliss, available for Chrome (or other Chromium-based browsers such as Microsoft Edge) and Firefox. Once installed, it replaces your browser's regular new tab page with one that's prettier, more customizable, and even a little inspirational. By default, Tabliss presents you with a beautiful nature photo, along with the current time and a time-appropriate greeting.

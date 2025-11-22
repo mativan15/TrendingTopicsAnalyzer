@@ -1,0 +1,6 @@
+NFTs will (probably) be back
+substack.com
+news
+2022-05-29 15:23:57
+
+NFTs are really the third use that people have found for blockchain technology. The first one was illicit value transfers; Bitcoin and other cryptocurrencies may not be a very good form of money in general, but they make it easier to commit cybercrimes and to evade nations' capital controls. The second one was DAOs, which at least in theory allow people to form organizations without paying the overhead of hiring lawyers (though as far as I can tell this doesn't quite work yet). NFTs represent yet another thing you can do with blockchains — you can assign and transfer ownership of a digital collectible.

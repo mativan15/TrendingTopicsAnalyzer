@@ -1,0 +1,7 @@
+AMI Contributes its Tektagon OpenEdition Platform Root of Trust Firmware Code Base to the Open Compute Project
+prnewswire.com
+news
+2022-10-18 16:00:00
+
+ATLANTA and SAN JOSE, Calif., Oct. 18, 2022 /PRNewswire/ -- AMI®, a global leader in the Dynamic Firmware market for worldwide computing, today announces its contribution of its Tektagon OpenEdition™ Platform Root of Trust (PRoT) code base to the Open Compute Project® (OCP®).
+This contribution joins AMI's ongoing contributions of its Aptio OpenEdition™ UEFI Firmware and MegaRAC OpenEdition™ BMC Firmware code bases to OCP. With this contribution, AMI now offers open-source firmware solutions across all three of its core firmware product categories – to power (UEFI), manage (BMC) and secure (PRoT) the world's connected devices with open-source dynamic firmware from AMI.

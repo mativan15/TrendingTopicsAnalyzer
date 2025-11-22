@@ -1,0 +1,8 @@
+Ethereum Faces a Test of Its Ideals After the Merge
+time.com
+news
+2022-10-20 11:00:07
+
+Last month, the blockchain Ethereum celebrated the successful completion of the merge, a long-anticipated technical update. The merge made Ethereum far more environmentally sustainable and harder to hack, and it laid the groundwork for the network to scale toward mass adoption.
+
+But the merge has also brought at least one unintended consequence that critics argue threaten the whole premise of the network: More than half of the network's activity is now subject to new U.S. government sanctions. It's a twist that runs counter to everything Ethereum stands for, as it has long prided itself on being autonomous from governments and resistant to censorship.

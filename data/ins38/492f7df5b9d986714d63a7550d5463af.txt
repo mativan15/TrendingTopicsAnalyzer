@@ -1,0 +1,6 @@
+Oracle analytics update adds CX app, semantic modeling tool
+techtarget.com
+business
+2022-10-18 12:11:15
+
+A prebuilt application for customer experience, semantic modeling feature and delivery of automated insights are among a host of new capabilities in the latest Oracle analytics platform update. In 2019, the tech giant, now based in Austin, Texas, pared its analytics suite down from 19 products to three in an effort to simplify use of the platform. Fusion Analytics is a suite of cloud-native prebuilt applications that can be embedded in users' workflows. Analytics Cloud (OAC) is Oracle's cloud-native business intelligence service.

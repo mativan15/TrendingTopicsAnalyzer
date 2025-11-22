@@ -1,0 +1,6 @@
+Sinch integrates South Korean messaging app KakaoTalk into Conversation API
+indiatimes.com
+news
+2022-10-21 11:00:00
+
+NEW DELHI: Cloud communications provider Sinch on Friday said the company is integrating KakaoTalk, which has over 53 million users in South Korea, into the Sinch Conversation API. With this latest addition, Sinch is expanding the number of channels enterprises can use to engage with their customers. These include SMS, Rich Communication Services (RCS), WhatsApp, Viber Business, Facebook Messenger, among others, and now KakaoTalk, the company said in a statement.'Businesses need to be able to interact with their customers on KakaoTalk, as its high open rates and click-through rates mean the app provides an ideal medium for marketing, sales consultations, and customer support,' it added.

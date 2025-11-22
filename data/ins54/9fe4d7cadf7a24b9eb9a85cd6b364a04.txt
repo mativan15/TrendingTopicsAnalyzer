@@ -1,0 +1,8 @@
+Windows 11 update fail breaks some antivirus apps
+techradar.com
+tech
+2022-05-27 13:40:42
+
+(Image credit: Shutterstock / Roman Samborskyi)
+
+ The latest Windows 11 update breaks some important parts of some Trend Micro's antivirus and security products, the company has advised.This relates to a number of Trend Micro's business security solutions, and the damage is caused by the optional update for Windows 11 (and Windows Server 2022) which has just been released (patch KB5014019).Bleeping Computer (opens in new tab) spotted that Trend Micro warns (opens in new tab) that KB5014019 causes a compatibility bug with the User Mode Hooking (UMH) component of some products, and this derails ransomware protection, worryingly, among other ‘advanced' features.

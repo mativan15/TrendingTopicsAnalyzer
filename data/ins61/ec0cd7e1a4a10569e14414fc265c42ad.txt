@@ -1,0 +1,6 @@
+Council Post: Why Automation Is Not A Cybersecurity Silver Bullet—Yet
+forbes.com
+news
+2022-06-03 14:30:00
+
+Eoin Keary Founder & CEO of edgescan.com, an enterprise Attack Surface Management, Penetration as a Service & Vulnerability Management SaaS. getty When it comes to protecting an enterprise from a cybersecurity standpoint, leaders need to act fast, maintain visibility and detect threats as soon as possible. In the cybersecurity world, automation provides scale and consistency that can be used to deliver repetitious work and react fast to certain conditions. Even better is intelligent automation based on artificial intelligence (AI) or machine learning (ML).

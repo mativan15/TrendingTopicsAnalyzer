@@ -1,0 +1,9 @@
+Enterprise data egress: Who is watching?
+techradar.com
+tech
+2022-10-17 13:02:19
+
+(Image credit: Facebook)
+
+
+Not long ago, business' critical digital information moved away from the enterprise in tapes and disks to be stored at an offsite location for backup and archiving. That was the only time when the digital information left the boundaries of the enterprise. Even now, many enterprises follow this practice. The vaults where these tapes and disks are preserved are highly physically secure. This method provides peace of mind when it came to security and privacy of the enterprise data.

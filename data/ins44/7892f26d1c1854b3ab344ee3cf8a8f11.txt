@@ -1,0 +1,6 @@
+Why Russia's Cyberattacks on Ukraine Have Failed to Make a Significant Dent
+pcmag.com
+news
+2022-06-02 18:00:00
+
+HELSINKI–At the start of Russia's invasion of Ukraine, the odds of Russian malware traversing government computers in Kyiv seemed even higher than the chances of Russian tanks rolling down that city's streets. But much as Russia's armed forces failed to take Ukraine's capital, its digital attacks have yet to leave much of a dent."Russia's attacks have failed surprisingly much, both in the online world and in the real world,' WithSecure Chief Research Officer Mikko Hyppönen said in a talk Wednesday at the Sphere conference(Opens in a new window) here hosted by that firm, an enterprise-focused spin-off of the longtime security company F-Secure.

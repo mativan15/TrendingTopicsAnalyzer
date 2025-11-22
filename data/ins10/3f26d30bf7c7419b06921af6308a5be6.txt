@@ -1,0 +1,6 @@
+What we know about Medibank hack, and what should customers do?
+brisbanetimes.com.au
+tech
+2022-10-20 07:58:39
+
+Medibank on Thursday confirmed it had received a sample of data on 100 customers from the hackers, which it said was authentic, and warned that it expects the number of affected customers to grow substantially in coming days.How does this compare to the Optus hack?LoadingIt is not clear yet because we don't know enough about the nature of the respective hacks, but the data that appears to have been stolen here is much more sensitive. It could include data that would let a criminal tell that someone had received treatment for a substance addiction, for example.

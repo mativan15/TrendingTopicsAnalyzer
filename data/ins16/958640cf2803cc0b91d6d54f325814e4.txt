@@ -1,0 +1,9 @@
+Data modeling vs. data analysis: A breakdown of their differences
+techrepublic.com
+news
+2022-10-21 19:16:56
+
+Image: rulizgi/Adobe Stock
+While the terms data analysis and data modeling are often intertwined, they are two different concepts. Simply put, data analysis is about using data and information to drive business decisions, while data modeling refers to the architecture that makes analysis possible. In other words, data modeling and data analysis work best when they are used together.
+SEE: Job description: Big data modeler (TechRepublic Premium)
+But how do organizations embed data into every decision and process? The answer starts with effective data modeling and continues with data analysis.

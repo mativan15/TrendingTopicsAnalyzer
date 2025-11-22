@@ -1,0 +1,6 @@
+Research Papers about the developments in the Finite State Automation
+medium.com
+entertainment
+2022-05-28 00:51:17
+
+Photo by Lenny Kuhne on UnsplashLearning Graph Structure With A Finite-State Automaton Layer(arXiv)Author : Daniel D. Johnson, Hugo Larochelle, Daniel TarlowAbstract : Graph-based neural network models are producing strong results in a number of domains, in part because graphs provide flexibility to encode domain knowledge in the form of relational structure (edges) between nodes in the graph. In practice, edges are used both to represent intrinsic structure (e.g., abstract syntax trees of programs) and more abstract relations that aid reasoning for a downstream task (e.

@@ -1,0 +1,8 @@
+An Intrinsic Calculation For Likewise Group plc (LON:LIKE) Suggests It's 42% Undervalued
+yahoo.com
+sport
+2022-05-28 09:16:18
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Likewise Group plc (LON:LIKE) as an investment opportunity by taking the expected future cash flows and discounting them to their present value. This will be done using the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.

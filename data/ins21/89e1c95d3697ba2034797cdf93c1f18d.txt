@@ -1,0 +1,35 @@
+Grey-Fuzzy Hybrid Optimization for Thermohydrodynamic Performance Prediction of Misaligned Rough Elliptic Bore Journal Bearing
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 2 and 1,* 
+
+
+1
+Department of Mechanical Engineering, Veer Surendra Sai University of Technology, Burla 768018, India
+
+
+2
+School of Mechanical Engineering, KIIT University, Bhubaneswar 751024, India
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+ 
+Lubricants 2022, 10(10), 274; https://doi.org/10.3390/lubricants10100274 (registering DOI)
+
+
+Received: 24 September 2022
+/
+Revised: 18 October 2022
+/
+Accepted: 19 October 2022
+/
+Published: 21 October 2022
+ 
+
+Rough elliptic bore misaligned journal bearing performance involves many geometric and operational parameters, which directly or indirectly affect the thermohydrodynamic performance output.

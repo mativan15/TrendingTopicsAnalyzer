@@ -1,0 +1,6 @@
+Tool visualizes the public health impact of redlining
+jhu.edu
+business
+2022-06-02 16:00:00
+
+The long-term, systemic consequences of structural racism can be challenging to see, quantify, and communicate. But an online tool developed by Jaime Madrigano, an associate professor in the Department of Environmental Health and Engineering at the Johns Hopkins Bloomberg School of Public Health, aims to do all three. "Environmental Racism: A Tool for Exploring the Enduring Legacy of Redlining on Urban Environments" enables users to visualize the correlation between 14 contemporary environmental metrics and the practice of "redlining" that took place in the 1930s.

@@ -1,0 +1,35 @@
+A Contactless Glucose Solution Concentration Measurement System Based on Improved High Accurate FMCW Radar Algorithm
+Creative Commons Attribution (CC-BY)
+science
+2022-05-29 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+, * and * 
+
+
+School of Electronic Science and Engineering, Nanjing University, Nanjing 210000, China
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Nicola Donato, Luca Lombardo and Giovanni Gugliandolo
+
+Sensors 2022, 22(11), 4126; https://doi.org/10.3390/s22114126 (registering DOI)
+
+
+Received: 2 May 2022
+/
+Revised: 20 May 2022
+/
+Accepted: 26 May 2022
+/
+Published: 29 May 2022
+ 
+
+To reduce the pain and the probability of cross-infection caused by the invasive blood glucose testing instruments, the ex vivo glucose measurement is of high significance.

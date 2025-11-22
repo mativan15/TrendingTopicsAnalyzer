@@ -1,0 +1,6 @@
+Trusted Objects adds Crypto Quantique's QuarkLink Platform to its Software Root-of-Trust for End-to-End IoT Device Security
+prweb.com
+tech
+2022-05-30 00:00:00
+
+Trusted Objects adds Crypto Quantique's QuarkLink Platform to its Software Root-of-Trust for End-to-End IoT Device Security Hervé Roche, VP of Marketing at Trusted Objects, said, 'We are always looking for ways to make IoT device security easier for our customers to implement. Crypto Quantique's technologies perfectly complement our own to simplify and accelerate deployment security in connected embedded systems.' AIX EN PROVENCE, France and LONDON (PRWEB) May 31, 2022 Trusted Object's software secure element, called to-protect, is a root-of-trust for generic microcontrollers (MCUs).

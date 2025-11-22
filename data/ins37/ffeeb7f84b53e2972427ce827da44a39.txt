@@ -1,0 +1,10 @@
+These artists found out their work was used to train AI. Now they're furious
+cnn.com
+tech
+2022-10-21 12:34:57
+
+CNN —
+
+Erin Hanson has spent years developing the vibrant color palette and chunky brushstrokes that define the vivid oil paintings for which she is known. But during a recent interview with her, I showed Hanson my attempts to recreate her style with just a few keystrokes.
+
+Using Stable Diffusion, a popular and publicly available open-source AI image generation tool, I had plugged in a series of prompts to create images in the style of some of her paintings of California poppies on an ocean cliff and a field of lupin.

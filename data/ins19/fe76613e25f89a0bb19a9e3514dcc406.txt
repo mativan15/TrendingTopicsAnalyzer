@@ -1,0 +1,6 @@
+Network transformation: a critical success factor for digital transformation
+techradar.com
+tech
+2022-10-17 13:18:03
+
+Digital transformation has many facets including cloud adoption (encompassing IAAS, PAAS and SAAS), use of analytics for gaining insights, artificial intelligence for prediction, and the latest being user interface technologies for better customer experience, and digitisation of business processes for improved efficiency. We also have 'things' from the IoT world playing a critical part in the digitised world. The list goes on but one thing that these have in common is the increased traffic the drive on the network with varying QoS requirements and also complex network architectures.

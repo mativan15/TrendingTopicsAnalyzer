@@ -1,0 +1,6 @@
+How Nash equilibrium is utilised in various ways part3(Statistics)
+medium.com
+entertainment
+2022-10-21 04:55:52
+
+Photo by Aditya Chinchure on UnsplashApproximate Nash Equilibrium Learning for n-Player Markov Games in Dynamic Pricing(arXiv)Author : Larkin LiuAbstract : We investigate Nash equilibrium learning in a competitive Markov Game (MG) environment, where multiple agents compete, and multiple Nash equilibria can exist. In particular, for an oligopolistic dynamic pricing environment, exact Nash equilibria are difficult to obtain due to the curse-of-dimensionality. We develop a new model-free method to find approximate Nash equilibria.

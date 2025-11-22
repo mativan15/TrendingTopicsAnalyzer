@@ -1,0 +1,6 @@
+Celo Blockchain-Based Moola Market Loses $8.5 Million In Hacking Incident
+ibtimes.com
+news
+2022-10-19 04:15:18
+
+Moola Market, a decentralized finance (DeFi) lending platform, has been hacked and the attacker has reportedly made away with close to $8.5 million.The platform's development team confirmed the exploit in a Twitter post, urging users to not trade any mtokens. All activities on the open-source protocol for decentralized money markets were paused temporarily."To the exploiter, we have contacted law enforcement and taken steps to make it difficult to liquidate the funds. We are willing to negotiate a bounty payment in exchange for returning the funds within the next 24 hours," announced Moola Market.

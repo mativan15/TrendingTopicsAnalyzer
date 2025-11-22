@@ -1,0 +1,6 @@
+In-situ alignment of 3D printed anisotropic hard magnets
+© 2022 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+news
+2022-10-20 00:00:00
+
+In-situ alignment of 3D printed anisotropic hard magnets M. Suppan1, C. Huber1, K. Mathauer1, C. Abert1,2, F. Brucker1, J. Gonzalez-Gutierrez3,7, S. Schuschnigg3, M. Groenefeld4, I. Teliban4, S. Kobe5, B. Saje6 & …D. Suess1,2  Scientific Reports  12, Article number: 17590 (2022) Cite this article EngineeringMaterials science Within this work, we demonstrate in-situ alignment of the easy axis single-crystal magnetic particles inside a polymer matrix using fused filament fabrication. Two different magnetic materials are investigated: (i) Strontium hexaferrite inside a PA6 matrix, fill grade: 49 vol% and (ii) Samarium iron nitride inside a PA12 matrix, fill grade: 44 vol%.

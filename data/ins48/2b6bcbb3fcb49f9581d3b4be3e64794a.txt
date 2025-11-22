@@ -1,0 +1,6 @@
+Follow the information (The real data problem)
+venturebeat.com
+news
+2022-06-04 15:20:00
+
+Step right up! Come one come all! Welcome to the highest stakes game of Three Card Monte that the world has ever seen. Deep learning is facing The Data Problem: the demand for labeled data is nearly infinite, and, arguably, the lack of labeled data in the enterprise is the key bottleneck to progress. Let's find the answer. First, we're going to pick from the staggering number of techniques that have emerged in the last several years to address The Data Problem at the core of artificial intelligence.

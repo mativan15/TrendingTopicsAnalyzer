@@ -1,0 +1,6 @@
+ADRs End Mixed, ABB and Ericsson Trade Actively
+marketwatch.com
+news
+2022-10-20 22:36:00
+
+By Denny Jacob International stocks trading in New York ended mixed Thursday. The S&P/BNY Mellon index of American depositary receipts was largely flat at 121.08. The European index ticked down 0.3% to 116.26. The Asian index was up 0.1% to 137.07. The Latin American index advanced 1.7% to 189.70, while the emerging-markets index moved up 0.5% to 241.10. ABB Ltd. was among those whose ADRs traded actively. The Swiss technology company ticked down 0.9% after net profit for the third quarter missed analysts' expectations as well as news that its plan to list its E-Mobility business unit isn't expected to happen this year.

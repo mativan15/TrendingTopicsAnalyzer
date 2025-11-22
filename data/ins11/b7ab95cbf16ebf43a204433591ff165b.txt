@@ -1,0 +1,7 @@
+What is a Facebook Pixel? Meta's marketing tool, explained
+digitaltrends.com
+business
+2022-10-16 20:00:03
+
+If you have a website for your business and you're wondering how well your ads are reaching prospective customers, you'll probably want to be able to measure that to make sure that the money you've spent on advertising for your business is money well spent. Meta (the parent company of social media platforms Facebook and Instagram) offers a tool that can measure that by capturing how your customers interact with your business' website.
+At one point, this tool was known as a Facebook Pixel. But since the technology company's recent rebranding to Meta, the tool also underwent a name change and is now known as the Meta Pixel.

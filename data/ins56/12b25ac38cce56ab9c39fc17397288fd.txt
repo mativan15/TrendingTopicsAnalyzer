@@ -1,0 +1,6 @@
+Meta has developed an AI translator for a primarily-spoken language
+mashable.com
+news
+2022-10-20 05:41:00
+
+Meta has developed an artificially intelligent translation system that can convert an oral language — Hokkien — to spoken English. It's another step closer to finally making Star Trek's Universal Translator a reality.CEO Mark Zuckerberg shared a video demonstrating the tech alongside software engineer Peng-Jen Chen in a Facebook post on Wednesday. In it, the two converse in English and Hokkien respectively, with Meta's AI system audibly translating. The demonstration appears fairly impressive, though like Meta's VR legs, it's highly likely the video was edited for illustrative purposes and the current product isn't quite as smooth.

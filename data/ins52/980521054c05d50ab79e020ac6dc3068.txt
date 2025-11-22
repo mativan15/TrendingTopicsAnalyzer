@@ -1,0 +1,6 @@
+How Task-oriented Communication works part2
+medium.com
+news
+2022-10-18 00:03:58
+
+Photo by Quino Al on Unsplash1.Adaptable Semantic Compression and Resource Allocation for Task-Oriented Communications (arXiv)Author : Chuanhong Liu, Caili Guo, Yang Yang, Nan JiangAbstract : Task-oriented communication is a new paradigm that aims at providing efficient connectivity for accomplishing intelligent tasks rather than the reception of every transmitted bit. In this paper, a deep learning-based task-oriented communication architecture is proposed where the user extracts, compresses and transmits semantics in an end-to-end (E2E) manner.

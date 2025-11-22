@@ -1,0 +1,32 @@
+Efficient Memristive Circuit Design of Neural Network-Based Associative Memory for Pavlovian Conditional Reflex
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+Open AccessArticle by
+, and * 
+
+
+Department of Nanoscience and Engineering, Centre for Nano Manufacturing, Inje University, Gimhae 50834, Korea
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Zhongrui Wang
+
+Micromachines 2022, 13(10), 1744; https://doi.org/10.3390/mi13101744 (registering DOI)
+
+
+Received: 17 September 2022
+/
+Revised: 10 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 15 October 2022
+ 
+
+The brain's learning and adaptation processes heavily rely on the concept of associative memory.

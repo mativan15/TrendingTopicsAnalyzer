@@ -1,0 +1,6 @@
+No more the renegade
+techradar.com
+tech
+2022-10-17 13:18:53
+
+IT departments like to know what's happening with the overall business. Without visibility, nasty security issues can arise and then it's time for IT to ‘fight the fires'. Cloud apps used to be those nasty surprises.As users, with just enthusiasm and a credit card, would sign up for file sharing, collaboration and CRM applications that were loaded with sensitive data, and often, without the right level of security policy, encryption or enforcement. With recent reports showing that organisations are now running some form of cloud app, this article looks at how the IT department can embrace the adoption of more agile apps, secure them, and ensure that they reside within a sensible overall compliance and security policy.

@@ -1,0 +1,10 @@
+Aptos Debuts Its Blockchain, Putting Millions in VC Dollars to the Test
+yahoo.com
+business
+2022-10-17 19:26:03
+
+Aptos Labs blockchain launched its mainnet on Monday, becoming the first of the Facebook spin-off networks to premiere and putting to the test its multibillion-dollar valuation.
+
+Aptos is the brainchild of several ex-Meta employees who pioneered the company's failed diem stablecoin. The Aptos blockchain's code is written with Move, the Rust-based programming language also to be used by Mysten Labs' Sui blockchain, another upcoming network.
+
+While Aptos Labs has declared its network "live," its ecosystem is far from completed, with dozens of teams yet to launch the wallets, trading venues and non-fungible token tech essential to decentralized finance (DeFi).

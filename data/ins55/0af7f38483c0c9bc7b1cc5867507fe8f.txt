@@ -1,0 +1,6 @@
+The networking challenges facing the modern business
+techradar.com
+tech
+2022-10-17 12:39:39
+
+As the speed of individual broadband connections has increased exponentially and the related costs of those connections have dropped, many organisations are looking to move away from a comprehensive private networking strategy to a system relying significantly more on the connectivity of the public internet and the use of internet VPNs.  Whether this is about cost, less onerous restrictions on home-working or the occasionally challenging performance of enterprise networking solutions, there is a rising trend of organisations running smaller sites over internet VPNs and relying on commercially available public internet connections to keep their business or organisation up and running.

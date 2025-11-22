@@ -1,0 +1,10 @@
+MLOps Company Iterative Introduces the First Open, Git-based Machine Learning Model Deployment and Management Tool
+businesswire.com
+news
+2022-06-01 00:00:00
+
+June 01, 2022 09:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Iterative, the MLOps company dedicated to streamlining the workflow of data scientists and Machine Learning (ML) engineers, today launched Machine Learning Engineering Management (MLEM) – an open source model deployment and registry tool that uses an organization's existing Git infrastructure and workflows.
+
+
+
+MLEM bridges the gap between ML engineers and DevOps teams. DevOps teams can easily understand the underlying frameworks and libraries a model uses and automate deployment into a one-step process for production services and apps.

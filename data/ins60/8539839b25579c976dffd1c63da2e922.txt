@@ -1,0 +1,11 @@
+Huge Facebook Messenger mistake could let snoopers read your texts
+thesun.co.uk
+tech
+2022-10-20 15:16:40
+
+IF you're always chatting on Facebook Messenger, make sure your texts are encrypted.
+Leaving them unencrypted puts them at greater risk of snooping – and it's so easy to avoid.
+Encryption can help to keep you safe onlineCredit: Facebook
+Facebook has built a way of encrypting chats directly into Messenger.
+That means your texts are scrambled in transit, keeping out potential snoopers.
+"End-to-end encryption adds extra security and protection to your messages and calls in a conversation so that only you and whoever you're talking to can see, hear or read them," said Facebook.

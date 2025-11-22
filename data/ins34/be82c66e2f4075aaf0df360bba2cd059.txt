@@ -1,0 +1,6 @@
+New Research Shows Nearly Four out of Five (79%) Organizations Faced Ransomware Attacks within the Last Year
+businessinsider.com
+finance
+2022-06-02 16:12:00
+
+Storage Systems and Cloud-based Data are Most Targeted Environments, with Application Software Vulnerabilities Representing the Leading Point of Compromise 56% of Victimized Organizations Paid Ransom with Only 1 in 7 Regaining All Data Post Payment SANTA CLARA, Calif., June 2, 2022  /PRNewswire/ -- Hitachi Vantara, the digital infrastructure, data management and analytics, and digital solutions subsidiary of Hitachi Ltd. (TSE: 6501), announced the findings of a co-sponsored research report with Enterprise Strategy Group (ESG) titled "The Long Road Ahead to Ransomware Preparedness," March 2022.

@@ -1,0 +1,7 @@
+How I made a Chrome extension for converting Reg US spelling
+theregister.com
+news
+2022-10-22 07:45:10
+
+Hands On The Register began life in London in 1994 and today has journalists and other staff all over the world, which is to say San Francisco, Sydney, Singapore, Berlin, and beyond.
+It used to be that our vultures wrote in their local style: Americans used US spellings, the British relied on UK spellings, the Australians were pretty much in UK-mode, too, and everyone else did what felt natural. If an article was, for instance, written by the US team and published in the UK morning, the spelling would often be changed to British.

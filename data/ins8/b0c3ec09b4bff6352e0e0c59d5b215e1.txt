@@ -1,0 +1,6 @@
+Nvidia RTX DLSS: everything you need to know
+msn.com
+news
+2022-10-15 08:00:00
+
+Nvidia has two standout features on its RTX 30-series and RTX 40-series graphics cards: ray tracing and DLSS. The PlayStation 5 and Xbox Series X have both done a good job of introducing most people to ray tracing, but DLSS is still a little nebulous. It's a little complex, but it lets you play a game at a virtualized higher resolution, maintaining greater detail and higher frame rates without taxing your graphics card as much. It gives you the best of all worlds by harnessing the power of machine learning, and with the introduction of DLSS 3, the technology just got even more powerful.

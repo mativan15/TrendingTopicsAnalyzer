@@ -1,0 +1,22 @@
+What to do if your tax agent business is changing
+google.com
+news
+2022-10-17 10:39:52
+
+If your business is changing legal entity
+
+Your tax agent firm is a legal entity if it has any legal rights and responsibilities, including tax filings. If your business is changing legal entity for any reason, such as changing from a sole trader to a limited company, there are some things you must do.
+
+If you're using an agent services account
+
+You will need to:
+
+create a new agent services account for the new legal entity using your new Unique Taxpayer Reference
+
+get authorisation from your clients again
+
+deauthorise any clients not moving to the new legal entity
+
+write to the Agent Compliance Team to remove your original agent services account against the old legal entity
+
+You must not try to move agents codes from your old legal entity to your new agent services account because this breaches the HMRC Standard for Agents and UK General Data Protection Regulation (UK GDR).

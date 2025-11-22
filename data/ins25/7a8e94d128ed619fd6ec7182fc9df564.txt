@@ -1,0 +1,14 @@
+Researchers who reverse-engineered Starlink to work as a backup for GPS found a security flaw in the system — using a video of tennis star Rafael Nadal — that could be exploited in Ukraine
+yahoo.com
+news
+2022-10-22 07:11:12
+
+Getty Images
+
+SpaceX's Starlink signals have been long seen as a possible alternative to GPS.
+
+In 2020, Elon Musk and SpaceX declined a US Army proposal to develop the tech for that purpose.
+
+Researchers have succeeded in reverse-engineering the signals, MIT Technology Review reported.
+
+After SpaceX declined to continue researching Starlink as a possible military alternative to GPS in 2020, a group of researchers found a way to do it without the help of Elon Musk — or his company that created the constellation of internet satellites.

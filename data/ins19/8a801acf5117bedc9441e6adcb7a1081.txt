@@ -1,0 +1,6 @@
+Digital fingerprints of a million child abuse images made
+bbc.co.uk
+tech
+2022-06-06 00:16:32
+
+Digital fingerprints of a million images of child sexual abuse have been created, the Internet Watch Foundation has said.The UK charity, which is responsible for finding and removing such material online, said the fingerprints, known as hashes, would help companies and police find copies of the images.It is hoped that by doing this, the reuse of the images can be prevented.The images are from the government's Child Abuse Image Database.The database contains some of the most extreme content that appears online - what is known as category A and B material.

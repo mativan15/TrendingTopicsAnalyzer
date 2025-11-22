@@ -1,0 +1,10 @@
+U.S. Cloud-Native Trend Shifts From Boom to Mature Market
+Copyright 2022, Business Wire.
+tech
+2022-10-19 13:57:00
+
+October 19, 2022 09:57 AM Eastern Daylight Time STAMFORD, Conn.--(BUSINESS WIRE)--Adoption and use of cloud-native technologies in the U.S. is reaching a plateau after several years of hype and strong growth, according to a new research report published today by Information Services Group (ISG) (Nasdaq: III), a leading global technology research and advisory firm.
+
+
+
+The 2022 ISG Provider Lens™ Cloud Native Services and Solutions report for the U.S. finds that the U.S. ecosystem around containers, Kubernetes and related services is entering a more mature phase as developers and the IT community reach a deeper understanding of the benefits and challenges that come with cloud-native technologies.

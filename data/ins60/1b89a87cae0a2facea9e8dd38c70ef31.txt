@@ -1,0 +1,8 @@
+Würth Elektronik and Valens Semiconductor Introduce a Connectivity Solution for Medical Imaging in Unprecedented Resolution
+prnewswire.com
+news
+2022-06-02 20:01:00
+
+Medical imaging devices, such as MRIs, CTs, robotic surgery and endoscopy solutions, require high-bandwidth uncompressed video connectivity. Würth Elektronik and Valens Semiconductor have developed a solution that enables uncompressed [email protected]:4:4 video transmission over copper cable while complying with the strict medical isolation specifications.
+
+Core components of the reference design (EVS3-EVK2-KT-3000-MD) are the Valens Stello VS3000 chipset, compliant with the latest generation of the HDBaseT standard Spec 3.

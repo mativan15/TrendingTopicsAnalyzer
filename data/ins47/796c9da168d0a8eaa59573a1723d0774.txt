@@ -1,0 +1,6 @@
+Wemade bets the farm on blockchain with Wemix 3.0
+naver.com
+news
+2022-10-20 18:33:00
+
+An image of Wemix 3.0, the new live blockchain network developed by Wemade [WEMADE] Wemade released Wemix 3.0, its own live blockchain network to connect blockchain services, on Thursday. The new live blockchain, otherwise known as a mainnet, will be the bridge for Wemade's three upcoming blockchain services: the Wemix Play blockchain game platform, the Nile non-fungible token (NFT) service and the WEMIX.Fi decentralized financial (DeFi) service. Prior to Wemix 3.0, Wemade's blockchain services were operated on Kakao's Klaytn network.

@@ -1,0 +1,12 @@
+Why MongoDB Stock Was Popping Today
+Copyright 1995-2022 The Motley Fool. All rights reserved.
+finance
+2022-06-02 15:44:26
+
+Shares of MongoDB (MDB 16.89%) were soaring today after the database software company posted strong results in its first-quarter earnings report.
+As of 10:13 a.m. ET on Thursday, the stock was up 14%.
+
+Image source: Getty Images.
+
+So what
+Revenue jumped 57% to $285.4 million, easily outpacing estimates at $266.5 million. Growth was driven by the performance of Atlas, its cloud-based product that allows users to simply scale up their use. Atlas revenue grew 82% to $171 million, or 60% of total revenue.

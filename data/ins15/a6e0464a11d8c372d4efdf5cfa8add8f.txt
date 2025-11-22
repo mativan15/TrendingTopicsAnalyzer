@@ -1,0 +1,7 @@
+Predicting human decision making in psychological tasks with recurrent neural networks
+All PLOS articles are Open Access.
+news
+2022-05-31 14:00:00
+
+Open Access Peer-reviewed 
+ Unlike traditional time series, the action sequences of human decision making usually involve many cognitive processes such as beliefs, desires, intentions, and theory of mind, i.e., what others are thinking. This makes predicting human decision-making challenging to be treated agnostically to the underlying psychological mechanisms. We propose here to use a recurrent neural network architecture based on long short-term memory networks (LSTM) to predict the time series of the actions taken by human subjects engaged in gaming activity, the first application of such methods in this research domain.

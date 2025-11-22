@@ -1,0 +1,8 @@
+Microsoft Windows PC users vulnerable to hacks due to outdated drivers list and failed update
+Copyright 2022 The Hindu
+news
+2022-10-17 09:06:19
+
+A file photo of the Microsoft logo
+| Photo Credit: REUTERS
+Microsoft Windows users were in danger of being targeted by hackers, sometimes for years, as the company's malicious drivers blocklist updates did not work as they should, according to tech media outlet  The Verge.(For insights on emerging themes at the intersection of technology, business and policy, subscribe to our tech newsletter Today's Cache.)Journalists and a cybersecurity professional found that the software company's hypervisor-protected code integrity (HVCI), which serves as a defence against malicious drivers, did not protect users as it downloaded a malicious driver that was already on a Microsoft blocklist.

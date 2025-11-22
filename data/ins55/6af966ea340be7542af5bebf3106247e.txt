@@ -1,0 +1,8 @@
+Mandiant Breach Analytics for Google Cloud's Chronicle Helps Automate the Link Between Threat Intelligence and Real-Time Detection
+yahoo.com
+news
+2022-10-18 12:00:00
+
+SaaS-based offering operationalizes Mandiant's front line threat intelligence to help customers quickly identify indicators of compromise (IOCs) to reduce the impact of a breach
+
+WASHINGTON, October 18, 2022--(BUSINESS WIRE)--mWISE Conference – Mandiant, Inc. today announced the general availability of Mandiant Breach Analytics for Google Cloud's Chronicle. Mandiant Breach Analytics combines Mandiant's industry-leading threat intelligence with the power of the Google Cloud Chronicle Security Operations suite to help organizations improve security effectiveness and reduce business risk.

@@ -1,0 +1,7 @@
+Interpol's Killer Bee stings credential-stealing scammer
+theregister.com
+news
+2022-05-31 20:50:22
+
+An Interpol-led operation code-named Killer Bee has led to the arrest and conviction of a Nigerian man who was said to have used a remote access trojan (RAT) to reroute financial transactions and steal corporate credentials. Two suspected accomplices were also nabbed.
+The trio, aged between 31 and 38, were detained as part of a sting operation involving law enforcement agencies across 11 countries: Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, Nigeria, Philippines, Singapore, Thailand, and Vietnam.

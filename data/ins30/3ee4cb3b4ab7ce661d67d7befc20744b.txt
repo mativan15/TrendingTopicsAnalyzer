@@ -1,0 +1,8 @@
+Some small nuclear reactors produce '35x more waste'
+theregister.com
+energy
+2022-06-02 10:24:07
+
+Some mini nuclear reactors that are supposed to usher in an era of cheaper and safer nuclear power generate up to 35 times more waste to produce the same amount of power as a regular plant, according to a study.
+A team of researchers at Stanford University and the University of British Columbia came to this conclusion after studying a design from each of three small modular reactor (SMR) manufacturers: NuScale Power, Toshiba, and Terrestrial Energy.
+The study, published this week, found that not only did those particular SMR approaches generate five times the spent nuclear fuel (SNF), 30 times the long-lived equivalent waste, and 35 times the low and intermediate-level waste (LILW), their waste is also more reactive, therefore more dangerous and consequently harder to dispose of.

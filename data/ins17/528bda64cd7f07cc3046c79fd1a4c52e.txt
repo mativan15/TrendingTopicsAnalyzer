@@ -1,0 +1,8 @@
+Is Huntsman Corporation (NYSE:HUN) Trading At A 48% Discount?
+yahoo.com
+gaming
+2022-06-05 13:32:36
+
+Does the June share price for Huntsman Corporation (NYSE:HUN) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by projecting its future cash flows and then discounting them to today's value. This will be done using the Discounted Cash Flow (DCF) model. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you want to learn more about discounted cash flow, the rationale behind this calculation can be read in detail in the Simply Wall St analysis model.

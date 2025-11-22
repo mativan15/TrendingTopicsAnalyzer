@@ -1,0 +1,7 @@
+Intel 13th Gen Core Raptor Lake Processors Impress In A Variety Of Workloads
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 14:34:55
+
+Intel CEO Pat Gelsinger Holds Up 13Th Gen Core Retail Box At Innovation EventDave Altavilla
+Today, Intel lifted the veil on 3rd-party independent performance analysis of its new 13th Gen Core series processors, otherwise known by the code name Raptor Lake. From Intel's faster Raptor Cove Performance Cores that bring up to an additional 600MHz of peak boost clock speed, to faster and more Efficiency Cores on board (now up to 16) and larger caches, this new generation of Intel CPUs brings significant gains across the company's entire desktop product stack and even stiffer competition for rival AMD's recently announced Ryzen 7000 series.

@@ -1,0 +1,11 @@
+Google warns 3BILLION Chrome users to edit their app now in major alert
+thesun.co.uk
+news
+2022-05-27 13:10:37
+
+GOOGLE has pushed out a new version of Chrome that fixes more than 30 bugs that hackers could exploit.
+Chrome 102 addresses one issue deemed critical and eight classified as high.
+One flaw was categorised as criticalCredit: Getty
+The tech giant is remaining quiet about the full extent of the security flaws.
+It's pretty standard practice, so people have enough time to install the update - and to not hand instructions to cyber crooks on a golden platter.
+Many of the bugs were uncovered by external experts, who dig around for flaws on Chrome in exchange for a financial reward.

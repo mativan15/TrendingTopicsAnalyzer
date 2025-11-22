@@ -1,0 +1,6 @@
+Judge says IBM owes $1.6 billion to BMC over software contract
+reuters.com
+news
+2022-05-31 21:00:38
+
+(Reuters) - A Houston federal judge ruled Monday that International Business Machines Corp must pay mainframe-software competitor BMC Corp $1.6 billion after finding IBM improperly replaced BMC's mainframe software at AT&T Corp with its own.U.S. District Judge Gray Miller said IBM convinced software company BMC through fraud to sign a contract that allowed IBM to "exercise rights without paying for them, secure other contractual benefits, and ultimately acquire one of BMC's core customers."IBM's conduct "offends the sense of justice and propriety that the public expects from American businesses," the court said.

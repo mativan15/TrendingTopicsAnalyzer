@@ -1,0 +1,6 @@
+QR codes prone to manipulation by cyber fraudsters, warn IT experts
+Copyright 2022 The Hindu
+news
+2022-10-18 14:38:09
+
+Arun Kumar, a Kochi-based businessman, had dinner with his family at a popular restaurant recently. He scanned the QR code he was given, and a sum of ₹6,000 was debited from his account. The restaurant authorities were also convinced of the payment. 'I received a call from the restaurant the next day complaining of not receiving the payment. I countered saying that my bank account has accounted for that payment and that in no way was I going to pay again,' said Mr. Kumar. After a bit of back-and-forth, it eventually emerged that the original QR code was replaced by another stuck over it, diverting the payment to another account.

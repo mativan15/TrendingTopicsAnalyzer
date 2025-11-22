@@ -1,0 +1,6 @@
+How colocation can help businesses save money during the recession
+techradar.com
+tech
+2022-10-19 11:31:28
+
+The pandemic increased internet traffic by 30% (opens in new tab) forcing an increase in colocation center usage. However, now that there's a recession looming, companies are looking to cut budgets and may consider cutting their colocation (opens in new tab) centers.However, with emerging technologies such as AI that needs to operate at the edge, and the fact that colocation is more cost effective than edge data centers, businesses could save money on infrastructure and server space without compromizing on reliability, speed and security.

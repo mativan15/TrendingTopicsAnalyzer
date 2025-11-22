@@ -1,0 +1,8 @@
+Ransomware is being used as a precursor to physical war
+techradar.com
+tech
+2022-10-20 18:12:00
+
+(Image credit: Future)
+
+ Threat actors engaged in multiple ransomware (opens in new tab) attacks against targets in Ukraine, Poland, and other countries in the days and weeks leading up to the Russian invasion of Ukraine, new research has claimed.According to Ivanti and Cyware, this was a  strategy in which ransomware was used as a precursor to physical war.The company's report notes that we can expect to see this strategy being used to wage conflicts a lot more in the future, and is even developing right now in a "cyberwar" conflict between Iran and Albania (opens in new tab).

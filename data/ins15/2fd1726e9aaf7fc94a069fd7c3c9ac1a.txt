@@ -1,0 +1,6 @@
+Interview with Simon Peyton Jones (Haskell creator, currently working at Epic Games) about new Verse Language developed by Epic, his job at EpicGames related to Verse and many Haskell related topics.
+reddit.com
+tech
+2022-10-15 21:47:10
+
+Interview with Simon Peyton Jones (Haskell creator, currently working at Epic Games) about new Verse Language developed by Epic, his job at EpicGames related to Verse and many Haskell related topics.

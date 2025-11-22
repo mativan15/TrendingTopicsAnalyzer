@@ -1,0 +1,12 @@
+PQShield announces major new licensee, Microchip Technology, and a FIPS 140-3 ready solution, as governments mandate the transition to Post-Quantum Cryptography
+prnewswire.com
+news
+2022-06-01 07:00:00
+
+PQShield is a leading contributor to NIST's process to standardize post-quantum cryptography
+The company is witnessing a surge in demand as businesses seek to defend against the quantum threat 
+"'Harvest now, decrypt later' attacks are the single biggest reason companies are taking immediate action," says PQShield CEO Ali El Kaafarani
+The company has launched a quantum-readiness programme for businesses of all stages
+Its hybrid cryptographic library is the first ever submitted for FIPS 140-3 validation
+
+LONDON, June 1, 2022 /PRNewswire/ -- Post-quantum cryptography company PQShield has delivered new deals to introduce its quantum-ready cryptographic solutions to organizations across sectors.

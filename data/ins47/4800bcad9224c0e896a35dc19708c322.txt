@@ -1,0 +1,28 @@
+Transforming Linear to Circular Polarization on Horn Antennas by Using Multiple-Layer Frequency Selective Surfaces
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2 and 1,2,* 
+
+
+1
+Department of Electronics and Telecommunications, Constanta Maritime University, 900663 Constanta, Romania
+
+
+2
+Doctoral School of Electronics, Telecommunications and Information Technology, University Politehnica of Bucharest, 061071 Bucharest, Romania
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Hendrik Rogier
+
+Sensors 2022, 22(20), 7838; https://doi.

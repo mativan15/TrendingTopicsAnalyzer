@@ -1,0 +1,6 @@
+Quality of Data
+medium.com
+entertainment
+2022-05-29 16:02:23
+
+Data is everywhere, flowing in different types and structures. By definition, data resembles the qualitative and quantitative variables available for analysis or reference. Data allows organizations to determine the cause of problems, understand performance, improve processes, and make better business decisions. Understanding the type of data and categorizing it according to the format is significant in establishing good quality data.Data Quality is a measure that determines the fit of the data for an intended purpose.

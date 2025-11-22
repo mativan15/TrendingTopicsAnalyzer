@@ -1,0 +1,6 @@
+There are some amazing applications of deep learning out there, but it can be tricky to apply it yourself
+medium.com
+news
+2022-05-31 19:54:17
+
+Deep learning is a powerful tool that can be used for a variety of purposes. In this post, we will discuss some of the ways deep learning can be used and give some examples of how it has been used in the past.Photo by Alina Grubnyak on UnsplashDeep learning is a subset of machine learning that uses neural networks to learn how to model complex data. Neural networks are a type of machine learning algorithm loosely based on the brain. They are composed of a large number of interconnected processing nodes, or neurons, that can learn to recognize patterns of input data.

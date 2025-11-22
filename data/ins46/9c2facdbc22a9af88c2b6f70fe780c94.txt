@@ -1,0 +1,38 @@
+Single Image Dehazing Using Global Illumination Compensation
+Creative Commons Attribution (CC-BY)
+news
+2022-05-30 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+, , * and 
+
+
+School of Information Science and Technology, Zhejiang Sci-Tech University, Hangzhou 310018, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Sylvain Girard
+
+Sensors 2022, 22(11), 4169; https://doi.org/10.3390/s22114169 (registering DOI)
+
+
+Received: 20 April 2022
+/
+Revised: 13 May 2022
+/
+Accepted: 27 May 2022
+/
+Published: 30 May 2022
+
+
+(This article belongs to the Section Sensing and Imaging)
+ 
+
+The existing dehazing algorithms hardly consider background interference in the process of estimating the atmospheric illumination value and transmittance, resulting in an unsatisfactory dehazing effect.

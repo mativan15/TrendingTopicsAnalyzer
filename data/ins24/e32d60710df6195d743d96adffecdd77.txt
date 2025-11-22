@@ -1,0 +1,10 @@
+How your boss can spy on you with Slack, Zoom, and Teams
+digitaltrends.com
+tech
+2022-10-21 21:30:23
+
+Slack and Teams are both super useful: They enable quick communication around the office, allow for remote work and work-from-home situations, and let employees easily share a variety of content. The downside to that is that bosses can also use them to keep an eye on what you're doing and how active you are during your workday.
+How bad can this boss monitoring get? Let's take a look at what bosses can view on these apps and what you can keep private.
+Slack
+
+Apps like Slack, Teams, and other common business collaboration platforms are structured via admin permissions.

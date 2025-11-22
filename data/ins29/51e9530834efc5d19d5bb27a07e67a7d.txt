@@ -1,0 +1,8 @@
+Calculating The Intrinsic Value Of Telephone and Data Systems, Inc. (NYSE:TDS)
+yahoo.com
+news
+2022-10-15 14:33:51
+
+In this article we are going to estimate the intrinsic value of Telephone and Data Systems, Inc. (NYSE:TDS) by taking the forecast future cash flows of the company and discounting them back to today's value. Our analysis will employ the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method. If you still have some burning questions about this type of valuation, take a look at the Simply Wall St analysis model.

@@ -1,0 +1,8 @@
+BlackBerry and Google launch Chrome Enterprise Management with BlackBerry UEM
+prnewswire.com
+news
+2022-05-27 16:00:00
+
+Enterprises can now manage company-issued and BYO Chrome devices with BlackBerry UEM to boost productivity and security
+WATERLOO, ON, May 27, 2022 /PRNewswire/ -- BlackBerry Limited (NYSE: BB; TSX: BB) today announced the launch of Chrome Enterprise Management with BlackBerry UEM, providing the full suite of Unified Endpoint Management (UEM) support for the growing number of devices running the popular Google (NASDAQ: GOOGL) Chrome OS and Chrome browser in enterprises.
+The new integration increases BlackBerry UEM's Serviceable Available Market (SAM) with Chrome Enterprise devices quickly gaining popularity as a cost-effective, competitive solution for business executives, their tech teams and employees, now backed by BlackBerry UEM's industry leading security.

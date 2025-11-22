@@ -1,0 +1,7 @@
+Council Post: Advantages And Disadvantages Of Blockchain Technology
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 10:00:00
+
+Veera Budhi works as a Chief Technology Officer (CTO) at Membrane Labs.
+getty A blockchain is a network of decentralized and distributed data (ledger), meaning the users share the ownership and management of the network through computer nodes. As a database, blockchain stores information in a digital format. Blockchain technology stores data in blocks and link them together to form a chain. The blocks have a specific capacity and, when filled, are closed and linked to the previous block. Any newly added information after the last block is compiled into a newly formed block and added to the chain once filled.

@@ -1,0 +1,8 @@
+Microsoft slowing hiring for Windows, Teams, Office
+theregister.com
+news
+2022-05-27 13:31:19
+
+Microsoft has hit the brakes on hiring in some key product areas as the company prepares for the next fiscal year and all that might bring.
+According to reports in the Bloomberg, the unit that develops Windows, Office, and Teams is affected and while headcount remains expected to grow, new hires in that division must first be approved by bosses.
+During a talk this week at JP Morgan's Technology, Media and Communications Conference, Rajesh Jha, executive VP for the Office Product Group, noted that within three years he expected approximately two-thirds of CIOs to standardize on Microsoft Teams.

@@ -1,0 +1,52 @@
+Thermo-Mechanical Reliability Study of Through Glass Vias in 3D Interconnection
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon. 
+
+Open AccessArticle by
+ 1, 2, 1,* and 2,* 
+ 
+1
+Faculty of Materials and Manufacturing, Beijing University of Technology, Beijing 100124, China
+
+
+2
+School of Electronic Science and Engineering, Xiamen University, Xiamen 361005, China
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Wenchao Tian and Yongkun Wang
+
+Micromachines 2022, 13(10), 1799; https://doi.org/10.3390/mi13101799 (registering DOI)
+
+
+Received: 22 September 2022
+/
+Revised: 15 October 2022
+/
+Accepted: 17 October 2022
+/
+Published: 21 October 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+ 
+ 
+
+Three-dimensional (3D) interconnection technology based on glass through vias (TGVs) has been used to integrate passive devices, and optoelectronic devices due to its superior electrical qualities, outstanding mechanical stability, and lower cost.

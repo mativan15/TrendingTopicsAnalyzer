@@ -1,0 +1,6 @@
+IaC Security Leader oak9 Launches Free Community Edition to Make Cloud Native Security More Accessible
+prweb.com
+news
+2022-10-18 14:45:00
+
+oak9's Security as Code Platform Dashboard oak9's Community Edition is designed to help customers secure cloud native infrastructure easily and quickly while removing costs and feature limitations as barriers to entry for cloud native security CHICAGO (PRWEB) October 18, 2022 oak9, developer-first Infrastructure as Code (IaC) security leader, today announced the launch of a free Community Edition of its Security as Code software platform designed to make cloud native security more accessible and easy to use.

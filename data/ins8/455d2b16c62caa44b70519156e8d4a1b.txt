@@ -1,0 +1,7 @@
+Broadcom plans a 'rapid transition' to subscription revenue for VMware
+arstechnica.com
+tech
+2022-05-31 22:18:00
+
+Enlarge / A sign in front of a Broadcom office on June 03, 2021, in San Jose, California. Broadcom announced last week that it was seeking to drop $61 billion in cash and stock to acquire VMware. We still don't know exactly what changes Broadcom plans to make to VMware's products or business model once the acquisition completes. Still, Broadcom Software Group President Tom Krause made it clear in Broadcom's earnings call last week: an emphasis on software subscriptions.
+As reported by The Register, Broadcom plans a "rapid transition from perpetual licenses to subscriptions" for VMware's products, replacing discrete buy-once-use-forever versions, though "rapid" in this case will still apparently take several years.

@@ -1,0 +1,6 @@
+AWS to launch an infrastructure region in Thailand
+indiatimes.com
+business
+2022-10-19 00:30:00
+
+Amazon Web Services (AWS) today announced plans to open an infrastructure region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions. Globally, AWS has now announced plans for 24 more Availability Zones across eight more AWS Regions in Australia, Canada, India, Israel, New Zealand, Spain, Switzerland, and Thailand. The upcoming AWS Region in Thailand will enable developers, startups, and enterprises, as well as government, education, and nonprofit organisations, to run their applications and serve end users from AWS data centers located in Thailand, ensuring that customers who want to keep their data in Thailand can do so.

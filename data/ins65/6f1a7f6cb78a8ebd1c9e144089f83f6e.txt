@@ -1,0 +1,6 @@
+Comparison of Entropy Calculation Methods for Ransomware Encrypted File Identification
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Ransomware is a malicious class of software that utilises encryption to implement an attack on system availability. The target's data remains encrypted and is held captive by the attacker until a ransom demand is met. A common approach used by many crypto-ransomware detection techniques is to monitor file system activity and attempt to identify encrypted files being written to disk, often using a file's entropy as an indicator of encryption. However, often in the description of these techniques, little or no discussion is made as to why a particular entropy calculation technique is selected or any justification given as to why one technique is selected over the alternatives.

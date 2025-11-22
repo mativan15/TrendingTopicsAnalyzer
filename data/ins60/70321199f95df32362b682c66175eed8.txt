@@ -1,0 +1,37 @@
+Innovation of the Component GARCH Model: Simulation Evidence and Application on the Chinese Stock Market
+Creative Commons Attribution (CC-BY)
+science
+2022-06-02 00:00:00
+
+Open AccessArticle by
+ 1 and 2,* 
+
+
+1
+Guizhou University of Commerce, Guiyang 550014, China
+
+
+2
+Department of Actuarial Studies and Business Analytics, Macquarie University, Sydney, NSW 2109, Australia
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Francisco Javier Sánchez Vidal and Antonio Mínguez-Vera
+
+Mathematics 2022, 10(11), 1903; https://doi.org/10.3390/math10111903 (registering DOI)
+
+
+Received: 25 April 2022
+/
+Revised: 23 May 2022
+/
+Accepted: 30 May 2022
+/
+Published: 2 June 2022
+ 
+
+The component GARCH model (CGARCH) was among the first attempts to split the conditional variance into a permanent and transitory component.

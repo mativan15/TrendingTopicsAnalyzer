@@ -1,0 +1,37 @@
+Shape Accuracy Improvement in Selective Laser-Melted Ti6Al4V Cylindrical Parts by Sliding Friction Diamond Burnishing
+Creative Commons Attribution (CC-BY)
+science
+2022-10-19 00:00:00
+
+Open AccessArticle by
+ 1,*, 2 and 2 
+
+
+1
+Institute of Manufacturing Science, University of Miskolc, 3515 Miskolc, Hungary
+
+
+2
+Institute of Engineering and Agriculture, University of Nyiregyhaza, 4400 Nyiregyhaza, Hungary
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: César M. A. Vasques
+
+Machines 2022, 10(10), 949; https://doi.org/10.3390/machines10100949 (registering DOI)
+
+
+Received: 15 September 2022
+/
+Revised: 12 October 2022
+/
+Accepted: 15 October 2022
+/
+Published: 19 October 2022
+ 
+
+Additively manufactured metallic parts usually need postprocessing in order to achieve required shape accuracy.

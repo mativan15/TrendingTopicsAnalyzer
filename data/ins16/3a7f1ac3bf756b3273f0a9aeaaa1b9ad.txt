@@ -1,0 +1,6 @@
+A liability no more, 'pen has pushed Phils to NLCS
+mlb.com
+news
+2022-10-16 19:42:55
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"phillies-bullpen-key-to-nlcs-run\",\"type\":\"story\"}).parts.15":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"phillies-bullpen-key-to-nlcs-run\",\"type\":\"story\"}).parts.15.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

@@ -1,0 +1,7 @@
+Joy Buolamwini saw first-hand the harm of AI bias. Now she's challenging tech to do better.
+vox.com
+economics
+2022-10-20 09:55:00
+
+What started as a small art project has turned into a movement that's challenging the biggest tech companies in the world. 
+Joy Buolamwini was a grad student at MIT who, as part of a class project, wanted to make a mirror that could inspire her every morning. It would use software to track her face and overlay the image of one of her heroes, like Serena Williams, on top. Just one problem: When Buolamwini, who is Black, looked in the mirror, the software wouldn't detect her. To get it to work, she literally had to cover her face with a white mask.

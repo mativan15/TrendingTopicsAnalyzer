@@ -1,0 +1,6 @@
+Chrome to soon block notifications from abusive, disruptive websites
+indiatimes.com
+news
+2022-06-02 14:00:00
+
+San Francisco: Tech giant Google is reportedly working to cut down on the number of unwanted Chrome notifications that users receive, by blocking notifications from websites that the company deems to be "disruptive".According to a new code change, Chrome will soon be able to automatically revoke a website's permission to send notifications and block any future attempts to ask for the permission, reports 9To5Google.Between websites that constantly ask for permission to use cookies and apps that need to ask for many permission to work at all, it can be easy to unthinkingly click "Allow" when asked if you want to receive notifications, the report said.

@@ -1,0 +1,6 @@
+A Comprehensive Introduction to Self-Driving Cars — Part 1: Introduction
+medium.com
+news
+2022-05-28 03:15:49
+
+Photo by Roberto Nickson on UnsplashSelf-driving cars have been a hot topic for years and have received significant attentions from both academy and car industry. Once fully developed and matured, they will bring great convenience and safety to various aspects of our lives.As a high-tech application, many cutting-edge technologies have been involved in self-driving cars, including hardware, software, and algorithms, etc., which are widely used in different industries too. Accordingly, learning and understanding how self-driving cars wok and grasping key technologies help you not only get familiar with self-driving cars per se, but also equip you with a rich set of skills that are crucial for your careers in various industries.

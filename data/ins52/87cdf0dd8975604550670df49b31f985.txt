@@ -1,0 +1,6 @@
+Digital transformation and WAN: What does the future hold?
+techradar.com
+tech
+2022-10-17 13:48:13
+
+It has been around for years and has done an admirable job of helping businesses communicate. But, does a long-standing piece of legacy technology still have a place in today's ever-changing business landscape?I'm talking, of course, about what could be described as the elder statesman of the technology world – the traditional wide area network. This critical communication tool has been in existence for almost 40 years, with the first public WAN being implemented back in 1982.Yet, despite its advanced age, WAN remains an essential way for organisations to communicate internally and externally across different geographic locations.

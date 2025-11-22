@@ -1,0 +1,6 @@
+How censoring China's open-source coders might backfire
+technologyreview.com
+tech
+2022-05-30 09:00:00
+
+For now, there's little clue as to what prompted the change, but censorship of certain types of language—profanity, pornography, and politically sensitive words—has been creeping up on the platform for a while. On Gitee's official and public feedback page, there are multiple user complaints about how projects were censored for unclear reasons, possibly because technical language was mistaken for a sensitive word. The immediate result of Gitee's May 18 change was that public projects hosted on the platform suddenly became unavailable without notice.

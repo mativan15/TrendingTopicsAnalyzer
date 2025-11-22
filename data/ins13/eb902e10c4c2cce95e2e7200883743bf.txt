@@ -1,0 +1,12 @@
+Aptos Blockchain Launches to Concerns Over Tokenomics
+yahoo.com
+news
+2022-10-19 00:23:47
+
+The Aptos blockchain mainnet launched last night, but the long-awaited debut was not without its challenges.
+
+"It's exciting to finally bring Aptos to mainnet," Aptos co-founder Mo Shaikh tweeted. "Acknowledged that it could have gone better."
+
+On the technical front, Shaikh explained that the Aptos genesis occurred on October 12, 2022, with 102 validators to secure the network. "These validators have gone through extensive testing ahead of mainnet," he said.
+
+Before the mainnet launch, Aptos boasted an astonishing 130,000 transactions per second (TPS) but, at launch, was reported to have a transaction per second speed of seven TPS—less than the Bitcoin blockchain.

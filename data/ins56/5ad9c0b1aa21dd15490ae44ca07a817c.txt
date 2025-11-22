@@ -1,0 +1,41 @@
+Applying the Geostatistical Eigenvector Spatial Filter Approach into Regularized Regression for Improving Prediction Accuracy for Mass Appraisal
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1,*, 1, 1, 1, 2 and 3 
+
+
+1
+School of Architecture and the Built Environment, Ulster University, Newtownabbey BT37 0QB, UK
+
+
+2
+Netherlands Council for Real Estate Assessment, Waarderingskamer, 93 210 The Hague, The Netherlands
+
+
+3
+Center for Appraisal Research and Technology, Washington, DC 20009, USA
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Jun Yang, Bing Xue and Xiangming Xiao
+
+Appl. Sci. 2022, 12(20), 10660; https://doi.org/10.3390/app122010660 (registering DOI)
+
+
+Received: 3 September 2022
+/
+Revised: 12 October 2022
+/
+Accepted: 19 October 2022
+/
+Published: 21 October 2022
+ 
+
+Prediction accuracy for mass appraisal purposes has evolved substantially over the last few decades, facilitated by the evolution in big data, data availability and open source software.

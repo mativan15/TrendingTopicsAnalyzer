@@ -1,0 +1,6 @@
+Vecna Robotics Announces Major Release to Optimize Understaffed Warehousing and Manufacturing Workflows
+businesswire.com
+news
+2022-10-20 00:00:00
+
+October 20, 2022 09:00 AM Eastern Daylight Time WALTHAM, Mass.--(BUSINESS WIRE)--Vecna Robotics, the leader in flexible material handling automation solutions, today announced a major software release and hardware upgrades to its AFL-class autonomous forklift. The new capabilities expand the company's reach within warehouse and factory floors by optimizing material transport between other machinery and equipment, with specific focus on low-lift workflows. The update supports numerous above-ground workflows including: inbound staging to AS/RS induction; delivering materials to ergonomic lift stands for work-in-process flows; and loading and extracting from robotic palletizers and stretch wrappers.

@@ -1,0 +1,6 @@
+Tricentis Invests in Continuous Testing Innovation, Expands its Growing Product Portfolio
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 09:00 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--Tricentis, a global leader in enterprise continuous testing, today announced the launch of Tricentis NeoLoad 9.0, and new products Tricentis Test Management for Jira and Tricentis Test Automation for Salesforce. The solutions expand the company's market leading capabilities in continuous performance testing, test management, and test automation aimed at improving application quality and delivery time for better business-critical outcomes.

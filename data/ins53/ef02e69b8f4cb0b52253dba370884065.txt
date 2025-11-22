@@ -1,0 +1,8 @@
+God of War PC just got even better for those using AMD GPUs
+techradar.com
+gaming
+2022-06-02 09:23:29
+
+(Image credit: Sony Interactive Entertainment)
+
+ God of War has become the latest PC game to get the benefit of AMD's FSR 2.0 tech.The hit PlayStation port just got support for FSR 2.0 with a fresh patch (v1.0.12), which means those going the FSR route for frame rate boosting will get much better results.As the patch notes state (opens in new tab): 'FidelityFX Super Resolution 2.0 has been implemented and is now available as a resolution-scaling option within the display settings menu.'That's good news not just for God of War players running AMD graphics cards in their PCs, but also some Nvidia GPU owners.

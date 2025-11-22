@@ -1,0 +1,36 @@
+A New Manipulator Calibration Method for the Identification of Kinematic and Compliance Errors Using Optimal Pose Selection
+Creative Commons Attribution (CC-BY)
+science
+2022-05-27 00:00:00
+
+Open AccessArticle by
+ 1 and 2,* 
+
+
+1
+Department of Information Technology Specialization, FPT University, Hoa Lac High Tech Park, Hanoi 10000, Vietnam
+
+
+2
+Department of Electrical, Electronic and Computer Engineering, University of Ulsan, Ulsan 44610, Korea
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+
+Appl. Sci. 2022, 12(11), 5422; https://doi.org/10.3390/app12115422 (registering DOI)
+
+
+Received: 4 April 2022
+/
+Revised: 8 May 2022
+/
+Accepted: 25 May 2022
+/
+Published: 27 May 2022
+ 
+
+In this study, a manipulator calibration algorithm is suggested to decrease the positional errors of an industrial robotic manipulator using a genetic algorithm to select optimal measurement poses.

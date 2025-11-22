@@ -1,0 +1,15 @@
+Forrester tackles the future of edge computing in new report
+techrepublic.com
+news
+2022-05-30 12:00:18
+
+Image: metamorworks, Getty Images/iStockphoto
+Research company Forrester has assessed edge computing and its role in future technologies as part of its newly released study. 'The Future of Edge Computing' goes into detail on the potential innovations presented by this type of technology, as well as some of the downsides of employing advanced edge tech.
+Future benefits of edge computing
+Three important insights brought up by Forrester in the report show what edge computing will be capable of in the future:
+
+Edge computing promises key benefits for software everywhere
+Edge innovation will lead to smarter, faster digital experiences everywhere
+Edge networks will make us more connected and interdependent
+
+Forrester suggests these advantages will become a reality through workload affinity.

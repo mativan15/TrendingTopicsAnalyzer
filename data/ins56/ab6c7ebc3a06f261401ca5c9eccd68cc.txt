@@ -1,0 +1,8 @@
+Are Investors Undervaluing Range Resources Corporation (NYSE:RRC) By 41%?
+yahoo.com
+news
+2022-10-20 15:48:48
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Range Resources Corporation (NYSE:RRC) as an investment opportunity by projecting its future cash flows and then discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. It may sound complicated, but actually it is quite simple!
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future. However, a DCF is just one valuation metric among many, and it is not without flaws.

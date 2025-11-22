@@ -1,0 +1,6 @@
+New RSA® Innovation Enhances Mobile Security
+businesswire.com
+news
+2022-10-19 00:00:00
+
+October 19, 2022 09:00 AM Eastern Daylight Time BEDFORD, Mass.--(BUSINESS WIRE)--RSA, a global leader in identity and access management, today announced the introduction of RSA® Mobile Lock, a powerful new defense in the war for mobile security and an immediate resolution for one of the weakest points in every organization's security stance: their users. RSA Mobile Lock detects critical threats on mobile devices and can restrict users from authenticating into secured corporate systems, preventing a threat from expanding beyond one compromised device to other users, data, and systems.

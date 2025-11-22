@@ -1,0 +1,6 @@
+Is DeepMind's Gato the world's first AGI?
+venturebeat.com
+news
+2022-06-04 13:40:00
+
+Artificial general intelligence (AGI) is back in the news thanks to the recent introduction of Gato from DeepMind. As much as anything, AGI invokes images of the Skynet (of Terminator lore) that was originally designed as threat analysis software for the military, but it quickly came to see humanity as the enemy. While fictional, this should give us pause, especially as militaries around the world are pursuing AI-based weapons.  However, Gato does not appear to raise any of these concerns. The deep learning transformer model is described as a 'generalist agent' and purports to perform 604 distinct and mostly mundane tasks with varying modalities, observations and action specifications.

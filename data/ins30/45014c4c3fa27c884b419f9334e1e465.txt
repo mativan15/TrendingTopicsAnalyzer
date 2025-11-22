@@ -1,0 +1,9 @@
+How to automate data quality processes
+techrepublic.com
+news
+2022-10-21 17:23:41
+
+Image: momius/Adobe Stock
+From cost reduction to improved efficiency, upholding data quality improves the accuracy of analytics and enhances business decision-making capabilities. However, simply having a data quality management strategy might not be enough for businesses that want to scale their data operations.
+SEE: Hiring kit: Automation specialist (TechRepublic Premium)
+Manual data quality management approaches in particular can sabotage data quality, especially with the potential for data entry and other human errors.

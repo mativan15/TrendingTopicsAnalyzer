@@ -1,0 +1,6 @@
+Everspin Signs Contract to Provide MRAM IP, Design and Manufacturing Services for Strategic Radiation Hardened FPGA Technology.
+yahoo.com
+news
+2022-10-20 00:03:00
+
+CHANDLER, Ariz., October 20, 2022--(BUSINESS WIRE)--Everspin Technologies, Inc. (NASDAQ:MRAM), the world's leading developer and manufacturer of Magnetoresistive Random Access Memory (MRAM) persistent memory solutions, has signed a contract to provide MRAM technology, design, and back end of line manufacturing services with QuickLogic Corporation (NASDAQ:QUIK). The initial award is potentially valued at $2.8M, with subsequent options bringing the total to approximately $8.7M. This is part of an award to develop and demonstrate Strategic Radiation Hardened (SRH), high reliability Field Programmable Gate Array (FPGA) technology to support identified and future Department of Defense (DoD) strategic and space system requirements.

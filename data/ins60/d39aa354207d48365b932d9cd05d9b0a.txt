@@ -1,0 +1,10 @@
+Celo Protocol Moola Market Loses Over $10M in Market Manipulation Attack
+yahoo.com
+news
+2022-10-19 06:44:23
+
+Celo-based lending and borrowing protocol Moola Market saw over $10 million worth of tokens stolen, and later returned, this morning after a market manipulation attack.
+
+The exploit was the second of its kind in the last few weeks, with the attackers manipulating the prices of Moola's native MOO tokens to borrow collateral against their positions – effectively draining the protocol.
+
+Moola developers said the attack started during late Asian hours on Tuesday. 'An unknown attacker started manipulating the price of MOO on Ubeswap, allowing the attacker to manipulate the MOO TWAP price oracle used by the Moola protocol,' they wrote.

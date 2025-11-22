@@ -1,0 +1,9 @@
+Intent-Based Networking for the Enterprise: A Modern Network Architecture
+acm.org
+news
+2022-10-20 22:45:00
+
+Credit: Dmitriy Rybin
+
+
+ Over the past decade, many industries have undergone digital transformations, where digital technology is used to create fundamental changes. Well-known examples include Netflix for content delivery, Amazon for e-commerce and cloud computing, and Uber for mobility services. While many enterprises already critically depend on their networks to achieve their daily goals, networking has not yet gone through a similar digital transformation. Current technological advances, however, provide great promise for accelerating enterprise digital transformation to support emerging applications, such as augmented reality/virtual reality (AR/VR) or an ever-increasing list of Internet of Things (IoT) applications and devices.

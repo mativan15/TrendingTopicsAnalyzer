@@ -1,0 +1,6 @@
+A Guide to Task Mining Best Practices
+medium.com
+entertainment
+2022-06-03 17:18:01
+
+Photo by Adeolu Eletu on UnsplashProcess Mining and Task Mining (an emerging technology) are complementary, they help process analysts and business stakeholders analyze and optimize operations on multiple levels.Process Mining revolves around discovering, analyzing, and monitoring end-to-end processes and sub-processesTask Mining focuses on smaller components of a process or sub-process containing a…

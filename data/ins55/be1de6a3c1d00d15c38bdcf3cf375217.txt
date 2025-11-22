@@ -1,0 +1,8 @@
+Key considerations while evaluating no code automation platforms
+indiatimes.com
+news
+2022-10-22 08:46:51
+
+No Code Automation
+It's a thing of the past, 'To integrate two or more applications to build automated workflows, you must know how to code.' The new trend is all about 'No code workflow automation platforms.' With the help of no code automation, businesses can quickly build and automate their processes.
+2022 onwards has become an excellent time for business teams (as citizen developers or non-IT developers) where they attempt to build workflows using no code – thanks to emerging no code, low code and serverless tools and platforms.

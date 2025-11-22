@@ -1,0 +1,6 @@
+Weekly Forecast, Oct. 14: Treasury 1-Month Forward Rate Peak Up 0.32% To 5.25%
+seekingalpha.com
+news
+2022-10-17 10:36:33
+
+NiseriN The 1-month forward U.S. Treasury yield now peaks at 5.25%, up 32 basis points from last week. As explained in Prof. Robert Jarrow's book cited below, forward rates contain a risk premium above and beyond the market's expectations for the 1-month forward rate. We document the size of that risk premium in this graph, which shows the zero-coupon yield curve implied by current Treasury prices compared with the annualized compounded yield on 3-month Treasury bills that market participants would expect based on the daily movement of Treasury yields since 1962.

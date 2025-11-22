@@ -1,0 +1,6 @@
+Google Chrome To Put Ad Blockers Out Of Business [DesignRush Spotlight]
+prweb.com
+news
+2022-10-20 13:45:00
+
+By 2024, all V2 extensions will be eliminated, resulting in ad blockers losing about 90% of their overall efficiency MIAMI (PRWEB) October 20, 2022 Ad blockers that run on the Chromium operating system (OS), like Google Chrome and Microsoft Edge, may soon be out of business. DesignRush, a B2B marketplace connecting businesses with agencies, explained how ad blockers work and how their elimination may affect users and developers. In an effort to improve cybersecurity, Google will change Manifest V2 to Manifest V3 application programming interfaces (APIs) which ad blockers use to tell browsers which files the extension uses.

@@ -1,0 +1,6 @@
+How will API banking disrupt India's banking sector
+indiatimes.com
+news
+2022-05-27 08:46:39
+
+The financial services ecosystem is currently witnessing a spate of disruptions brought on by new-age fintech players. Banks in India have opened their application programming interfaces (APIs), allowing third parties to build on them, innovate and offer new products and services. The move has led to a transformation in the way financial products and services are created, distributed and accessed. Fintech players have taken this opportunity to constantly bring in automation to deliver a seamless customer experience.

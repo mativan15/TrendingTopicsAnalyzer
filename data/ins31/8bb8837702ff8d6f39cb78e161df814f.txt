@@ -1,0 +1,6 @@
+Roadblocks to getting real-time AI right
+venturebeat.com
+news
+2022-06-05 21:20:00
+
+Analysts estimate that by 2025, 30% of generated data will be real-time data. That is 52 zettabytes (ZB) of real-time data per year – roughly the amount of total data produced in 2020. Since data volumes have grown so rapidly, 52 ZB is three times the amount of total data produced in 2015. With this exponential growth, it's clear that conquering real-time data is the future of data science.   Over the last decade, technologies have been developed by the likes of Materialize, Deephaven, Kafka and Redpanda to work with these streams of real-time data.

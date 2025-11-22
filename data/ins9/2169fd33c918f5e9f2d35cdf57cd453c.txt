@@ -1,0 +1,6 @@
+Building a cyber security strategy
+Copyright 2022, ESI Media Ltd
+news
+2022-10-19 15:46:28
+
+Cyber Consultants is a Business Reporter clientBusiness Reporter: Building a cyber security strategyFormalising a cyber security strategy is an essential step in defending against threats and protecting an organisation's assets. Threat actors, attack vectors and IT system complexity are changing quickly, and organisations that don't adapt will be implicitly accepting higher risk of a breach.Regardless of the size of the organisation, a good security programme must be proactive about closing security gaps because ignorance is never blissful.

@@ -1,0 +1,10 @@
+Compromised academic credentials available on cybercriminal platforms
+techrepublic.com
+news
+2022-05-31 13:44:26
+
+Image: Mr Doomits/Adobe Stock
+A new report from the FBI raises warnings about a credential theft threat targeting academic partners of identified US colleges and universities.
+The constant credential theft threat
+The first goal for these attacks is to collect valid credentials, which are often exposed on public and private cybercriminals forums or marketplaces.
+These attacks use several different vectors to be successful: Phishing attacks launched at a wide scale and hitting millions of email boxes, spear phishing attacks that are more targeted and sent in lesser volumes or other social engineering techniques using instant messaging.

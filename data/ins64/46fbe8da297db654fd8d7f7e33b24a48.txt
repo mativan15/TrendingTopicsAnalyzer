@@ -1,0 +1,6 @@
+Cybersecurity firm Polygraph warns online advertisers about arbitrage websites
+apnews.com
+news
+2022-06-03 13:07:55
+
+BERLIN, June 03, 2022 (GLOBE NEWSWIRE) -- Arbitrage is a technique used by publishers to get low quality website visitors to click on high value adverts. According to Trey Vanes, Chief Marketing Officer at cybersecurity firm Polygraph, arbitrage is similar to click fraud. 'Advertisers pay an ad network like Bing Ads to display their adverts on publisher websites. Every time the ads are clicked, the advertisers pay fees to Bing Ads, and Bing Ads shares these fees with publishers. Click fraudsters are taking advantage of this system by creating scam publisher websites and generating huge amounts of fake clicks on the ads.

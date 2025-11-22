@@ -1,0 +1,6 @@
+Acalvio to Deliver Leading Cyber Deception to Protect Customers From Advanced Threats on Google Cloud Marketplace
+businesswire.com
+news
+2022-06-02 00:00:00
+
+June 02, 2022 08:00 AM Eastern Daylight Time SANTA CLARA, Calif.--(BUSINESS WIRE)--Acalvio's patented and award-winning Autonomous Deception solution, ShadowPlex, enables organizations to detect, investigate and respond to malicious activity both inside the perimeter and across hybrid and cloud deployments. Acalvio's solutions are anchored on innovations in distributed deception, software defined networking (SDN) and artificial intelligence (AI), enabling security teams to cut through the cycle of endless alerts and accelerate threat detection by focusing on high fidelity detections, all while minimizing the incidence of potential false positives.

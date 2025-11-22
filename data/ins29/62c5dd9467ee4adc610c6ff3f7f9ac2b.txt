@@ -1,0 +1,8 @@
+IBM ordered to pay $1.6 billion to BMC Software
+theregister.com
+news
+2022-05-31 19:08:20
+
+IBM has been ordered to pay Houston-based IT firm BMC $1.6 billion for fraud and contract violations because it moved mutual client AT&T from BMC software to IBM software.
+On Monday, US District Judge Gray Miller issued his final judgment [PDF] in the case, which began five years ago and culminated in a bench trial in March.
+For years, IBM had serviced AT&T's mainframe computers which at least since 2007 have relied on BMC software. IBM and BMC in 2008 entered into a contract governing the business relationship between the two companies.

@@ -1,0 +1,32 @@
+Enhanced Marketing Decision Making for Consumer Behaviour Classification Using Binary Decision Trees and a Genetic Algorithm Wrapper
+Creative Commons Attribution (CC-BY)
+science
+2022-05-31 00:00:00
+
+Open AccessArticle by
+ *, and 
+
+
+Department of Business Administration of Food and Agricultural Enterprises, School of Economics and Business, University of Patras, 2 George Seferi Str., 30100 Agrinio, Greece
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Antony Bryant
+
+Informatics 2022, 9(2), 45; https://doi.org/10.3390/informatics9020045 (registering DOI)
+
+
+Received: 12 April 2022
+/
+Revised: 20 May 2022
+/
+Accepted: 23 May 2022
+/
+Published: 31 May 2022
+ 
+
+An excessive amount of data is generated daily.

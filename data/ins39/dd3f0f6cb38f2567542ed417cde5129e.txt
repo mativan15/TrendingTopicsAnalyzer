@@ -1,0 +1,6 @@
+What is Kubernetes and how does it work?
+medium.com
+tech
+2022-05-31 15:22:54
+
+Kubernetes is a system that maintains containers, which are also known as containerized applications. A container is like a lightweight virtual machine and is managed by Kubernetes. In order to create an application, you will first need to create several containers, and then you will need to utilize Kubernetes to manage those containers. Although this may sound like a highly challenging and time-consuming task, the benefit is that Kubernetes can automatically generate, scale, and manage storage for all the containers.

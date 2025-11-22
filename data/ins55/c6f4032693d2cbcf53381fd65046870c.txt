@@ -1,0 +1,6 @@
+FABFITFUN, Inc. Announces Award of Patent for Technology that Addresses a Significant Gap in Capabilities of Warehouse Management Systems (WMS) in Managing Expiring Product with Multiple Servings Days
+yahoo.com
+news
+2022-06-01 16:00:00
+
+LOS ANGELES, June 01, 2022--(BUSINESS WIRE)--FabFitFun, the leading lifestyle membership for women, announced today that it has secured a patent that covers a new, advanced level of markdown and spoilage mitigation in WMS and ERP systems. The United States Patent and Trademark Office (USPTO) has issued U.S. Patent No. 11,334,846, which achieves this by incorporating an enhanced coding method that enables adding visibility and logic into existing software systems by combining both expiration dates and the time to consume a product.

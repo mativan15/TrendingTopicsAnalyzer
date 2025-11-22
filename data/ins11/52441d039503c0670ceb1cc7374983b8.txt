@@ -1,0 +1,8 @@
+How Qualcomm shook down the cell phone industry for almost 20 years
+arstechnica.com
+tech
+2022-05-30 10:10:08
+
+In 2005, Apple contacted Qualcomm as a potential supplier for modem chips in the first iPhone. Qualcomm's response was unusual: a letter demanding that Apple sign a patent licensing agreement before Qualcomm would even consider supplying chips.
+"I'd spent 20 years in the industry, I had never seen a letter like this," said Tony Blevins, Apple's vice president of procurement.
+Most suppliers are eager to talk to new customers—especially customers as big and prestigious as Apple. But Qualcomm wasn't like other suppliers; it enjoyed a dominant position in the market for cellular chips.

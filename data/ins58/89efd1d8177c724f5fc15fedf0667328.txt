@@ -1,0 +1,10 @@
+Announcing the Lithic Legal Library: A Free, Open Repository of Legal Compliance Policies and Terms Required for Card Programs
+prnewswire.com
+news
+2022-06-02 14:03:00
+
+Tl;dr
+-Lithic has built a free, open library of the legal compliance policies and forms that companies need to have in place to launch card programs.
+-The templates can be accessed through Lithic's documentation.
+-Matt Janiga, Lithic's General Counsel and Compliance Officer, will host a webinar on June 9, 2022 to walk through the forms and answer questions.
+NEW YORK, June 2, 2022 /PRNewswire/ -- Lithic, the platform for insanely fast card issuing, today announced the launch of the Lithic Legal Library, a repository of the standard legal templates required for setting up a card program.

@@ -1,0 +1,8 @@
+Zero trust leaders avert 5 cyber disasters per year on average
+techrepublic.com
+news
+2022-06-03 19:44:46
+
+Image: hamara/Adobe Stock
+Cybersecurity company Illumio as part of their 'Zero Trust Impact Report' found that leaders that employ zero trust architecture thwart five major cyberattacks per year, saving their organizations an average of $20 million annually. Of the surveyed 1,000 IT and security professionals across eight countries, 47% said they do not believe they will be breached despite increasingly sophisticated and frequent attacks due to their use of the security framework.
+'Catastrophic breaches keep happening despite another year of record cybersecurity spending,' said PJ Kirner, Illumio co-founder and CTO.

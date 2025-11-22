@@ -1,0 +1,10 @@
+Snowplow Extends Relationship with AWS by Making Products Available on AWS Marketplace
+Copyright 2022, Business Wire.
+tech
+2022-10-19 20:50:00
+
+October 19, 2022 04:50 PM Eastern Daylight Time BOSTON--(BUSINESS WIRE)--Snowplow, the industry leader in data creation and behavioral data, today announced that customers will be able to find and purchase the Snowplow Behavioral Data Platform (BDP) in AWS Marketplace, a curated digital catalog of software, data, and services that run on AWS. Snowplow BDP is a first-party, privacy-compliant data creation platform that sits within an organization's cloud infrastructure.
+
+
+
+Snowplow's Vice President of Alliances and Business Development, Conor Doyle commented: 'Behavioral data is rapidly becoming an invaluable asset that's at the core of understanding customers and business decision-making.

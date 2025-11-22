@@ -1,0 +1,8 @@
+Oracle Announces MySQL HeatWave Lakehouse with 17X Faster Query Performance vs. Snowflake and 6X Faster than Redshift on 400 TB Workload
+prnewswire.com
+news
+2022-10-18 12:05:00
+
+MySQL HeatWave Lakehouse can load 400 TB data from object storage 8X faster than Redshift and 2.7X faster than Snowflake 
+MySQL HeatWave Lakehouse scales to 512 nodes, can process hundreds of terabytes of data in object store in multiple file formats—including Aurora and Redshift backups
+LAS VEGAS, Oct. 18, 2022 /PRNewswire/ -- Oracle CloudWorld -- Oracle today announced MySQL HeatWave Lakehouse, enabling customers to process and query hundreds of terabytes of data in object store in a variety of file formats, such as CSV and Parquet, as well as Aurora and Redshift backups.

@@ -1,0 +1,6 @@
+Gartner research finds no single tool protects app security
+venturebeat.com
+news
+2022-10-19 16:23:49
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Overcoming the challenges of securing devops and software supply chains from malicious, unpredictable attacks with new technologies dominates Gartner's latest Hype Cycle for Application Security. One of the most concerning insights this year's hype cycle shed light on is that no single application security innovation can deliver comprehensive security.  In light of this, CISOs are also forcing the consolidation of their tech stacks to improve their teams' efficiency at identifying risks while reducing costs.

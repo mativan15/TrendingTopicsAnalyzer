@@ -1,0 +1,8 @@
+Centaur Media Plc's (LON:CAU) Intrinsic Value Is Potentially 99% Above Its Share Price
+yahoo.com
+news
+2022-05-30 07:38:59
+
+In this article we are going to estimate the intrinsic value of Centaur Media Plc (LON:CAU) by taking the forecast future cash flows of the company and discounting them back to today's value. Our analysis will employ the Discounted Cash Flow (DCF) model. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

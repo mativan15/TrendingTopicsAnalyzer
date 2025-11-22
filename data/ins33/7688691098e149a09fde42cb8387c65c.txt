@@ -1,0 +1,6 @@
+Matterport Completes SOC 2 Milestone for Enterprise Customers
+globenewswire.com
+news
+2022-05-31 00:00:00
+
+SUNNYVALE, Calif., May 31, 2022 (GLOBE NEWSWIRE) -- Matterport, Inc. (Nasdaq: MTTR), the leading spatial data company driving the digital transformation of the built world, today announced another important step in its commitment to protect and secure customer data. An audit conducted by an independent Certified Public Accountant (CPA) firm verified that Matterport's platform meets rigorous SOC 2 Type II standards for confidentiality, a key requirement for many of the company's Fortune 1000 customers and other enterprise organizations evaluating the deployment of digital twins.

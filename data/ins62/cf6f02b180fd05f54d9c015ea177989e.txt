@@ -1,0 +1,7 @@
+New York state passes first electronics right-to-repair bill
+arstechnica.com
+business
+2022-06-03 20:04:00
+
+The fight for the right to repair scored a huge win Friday with New York state passing a bill that requires digital electronics manufacturers, like laptop and smartphone manufacturers, to make diagnostic and repair information available to consumers and independent repair shops.
+The bill, which passed in the New York Senate (49 to 14) on Wednesday and in the Assembly (145 to 1) today, enacts the Digital Fair Repair Act. Governor Kathy Hochul has to sign the bill before it is law, but advocates, like iFixit, said they don't expect obstacles there.

@@ -1,0 +1,6 @@
+D-Wave Launches in AWS Marketplace
+businesswire.com
+news
+2022-10-21 00:00:00
+
+October 21, 2022 08:00 AM Eastern Daylight Time BURNABY, British Columbia & PALO ALTO, Calif.--(BUSINESS WIRE)--D-Wave Quantum Inc. (NYSE: QBTS) – a leader in quantum computing systems, software, and services, and the only quantum computing company building both annealing and gate-model quantum computers – today announced that it has launched in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that make it easy to find, test, buy, and deploy software that runs on Amazon Web Services (AWS).

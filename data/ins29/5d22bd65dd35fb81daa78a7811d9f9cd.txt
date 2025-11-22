@@ -1,0 +1,6 @@
+IBM Stock Price
+Copyright 2022, MarketWatch, Inc.
+news
+2022-10-20 13:13:40
+
+International Business Machines Corp. is an information technology company, which provides integrated solutions that leverage information technology and knowledge of business processes. It operates through the following segments: Software, Consulting, Infrastructure, Financing, and Other. The Software segment combines hybrid cloud platform and software solutions to help clients become more data-driven, and to automate, secure and modernize their environments. It includes all software, except operating system software reported in the Infrastructure segment.

@@ -1,0 +1,6 @@
+Socure Launches Newest Sigma Synthetic Fraud Model Adding Unrivaled Precision to its Identity Fraud Suite
+businesswire.com
+news
+2022-10-20 00:00:00
+
+October 20, 2022 09:00 AM Eastern Daylight Time INCLINE VILLAGE, Nev.--(BUSINESS WIRE)--Socure, the leading provider of digital identity verification and fraud solutions, today announced the debut of its newest Sigma Synthetic Fraud model, a synthetic identity fraud detection solution that identifies manipulated and fabricated identities with unmatched precision. Core to the precision of Sigma Synthetic Fraud is the integration of two critical fraud-fighting features: powerful machine learning technology (ML) and expert fraud investigators.

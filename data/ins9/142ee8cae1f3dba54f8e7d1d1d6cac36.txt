@@ -1,0 +1,7 @@
+Windows Subsystem for Android Declared Ready for Prime Time
+slashdot.org
+news
+2022-10-21 16:40:00
+
+166936081 story Posted by msmash on Friday October 21, 2022 @12:40PM from the moving-forward dept. 
+ Microsoft has decided the Windows Subsystem for Android (WSA) -- its offering that runs Android VMs which behave just like another application in Windows -- is sufficiently stable that it can be designated version 1.0 and made available to all. From a report: While it's lovely that Windows can now run Android VMs, Hendrixson's tweet needs a little parsing. The "50,000 apps" he mentions are only available from the Amazon.

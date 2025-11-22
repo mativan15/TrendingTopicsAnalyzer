@@ -1,0 +1,8 @@
+Intel Arc A770 somehow beats the Nvidia RTX 4090 in 8K video playback tests
+techradar.com
+news
+2022-10-19 11:16:48
+
+(Image credit: Tomshardware.com)
+
+ Intel's Arc GPUs are finally here, and initial reception has been, well, mixed. The broad consensus seems to be that the flagship Arc A770 16GB is a decent mainstream gaming graphics card with a stellar price-to-performance ratio, but current driver and power consumption issues mean the Arc designs need a little refining.One area where the reviews have been almost universally positive is video encoding performance. For the uninitiated, video playback (specifically, in this case, high-resolution video) requires a specialized hardware unit on the GPU, the performance of which is not dependent on the overall power of the card.

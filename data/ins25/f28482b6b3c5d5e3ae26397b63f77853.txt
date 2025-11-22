@@ -1,0 +1,6 @@
+Samsung Electronics Introduces Industry's Fastest LPDDR5X DRAM at 8.5Gbps
+Copyright 2022, Business Wire.
+news
+2022-10-18 02:00:00
+
+SEOUL, South Korea--(BUSINESS WIRE)-- #DRAM_for_Qualcomm_Snapdragon--Samsung Electronics Co., Ltd., the world leader in advanced memory technology, today announced that its latest LPDDR5X DRAM with the industry's fastest speed of 8.5 gigabits per second (Gbps) was validated for use on Snapdragon® mobile platforms. By optimizing a high-speed signal environment between application processor and memory, Samsung has surpassed the previous maximum speed of 7.5Gbps achieved in March, reaffirming its leadership in the memory market.

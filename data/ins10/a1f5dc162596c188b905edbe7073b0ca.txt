@@ -1,0 +1,6 @@
+Why we need an edge data architecture to digitize the world — sustainably
+venturebeat.com
+news
+2022-10-15 15:20:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Our world is inherently decentralized. Over the last two decades, the trend in IT has been to ignore the decentralized world and work around it by combining impressive technologies and organizational structures in approaches such as cloud data warehouses. This is a huge obstacle for digitization projects. To really, finally digitize across industries, we need a broader spectrum of data architecture options reflecting the diverse world.

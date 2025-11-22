@@ -1,0 +1,6 @@
+Educause 2022: Securing Evolving Campus Networks with Genians' NAC-driven ZTNA
+Copyright 2022, Business Wire.
+tech
+2022-10-20 13:47:00
+
+SAN JOSE, Calif.--(BUSINESS WIRE)-- #8021x--Genians, the industry pioneer in Zero Trust Network Access (ZTNA) solutions, announced today it will be exhibiting at the EDUCAUSE Annual Conference on October 26 – 27. During this event, Genians will present the best way to secure campus and remote network access for various types of users, along with their IP-enabled devices in heterogeneous network environments – namely, by leveraging Genians' ZTNA solutions. Over the course of the last 17 years, Ge

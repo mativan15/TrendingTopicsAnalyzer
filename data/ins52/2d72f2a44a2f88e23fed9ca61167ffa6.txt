@@ -1,0 +1,6 @@
+Baffle Announces Availability of Baffle Data Protection Service Transform for Apache Kafka® for On-the-Fly Cloud Data Protection
+globenewswire.com
+news
+2022-06-01 00:00:00
+
+SANTA CLARA, Calif., June 01, 2022 (GLOBE NEWSWIRE) -- Baffle, Inc. today announced the availability of the Baffle Data Protection Service (DPS) Transform that integrates with Apache Kafka® and Confluent Cloud. Developers, data engineers, and operators can now benefit from automated data de-identification and protection as information is ingested into the cloud and used by applications. The Baffle DPS Transform has earned verification from Confluent as part of the Confluent Verified Integrations Program.

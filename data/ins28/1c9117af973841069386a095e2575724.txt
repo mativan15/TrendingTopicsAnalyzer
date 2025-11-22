@@ -1,0 +1,8 @@
+ExpressVPN moves India servers out of the country to ensure privacy, service continuity
+Copyright 2022 The Hindu
+news
+2022-06-02 10:49:24
+
+ExpressVPN logo.
+| Photo Credit: Special Arrangement
+ExpressVPN, one of the major VPN providers, announced it will move its India-based servers to Singapore and the UK in response to the new VPN rules that require private network providers to store user information for at least five years. The new rules issued by the Indian Computer Emergency Response Team (CERT-In) for VPN providers will come into effect on June 27, 2022.(Sign up to our Technology newsletter, Today's Cache, for insights on emerging themes at the intersection of technology, business and policy.

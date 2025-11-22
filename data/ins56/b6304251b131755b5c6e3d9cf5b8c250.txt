@@ -1,0 +1,6 @@
+Hacking the hype of AI
+medium.com
+news
+2022-06-05 11:19:38
+
+I have directly worked with AI on a few occasions.First, in 2005, working for one of the biggest US Fintech, I recall that we had a tool developed internally to visually represent and track all the transactions between all the accounts. Acting with an image recognition algorithm that highlights potential fraudulent hidden patterns between the whole transactions, till today, this tool is used in identifying and pursuing Fraud and Money Laundering patterns. It is one of the most advanced tools that finance and banking have ever seen in their lives.

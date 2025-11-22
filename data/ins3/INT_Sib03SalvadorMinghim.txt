@@ -1,0 +1,138 @@
+An Interaction Model to Scientific Visualization Using Sound
+
+VERIDIANA CHRISTIE LUCAS SALVADOR, ROSANE MINGHIM
+Instituto de Ciências Matemáticas e de Computação, Universidade de São Paulo, São Carlos – SP, Brasil
+{veri, rminghim}@icmc.sc.usp.br
+
+Abstract: In scientific visualization, interaction tools allow users to navigate through volume and explore its
+features, helping information understanding. The use of sound as a data display tool (sonification) has also
+been shown to support information understanding and may help dealing with adding dimensions to a visual
+display. However, thus far those issues have been treated separately by the visualization community. This
+paper presents an interaction model for scientific visualization that considers the main issues related to
+sonification, and shows a prototype implemented to sample the proposed model.
+
+8. References
+[1] T. Frühauf – “Efficient 3D Interaction with Scientific
+Data”, Visualization in Scientific Computing, Springer-
+Verlag Wien New York, 1995, pp. 154-165.
+[2] C. Ware – “Information Visualization – Perception for
+Design”, Morgan KaufmannPublishers, ISBN 1-55860-
+511-8, 2000.
+[3] P. Rheingans – “Are We Ther Yet? Exploring
+with Dynamic Visualization”, Visualization Viewpoints,
+IEEE Computer Graphics and Applications, Maio/Junho
+2002, volume 22, n. 3, pp 6-10, 2002.
+[4] http://www.avs.com/software/soft_t/specs.html#XPV
+[5] AGOCG (Advisory Group on Computer Graphics) and
+Leeds University – “IRIS Explorer Self-Teaching
+Module”, 2002, available at
+http://www.nag.com/visual/IE/iecbb/DOC/Index.html.
+[6] R. Avila, T. He, L. Hong, A. Kaufman, H.
+Pfister, C. Silva, L. Sobierajski, S. Wang – “VolVis: A
+Diversified Volume Visualization System”, Proceedings
+of IEEE Visualization’94, 1994, pp. 31-38.
+[7] http://www.ssec.wisc.edu/~billh/vis5d.html
+(16/01/2003).
+[8] A. Fuhrmann, E. Gröller – “Real-Time
+Techniques for 3D Flow Visualization”, Proceedings of
+Visualization’98, IEEE Computer Society Press, 1998, pp.
+305-312.
+[9] M. Schulz, F. Reck, W. Bartelheimer, T. Ertl –
+“Interactive Visualization of Fluid Dynamics Simulations
+in Locally Refined Cartesian Grids”, Proceedings of IEEE
+Visualization’99, San Francisco, CA, pp. 413-417, 1999.
+[10] H. Huitema, R. van Liere – “Interactive
+Visualization of Protein Dynamics”, Proceedings of IEEE
+Vis2000, Salt Lake City, October 2000.
+[11] N. E. Khalili, K. Brodlie, D. Kessel – “WebSTer: A
+Web-based Surgical Training System”, Medicine Meets
+Virtual Reality 2000, ed. JD Westwood, HM Hoffman,
+GT Mogel, RA Robb and D Stredney, IOS Press, pp69-75.
+[12] J. J. Laviola Jr. - “MSVT: A Virtual
+RealityBased Multimodal Scientific Visualization Tool”,
+IASTED International Conference on Computer Graphics
+and Imaging, 1999, pp. 221-225.
+[13] B. Fröhlich, S. Barrass, B. Zehner, J. Plate, M. Göbel
+– “Exploring Geo-Scientific Data in Virtual
+Environments”, Proceedings of IEEE Visualization’99,
+San Francisco – CA, USA, Outubro, 1999, pp. 169-173.
+[14] A. L. Fuhrmann – “Scientific Visualization in
+Virtual Reality”, VRVis Technical Report from 2002,
+VRVis Center for Virtual Reality and Visualization,
+Vienna, Austria, 2002, available at
+http://www.vrvis.at/research/publications.html.
+[15] G. Haan, M. Koutek, F. H. Post – “Towards
+Intuitive Exploration Tools for Data Visualization in VR”,
+submitted paper for ACM Symposium on Virtual Reality
+Software and Technology 2002, Novembro 2002, Hong
+Kong, China.
+[16] R. Minghim, V. C. L. Salvador, B. S. Freitas, M. C.
+F. Oliveira, L. G. Nonato – “Distributed Sound For
+Volumes – Data Analysis Using Distributed Visualization
+and Sonification”, in Proceedings of SPIE - Visualization
+and Data Analysis 2002, vol. 4665, pp. 379-390, January
+2002, San Jose, CA, USA, 2002.
+[17] J. Blauert - “Spatial Hearing: The Psychophysics of
+Human Sound Localization”. Cambridge, MA: MIT Press,
+1997.
+[18] J. G. Neuhoff, G. Kramer, J. Wayand. – “Sonification
+and the Interaction of Perceptual Dimensions: Can the
+Data Get Lost in the Map?”, Proceedings of ICAD 2000,
+available at
+http://www.icad.org/websiteV2.0/Conferences/ICAD2000
+/ICAD2000.html.
+[19] B. N. Walker, G. Kramer, D. M. Lane –
+“Psychophysical Scaling of Sonification Mappings”,
+Proceedings of ICAD’2000, Atlanta, USA, Abril, 2000
+(http://www.icad.org).
+[20] A. J. Joseph, S. K. Lodha – “MUSART: Musical
+Áudio Tranfer Function Real-Time Toolkit”, Proceedings
+of the 2002 International Conference on Auditory Display,
+Kyoto, Japan, Julho, 2002, disponível em
+http://www.icad.org/websiteV2.0/Conferences/ICAD2002
+/proceedings/.
+[21] H. Levkowitz, R. M. Pickett, S. Smith, M. Torpey –
+“An Environment and Studies for Exploring Auditory
+Representations of Multidimensional Data”, Perceptual
+Issues in Visualization, Springer-Verlag, 1995, pp. 47-58.
+[22] E. Jovanov, D. Starcevic, V. Radivojevic, A.
+Samardzic, V. Simeunovic – “Perceptualization of
+Biomedical Data – An experimental Environment for
+Visualization and Sonification of Brain Electrical
+Activity”, IEEE Engineering in Medicine and Biology,
+IEEE Inst. Eletrical Electronics Engineers Inc, Nova
+York, Fevereiro 1999, pp. 50 – 55.
+[23] T. Hermann, P. Meinicke, H. Beker, H. Ritter –
+“Sonifications for EEG Data Analysis”, Proceedings of
+the 2002 International Conference on Auditory Display,
+Kyoto, Japan, Julho, 2002, disponível em
+http://www.icad.org/websiteV2.0/Conferences/ICAD2002
+/proceedings/.
+[24] C. Hayward – “Listening to the Earth Sing”,
+Proceeding of ICAD’94, Addison-Wesley Publishing
+Company, 1994, pp. 369 – 404.
+[25] S. Barrass – “Responsive Sonification of Well-logs”,
+Proceedings of ICAD’2000, Atlanta, USA, Abril, 2000
+(http://www.icad.org).
+[26] M. Ballora, B. Pennycook, L. Glass – “Sonification
+of Heart Rate Variability Data”, Proceedings of
+ICAD’2000, available at http://www.icad.org.
+[27] J. H. Flowers, L. E. Whitwer, D. C. Grafel, C. A.
+Kotan – “Sonification of Daily Weather Records: Issues
+of perception, Attention and Memory in Design Choices”,
+Proceedings of ICAD’2001, Finlândia, 2001, pp. 222-226,
+in http://www.icad.org.
+[28] V. C. L. Salvador, R. Minghim, M. L. Pacheco –
+“Sonification to Support Visualization Tasks”, in
+Proceedings of SIBGRAPI’98, IEEE CS Press, 1998,
+pp.150-157.
+[29] R. Minghim, A. R. Forrest, - “An Illustrated Analysis
+of Sonification for Scientific Visualization”, in
+Proceedings of IEEE Visualization’ 95, pp. 110-117.
+[30] W. J. Schroeder, K. Martin, W. Lorensen – The
+Visualization Toolkit – An Object-Oriented Approach to
+3D Grraphics, Prentice-Hall, 2nd Edition, 1998.
+[31] P. R. Cook, G. P. Scavone – “The Synthesis ToolKit
+(STK)”, in Proceedings of 1999 Int. Computer Music
+Conf., pp. 164-166, Beijing, China, Computer Music
+Association.

@@ -1,0 +1,10 @@
+Texas Sues Google for Violating State's Biometric Privacy Law
+pcmag.com
+news
+2022-10-20 16:44:49
+
+The attorney general in Texas is suing Google over claims the company has been illegally collecting people's biometric data without user consent through various products, including Google Photos and Google Assistant.
+
+AG Ken Paxton announced(Opens in a new window) the lawsuit today, which accuses Google of violating a Texas biometric privacy law passed in 2009.
+
+The law(Opens in a new window) requires companies to receive consent before capturing biometric data from a user, including their fingerprint, voiceprint, or a record of their 'face geometry.

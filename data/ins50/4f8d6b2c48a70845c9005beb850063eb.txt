@@ -1,0 +1,8 @@
+GOP Accuses Google in Suit of Routing Donation Emails to Spam
+bloomberg.com
+news
+2022-10-22 04:09:46
+
+The Republican National Committee sued Google, claiming it can't communicate with party members to raise money because the internet giant is routing its email messages to spam folders.
+
+The committee accuses the Alphabet Inc. unit of political discrimination, saying its messages sent through Gmail reach supporter inboxes most of the time -- except at the end of the month, when nearly all of its emails end up in spam folders where users are unlikely to read them.

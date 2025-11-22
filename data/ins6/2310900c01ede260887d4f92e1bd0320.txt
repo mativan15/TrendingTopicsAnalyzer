@@ -1,0 +1,6 @@
+US's Frontier supercomputer becomes the fastest in the world
+dailymail.co.uk
+science
+2022-05-31 11:50:13
+
+Published: 07:50 EDT, 31 May 2022 | Updated: 07:52 EDT, 31 May 2022 A supercomputer in the US called 'Frontier' has become the fastest in the world, beating its closest rival in Japan. Frontier, based at the US Department of Energy's Oak Ridge National Laboratory in Tennessee, is the first to achieve a level of computing known as 'exascale'.Exascale refers to a system that can perform at least one quintillion operations per second – a billion billion calculations, or 1 followed by 18 zeroes. This makes Frontier more than twice as powerful than the Fugaku supercomputer in Japan, which was deemed the world's fastest supercomputer back in June 2020.

@@ -1,0 +1,8 @@
+Adobe adds AI masking and content-aware healing to Lightroom 2022
+yahoo.com
+news
+2022-10-18 13:00:40
+
+Adobe Lightroom 2022 has arrived, and the latest features are all about making it easier to select people or objects to adjust their colors or remove them completely. The key features, AI-powered masking and content-aware remove, are available on Lightroom, Lightroom Classic and Adobe Camera RAW.
+
+Where Photoshop has been the usual way you'd go in and tweak or remove objects, Adobe introduced AI-powered masking to Lightroom last year. Now, it's expanding on that with more specific tools that allow you to easily select people and even individual body parts, objects or the background in a single click.

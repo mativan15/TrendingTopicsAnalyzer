@@ -1,0 +1,8 @@
+Azure Active Directory logs are lagging, alerts impacted
+theregister.com
+news
+2022-06-01 06:01:03
+
+Updated Microsoft has warned users that Azure Active Directory isn't currently producing reliable sign-in logs.
+"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources," the Azure status page explains. Tools including Azure Portal, MSGraph, Log Analytics, PowerShell, and/or Application Insights are all impacted.
+Azure AD and the other abovementioned tools are all working. But Microsoft has warned that the incident "could lead to missed or misfired alerts.

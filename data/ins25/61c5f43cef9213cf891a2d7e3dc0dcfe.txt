@@ -1,0 +1,8 @@
+How to use Microsoft Power Automate to convert bulk Microsoft Word files to PDF
+techrepublic.com
+news
+2022-05-31 20:01:07
+
+Image: monticellllo/Adobe Stock
+Microsoft Power Automate is a workflow system that allows you to automate processes. A workflow system allows you to manage repetitive processes and tasks. That means you can create a workflow to automate some of your tedious tasks.
+If you're familiar with VBA procedures, it is similar to using code to automate something you do regularly, but there's no code. Microsoft Power Automate is a web-based system outside Office 365 apps. In this tutorial, I'll introduce you to Power Automate by creating a workflow that converts Word files into PDFs.

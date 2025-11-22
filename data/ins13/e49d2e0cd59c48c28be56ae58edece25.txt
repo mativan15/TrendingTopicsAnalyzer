@@ -1,0 +1,9 @@
+How to set up the JotForm plug-in in WordPress
+techrepublic.com
+news
+2022-10-17 13:20:12
+
+Jack Wallen walks you through the process of integrating Jotform into WordPress for easier signups, registrations, lead generation and more. 
+ Image: monticellllo/Adobe Stock
+JotForm is one of the most powerful form services on the market. With the tool, you can create incredible forms that make it considerably easier to collect data from various types of users and groups.
+But what if you have a WordPress site that you'd like to integrate the power of JotForm into your WordPress site? With such an integration, you could include the JotForm form building drag-and-drop interface to create powerful and useful forms for the collection of data.

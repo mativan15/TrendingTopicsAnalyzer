@@ -1,0 +1,6 @@
+Eliminate 80% of your cyber threat exposure with network visibility
+venturebeat.com
+news
+2022-10-17 12:10:00
+
+Presented by Armis 'Cyberwarfare has escalated over the years as incredibly sophisticated tools leak out from nation-states, so hackers have elevated their games,' says Steve Gyurindak, CTO of Network and Operational Technology at Armis. 'They realize that going after a target like a big retailer isn't nearly as good as going after a water plant in the south of London and holding that for ransom.' Targets like those and manufacturing and healthcare organizations are particularly at risk. Too much of that vulnerability comes from the proliferation of the Internet of Things (IoT) and unmanaged devices, Gyurindak says.

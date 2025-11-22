@@ -1,0 +1,7 @@
+Drivetrain is the "Google Maps for business growth"
+techcrunch.com
+tech
+2022-10-18 18:00:12
+
+Businesses usually plot their growth strategies on spreadsheets, but Drivetrain wants to provide a faster alternative for financial planning and decision making. The startup, which calls itself 'Google Maps for business growth,' announced today that it has raised $15 million from Elevation Capital, Jungle Ventures and Venture Highway, plus 25 angel investors.
+One of Drivetrain's goals is to help companies identify performance issues before it affects their finances. It integrates with 200 business tools, including Salesforce, Netsuite, Quickbooks, Workday and Looker, and delivers a 'system of metrics' in simple formulas, to help companies create financial models and visualizations.

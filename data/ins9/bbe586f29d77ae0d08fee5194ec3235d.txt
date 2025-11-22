@@ -1,0 +1,6 @@
+Cloud security: What every tech leader needs to know
+techradar.com
+tech
+2022-10-17 13:38:31
+
+Enterprises that move to the cloud enjoy clear benefits – namely redundancy, cost savings and easy integrations – but the challenges and security risks that come with hosting applications in the cloud are numerous as well.  Among CTOs and CISOs there is unease with the lack of visibility; worry about the potential for data exfiltration by internal or external threat actors; and concerns about compliance. The issues don't end there. We also find that rather than truly integrating security and compliance in the cloud, security often remains an afterthought, with organisations bolting-on traditional on-premise security controls in a piecemeal fashion.

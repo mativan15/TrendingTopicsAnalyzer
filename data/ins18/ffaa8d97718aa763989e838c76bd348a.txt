@@ -1,0 +1,6 @@
+MedStar reports its computer network was hit by a cyberattack
+cbsnews.com
+news
+2022-10-20 19:53:27
+
+By Alex Keller October 20, 2022 / 2:53 PM / CBS DFW FORT WORTH (CBSDFW.COM) — MedStar, the agency that provides emergency medical services for much of Tarrant County, reported this afternoon that they had detected a cyberattack on their computer network.A spokesperson for the agency said that on the morning of Oct. 20, 2022, they had detected an "active attack" targeting their network and were working to quarantine the threat.MedStar stores its data remotely, using secure servers that are backed up.

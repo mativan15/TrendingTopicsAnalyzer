@@ -1,0 +1,8 @@
+Calculating The Fair Value Of Savor Limited (NZSE:SVR)
+yahoo.com
+news
+2022-05-31 23:59:54
+
+Today we will run through one way of estimating the intrinsic value of Savor Limited (NZSE:SVR) by taking the forecast future cash flows of the company and discounting them back to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. There's really not all that much to it, even though it might appear quite complex.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

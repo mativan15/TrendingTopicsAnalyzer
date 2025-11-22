@@ -1,0 +1,7 @@
+Council Post: Being A CISO Is Risky Business: Rethink Your Reporting Structure
+forbes.com
+news
+2022-10-17 13:30:00
+
+David Mamikonyan - Chief Information Security Officer, Summit Health.
+getty The rise of information security threats has caused Chief Information Security Officers (CISO) to do some serious pivoting over the years. The function of the job has changed fundamentally since its beginnings in IT, yet the hierarchy of who they report to hasn't changed much for most enterprises. Why is this an issue? CISOs aren't being set up for success—and your security program and even more importantly the entire enterprise brand and image may suffer by default.

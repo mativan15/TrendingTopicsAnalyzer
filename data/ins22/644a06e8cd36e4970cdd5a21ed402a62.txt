@@ -1,0 +1,9 @@
+Oracle Introduces Oracle Alloy to Bring the Power of the Cloud to the Masses
+prnewswire.com
+news
+2022-10-18 12:00:00
+
+New offering enables global partners and organizations to become cloud providers and offer cloud services built on OCI to their own customers
+Oracle Alloy can be independently operated in a partner's own data center with full control of operations to help address data control or sovereignty requirements
+Full extensibility allows organizations across healthcare, financial services, and telecommunications to build their own services and bring their own hardware
+LAS VEGAS, Oct. 18, 2022 /PRNewswire/ -- Oracle CloudWorld -- Oracle today announced Oracle Alloy, a new cloud infrastructure platform that enables service providers, integrators, independent software vendors (ISVs), and other organizations such as financial institutions or telecommunications providers to become cloud providers and roll out new cloud services to their customers.

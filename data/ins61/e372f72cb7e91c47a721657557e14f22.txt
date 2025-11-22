@@ -1,0 +1,8 @@
+China Is Selling Russia Lots of Faulty Chips
+pcmag.com
+news
+2022-10-19 14:12:55
+
+Russia has turned to China as a source of semiconductors due to sanctions cutting off supplies from elsewhere, but a large percentage of the chips being imported simply don't work.
+
+As The Register reports(Opens in a new window), the chip failure rate is as high as 40% according to Russian national daily newspaper Kommersant. These chips are being purchased on the gray market by Russian electronics manufacturers from Chinese sellers. And it seems those sellers are taking advantage of the situation to dump broken parts in Russia while making a profit.

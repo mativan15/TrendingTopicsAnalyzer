@@ -1,0 +1,6 @@
+google: Google removes ‘Go' branding from another app: What does it mean for users
+indiatimes.com
+tech
+2022-05-29 05:15:00
+
+Google recently decided to shut down YouTube Go which will is likely to stop working from August. The company is shutting down the app that is optimised for lower-end hardware as it deems the service to be no longer necessary. According to 9to5Google, the tech giant has now removed the 'Go' branding from another app. The report suggests that Google's 'Gallery Go' app has lost he its 'Go' branding and it might indicate the changes coming to the lightweight versions of the first-party apps that are designed to run smoothly on low-end devices.

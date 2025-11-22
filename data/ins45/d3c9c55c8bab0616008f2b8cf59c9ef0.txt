@@ -1,0 +1,6 @@
+Additive manufacturing of micro-architected metals via hydrogel infusion
+© 2022 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+news
+2022-10-20 00:00:00
+
+Metal additive manufacturing (AM) enables the production of high value and high performance components1 with applications from the aerospace2 to biomedical3 fields. Layer-by-layer fabrication circumvents the geometric limitations of traditional metalworking techniques, allowing topologically optimized parts to be made rapidly and efficiently4,5. Existing AM techniques rely on thermally initiated melting or sintering for part shaping, a costly and material-limited process6–8. We report an AM technique that produces metals and alloys with microscale resolution via vat photopolymerization (VP).

@@ -1,0 +1,7 @@
+VMware users are nervous about Broadcom acquisition
+theregister.com
+business
+2022-05-31 08:05:10
+
+VMware customers have seen companies acquired by Broadcom Software emerge with lower profiles, slower innovation, and higher prices - a combination that makes them nervous about the virtualization giant's future.
+The Register offers that assessment after spending the day at a VMware user group conference in Melbourne, Australia, where we interviewed over a dozen VMware customers to ascertain their reaction to Broadcom's surprise acquisition of the virtualisation giant. The customers all requested that The Register not use their names, or those of their employers, as none were authorized to speak to the media.

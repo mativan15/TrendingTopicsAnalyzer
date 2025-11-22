@@ -1,0 +1,8 @@
+FreeBSD comes to Amazon's lightweight hypervisor
+theregister.com
+news
+2022-10-19 10:32:11
+
+The FreeBSD developer who brought FreeBSD to Amazon EC² has now got it working on the company's lightweight Firecracker hypervisor.
+"AWS Community Hero" Colin Percival is the developer of the Tarsnap online backup service and the portsnap tool for updating FreeBSD. It's thanks to his efforts that FreeBSD is supported on Amazon EC².
+Now, he has announced that FreeBSD supports another new platform: Amazon's Firecracker hypervisor. The Reg covered Firecracker when it was announced, and when Amazon cut the price of the Fargate "serverless" platform that Firecracker supports.

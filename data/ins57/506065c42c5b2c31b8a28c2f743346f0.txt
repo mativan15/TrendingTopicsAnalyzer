@@ -1,0 +1,8 @@
+UBS to migrate 50% of applications to Microsoft Azure
+theregister.com
+news
+2022-10-20 17:15:13
+
+UBS, one of the largest private banks in the world, is preparing to send more workloads into Microsoft's Azure cloud in pursuit of lower energy consumption and to accelerate digital services for customers.
+The Swiss-based financial institution opted for a cloud-first strategy in 2018 when it intended to move a third of its applications to Azure. That goal, UBS says, was achieved earlier than planned by February last year.
+Now the intent is to shift 50 percent of applications, including critical workloads, to Azure over the next half a decade.

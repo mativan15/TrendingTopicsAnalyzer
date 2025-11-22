@@ -1,0 +1,6 @@
+Pixel Watch teardown shows off 'ugly' insides, gives strong first-gen vibes
+arstechnica.com
+news
+2022-10-19 17:40:00
+
+The inside is a far cry from the color-coded Apple products iFixit usually looks at. You'll have to pry out the battery to remove the display cable. That brown cable goes to the display, from here you can just pop it off. The back of the watch, with the back plate removed. Google's adhesive for the back comes off in a single piece, which would make applying new adhesive very easy. What secrets does the inside of the Pixel Watch hold? iFixit—Google's new repair partner—tore down Google's first-ever self-branded smartwatch to see exactly how this thing was put together.

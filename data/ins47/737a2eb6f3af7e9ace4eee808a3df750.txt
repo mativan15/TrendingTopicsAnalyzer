@@ -1,0 +1,8 @@
+BA July 22nd Options Begin Trading
+nasdaq.com
+news
+2022-06-02 12:07:00
+
+Investors in Boeing Co. (Symbol: BA) saw new options begin trading today, for the July 22nd expiration. At Stock Options Channel, our YieldBoost formula has looked up and down the BA options chain for the new July 22nd contracts and identified one put and one call contract of particular interest.
+
+The put contract at the $130.00 strike price has a current bid of $6.35. If an investor was to sell-to-open that put contract, they are committing to purchase the stock at $130.00, but will also collect the premium, putting the cost basis of the shares at $123.

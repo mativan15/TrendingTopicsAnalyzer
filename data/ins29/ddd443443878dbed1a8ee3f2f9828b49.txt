@@ -1,0 +1,8 @@
+EnemyBot malware adds enterprise flaws to exploit arsenal
+theregister.com
+news
+2022-06-01 03:47:40
+
+The botnet malware EnemyBot has added exploits to its arsenal, allowing it to infect and spread from enterprise-grade gear.
+What's worse, EnemyBot's core source code, minus its exploits, can be found on GitHub, so any miscreant can use the malware to start crafting their own outbreaks of this software nasty.
+The group behind EnemyBot is Keksec, a collection of experienced developers, also known as Nero and Freakout, that have been around since 2016 and have launched a number of Linux- and Windows-based bots capable of launching distributed denial-of-service (DDoS) attacks and possibly mining cryptocurrency.

@@ -1,0 +1,37 @@
+Securing Blockchain-Based Supply Chain Workflow against Internal and External Attacks
+Creative Commons Attribution (CC-BY)
+science
+2022-05-31 00:00:00
+
+Open AccessArticle by
+ 1,*, 1 and 2 
+
+
+1
+Division of Information and Computing Technology, College of Science and Engineering, Hamad Bin Khalifa University, Doha P.O. Box 34110, Qatar
+
+
+2
+Infocomm Technology Cluster, Singapore Institute of Technology, Singapore 138683, Singapore
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Richard Hill
+
+Machines 2022, 10(6), 431; https://doi.org/10.3390/machines10060431 (registering DOI)
+
+
+Received: 31 March 2022
+/
+Revised: 24 April 2022
+/
+Accepted: 28 April 2022
+/
+Published: 31 May 2022
+ 
+
+Blockchain is a revolutionary technology that is being used in many applications, including supply chain management.

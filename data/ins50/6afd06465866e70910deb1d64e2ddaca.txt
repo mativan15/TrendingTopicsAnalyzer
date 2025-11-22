@@ -1,0 +1,6 @@
+Leaked Microsoft organizational chart shows the 19 people running its all-important cloud business
+businessinsider.com
+news
+2022-10-20 12:00:00
+
+An internal Microsoft organizational chart viewed by Insider shows the people in charge of the company's cloud and artificial intelligence business — a business so tremendous, it employs at least one-third of Microsoft's massive workforce. The Cloud + AI org is responsible for Microsoft's Azure cloud business, plus its data platform, developer services, and software like its Dynamics 365 customer relationship management tool. The org is run by Scott Guthrie, one of CEO Satya Nadella's top lieutenants and the exec who has led Microsoft's cloud business since at least 2011.

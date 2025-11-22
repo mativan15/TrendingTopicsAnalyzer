@@ -1,0 +1,12 @@
+Honda patents front-facing camera for Africa Twin
+google.com
+news
+2022-10-19 08:11:03
+
+The new tech could be offered on other models like the Gold Wing in the future.
+
+Honda has filed a patent for a front-facing camera that would provide data for active riding aids on the Africa Twin CRF1100.
+
+The patent drawings reveal a camera module mounted just below the headlamp cluster. The camera is said to have sensors similar to a smartphone camera. Instead of fixing the module in place, Honda has suspended it to reduce vibrations.
+
+The newly developed tech has its advantages over Radar and Lidar-based systems since it offers light perception like brake lights, etc.

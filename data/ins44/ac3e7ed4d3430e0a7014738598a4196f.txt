@@ -1,0 +1,6 @@
+How Sharp Is The Sharpe Ratio? An Analysis Of Global Stock Indices
+seekingalpha.com
+finance
+2022-06-04 18:07:00
+
+seewhatmitchsee/iStock Editorial via Getty Images Investors across the globe use the Sharpe Ratio, among other risk-adjusted metrics, to compare the performance of mutual fund and hedge fund managers as well as asset classes and individual securities. The Sharpe Ratio attempts to describe the excess return relative to the risk of the strategy or investment - that is, return minus risk-free rate divided by volatility - and is among the primary gauges of fund manager performance. But hidden within the Sharpe Ratio is the assumption that volatility - the denominator of the equation - captures "risk" in its entirety.

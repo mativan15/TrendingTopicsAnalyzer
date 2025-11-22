@@ -1,0 +1,16 @@
+Hitman 3 at 8K is almost perfection thanks to Nvidia DLSS
+techradar.com
+news
+2022-06-05 10:00:12
+
+Our 8K test systemPC built by Chillblast (opens in new tab)Motherboard: Asus ROG STRIX Z390-E GAMING
+CPU Cooler: Noctua NH-U14S
+Case fans: Noctua NF-A14 PWM Chromax 140mm
+Processor: Intel Core i9-9900K, 8 Cores / 16 Threads
+GPU: Nvidia GeForce RTX 3090
+Storage: 500GB Samsung 970 EVO Plus M.2 PCIe
+Secondary Storage: 2TB Samsung 860 QVO
+Power: Corsair RM850x 80 PLUS Gold 850W PSU
+Case: Fractal Design Vector RS Tempered Glass
+RAM: G.Skill Trident Z RGB 32GB DDR4 3200MHz
+Screen: LG 55NANO966PA Hitman 3 is now a few years old, but it remains one of the best PC games you can play right now (and it's also available on consoles if you like that sort of thing).

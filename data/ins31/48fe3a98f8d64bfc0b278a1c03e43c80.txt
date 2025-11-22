@@ -1,0 +1,6 @@
+Discord Is the World's Most Important Financial Messenger, And a Hotbed for Scammers
+vice.com
+tech
+2022-05-31 13:35:31
+
+Hacking. Disinformation. Surveillance. CYBER is Motherboard's podcast and reporting on the dark underbelly of the internet.Earlier this month, Josh Fraser, the founder of the Ethereum-based platform Origin, was poking around Discord, the chat app for gamers that's become the go-to platform for crypto projects all over the world. What he found startled him. Fraser wanted to see if he could set up an automatic script that would alert him every time users posted certain keywords in his server. He saw several private channels that he couldn't access, but he was still able to see a lot of information about them.

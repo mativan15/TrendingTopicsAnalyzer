@@ -1,0 +1,10 @@
+Cert-manager Graduates to CNCF Incubating Project
+Copyright 2022, Business Wire.
+tech
+2022-10-19 13:05:00
+
+October 19, 2022 09:05 AM Eastern Daylight Time SALT LAKE CITY--(BUSINESS WIRE)--Venafi®, the inventor and leader of machine identity management today announced that the open source cert-manager project has graduated to the Cloud Native Computing Foundation® (CNCF) incubation program. The incubation program will help cert-manager widen its community of contributors, expand to new use cases, improve extensibility and advance developer and user experience.
+
+
+
+cert-manager was originally created by Jetstack, a Venafi company, and has become the industry standard for TLS machine identity management in Kubernetes and OpenShift environments.

@@ -1,0 +1,8 @@
+Estimating The Fair Value Of Carpenter Technology Corporation (NYSE:CRS)
+yahoo.com
+news
+2022-10-18 11:33:07
+
+Does the October share price for Carpenter Technology Corporation (NYSE:CRS) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by estimating the company's future cash flows and discounting them to their present value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. There's really not all that much to it, even though it might appear quite complex.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

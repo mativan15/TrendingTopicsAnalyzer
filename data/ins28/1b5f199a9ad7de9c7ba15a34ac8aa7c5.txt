@@ -1,0 +1,7 @@
+To better manage cybersecurity risk, extend zero-trust principles to third parties – TechCrunch
+techcrunch.com
+tech
+2022-06-03 21:43:10
+
+Today's cybersecurity landscape requires an agile and data-driven risk management strategy to deal with the ever-expanding third-party attack surface.
+When a business outsources services by sharing data and network access, it inherits the cyber risk from its vendors across their people, processes, technolog, and that vendor's third parties. The typical enterprise works with an average of nearly 5,900 third parties, which means companies face a huge amount of risk, regardless of how well they cover their own bases.

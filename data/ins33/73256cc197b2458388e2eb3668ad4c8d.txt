@@ -1,0 +1,6 @@
+Ransomware hackers sidestep U.S. sanctions with a new trick: Rebranding
+nbcnews.com
+tech
+2022-06-02 15:00:00
+
+Ransomware hackers sanctioned by the United States have learned to rebrand themselves and their software, a strategy meant to sidestep the curbs and make it more likely that victims pay up. It's the most recent development in what has become a burgeoning chase between U.S. authorities and cybercriminals who have figured out ways to evade crackdowns and sustain their multibillion-dollar hacking industry.A study published Thursday by the cybersecurity company Mandiant found that a notorious Russian cybercriminal gang changed its tactics almost immediately after a Department of Treasury advisory.

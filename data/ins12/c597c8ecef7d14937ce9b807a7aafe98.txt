@@ -1,0 +1,8 @@
+Only 4% of Security & IT Leaders Believe All of Their Cloud Data is Sufficiently Secured
+prnewswire.com
+news
+2022-10-20 13:00:00
+
+New Cloud Data Survey from the Cloud Security Alliance & BigID Sheds Light on the State of Cloud Data Security in 2022
+NEW YORK, Oct. 20, 2022 /PRNewswire/ -- BigID, the leading data intelligence platform that enables organizations to know their enterprise data and take action for privacy, security, and governance, today released the Cloud Data Security Research Report 2022, in partnership with Cloud Security Alliance (CSA) - with results from over 1,500 IT & Security professionals.
+The results? According to the survey, organizations consider cloud data security a top 3 priority when protecting data - and cloud data security posture management (DSPM) is critical to addressing gaps.

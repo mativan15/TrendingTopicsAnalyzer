@@ -1,0 +1,7 @@
+Bluetooth® Stack Launches Next-gen Audio Streaming
+prnewswire.com
+news
+2022-10-18 08:00:00
+
+New Low Energy Audio functionality enables more audio use cases and improved audio quality
+BERLIN, Oct. 18, 2022 /PRNewswire/ -- OpenSynergy announces the release of its Bluetooth® stack, Blue SDK v7, implementing entirely new Bluetooth profiles that enable advanced audio streaming over Bluetooth Low Energy. A new codec, called LC3, makes it possible to stream audio over Bluetooth Low Energy (LE), providing improved audio quality at roughly half the bitrate compared to the traditional Bluetooth audio codec.

@@ -1,0 +1,6 @@
+Semiconductors: Why the world relies heavily on TSMC and Foxconn for chips
+indiatimes.com
+economics
+2022-10-21 04:00:00
+
+iStockEven as Apple tries to diversify its supply chain to a broader array of vendors and geographies, it still relies on Foxconn to produce as much as two-thirds of its iPhones.US politicians, business leaders and think-tank analysts seem to believe that locally made chips will fortify the nation's technology supply chain at a time when global tensions are running hot. They're mistaken, and that error could push the US into even greater dependence on foreign manufacturers. Passage of the $52 billion CHIPS Act in August is rightly hailed as a landmark move to rebuild America's role in the semiconductor industry.

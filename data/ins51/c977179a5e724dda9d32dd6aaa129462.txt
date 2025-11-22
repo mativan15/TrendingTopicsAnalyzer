@@ -1,0 +1,6 @@
+How Fidelity Investments is monetizing data without selling it
+indiatimes.com
+news
+2022-05-27 07:45:00
+
+Data is the key to everything. And somehow, companies have lost their way in terms of how data is the foundation, and it's a separate and distinct engineering skill. And it needs a very focused attention if you truly want to harness the data.Three years ago, Fidelity decided it needed to harness the data it already had lying in over 35 data warehouses, some of which are much as 27 years old. When Mihir Shah, MD and Executive Director, Country Head – India, Fidelity Investments took up this massive project, he knew this wasn't going to be a cake walk.

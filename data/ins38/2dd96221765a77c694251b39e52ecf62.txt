@@ -1,0 +1,6 @@
+Data warehouses and lakes will merge
+venturebeat.com
+news
+2022-10-21 18:07:00
+
+Register now for your free virtual pass to the Low-Code/No-Code Summit this November 9. Hear from executives from Service Now, Credit Karma, Stitch Fix, Appian, and more. Learn more. My first prediction relates to the foundation of modern data systems: the storage layer. For decades, data warehouses and lakes have enabled companies to store (and sometimes process) large volumes of operational and analytical data. While a warehouse stores data in a structured state, via schemas and tables, lakes primarily store unstructured data.

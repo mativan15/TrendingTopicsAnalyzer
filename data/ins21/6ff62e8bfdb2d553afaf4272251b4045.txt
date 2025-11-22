@@ -1,0 +1,8 @@
+Crystal Introduces a New Beta Solution for VASP Checks for Banks & FIs
+yahoo.com
+news
+2022-10-17 10:00:00
+
+The all-new "watchlist" functionality sends alerts and helps to identify possible risks with VASPs for banks and FIs.
+
+AMSTERDAM, Oct. 17, 2022 /PRNewswire/ -- The Crystal team is introducing new functionality in BETA that allows for VASP checks. This all-new feature will enable users (typically financial institutions) to add VASP entities for detailed activity monitoring to identify possible risks. The new tool has a watchlist, two compliance risk alerts, activity monitoring alerts, and stats. A watchlist is a set of entities selected by the user, for each of which constant checks are carried out by the rules specified by the user in Alert Settings.

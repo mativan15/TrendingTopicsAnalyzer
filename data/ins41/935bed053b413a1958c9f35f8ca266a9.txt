@@ -1,0 +1,6 @@
+Axiomtek unveils advanced industrial ATX motherboard with 12th Gen Intel® Core™ processor for AIoT application
+prnewswire.com
+news
+2022-10-18 03:54:00
+
+TAIPEI, Oct. 17, 2022 /PRNewswire/ -- Axiomtek – a world-renowned leader relentlessly devoted to the research, development, and manufacturing of innovative and reliable industrial computer products of high efficiency – is glad to introduce the IMB540, a superior industrial ATX motherboard featuring the LGA1700 socket for the 12th  generation Intel® Core™ i9/i7/i5/i3 processors (code name: Alder Lake-S). In addition to providing high computing performance, the IMB540 ATX motherboard features quad displays and dual GPU expansion, delivering intelligent workload optimization and highly scalable graphics for next-gen edge AIoT applications.

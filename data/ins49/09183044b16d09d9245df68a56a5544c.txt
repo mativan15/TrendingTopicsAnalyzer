@@ -1,0 +1,6 @@
+Council Post: Off The Chain: Why Real-Time Data Is Key To Web3
+Copyright 2022 Forbes Media LLC
+business
+2022-06-03 12:15:00
+
+Chet Kapoor, chairman and CEO at DataStax. Getty Web3 has been around since 2014, when it was coined as a decentralized online ecosystem based on blockchain. It was just a buzzword for a while, but blockchain and crypto startups have made us all move beyond the talk. Companies like Shopify are accepting cryptocurrencies as payment, and even established giants like Microsoft are investing. Blockchain is an integral component of Web3, but it's not the only piece of the puzzle. To take advantage of what Web3 provides, the data running these applications will have to be gathered, processed and analyzed in real time and outside of the blockchain.

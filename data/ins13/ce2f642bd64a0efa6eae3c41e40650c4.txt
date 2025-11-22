@@ -1,0 +1,6 @@
+Industrial Ergonomics Risk Analysis Based on 3D-Human Pose Estimation
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Ergonomics is important for smooth and sustainable industrial operation. In the manufacturing industry, due to poor workstation design, workers frequently and repeatedly experience uncomfortable postures and actions (reaching above their shoulders, bending at awkward angles, bending backwards, flexing their elbows/wrists, etc.). Incorrect working postures often lead to specialized injuries, which reduce productivity and increase development costs. Therefore, examining workers' ergonomic postures becomes the basis for recognizing, correcting, and preventing bad postures in the workplace.

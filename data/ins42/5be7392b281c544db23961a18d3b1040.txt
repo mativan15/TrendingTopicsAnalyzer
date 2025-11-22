@@ -1,0 +1,6 @@
+Characteristics of Rewards in Reinforcement Learning
+medium.com
+entertainment
+2022-05-29 17:47:14
+
+Photo by Sebastian Coman Travel on UnsplashIn previous articles, I described for beginners what reinforcement learning (RL) is: https://medium.com/mlearning-ai/a-gentle-introduction-to-reinforcement-learning-rl-484b4ea91843Also, in previous articles, I described the importance of states in RL: https://medium.com/mlearning-ai/what-is-state-in-reinforcement-learning-it-is-what-the-engineer-says-it-is-47add99a1121and controls in RL: https://medium.com/@CalebMBowyer/what-kinds-of-controls-are-possible-in-reinforcement-learning-problems-9a30530fc65In this article, I overview what rewards are in RL.

@@ -1,0 +1,37 @@
+Volatility Co-Movement between Bitcoin and Stablecoins: BEKK–GARCH and Copula–DCC–GARCH Approaches
+Creative Commons Attribution (CC-BY)
+science
+2022-05-29 00:00:00
+
+Open AccessArticle by
+ 1,* and 2 
+
+
+1
+Department of Accounting, Ming Chuan University, 250 Zhong Shan N. Rd., Sec. 5, Taipei 111, Taiwan
+
+
+2
+Department of Accounting, Feng Chia University, Taichung City 407102, Taiwan
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Boualem Djehiche
+
+Axioms 2022, 11(6), 259; https://doi.org/10.3390/axioms11060259 (registering DOI)
+
+
+Received: 26 March 2022
+/
+Revised: 16 May 2022
+/
+Accepted: 22 May 2022
+/
+Published: 29 May 2022
+ 
+
+This paper aims to investigate and measure Bitcoin and the five largest stablecoin market volatilities by incorporating various range-based volatility estimators to the BEKK- GARCH and Copula-DCC-GARCH models.

@@ -1,0 +1,6 @@
+qualcomm: Qualcomm eyeing to buy ARM with the help of its rivals
+indiatimes.com
+news
+2022-06-02 13:08:00
+
+Qualcomm, the company behind Snapdragon chipsets, wants to buy ARM, the company behind every chipset powering the device near you. There is one problem, but Qualcomm seems to have a solution. Remember how Nvidia 's plan of acquiring ARM was shut down when regulators denied the deal saying it would create a monopoly, and even Qualcomm was not happy with the acquisition by Nvidia. Well, now Qualcomm wants a chunk of ARM, but it may not be able to do so alone, so it is planning a consortium to buy ARM from Softbank .

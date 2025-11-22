@@ -1,0 +1,28 @@
+Improving the Efficiency of Electricity Consumption by Applying Real-Time Fuzzy and Fractional Control
+Creative Commons Attribution (CC-BY)
+science
+2022-10-15 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 1,* and 2 
+
+
+1
+Automation Department, Faculty of Automation and Computer Science, Technical University of Cluj-Napoca, 400014 Cluj-Napoca, Romania
+
+
+2
+Department of Electrotechnics and Measurements, Faculty of Electrical Engineering, Technical University of Cluj-Napoca, 400014 Cluj-Napoca, Romania
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: António Lopes
+
+Mathematics 2022, 10(20), 3807; https://doi.

@@ -1,0 +1,8 @@
+Yet another critical VPN-related bug found in iOS 16
+techradar.com
+tech
+2022-10-15 11:05:10
+
+(Image credit: Shutterstock)
+
+ It was sometime in May when a security expert first revealed that iPhone VPN apps were leaking users' data, claiming that Apple wasn't doing anything to fix it. Now, only a few months later, another major issue has been found when using VPN software on iOS. In this instance, some of people's most sensitive information is in real danger.  Another expert has recently discovered that many Apple apps, including Health and Wallet, send users' private data outside an active VPN tunnel.

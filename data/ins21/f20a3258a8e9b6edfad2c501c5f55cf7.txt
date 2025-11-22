@@ -1,0 +1,6 @@
+Singapore offers cyber agency support on Optus hack
+theage.com.au
+tech
+2022-10-18 08:45:00
+
+A government regulatory agency has been embroiled in a hack on an IT services firm owned by Optus' parent company, Singtel, as Singapore's prime minister offered his country's help in investigating the damaging cyberattack on the Australian telco.The national IT services firm Dialog, which Singtel bought this year, disclosed a data breach on October 10 that it said potentially affected about 1000 of its employees and fewer than 20 clients. But an internal client email obtained by this masthead suggests the data accessed may include staff names, emails, and financial information for some clients' staff, which could cumulatively total many more people than revealed so far.

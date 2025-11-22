@@ -1,0 +1,6 @@
+How secure can POS be during a downturn/recession? won't its security be at its weakest point when the price of the coin reaches all time lows?
+reddit.com
+finance
+2022-10-18 07:04:39
+
+if the security of a POS chain is based on the price of the coin and the amount staked to secure that blockchain, when prices reach new All time lows during a bear market, won't bad actors have a much easier time to potentially initiate some attack on the chain?Please,Any input is appreciated,thanks

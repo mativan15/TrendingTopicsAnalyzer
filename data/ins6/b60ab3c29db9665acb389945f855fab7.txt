@@ -1,0 +1,7 @@
+Podcast app Pocket Casts goes open source
+techcrunch.com
+tech
+2022-10-21 21:26:10
+
+Popular podcast platform Pocket Casts has released its mobile clients under an open source license.
+WordPress parent company Automattic acquired Pocket Casts last July, having been acquired by a group of public radio companies, including NPR, back in 2018. Pocket Casts is one of the most popular 'podcatcher' apps outside the big tech ecosystems of Google, Apple, and Spotify, allowing users to search and subscribe to podcasts for free, with premium features such as desktop apps available for a fee.

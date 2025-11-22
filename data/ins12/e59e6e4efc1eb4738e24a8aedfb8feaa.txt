@@ -1,0 +1,6 @@
+A computational model of stem cells' decision-making mechanism to maintain tissue homeostasis and organization in the presence of stochasticity
+nature.com
+science
+2022-06-02 09:52:08
+
+A computational model of stem cells' decision-making mechanism to maintain tissue homeostasis and organization in the presence of stochasticity The maintenance of multi-cellular developed tissue depends on the proper cell production rate to replace the cells destroyed by the programmed process of cell death. The stem cell is the main source of producing cells in a developed normal tissue. It makes the stem cell the lead role in the scene of a fully formed developed tissue to fulfill its proper functionality.

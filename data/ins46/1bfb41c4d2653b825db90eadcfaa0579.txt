@@ -1,0 +1,6 @@
+How to turn off badges in iOS 15
+techradar.com
+news
+2022-06-03 18:10:43
+
+Open Settings on your iPhoneSelect NotificationsSelect the app or service where you want to turn off badges (i.e. Mail, Phone, Messages, Reminders, etc.)Where available, toggle Badges off Consider this How-To guide a public service with a very personal origin.Recently, I posted on Twitter an image of my iOS 15 Mail app notification badge, which showed 40,101 unread emails across three accounts, with the quip:  "The first step in recovery is admitting you have a problem."The first step in recovery is admitting you have a problem pic.

@@ -1,0 +1,8 @@
+L7 Defense and TEXUB Announce Strategic Partnership To Protect TEXUB From API Cyberthreats
+prnewswire.com
+news
+2022-06-02 05:00:00
+
+Under the partnership agreement, TEXUB will deploy L7 Defense's Ammune to protect the platform's APIs and Apps from cyberattacks
+DUBAI, UAE, June 2, 2022 /PRNewswire/ -- L7 Defense Ltd., a pioneering developer of AI-based cybersecurity solutions, announced today that it has signed a strategic partnership agreement with TEXUB to protect its e-commerce B2B platform TEXUB from cyberattacks targeting its APIs and Apps.
+E-commerce platforms offer advanced services (APIs) to their customers that need to be continuously adapted and improved to meet the platform users' needs while keeping these APIs and Apps safe from cyberthreats in real-time.

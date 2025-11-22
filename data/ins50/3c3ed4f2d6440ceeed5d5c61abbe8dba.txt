@@ -1,0 +1,6 @@
+OwnID Chosen as Best Passwordless Technology at 2022 CISO Choice Awards
+prnewswire.com
+news
+2022-10-20 12:38:00
+
+The innovative startup has been selected as the winner in the Passwordless technology category. The CISOs Connect 2022 CISO Choice Awards featured notable CISOs across multiple industries.NEW YORK, Oct. 20, 2022 /PRNewswire/ -- OwnID, the Tel Aviv based start-up on a mission to bring seamless passwordless authentication for all, announced as the winner in the 2022 CISO Choice Award Passwordless Technology category. As passwordless authentication became a hot topic with the recent Apple and Google releases for iOS 16 and Chrome, OwnID's technology allows any website to easily add passwordless authentication to existing login and registration forms, without the hassle of a lengthy implementation process.

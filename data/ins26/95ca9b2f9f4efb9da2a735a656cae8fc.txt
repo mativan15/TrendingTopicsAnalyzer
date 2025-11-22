@@ -1,0 +1,6 @@
+Solana tumbles as its blockchain network suffers 2nd outage in a month
+Insider
+business
+2022-06-01 19:58:36
+
+Solana, the third largest cryptocurrency by market capitalization, fell 10% Wednesday following reports of its blockchain network suffering another outage. The blockchain had not produced new blocks for five hours, triggering all of its applications to shutdown, according to the Block.Solana's network status Twitter page advised validators on its blockchain to follow re-start instructions to remedy the issue.The cryptocurrency was changing hands at $41 per coin at presstime.  The outage is the second in a month for Solana, which often promotes itself as a high-performance network meant to complete speedy transactions and rival the Ethereum network.

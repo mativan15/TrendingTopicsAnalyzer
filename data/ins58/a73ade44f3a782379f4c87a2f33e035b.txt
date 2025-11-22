@@ -1,0 +1,6 @@
+Microsoft: Watch Out For The Exponential Growth In Dynamics
+seekingalpha.com
+finance
+2022-05-31 12:46:28
+
+Jean-Luc Ichard/iStock Editorial via Getty Images Thesis in a Nutshell Microsoft (NASDAQ:MSFT) crushed its Q3 2022 earnings in its latest earnings release on the 4th of May. Since then, most of the discussions are centered around Azure and have overlooked its second and third highest revenue growth sub-segments in MSFT's Productivity and Business Processes segment - Dynamics products (including Dynamics 365) 365 and LinkedIn. I shared similar views with many of the analysts on Seeking Alpha regarding the growth and outlook on Azure.

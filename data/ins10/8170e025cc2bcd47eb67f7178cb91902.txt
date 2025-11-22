@@ -1,0 +1,8 @@
+A 'simple update': Sure, I am smart, I can fix this
+theregister.com
+news
+2022-05-30 08:04:12
+
+Who, Me? A reminder of the devastation a simple DROP can do and that backups truly are a DBA's best friend in this morning's "there but for the grace of..." Who, Me?
+"Stephen" is the author of today's confession and was faced with what should have been a simple case of applying an update to an Estimating and Invoicing system.
+The system ran on a PostgreSQL-database and was, in his words, "Software that I don't touch save when there's an issue, needs rebooting, etc." The best sort of software, in the opinion of this writer.

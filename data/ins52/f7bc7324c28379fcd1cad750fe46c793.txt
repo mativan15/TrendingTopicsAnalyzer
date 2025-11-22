@@ -1,0 +1,8 @@
+How to install Cockpit on Pop!_OS for easier system maintenance
+techrepublic.com
+news
+2022-10-20 14:05:50
+
+Image: tippapatt/Adobe Stock
+Pop!_OS is my primary operating system. I use it every day for the vast majority of my productivity. The other day I was taking care of a few tasks and I thought: 'I should really do something to make this a bit more efficient.'
+It's not like I mind using the command line or working with different tools for different tasks. But some days I would much rather do everything under one roof. Even better, I have other machines to deal with that could benefit from a more efficient solution.

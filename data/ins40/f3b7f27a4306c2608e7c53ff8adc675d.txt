@@ -1,0 +1,6 @@
+How To Make A Stochastic Volatility Supermodel
+seekingalpha.com
+economics
+2022-06-03 14:29:05
+
+undrey/iStock via Getty Images The Problem Hannibal Lecter: First principles, Clarice. Simplicity. Read Marcus Aurelius. Of each particular thing ask: what is it in itself? What is its nature? - Silence Of The Lambs When considering the problem of modelling stock price behavior, an early decision point is whether price movement is random or deterministic. Stochastic is a nuanced term for random that allows for the possibility of deterministic elements in the process. It is difficult to imagine any rational human being with a grade school education disagreeing with this.

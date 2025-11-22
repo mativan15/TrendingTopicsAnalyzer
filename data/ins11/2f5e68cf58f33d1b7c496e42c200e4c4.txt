@@ -1,0 +1,25 @@
+Google's update to let Android's audio output switcher pick cast devices: Report
+hindustantimes.com
+tech
+2022-10-17 12:59:59
+
+Published on Oct 17, 2022 06:29 PM IST
+
+ 
+
+
+
+
+
+
+Android 13's output switcher could allow for local-to-remote, remote-to-local, and remote-to-remote transfers.((HT PHOTO))
+ 
+
+
+ANI | | Posted by Singh Rahul Sunilkumar
+
+
+
+
+
+American tech giant Google might soon start letting users pick from cast devices when using the audio output switcher on Android 13, reported GSM Arena.According to the outlet, the news was shared by Esper's Mishaal Rahman. The output switcher, which was first introduced in Android 11, currently only lets users swap between media playback sessions on paired Bluetooth devices, such as wireless headphones or a speaker.

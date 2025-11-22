@@ -1,0 +1,6 @@
+Danny's workmate is called GPT-3. You've probably read its work without realising it's an AI
+Copyright 2022, Australian Broadcasting Corporation. All Rights Reserved.
+news
+2022-05-28 18:30:00
+
+Two years ago this weekend, GPT-3 was introduced to the world.You may not have heard of GPT-3, but there's a good chance you've read its work, used a website that runs its code, or even conversed with it through a chatbot or a character in a game.GPT-3 is an AI model — a type of artificial intelligence — and its applications have quietly trickled into our everyday lives over the past couple of years.In recent months, that trickle has picked up force: more and more applications are using AI like GPT-3, and these AI programs are producing greater amounts of data, from words, to images, to code.

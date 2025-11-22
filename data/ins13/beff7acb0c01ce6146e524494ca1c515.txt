@@ -1,0 +1,8 @@
+Bitcoin Fails To Produce 1 Block For Over An Hour
+Copyright 1997-2016, SlashdotMedia. All Rights Reserved.
+news
+2022-10-17 23:20:00
+
+166842289 story Posted by BeauHD on Monday October 17, 2022 @07:20PM from the stuck-in-limbo dept. 
+ It took more than an hour to mine a block of bitcoin (BTC) on Monday, leaving thousands of transactions stuck in an unconfirmed state. CoinDesk reports: According to on-chain data from several block explorers, the interval between the two latest blocks mined by Foundry USA and Luxor was 85 minutes. According to Mempool, over 13,000 transactions were pending before the latest block was mined. 
+Last week Bitcoin underwent a difficulty adjustment to ensure block confirmations kept taking place every 10 minutes.

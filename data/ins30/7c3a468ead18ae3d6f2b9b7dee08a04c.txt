@@ -1,0 +1,6 @@
+Gadgets that break things: our favorite hacking hardware
+2022 Google Inc.
+news
+2022-10-17 18:32:51
+
+Not all gadgets are meant to make life easier.Some gadgets break things, exploiting cracks in our digital systems, prying them open, and crawling inside. Most often used by penetration testers — a kind of white-hat hacker hired to test a company's security by breaking in themselves — these gadgets serve as a kind of road map to the most common vulnerabilities in our digital world. For the most part, they're commercialized versions of tech that already existed in a scrappier form, leaning on open-source software projects and decades of work developing attacks.

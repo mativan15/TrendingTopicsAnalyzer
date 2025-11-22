@@ -1,0 +1,8 @@
+Critical Microsoft vulnerabilities decreased 47% in 2021
+techrepublic.com
+news
+2022-05-27 13:26:51
+
+Image: Fotoproff/Adobe Stock
+Overall vulnerabilities across all Microsoft products decreased five percent in 2021, according to the annual BeyondTrust Microsoft Vulnerabilities 2022 report. While some products such as Internet Explorer and Microsoft Edge saw a surge in the overall number of vulnerabilities, the lowest ever number of Microsoft vulnerabilities were considered critical.
+This trend also held true for Windows, Windows Server, Microsoft Office, Azure Cloud and Dynamics365, Microsoft's ERP solution.

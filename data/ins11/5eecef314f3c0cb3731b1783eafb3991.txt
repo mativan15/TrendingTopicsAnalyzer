@@ -1,0 +1,9 @@
+Speek! is a new encrypted chat service that uses Tor to offer secure communication
+techrepublic.com
+news
+2022-05-31 14:35:50
+
+Image: Thapana_Studio/Adobe Stock
+Is your communication safe? Are you certain? Does the tool you use encrypt and anonymize your discussion and offer self-destructive chats, not require signup, not use metadata, run without a centralized server and add private file sharing?
+Chances are pretty slim that the service you use can't match those privacy  features. Speek!, on the other hand, does.
+This new service is a cross-platform chat tool that is open-source, free to use and secured by the Tor network.

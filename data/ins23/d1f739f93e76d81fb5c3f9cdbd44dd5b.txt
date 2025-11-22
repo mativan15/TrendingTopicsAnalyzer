@@ -1,0 +1,6 @@
+BeeKeeperAI Applies Sightless Computing Technology to Pediatric Rare Disease Project
+businesswire.com
+news
+2022-10-19 00:00:00
+
+October 19, 2022 11:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--BeeKeeperAI, the pioneer in sightless computing on protected data, today announced that it worked with scientists from Novartis Biome's Evidence Lab and the University of California, San Francisco (UCSF) to train and validate an algorithm to predict instances of a rare childhood condition using real patient data from health records. This project marks the first time that confidential computing technology has been leveraged to support sightless computation by an algorithm against protected health information.

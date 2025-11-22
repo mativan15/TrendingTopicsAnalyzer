@@ -1,0 +1,6 @@
+Google Cloud Next 2022 – Customers Benefit From Enhanced AI Capabilities
+Copyright 2022 Forbes Media LLC
+business
+2022-10-17 21:29:35
+
+This time of year is always busy with events, and every year Google Cloud Next, Google's annual Cloud event, has many exciting announcements. Usually, there are so many announcements that I could write a book on each. A show highlight for me was the Six Five "On The Road" podcast with my co-host Daniel Newman joined by Vint Cerf, Chief Internet Evangelist at Google and one of the co-inventors of the internet. This conversation revolves around the journey from the creation of the internet to the development of the cloud.

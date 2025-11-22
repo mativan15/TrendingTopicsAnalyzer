@@ -1,0 +1,6 @@
+Polygraph: US Click Fraud Rate Decreased By 12% During "Golden Week"
+globenewswire.com
+news
+2022-10-20 19:45:00
+
+BERLIN, Oct. 20, 2022 (GLOBE NEWSWIRE) -- 'Golden Week' is a week-long vacation in China, celebrated at the start of October each year. During this year's holiday, the amount of click fraud in the US dropped by 12%, according to click fraud detection firm Polygraph. Click fraud is an online scam which steals tens of billions of dollars from advertisers every year. Criminals create legitimate looking websites, and monetize the content using advertisements. Bots are then sent to the ads, where they generate fake clicks, causing massive losses for the advertisers, and huge profits for the scammers.

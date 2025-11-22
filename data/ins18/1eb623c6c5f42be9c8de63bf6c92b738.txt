@@ -1,0 +1,8 @@
+An Intrinsic Calculation For Questor Technology Inc. (CVE:QST) Suggests It's 36% Undervalued
+yahoo.com
+news
+2022-05-30 11:10:14
+
+How far off is Questor Technology Inc. (CVE:QST) from its intrinsic value? Using the most recent financial data, we'll take a look at whether the stock is fairly priced by estimating the company's future cash flows and discounting them to their present value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation.

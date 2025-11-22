@@ -1,0 +1,6 @@
+VDC: Consumer Staples Dashboard For October (NYSEARCA:VDC)
+seekingalpha.com
+news
+2022-10-19 11:31:13
+
+Spencer Platt This monthly article series shows a dashboard with aggregate industry metrics in consumer staples. It may also serve as a top-down analysis of sector ETFs like the Consumer Staples Select Sector SPDR ETF (XLP) and the Vanguard Consumer Staples ETF (NYSEARCA:VDC), whose largest holdings are used to calculate these metrics. Shortcut The next two paragraphs in italic describe the dashboard methodology. They are necessary for new readers to understand the metrics. If you are used to this series or if you are short of time, you can skip them and go to the charts.

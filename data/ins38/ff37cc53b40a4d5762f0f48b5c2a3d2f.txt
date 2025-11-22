@@ -1,0 +1,7 @@
+ServiceNow BrandVoice: Low-Code, Not Low Tech
+Copyright 2022 Forbes Media LLC
+business
+2022-10-18 18:36:59
+
+I'm a software engineer and, lucky for me, I actually enjoy writing code. But I like it even better when I don't have to. With low-code, simple is powerful.getty
+Most engineers have to do a lot of repetitive manual work. Enterprises frequently create their own programs, tailored to their specific use cases. These programs complement out-of-the-box technology solutions, which generally require custom programming to integrate into the existing system. The result is a cumbersome hodgepodge of apps and tools.

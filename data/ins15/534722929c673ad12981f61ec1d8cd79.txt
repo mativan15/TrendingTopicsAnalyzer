@@ -1,0 +1,6 @@
+Jimmy Brings Launches New Headless Storefront on BigCommerce to Deliver Uniform Shopping Experiences
+businesswire.com
+news
+2022-10-19 00:00:00
+
+October 19, 2022 08:00 AM Eastern Daylight Time AUSTIN, Texas--(BUSINESS WIRE)--BigCommerce (Nasdaq: BIGC), a leading Open SaaS ecommerce platform for fast-growing and established B2C and B2B brands, today announced Jimmy Brings, one of Australia's largest express alcohol delivery services, has launched a progressive web app (PWA) storefront built on BigCommerce's headless architecture. Jimmy Brings is also one of the first ecommerce platforms hosted locally by BigCommerce in the region, minimising the potential for disruptions to occur.

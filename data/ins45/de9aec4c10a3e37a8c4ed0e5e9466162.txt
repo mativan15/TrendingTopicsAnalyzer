@@ -1,0 +1,7 @@
+Why USDC Is Becoming the Stablecoin of Choice
+Copyright 1995-2022 The Motley Fool. All rights reserved.
+finance
+2022-06-02 12:08:21
+
+Since the meltdown of TerraUSD (USTC), a stablecoin on the Terra blockchain, the crypto market has been in more than just a lull.
+UST was unlike other stablecoins. Instead of using a reserve of assets to back the distribution of the stablecoin, UST used a set of algorithms through smart contracts to ensure the coin would always be worth $1. When some turbulence hit with a broad market sell-off, UST quickly lost the $1 mark. Once it slipped a little, it plunged to depths as low as $0.25 and now trades for about $0.

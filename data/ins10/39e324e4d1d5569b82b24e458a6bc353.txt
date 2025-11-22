@@ -1,0 +1,6 @@
+Incorta launches native delta-sharing integration to enable secure, real-time exchange of large datasets
+venturebeat.com
+news
+2022-06-02 13:00:00
+
+Incorta, maker of a data management platform that runs real-time operational analytics on raw business data, announced new capabilities and enhancements today, including real-time delta sharing compatibility and several new data apps.  Delta sharing is an open protocol for secure real-time exchange of large datasets, which enables organizations to share data in real time, regardless of which computing platforms they use. It is a simple REST protocol that securely shares access to part of a cloud dataset and leverages modern cloud storage systems, such as S3, ADLS, or GCS, to reliably transfer data.

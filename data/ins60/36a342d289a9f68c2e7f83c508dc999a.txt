@@ -1,0 +1,6 @@
+Why organisations shouldn't be relying on VPNs as a quick win for solving remote-working security challenges
+techradar.com
+tech
+2022-10-17 12:23:59
+
+So, how should organisations be looking ahead to solve the network security challenges presented by the ‘new normal'?Remote-working is the new reality for millions of Brits. With this has come a rapid shift in how organisations need to approach security as workers continue to connect to corporate networks from a growing variety of insecure personal and corporate devices. The challenge is that many current cybersecurity solutions set up in the workplace don't work from remote locations without substantial changes, preparation and planning.

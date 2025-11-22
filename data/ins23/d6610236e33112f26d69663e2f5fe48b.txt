@@ -1,0 +1,6 @@
+The multi-billion-dollar potential of synthetic data
+venturebeat.com
+news
+2022-10-15 16:10:00
+
+Did you miss a session from MetaBeat 2022? Head over to the on-demand library for all of our featured sessions here. Synthetic data will be a huge industry in five to 10 years. For instance, Gartner estimates that by 2024, 60% of data for AI applications will be synthetic. This type of data and the tools used to create it have significant untapped investment potential. Here's why. Synthetic data can feed data-hungry AI/ML We are effectively on the cusp of a revolution in how machine learning (ML) and artificial intelligence (AI) can grow and have even more applications across sectors and industries.

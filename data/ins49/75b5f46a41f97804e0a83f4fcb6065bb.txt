@@ -1,0 +1,10 @@
+This is the most effective Apple mobile device management service
+techrepublic.com
+news
+2022-05-27 15:43:30
+
+Jamf Now helps teams manage and optimize their Apple devices. 
+ Image: New Africa/Adobe Stock
+More than 4 million people in the U.S. are working remotely, leading many companies to look for mobile device management solutions.
+For teams working with Apple products, you'll want to make sure they're set up properly and securely. To achieve that, Jamf Now helps teams set up, manage and secure their Apple devices.
+Jamf Now, an MDM solution, can help you enroll your team's devices, configure email accounts, set up passcode requirements and more.

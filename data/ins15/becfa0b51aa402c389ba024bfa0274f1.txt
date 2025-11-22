@@ -1,0 +1,10 @@
+Voltz Launches First Synthetic Interest Rate Swap Protocol for DeFi, Catalyzing New Wave of DeFi Products & Empowering Crypto to Challenge TradFi's $1,000T Exchanged/Year
+yahoo.com
+news
+2022-06-01 16:00:00
+
+Interest Rates Swaps comprise a major pillar of Traditional Finance that has been missing from DeFi until now with Voltz's launch of the first IRS protocol for DeFi.
+
+LONDON, June 1, 2022 /PRNewswire-PRWeb/ -- Voltz Protocol launches DeFi's first synthetic, capital-efficient interest rate swap (IRS) AMM, providing the framework for DeFi to compete with TradFi's $1,000T IRS exchanged per annum and unlocking a new realm of possibilities for dapps to serve the financial needs of the world.
+
+Simon Jones, CEO & Co-Founder of Voltz Labs, said, "Without the core pillar of IRS, DeFi won't be able to serve the financial needs of the world and therefore will never realize its full potential.

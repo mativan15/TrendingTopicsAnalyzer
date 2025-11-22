@@ -1,0 +1,14 @@
+Microsoft Power Pages Launches for Low-Code Business Web Sites -- Visual Studio Magazine
+google.com
+news
+2022-10-18 17:27:36
+
+News
+
+Microsoft Power Pages Launches for Low-Code Business Web Sites
+
+Microsoft's newest component for its low-code Power Platform is called Power Pages, for creating business-centric web sites.
+
+Power Pages debuted as a preview in May, adding a web site tool to the other low-code components of the Power Platform: Power BI (Business Intelligence), Power Apps, Power Automate and Power Virtual Agents. It reached General Availability status at last week's Ignite 2022 conference.
+
+Like other low-code offerings, it promises to let ordinary business users -- as opposed to trained developers -- quickly create their own applications with simplified tooling and workflows that leverage ready-to-go business solution templates, tutorials, built-in security/governance mechanisms and its own design studio.

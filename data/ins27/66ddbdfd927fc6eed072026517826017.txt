@@ -1,0 +1,6 @@
+North Korea's Lazarus Group Attacks Various Japanese Cryptocurrency Exchange Platforms
+ibtimes.com
+news
+2022-10-17 07:24:19
+
+Japanese authorities have revealed that the notorious North Korea-backed Lazarus Group has been attacking cryptocurrency exchange platforms in the region.Japan's National Police Agency disclosed last week that several cryptocurrency exchange (CEX) platforms in the country suffered from multiple cyber attacks launched by the Lazarus Group. Employees received phishing emails that infect computers with malware that would eventually allow malicious actors to hack the system and steal crypto assets.Aside from that, the hackers reportedly attempted to reach out to CEX employees via social networking sites to get them to download the malware.

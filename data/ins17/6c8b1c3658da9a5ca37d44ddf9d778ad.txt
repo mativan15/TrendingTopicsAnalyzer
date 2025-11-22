@@ -1,0 +1,8 @@
+Are Investors Undervaluing Baytex Energy Corp. (TSE:BTE) By 44%?
+yahoo.com
+news
+2022-06-04 14:40:56
+
+In this article we are going to estimate the intrinsic value of Baytex Energy Corp. (TSE:BTE) by taking the expected future cash flows and discounting them to today's value. This will be done using the Discounted Cash Flow (DCF) model. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

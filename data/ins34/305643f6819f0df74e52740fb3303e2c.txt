@@ -1,0 +1,6 @@
+Easily Manage Lens Subscriptions for Teams with Lens Business ID
+medium.com
+tech
+2022-10-17 08:53:24
+
+In July, we introduced a new subscription model for Lens. Since then, users of Lens have been choosing between two different subscriptions:Lens Personal — a subscription for personal use, education and startups (for any individual or company user with less than $10 million in annual revenue or funding).Lens Pro — a subscription for cloud native professionals and is required for those working in larger businesses. It also comes with new and exciting features.For individual users, purchasing and managing a Lens Pro subscription is pretty straightforward.

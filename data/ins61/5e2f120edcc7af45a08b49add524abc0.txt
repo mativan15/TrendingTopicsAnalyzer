@@ -1,0 +1,6 @@
+South Korean content providers raise service fees in the wake of Google's in-app payment policy – TechCrunch
+techcrunch.com
+tech
+2022-06-02 14:01:34
+
+South Korean app developers and content providers are upping their paid subscription and service fees on Google's Play marketplace due to the heavy 15-30% commissions now required following Google's policy changes that force apps to use its own first-party billings and payments system. While South Korean law permits app developers to use a third-party payment option, this only reduces Google's commission by 4% — and that's not enough, developers believe.  The developers are also frustrated that they can't add links that point to their own website inside their app which would allow their users to buy directly, bypassing Google's billing entirely.

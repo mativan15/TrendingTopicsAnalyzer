@@ -1,0 +1,6 @@
+The explosion of digital identities and growth of cybersecurity debt
+techradar.com
+tech
+2022-06-04 04:45:37
+
+Businesses in the UK have faced – to put it mildly - unprecedented challenges over the past two years, both in severity and variety. Not only have the pandemic and Brexit combined to force them to rapidly pivot in how and where they operate, but the threat landscape has become even more testing.Vulnerabilities have been highlighted in recent years by digital supply chain breaches such as the SolarWinds attack along with other major attacks such as Codecov and Kaseya, which ripped through software supply chains in frightening succession, causing huge disruption globally by exploiting weak links in code.

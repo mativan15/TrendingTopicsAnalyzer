@@ -1,0 +1,10 @@
+How to use the VirtualBox unattended installation feature
+techrepublic.com
+news
+2022-10-19 17:10:12
+
+Jack Wallen shows you how to do an unattended installation of Linux with the new release of VirtualBox 7.0 to help make your virtual machine deployment even easier. 
+ Image: Gorodenkoff/Adobe Stock
+VirtualBox 7.0 is now available to install and it offers a host of very important new features. One of the more impressive features is the addition of unattended install configuration within the GUI. Now you no longer have to run those unattended installations from the command line.
+SEE: 40+ open source and Linux terms you need to know (TechRepublic Premium)
+But it's not all roses with the new feature, as there's one aspect that can be a bit tricky.

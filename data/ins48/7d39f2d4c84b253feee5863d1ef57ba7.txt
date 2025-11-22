@@ -1,0 +1,6 @@
+How Google wants to be free of passwords
+indiatimes.com
+news
+2022-10-16 08:30:00
+
+Aren't there just too many passwords to remember? As necessary passwords are they can be quite irritating as well. For a while now, the bigwigs of tech town have been working on going password-less. Apple already with iOS 16 revealed that passkeys will make it easier for users to not use passwords but the implementation is still in the works. And now Google has released an update to developers that will help them ditch passwords and use passkeys. Here we explain what are passkeys, how they will replace password and all other details.

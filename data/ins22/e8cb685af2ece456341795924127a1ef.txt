@@ -1,0 +1,12 @@
+Follina abuses Microsoft Office to execute remote code
+techrepublic.com
+news
+2022-06-02 15:29:04
+
+Image: Adobe Stock
+CVE-2022-30190, also known as 'Follina', is a remote code execution (RCE) vulnerability that affects Microsoft Office, reported on May 27, 2022.
+How can Follina vulnerability be exploited by attackers? The way it goes is as follows:
+
+A Microsoft Office .DOC file crafted by an attacker is sent to a target.
+The .DOC file references a HTTPS: link leading to an HTML file containing obfuscated JavaScript code.
+The JavaScript code references another link with an identifier MS-MSDT: instead of the usual HTTPS: identifier.

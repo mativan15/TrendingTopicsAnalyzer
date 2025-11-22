@@ -1,0 +1,6 @@
+NOT-CA-23-007: Request for Information (RFI): Soliciting Input on the Use and Reuse of Cancer Metabolomics Data
+nih.gov
+news
+2022-10-19 01:41:31
+
+NOT-OD-21-013 - Final NIH Policy for Data Management and Sharing The National Cancer Institute (NCI) is seeking input on the use and reuse of cancer metabolomics data. Review of this entire RFI notice is encouraged to ensure a comprehensive response is prepared and to have a full understanding of how your response will be used. Background The NCI is seeking input on best practices for cancer metabolomics data storage, management, and use/reuse. Progress in cancer research requires that data is generated via rigorous methods and reported in a complete and transparent way, both to facilitate reproducibility and allow opportunities for reuse in secondary analyses.

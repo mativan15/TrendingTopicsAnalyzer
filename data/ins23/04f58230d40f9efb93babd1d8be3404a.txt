@@ -1,0 +1,6 @@
+‘If we grow Reddit, we are going to make the world a better place'
+Copyright 2022, Mansueto Ventures
+tech
+2022-06-02 13:00:20
+
+When Reddit decided to hire its first chief product officer last year, one of the first candidates that cofounder and CEO Steve Huffman spoke with was Pali Bhat, the VP for product management and design at Google Cloud. Huffman was impressed—but he also had his reservations.'My concern with Pali was that he hadn't worked on something like Reddit before,' Huffman remembers. 'Consumer internet is its own thing. And then there's Reddit, which is further down the spectrum.' During his decade at Google, Bhat had worked on some offerings with a consumery element, such as payment services.

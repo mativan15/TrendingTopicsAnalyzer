@@ -1,0 +1,8 @@
+A phishing campaign is spreading brand new malware targeting Facebook users
+techradar.com
+tech
+2022-10-17 21:00:00
+
+(Image credit: Pixabay)
+
+ Ducktail, a known phishing campaign that hijacks Facebook accounts running advertising campaigns for businesses, is now distributing a brand new infostealer malware.According to researchers at according to Zscaler (opens in new tab), Ducktail previously used LinkedIn to distribute a piece of malware written in .NET Core that would steal Facebook Business account data stored in a web browser and exfiltrate it into a private Telegram channel which acted as the malware's command & control server (C2), communicating with target systems to coordinate cyberattacks.

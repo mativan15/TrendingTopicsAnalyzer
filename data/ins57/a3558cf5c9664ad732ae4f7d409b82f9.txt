@@ -1,0 +1,6 @@
+Taiwan's Tech Titans Adopt World's First NVIDIA Grace CPU-Powered System Designs
+nvidia.com
+news
+2022-05-28 03:00:00
+
+New Class of Data Center Systems for Digital Twins, AI, High Performance Computing, Cloud Graphics and Gaming to Come From ASUS, Foxconn Industrial Internet, GIGABYTE, QCT, Supermicro, Wiwynn COMPUTEX -- NVIDIA today announced that Taiwan's leading computer makers are set to release the first wave of systems powered by the NVIDIA Grace™ CPU Superchip and Grace Hopper Superchip for a wide range of workloads spanning digital twins, AI, high performance computing, cloud graphics and gaming. Dozens of server models from ASUS, Foxconn Industrial Internet, GIGABYTE, QCT, Supermicro and Wiwynn are expected starting in the first half of 2023.

@@ -1,0 +1,8 @@
+'Everything is gone': Russian business hit hard by tech sanctions
+arstechnica.com
+tech
+2022-06-02 15:47:00
+
+Russian companies have been plunged into a technological crisis by Western sanctions that have created severe bottlenecks in the supply of semiconductors, electrical equipment, and the hardware needed to power the nation's data centers.
+Most of the world's largest chip manufacturers, including Intel, Samsung, TSMC and Qualcomm, have halted business to Russia entirely after the US, UK, and Europe imposed export controls on products using chips made or designed in the US or Europe.
+This has created a shortfall in the type of larger, low-end chips that go into the production of cars, household appliances, and military equipment.

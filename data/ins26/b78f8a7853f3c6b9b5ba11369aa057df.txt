@@ -1,0 +1,33 @@
+Electrical Characterization of Through-Silicon-via-Based Coaxial Line for High-Frequency 3D Integration (Invited Paper)
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 2, 1, 2, 3, 3, 4, 1,2 and 1,2,* 
+
+
+1
+School of Integrated Circuits and Electronics, Beijing Institute of Technology, Beijing 100081, China
+
+
+2
+Tangshan Research Institute of BIT, Tangshan 063000, China
+
+
+3
+Engineering Department, University of Messina, 98166 Messina, Italy
+
+
+4
+BIOMORF Department, University of Messina, 98125 Messina, Italy
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Sohail Mumtaz, Syed Muzahir Abbas and Pradeep Lamichhane
+
+Electronics 2022, 11(20), 3417; https://doi.

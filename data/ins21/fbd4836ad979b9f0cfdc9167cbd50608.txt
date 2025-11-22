@@ -1,0 +1,8 @@
+Vodafone to move SAP S/4HANA ERP system to Google Cloud
+theregister.com
+news
+2022-10-17 11:56:31
+
+Vodafone has announced it is migrating its SAP S/4HANA ERP platform from an on-premises installation to Google Cloud.
+In a statement released today, the global telecoms provider, which boasts revenue of around €45.58 billion (c $44 billion), said it had been running on on-premises for 15 years, "during which time it has significantly grown in size, making this one of the largest and one of the most complex SAP migrations in EMEA."
+The company is in the top five mobile network operators in the world, and is the biggest outside of India and China, with 300 mobile subscribers across 21 countries.

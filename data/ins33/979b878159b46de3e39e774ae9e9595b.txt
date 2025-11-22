@@ -1,0 +1,13 @@
+Chris's Wiki :: blog/tech/TLSCertTransBadCertMeanings
+utoronto.ca
+tech
+2022-10-17 03:53:37
+
+In Emily M. Stark's Certificate Transparency is really not a
+replacement for key pinning,
+Stark asks a good question: [...] what is a domain owner supposed to actually do if they find a
+malicious certificate for their domain in a CT log? [...]
+ I don't have an answer to this, but we can ask a related question:
+what does it mean if your CT log monitoring turns up a TLS certificate
+for your domain that you don't know about? I think that there are four things that it could mean, which I'll
+order from the least likely to the most likely.

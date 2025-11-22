@@ -1,0 +1,6 @@
+World Baseball Classic tournament pools finalized
+mlb.com
+news
+2022-10-17 19:18:57
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"world-baseball-classic-2023-tournament-pools\",\"type\":\"story\"}).parts.6":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"world-baseball-classic-2023-tournament-pools\",\"type\":\"story\"}).parts.6.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

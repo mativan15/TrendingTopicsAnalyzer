@@ -1,0 +1,8 @@
+Elastic N.V. (ESTC) Stock Forecasts
+yahoo.com
+finance
+2022-06-02 12:00:00
+
+Summary
+
+Elastic is a software company based in Mountain View, California, focusing on search-adjacent products. Its search engine allows it to process both structured and unstructured data while gleaning insights from that data. The firm's primary focus is on enterprise search, observability, and security.

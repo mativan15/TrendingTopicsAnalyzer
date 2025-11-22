@@ -1,0 +1,6 @@
+Nvidia's last-minute 12GB RTX 4080 rebrand will be a pain for GPU makers
+arstechnica.com
+tech
+2022-10-17 21:45:00
+
+Late last Friday, Nvidia decided that it was "unlaunching" the lower-end 12GB version of its upcoming GeForce RTX 4080 graphics card so that it could be renamed and released at a later date. This was good news, for the people who care about this kind of thing—the $899 12GB RTX 4080 and $1,199 16GB RTX 4080 were substantially different cards with much different performance levels. Giving them both the same name could have created unnecessary disappointment and confusion for buyers of the cheaper card.

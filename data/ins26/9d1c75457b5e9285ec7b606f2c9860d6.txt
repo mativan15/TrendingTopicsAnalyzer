@@ -1,0 +1,26 @@
+The Performance of Shrinkage Estimator for Stock Portfolio Selection in Case of High Dimensionality
+Creative Commons Attribution (CC-BY)
+science
+2022-06-01 00:00:00
+
+Open AccessArticle by
+ 1, 1, 2,3 and 4,* 
+
+
+1
+Faculty of Banking, Banking University HCMC, No. 36 Ton That Dam Street, Nguyen Thai Binh Ward, District 1, Ho Chi Minh City 700000, Vietnam
+
+
+2
+Faculty of Maritime and Industrial Studies, University of Piraeus, 185-33 Piraeus, Greece
+
+
+3 Faculty of Economics, Management and Accountancy, University of Malta, 2080 Msida, Malta
+
+
+4
+Institute for Research Science and Banking Technology, Banking University HCMC, No. 36 Ton That Dam Street, Nguyen Thai Binh Ward, District 1, Ho Chi Minh City 700000, Vietnam
+
+
+*
+Author to whom correspondence should be addressed.

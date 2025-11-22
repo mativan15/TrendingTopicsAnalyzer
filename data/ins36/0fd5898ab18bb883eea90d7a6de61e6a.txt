@@ -1,0 +1,7 @@
+Top Take Aways From Oracle CloudWorld
+Copyright 2022 Forbes Media LLC
+business
+2022-10-21 19:17:41
+
+Larry Ellison, CTO at Oracle, on Stage at Oracle CloudWorld 2022Oracle
+This week in Las Vegas, Oracle had its first in person CloudWorld in three years. This provided a good chance to get reacquainted with the company and what they have been up to for the past few years. What follows are my top take aways from the event. I am a supply chain management industry analyst, so that will be a primary focus of this article. From a technology perspective, Oracle's value proposition is that applications hosted in a public Cloud leads to lower maintenance costs, quicker implementations, quicker development cycles, the ability for customers to add new functionality on a regular basis with agility, and better customer support.

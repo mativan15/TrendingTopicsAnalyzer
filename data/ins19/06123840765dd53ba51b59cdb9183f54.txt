@@ -1,0 +1,7 @@
+Capital One Enters Enterprise B2B Software Market with Launch of Capital One Software Business
+prnewswire.com
+news
+2022-06-01 12:30:00
+
+Unveils new enterprise data management SaaS solution for Snowflake Data Cloud customers 
+MCLEAN, Va., June 1, 2022 /PRNewswire/ -- Capital One Financial Corp. today announced the launch of Capital One Software, a new enterprise B2B software business focused on providing cloud and data management solutions for companies operating in the cloud. Capital One Software's first product is Capital One Slingshot, a data management solution for customers of Snowflake, the Data Cloud company, that is designed to help businesses accelerate adoption of the Snowflake Data Cloud, manage cloud costs, and automate critical governance processes.

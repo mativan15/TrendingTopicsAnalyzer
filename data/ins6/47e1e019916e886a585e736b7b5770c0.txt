@@ -1,0 +1,8 @@
+Are Investors Undervaluing Pinduoduo Inc. (NASDAQ:PDD) By 21%?
+yahoo.com
+news
+2022-10-17 14:00:37
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Pinduoduo Inc. (NASDAQ:PDD) as an investment opportunity by taking the forecast future cash flows of the company and discounting them back to today's value. We will take advantage of the Discounted Cash Flow (DCF) model for this purpose. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Remember though, that there are many ways to estimate a company's value, and a DCF is just one method.

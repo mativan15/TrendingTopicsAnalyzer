@@ -1,0 +1,8 @@
+Estimating The Intrinsic Value Of Simulations Plus, Inc. (NASDAQ:SLP)
+yahoo.com
+news
+2022-10-17 17:53:07
+
+How far off is Simulations Plus, Inc. (NASDAQ:SLP) from its intrinsic value? Using the most recent financial data, we'll take a look at whether the stock is fairly priced by estimating the company's future cash flows and discounting them to their present value. We will use the Discounted Cash Flow (DCF) model on this occasion. Models like these may appear beyond the comprehension of a lay person, but they're fairly easy to follow.
+
+We generally believe that a company's value is the present value of all of the cash it will generate in the future.

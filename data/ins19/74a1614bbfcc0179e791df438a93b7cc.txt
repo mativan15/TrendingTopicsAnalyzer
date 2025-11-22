@@ -1,0 +1,6 @@
+'I have a job to do': Judge's issues vs. Guardians continue
+mlb.com
+news
+2022-10-15 04:01:00
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"aaron-judge-strikes-out-four-times-in-alds-g2-vs-guardians\",\"type\":\"story\"}).parts.11":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"aaron-judge-strikes-out-four-times-in-alds-g2-vs-guardians\",\"type\":\"story\"}).parts.11.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

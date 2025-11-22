@@ -1,0 +1,50 @@
+Improving Industrial Robot Positioning Accuracy to the Microscale Using Machine Learning Method
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+, *, , , , , and 
+
+
+Department of Mechatronics, Robotics and Digital Manufacturing, Vilnius Gediminas Technical University, 10223 Vilnius, Lithuania
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Raul D.S.G. Campilho, Francisco J. G. Silva and Dan Zhang
+
+Machines 2022, 10(10), 940; https://doi.org/10.3390/machines10100940 (registering DOI)
+
+
+Received: 11 August 2022
+/
+Revised: 11 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 17 October 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+Positioning accuracy in robotics is a key issue for the manufacturing process.

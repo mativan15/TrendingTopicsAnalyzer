@@ -1,0 +1,6 @@
+Modernising network security with SD-WAN and secure web gateways
+techradar.com
+tech
+2022-10-17 13:15:31
+
+As organisations have become more mobile and geographically dispersed, the traditional centralised Wide Area Networking (WAN) model that once served them so well has started to break down. The remote user - once the exception - has increasingly become the norm, with many working from smaller branch offices across several time zones, from home, or while on the move. And, given the recent pandemic of COVID-19, many organisations large and small have been forced to close offices and make working from home the new norm, and so remote working has taken on a whole new meaning.

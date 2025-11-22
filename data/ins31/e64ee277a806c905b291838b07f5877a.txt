@@ -1,0 +1,10 @@
+Microsoft 'zero day' warning for BILLIONS after Office hacked by Chinese crooks
+thesun.co.uk
+news
+2022-06-01 14:24:33
+
+CHINESE hackers have been exploiting a new vulnerability in Microsoft Office – here's how to protect yourself. 
+A new zero-day flaw in Microsoft Office dubbed 'Follina' is being weaponized by China-backed threat actor TA413, The Hacker News reported. 
+China-backed hackers have been exploiting a new vulnerability in Microsoft OfficeCredit: Getty
+Zero-day exploits often stem from an "in-the-wild" unknown issue and expose a vulnerability in software or hardware that can lead to further problems.
+Particularly, Follina, tracked as CVE-2022-30190 (CVSS score: 7.

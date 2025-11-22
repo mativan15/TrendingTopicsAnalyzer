@@ -1,0 +1,6 @@
+Interview: the secrets of Sonos' design process
+techradar.com
+news
+2022-05-29 13:00:02
+
+As part of the announcement of the Sonos Ray soundbar – the company's smallest soundbar to date – TechRadar had the chance to speak to Brandon Holley, Product Creation Lead at Sonos, about how the company develops new products.We talked about things specific to the development of the Sonos Ray itself, but Holley also talked about Sonos' development style in more general terms, providing an interesting glimpse into a company that often plays its cards close to the vest.Interestingly, Holley revealed a design process that's more iterative and open with prototypes being used in real situations than you might expect.

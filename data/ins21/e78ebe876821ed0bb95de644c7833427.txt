@@ -1,0 +1,6 @@
+Explainable AI: When life gives you LIME, make mojito
+medium.com
+entertainment
+2022-06-05 22:33:11
+
+source: unsplash'I tested my ML model on the cross validation data set and it generated outstanding metrics. There is no way it will not perform well in production' said so many data scientists. But only very few of such models did actually perform well in production. And very often this unpredicted nature leads companies to believe that Machine Learning may be more accurate but not reliable. And for this very same reason, companies especially in the insurance and finance sector limit themselves to using simple linear models.

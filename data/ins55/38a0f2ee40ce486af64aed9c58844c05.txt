@@ -1,0 +1,8 @@
+Streaming data processing platform RisingWave lands $36M to launch a cloud service
+yahoo.com
+news
+2022-10-18 12:00:33
+
+RisingWave Labs, a company developing a platform for data stream processing, today announced that it raised $36 million in a Series A funding round led by Yunqi Partners, undisclosed corporate investors and angel investors. Bringing RisingWave's total raised to over $40 million, the capital will be put toward scaling the startup's business-side operations to support the launch of a new cloud service, RisingWave Cloud, next year, CEO Yingjun Wu said.
+
+Wu founded RisingWave in early 2021, after working on streaming processing and database systems for over a decade at companies including IBM and Amazon Web Services.

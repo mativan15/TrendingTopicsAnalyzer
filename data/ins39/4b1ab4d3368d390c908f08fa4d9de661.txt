@@ -1,0 +1,11 @@
+Learn Linux with these Pluralsight courses
+techrepublic.com
+news
+2022-10-21 17:23:30
+
+Image: Ralf/Adobe Stock
+Linux is one of the world's most popular open source operating systems, so if you want a career in tech, it's beneficial to have at least a passing familiarity with Linux. Fortunately, there are many low cost ways to learn about Linux, and if you already have a subscription to an online education platform, then odds are that you already have access to Linux courses — you just might not know it yet.
+SEE: 40+ open source and Linux terms you need to know (TechRepublic Premium)
+Today we are highlighting Linux courses on Pluralsight, which is an online learning platform that focuses on helping people in the tech workforce develop the necessary skills to advance in their current career paths or switch jobs
+What Is Pluralsight?
+Pluralsight courses cover many different topics, including engineering onboarding, talent mobility, software delivery, agile transformation, tech fluency and more.

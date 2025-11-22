@@ -1,0 +1,6 @@
+Milky Way could host over 42,000 alien civilizations, scientists estimate
+newsweek.com
+news
+2022-05-31 11:46:07
+
+Scientists have used probability simulations to come to an estimate on the number of alien civilizations that might exist in our Milky Way galaxy, and the number they've arrived at is pretty specific: 42,777, give or take a few hundred.The value was calculated by researchers Wenjie Song and He Gao from the Department of Astronomy at Beijing Normal University in China, who used something called a Monte Carlo simulation —a mathematical technique used to estimate possible outcomes of an uncertain event—to come to their conclusion.

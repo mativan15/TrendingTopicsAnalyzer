@@ -1,0 +1,6 @@
+Labby wants to make milk healthier and cows happier with better sensors
+yahoo.com
+news
+2022-10-19 22:22:38
+
+For most dairy farmers, milk flowing from their cows is tested by a travelling technician once per month. But in a world where bovine mastitis can appear from one day to the next, it is udderly ridiculous to test milk flowing from cows once per month. Today at TechCrunch Startup Battlefield, Labby offered a different solution, with an inline optical sensor that can test cows every time they are milked. For now, the product detects potential issues early, but over time, the company believes it can start predicting issues before they occur.

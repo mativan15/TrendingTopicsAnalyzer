@@ -1,0 +1,8 @@
+Are Investors Undervaluing Zumiez Inc. (NASDAQ:ZUMZ) By 36%?
+yahoo.com
+news
+2022-06-02 14:32:35
+
+Today we'll do a simple run through of a valuation method used to estimate the attractiveness of Zumiez Inc. (NASDAQ:ZUMZ) as an investment opportunity by taking the forecast future cash flows of the company and discounting them back to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. Believe it or not, it's not too difficult to follow, as you'll see from our example!
+
+Companies can be valued in a lot of ways, so we would point out that a DCF is not perfect for every situation.

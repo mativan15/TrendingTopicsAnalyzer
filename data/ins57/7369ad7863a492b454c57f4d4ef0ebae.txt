@@ -1,0 +1,7 @@
+Deep learning makes X-ray CT inspection of 3D-printed parts faster, more accurate
+sciencedaily.com
+science
+2022-10-15 01:32:32
+
+A new deep-learning framework developed at the Department of Energy's Oak Ridge National Laboratory is speeding up the process of inspecting additively manufactured metal parts using X-ray computed tomography, or CT, while increasing the accuracy of the results. The reduced costs for time, labor, maintenance and energy are expected to accelerate expansion of additive manufacturing, or 3D printing.
+"The scan speed reduces costs significantly," said ORNL lead researcher Amir Ziabari. "And the quality is higher, so the post-processing analysis becomes much simpler.

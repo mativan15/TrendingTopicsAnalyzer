@@ -1,0 +1,6 @@
+Digital Twin Wind Farms: Siemens And NVIDIA Are Modeling Reality With AI In The Metaverse
+forbes.com
+news
+2022-05-27 18:44:41
+
+When you plunk a $100 million wind farm down on 98,000 acres of varying terrain, you want to know a few things. You want to know that you're optimizing the location of your multi-million-dollar turbines. You want to know that the turbines you source can handle the gustiest gust of wind they will ever encounter without shattering dramatically in some loudmouth YouTuber's viral video. And you want to test potential uses cases and changes in software, which is cheap and changeable, rather than in hardware, which is expensive and notoriously hard to edit.

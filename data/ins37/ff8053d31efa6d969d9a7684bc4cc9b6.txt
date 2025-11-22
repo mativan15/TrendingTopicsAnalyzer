@@ -1,0 +1,6 @@
+WWDC 2022: Five fitness features the Apple Watch needs in watchOS 9
+techradar.com
+news
+2022-06-03 12:01:00
+
+Apple's big software showcase, WWDC, is next week (June 6), and the company is expected to unveil new versions of iOS, macOS and more.Apple Watch's latest software, watchOS 9 is also expected to be there, and the company is in a little bit of a tricky position where it feels burdened by its success – watchOS 8 was a fairly light release, but it'd still be fair to say it's head and shoulders (or wrist?) above what's being offered by the competition.While we've covered a full wishlist elsewhere, showing there are areas where Apple can improve, we've put together the following list of ways to improve the Apple Watch as a fitness tracker in light of competition from the likes of the Fitbit Sense and the upcoming Pixel Watch.

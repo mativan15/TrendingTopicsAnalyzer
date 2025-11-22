@@ -1,0 +1,11 @@
+Millions of Android users warned of 'corner alert' – someone may be watching
+thesun.co.uk
+news
+2022-10-18 08:37:22
+
+ALL Android users should keep an eye out for an important "corner alert".
+It appears in the corner of your screen and will warn you if someone may be watching.
+Google is now alerting users when the camera and/or microphone is activatedCredit: Google / Android
+You can specifically turn off camera and microphone access across the handsetCredit: Google / Android
+The alert isn't always proof of sinister antics – but it could catch a rogue app that's spying on you.
+It will flag when your camera or microphone are activated by an app.

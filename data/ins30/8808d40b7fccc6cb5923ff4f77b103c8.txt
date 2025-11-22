@@ -1,0 +1,9 @@
+Vivo to release software updates for its devices this month to support 5G services of Jio and Airtel
+indianexpress.com
+news
+2022-10-20 05:03:14
+
+Smartphone maker Vivo on Tuesday said it will release software updates this month to make most of its 5G-enable handsets work with both standalone and non-standalone 5G networks.
+Standalone 5G network transmits only 5G signal, while the signal with a mix of 4G and 5G networks is called non-standalone 5G network.
+At present, Reliance Jio provides standalone 5G network while Bharti Airtel offers non-standalone 5G network.
+Vivo has launched 30 smartphones for 5G services, which are compatible with non-standalone 5G network.

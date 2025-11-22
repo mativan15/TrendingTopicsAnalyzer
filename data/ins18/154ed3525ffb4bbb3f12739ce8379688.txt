@@ -1,0 +1,7 @@
+Videos on tap: Vitag launches NFC-powered 'sticky notes' for visual instructions
+techcrunch.com
+news
+2022-10-18 20:36:54
+
+While QR codes emerged as something of a technology poster-child during the pandemic, garnering a new lease of life in everything from restaurant menus to contactless payments, there remains a certain inelegance to the matrix barcode system.
+Usability remains a sticking point, both in terms of the effort it takes to create content and align it with a QR code, and also from the end-user's standpoint who has to open their camera app to scan the QR code — something that might not even work in low-light situations.

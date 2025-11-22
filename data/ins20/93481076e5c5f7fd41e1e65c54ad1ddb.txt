@@ -1,0 +1,7 @@
+RIF Robotics powers robots that inspect and organize surgical equipment
+techcrunch.com
+tech
+2022-10-19 23:15:04
+
+Several years ago, Kevin DeMarco's aunt was an operating room nurse who asked DeMarco — knowing that he programmed robots for a living — if there was a robot that could prepare surgical equipment. After investigating the problem with a colleague at Georgia Tech, where DeMarco was working as a research faculty member, he decided to leave his position to create the robot that his aunt once mused about.
+In this quest, DeMarco ended up co-founding RIF Robotics, one of the startups in the TechCrunch Disrupt Battlefield 200.

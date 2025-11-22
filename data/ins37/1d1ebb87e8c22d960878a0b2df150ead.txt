@@ -1,0 +1,6 @@
+Voltz introduces first synthetic interest rate swap protocol for DeFi
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+news
+2022-06-02 12:15:42
+
+Getty ImagesInterest rate swaps -- those forward contracts in which one form of future interest payment is swapped for others based on a specific principal amount -- have found a home in the world of decentralized finance.Voltz Protocol said Wednesday that it has launched DeFi's first synthetic, capital-efficient interest rate swap AMM, which will now provide the means for DeFi to compete with the interest rate swap marketplace in traditional finance, unleashing new possibilities for decentralized applications (DApps) to serve the financial needs of the world, especially for those in parts of the world with no access to traditional finance.

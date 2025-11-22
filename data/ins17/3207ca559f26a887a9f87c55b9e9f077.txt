@@ -1,0 +1,6 @@
+YouTuber Mods Nintendo Power Glove to Make it Compatible with Switch
+ign.com
+gaming
+2022-05-31 18:13:54
+
+It's been over thirty years since Nintendo released its Power Glove, but the infamous controller hasn't quite faded into oblivion yet. A YouTuber recently crafted a nifty new use for the glove: compatibility with the Switch.In a new video, tech YouTuber Will It Work? shows off his newly modded Power Glove, which has been revived and now works with the Nintendo Switch (save for a bit of latency and a few remapping issues).A History of Every Nintendo Direct in the Switch Era and BeyondAs explained in the video, two essential pieces of hardware made this impressive mod possible: the USB NES RetroPort, which turns devices like the Power Glove into USB game controllers; and the ConsoleTuner Titan One, which allows the Switch to recognize external devices like the Power Glove as controllers.

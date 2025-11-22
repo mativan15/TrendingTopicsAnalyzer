@@ -1,0 +1,6 @@
+Ripple Starts Testing A Sidechain That's Compatible With Ethereum
+ibtimes.com
+news
+2022-10-18 04:12:22
+
+Ripple has begun the testing of an Ethereum Virtual Machine (EVM) compatible sidechain to the XRP Ledger, the payment firm's very own blockchain, that will allow developers to deploy smart contracts.Ripple and XRPL will benefit from the sidechain because the applications and smart contracts deployed on the Ethereum network could be leveraged in the Ripple ecosystem with little to no effort through it, CoinDesk reported.The EVM is a software responsible for running self-executing smart contracts on Ethereum.

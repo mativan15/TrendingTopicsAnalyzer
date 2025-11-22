@@ -1,0 +1,6 @@
+It's about time facial recognition tech firms took a look in the mirror
+theguardian.com
+sport
+2022-05-28 15:00:34
+
+Last week, the UK Information Commissioner's Office (ICO) slapped a £7.5m fine on a smallish tech company called Clearview AI for 'using images of people in the UK, and elsewhere, that were collected from the web and social media to create a global online database that could be used for facial recognition'. The ICO also issued an enforcement notice, ordering the company to stop obtaining and using the personal data of UK residents that is publicly available on the internet and to delete the data of UK residents from its systems.

@@ -1,0 +1,7 @@
+Activists say cyber agency weakens voting tech advisory
+netscape.com
+news
+2022-06-04 16:30:00
+
+ATLANTA (AP) — The nation's leading cybersecurity agency released a final version Friday of an advisory it previously sent state officials on voting machine vulnerabilities in Georgia and other states that voting integrity activists say weakens a security recommendation on using barcodes to tally votes.
+The advisory put out by the U.S. Cybersecurity and Infrastructure Security Agency, or CISA, has to do with vulnerabilities identified in Dominion Voting Systems' ImageCast X touchscreen voting machines, which produce a paper ballot or record votes electronically.

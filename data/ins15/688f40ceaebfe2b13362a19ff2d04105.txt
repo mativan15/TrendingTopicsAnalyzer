@@ -1,0 +1,8 @@
+Calculating The Fair Value Of Wall Financial Corporation (TSE:WFC)
+yahoo.com
+news
+2022-10-16 12:46:21
+
+Does the October share price for Wall Financial Corporation (TSE:WFC) reflect what it's really worth? Today, we will estimate the stock's intrinsic value by projecting its future cash flows and then discounting them to today's value. The Discounted Cash Flow (DCF) model is the tool we will apply to do this. Don't get put off by the jargon, the math behind it is actually quite straightforward.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios.

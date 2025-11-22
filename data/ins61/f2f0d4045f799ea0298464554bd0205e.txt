@@ -1,0 +1,6 @@
+Deep Knowledge and Deep Learning
+medium.com
+news
+2022-06-04 10:26:50
+
+Deep learning nowadays is the 'buzz word': on my first postdoc, I have found out how deep learning stolen the scene in a matter of years, since I last worked directly with machine learning; I left for a while for working with white-box models in mathematical physiology, appetite control. More or less on the same time deep learning was leaving the underworld, we had spiking neural network; I came across that model by professor Kasabov.Deep learning is a set of artificial neural network. Being straight to the point: it is huge number of hidden layers on a multilayered perceptron (MLP).

@@ -1,0 +1,6 @@
+Prices and Taxes in a Ramsey Climate Policy Model under Heterogeneous Beliefs and Ambiguity
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+In a Ramsey policy regime, heterogeneity in beliefs about the potential costs of climate change is shown to produce policy ambiguities that alter carbon prices and taxation. Three sources of ambiguity are considered: (i) the private sector is skeptical, with beliefs that are unknown to the government, (ii) private agents have pessimistic doubts about the model, or (iii) the policy authority itself does not trust the extant scientific climate model and fears the worst. These three sources of ambiguity give rise to four potential belief regimes characterized by differentials between the government's and the private sector's inter-temporal rates of substitutions, with implications for the prices of carbon and capital, framed in terms of distorted Arrow–Debreu pricing theory that establishes an equivalence between the optimal carbon tax and the permit price of an underlying asset—the government-imposed limit on emissions in economies with cap and trade.

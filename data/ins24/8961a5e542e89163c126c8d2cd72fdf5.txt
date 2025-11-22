@@ -1,0 +1,10 @@
+The ‘Google of Blockchains' Is Sunsetting Its Centralized Service
+yahoo.com
+news
+2022-06-02 17:45:04
+
+Don't miss CoinDesk's Consensus 2022, the must-attend crypto & blockchain festival experience of the year in Austin, TX this June 9-12.
+
+The Graph – a service that helps applications collect and interpret blockchain-based data – announced Thursday that it will be sunsetting its centralized Hosted Service early next year.
+
+Representatives for Edge & Node, the original team behind The Graph, did not provide an exact date for when the free Hosted Service will be phased out. They say app developers using the platform will be encouraged to migrate over to the pay-per-query Graph network, which relies on a distributed community of Ethereum-based 'indexers' to handle data rather than the Hosted Network's single operator.

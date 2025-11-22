@@ -1,0 +1,8 @@
+How to add Arch Linux AUR-like repositories to Ubuntu- and Fedora-based Linux distributions
+techrepublic.com
+news
+2022-10-18 15:31:26
+
+Image: Tasty Content/Adobe Stock
+Arch Linux has a community-driven repository that includes software not available in the standard repositories found with the likes of Fedora and Ubuntu-based distributions. AUR stands for Arch User Repository, and it's extra fancy because what it does is use the source for a piece of software and then, with the help of the distribution's package manager, installs it.
+You can see this as a sort of best-of-both-worlds scenario, and it's one you won't find with non-Arch distributions—unless you make use of a brand-new tool called LURE, or Linux User REpository.

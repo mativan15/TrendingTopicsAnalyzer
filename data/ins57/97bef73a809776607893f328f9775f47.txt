@@ -1,0 +1,6 @@
+New Study from Cloud Security Alliance and BigID Finds That Organizations Are Struggling to Track, Secure Sensitive Data in the Cloud
+businesswire.com
+news
+2022-10-20 00:00:00
+
+October 20, 2022 09:00 AM Eastern Daylight Time SEATTLE--(BUSINESS WIRE)--The Cloud Security Alliance (CSA), the world's leading organization dedicated to defining standards, certifications and best practices to help ensure a secure cloud computing environment, today released the findings from Understanding Cloud Data Security and Priorities in 2022. The survey, conducted in partnership with BigID, the leading data intelligence platform for privacy, security, and governance, sought to better understand the industry's knowledge, attitudes, and opinions regarding data security in the cloud.

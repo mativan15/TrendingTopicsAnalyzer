@@ -1,0 +1,31 @@
+Multimodal Interface for Human–Robot Collaboration
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ 1,†, 2,3,†, 4, 1, 5, 1,* and 1 
+
+
+1
+FAST-Lab, Faculty of Engineering and Natural Sciences, Tampere University, FI-33720 Tampere, Finland
+
+
+2
+Functional Materials & Manufacturing Processes, Technology Department, Siemens Aktiengesellschaft, D-81739 Munich, Germany
+
+
+3
+Human-Centered Assistive Robotics (HCR), Department of Electrical and Computer Engineering, Technical University of Munich (TUM), D-80333 Munich, Germany
+
+
+4
+School of Industrial Engineering, Eindhoven University of Technology, De Zaale, NL-5600 MB Eindhoven, The Netherlands
+
+
+5
+Business Unit Robotic Systems, Fraunhofer Institute for Factory Operation and Automation IFF, D-39106 Magdeburg, Germany
+
+
+*
+Author to whom correspondence should be addressed.

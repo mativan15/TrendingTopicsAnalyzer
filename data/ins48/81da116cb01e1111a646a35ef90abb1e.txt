@@ -1,0 +1,8 @@
+Nvidia RTX 4090 could be the first Lovelace GPU to launch
+techradar.com
+news
+2022-05-31 09:44:35
+
+(Image credit: Future)
+
+ Nvidia's initial next-gen GPU might be the RTX 4090, followed by the RTX 4080 and 4070, if the latest rumor is right.Actually, this isn't a fresh rumor as such, but a purported ‘confirmation' from Kopite7kimi, a prolific hardware leaker on Twitter, meaning it's confirming info from their sources (of course, we have no official confirmation of anything yet, not even that Nvidia's next-gen Lovelace graphics cards will be the RTX 4000 family).Choose B. Confirmed.May 29, 2022See moreKopite7kimi tweeted in reply to 3D Center theorizing about Nvidia's possible staggered launch strategy for Lovelace GPUs, with two routes that Team Green is supposedly looking at taking: the RTX 4080, followed by the 4090, and then 4070, or the RTX 4090, followed by the 4080, then 4070.

@@ -1,0 +1,6 @@
+Wevr Virtual Studio helps devs make next-generation games
+venturebeat.com
+news
+2022-10-20 13:30:00
+
+Interested in learning what's next for the gaming industry? Join gaming executives to discuss emerging parts of the industry this October at GamesBeat Summit Next. Register today. Wevr has made stellar virtual reality games like the ocean simulation TheBlu. And now it is expanding to make Virtual Studio, a cloud-based platform to help people make next-generation games. The Wevr Virtual Studio is a tool in early access that game teams can use to stand up new projects. Neville Spiteri, CEO of Wevr, describes it as a purpose-built platform that lets interactive creators and game developers use real-time game engines like Unity and Unreal.

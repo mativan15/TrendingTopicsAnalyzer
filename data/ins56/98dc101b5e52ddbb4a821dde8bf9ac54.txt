@@ -1,0 +1,7 @@
+Re-rethinking Databricks' valuation in a more conservative startup market – TechCrunch
+techcrunch.com
+business
+2022-05-31 16:00:31
+
+Just how hard will it be for some high-flying unicorns to go public? The question gets more serious and worrisome by the week.
+To understand how much the late-stage market has changed in the last few months, we're once again pulling public market data that we will contrast against mega-unicorn Databricks' known results. Recall that we executed this experiment in February, when the data analytics company announced that it closed 2021 with $800 million in ARR, and in April, when we took a look at the company under the harsher lights of a declining market for software revenues.

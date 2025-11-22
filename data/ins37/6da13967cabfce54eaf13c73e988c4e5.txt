@@ -1,0 +1,6 @@
+TerraUSD developers vote to create new blockchain without failed stablecoin
+indiatimes.com
+economics
+2022-05-26 11:15:00
+
+Developers behind failed stablecoin TerraUSD have voted to abandon the token in favour of creating a new blockchain and digital asset weeks after the cryptocurrency collapsed, according to a tweet from the Terra blockchain protocol. Unlike most other major stablecoins which are backed by other assets, TerraUSD's value was derived by complex algorithmic processes, linked to another paired token called Luna. Both tokens have lost nearly all of their value since TerraUSD, known as UST, slipped below its 1:1 peg to the dollar earlier this month.

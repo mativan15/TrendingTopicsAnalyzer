@@ -1,0 +1,7 @@
+Cribl Achieves SOC 2 Certification, Further Unifies Cybersecurity and Observability
+prnewswire.com
+news
+2022-06-01 13:00:00
+
+Compliance certification strengthens Cribl's role in cybersecurity use cases and expands its footprint in the enterprise
+SAN FRANCISCO, June 1, 2022 /PRNewswire/ -- Cribl, the leader in enabling open observability, today announced the completion of its Service Organization Control 2 (SOC 2) Type II security compliance attestation. SOC 2 ensures compliance with worldwide industry standards for data security and enables enterprises to be confident in using Cribl in their observability and cybersecurity environments.

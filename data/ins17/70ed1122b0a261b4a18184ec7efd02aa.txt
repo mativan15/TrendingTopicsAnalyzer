@@ -1,0 +1,8 @@
+Texas AG sues Google over its facial data collection practices (Updated)
+yahoo.com
+finance
+2022-10-20 16:19:42
+
+The office of Texas State Attorney General Ken Paxton announced on Thursday that it has filed a lawsuit against Google over the company's alleged years-long practices to capture and use of biometric data from, "millions of Texans without properly obtaining their informed consent to do so." This is allegedly a violation of the state's Capture or Use of Biometric Identifier Act of 2009.
+
+The AG argues that Google used features in its Photos and Assistant apps, as well as through Nest Hub Max hardware, to scan and store the facial and voice data without first acquiring user consent.

@@ -1,0 +1,37 @@
+Immobilization of Active Antibodies at Polymer Melt Surfaces during Injection Molding
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ 1, 2 and 1,* 
+
+
+1
+Department of Health Technology, DTU Health Tech, Technical University of Denmark, Ørsteds Plads 345C, 2800 Kongens Lyngby, Denmark
+
+
+2
+Inmold A/S, Savsvinget 4B, 2970 Hørsholm, Denmark
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Somen K. Bhudolia
+
+Polymers 2022, 14(20), 4426; https://doi.org/10.3390/polym14204426 (registering DOI)
+
+
+Received: 3 October 2022
+/
+Revised: 17 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 20 October 2022
+ 
+
+We demonstrate the transfer and immobilization of active antibodies from a low surface- energy mold surface to thermoplastic replica surfaces using injection molding, and we investigate the process at molecular scale.

@@ -1,0 +1,6 @@
+Reinforcement Learning — Part 1
+medium.com
+news
+2022-10-16 16:09:51
+
+The Reinforcement Learning process is different from the traditional ML in the following ways —Unlike traditional Machine learning in RL, reward is the only supervisory signalFeedback is not instantaneous, but delayedTime component (data is sequential, samples are not independent from each other)RL agent actions will effect the subsequent data/reward it will receiveExamples of RL in real worldDefeat a world champion in backgammonPlay many different Atari games better than humansDefinition of reward RA reward R is a scalar feedback signal, which indicates how the agent is doing at time-stamp t.

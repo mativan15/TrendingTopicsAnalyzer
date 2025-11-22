@@ -1,0 +1,6 @@
+Zero Hash partners with Blockdaemon to power native crypto on-ramp solution
+globenewswire.com
+news
+2022-10-20 00:00:00
+
+CHICAGO, Oct. 20, 2022 (GLOBE NEWSWIRE) -- Blockdaemon, the leading institutional-grade blockchain infrastructure company for node infrastructure, along with Zero Hash, today announced a strategic partnership for Blockdaemon's offering, Onramp. Blockdaemon Onramp is a leading cryptocurrency fiat-to-crypto on-ramp. Blockdaemon is leveraging Zero Hash's API-driven infrastructure to natively offer customers crypto and fiat funding options in a regulated way. The integration of services will allow Blockdaemon Onramp partners to offer up to 60 digital assets in the United States.

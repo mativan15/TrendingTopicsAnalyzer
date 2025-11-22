@@ -1,0 +1,6 @@
+RisingWave Labs Secures $36M in Series A Funding for its Stream Processing Platform
+globenewswire.com
+business
+2022-10-18 12:00:00
+
+SAN FRANCISCO, Oct. 18, 2022 (GLOBE NEWSWIRE) -- RisingWave Labs, the streaming database company, today announced a $36 million round of funding to meet surging demand for streaming databases that enable users to make real-time decisions based on the most recent data. The Series A round, led by multiple partners, including the investment arm of a leading global gaming firm, Yunqi Partners, and several individual investors, brings the total funding to over $40 million. Democratizing Stream ProcessingStream processing allows users to continuously gain timely, actionable insights from real-time data and bring immense business value to companies across different verticals, such as Financial Services, Health & Life Sciences, Manufacturing & Industrials, and others.

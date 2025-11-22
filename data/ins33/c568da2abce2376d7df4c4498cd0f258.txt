@@ -1,0 +1,11 @@
+Schneider Electric announces updates to core EcoStruxure™ Power platform, improving energy & operational efficiency and system reliability
+prnewswire.com
+news
+2022-10-19 13:00:00
+
+Features centralized cybersecurity management and real-time threat visibility
+Provides seamless connection for wired and wireless smart IoT devices to edge control software or advisor
+Introduces extended reality to enhance work safety, efficiency, and effectiveness for electrical O&M professionals
+Offers an electrical digital twin that provides a highly realistic training environment for pre-defined electrical scenarios
+
+BOSTON, Oct. 19, 2022 /PRNewswire/ -- Schneider Electric, the leader in digital transformation of energy management and automation, today releases new updates to its EcoStruxure™ domain architecture and platform, EcoStruxure Power.

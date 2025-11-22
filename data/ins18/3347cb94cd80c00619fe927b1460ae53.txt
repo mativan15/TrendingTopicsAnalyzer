@@ -1,0 +1,8 @@
+Estimating The Intrinsic Value Of Dollar Tree, Inc. (NASDAQ:DLTR)
+yahoo.com
+news
+2022-10-17 12:49:14
+
+Today we will run through one way of estimating the intrinsic value of Dollar Tree, Inc. (NASDAQ:DLTR) by taking the expected future cash flows and discounting them to their present value. We will use the Discounted Cash Flow (DCF) model on this occasion. There's really not all that much to it, even though it might appear quite complex.
+
+We would caution that there are many ways of valuing a company and, like the DCF, each technique has advantages and disadvantages in certain scenarios. For those who are keen learners of equity analysis, the Simply Wall St analysis model here may be something of interest to you.

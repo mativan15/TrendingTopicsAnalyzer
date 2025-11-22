@@ -1,0 +1,7 @@
+Securing India's Cyberspace
+indianexpress.com
+news
+2022-10-16 23:00:38
+
+Last month, there were reports that the Indian Army is developing cryptographic techniques to make its networks resistant to attacks by systems with quantum capabilities. The Army has collaborated with industry and academia to build secure communications and cryptography applications. This step builds on last year's initiative to establish a quantum computing laboratory at the military engineering institute in Mhow, Madhya Pradesh.
+With traditional encryption models at risk and increasing military applications of quantum technology, the deployment of 'quantum-resistant' systems has become the need of the hour.

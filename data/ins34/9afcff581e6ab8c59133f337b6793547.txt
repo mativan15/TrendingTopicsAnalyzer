@@ -1,0 +1,10 @@
+Monnit Launches the ALTA® IoT Gateway with an Advanced Cellular Engine and Ethernet
+businesswire.com
+news
+2022-06-02 00:00:00
+
+June 02, 2022 02:27 PM Eastern Daylight Time SALT LAKE CITY--(BUSINESS WIRE)--Monnit launched its new ALTA® Wireless IoT Gateway that showcases a cellular and Ethernet platform to keep ALTA Wireless Sensor networks in various environments and remote locations running strong on the Internet.
+
+
+
+The ALTA IoT Gateway's cellular engine features 4G Long-Term Evolution (LTE) Category M1 (CAT-M1) and NarrowBand-Internet of Things (NB-IoT) 2 (NB2). Its RJ-45 Ethernet jack allows local device configuration and diagnostics and supports connectivity backup.

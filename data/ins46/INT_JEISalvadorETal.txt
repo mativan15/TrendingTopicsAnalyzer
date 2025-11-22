@@ -1,0 +1,113 @@
+DSVOL – Implementation of a Distributed Architecture Combining General-purpose Visualization and Sonification
+
+Veridiana Christie Lucas Salvador(1), Rosane Minghim (1), and Haim Levkowitz(2)
+(1) Instituto de Ciências Matemáticas e de Computação
+University of São Paulo, São Carlos – SP, Brazil
+(2) Institute for Visualization and Perception Research, Department of Computer Science
+University of Massachusetts Lowell, Lowell, MA, USA.
+
+ABSTRACT
+In Scientific Visualization, distributed architectures and the World-Wide-Web allow remote access to
+expensive resources, and the cooperation amongst teams of experts that are located in different places,
+empowering its applications. The use of sound as a data display tool (sonification) has been shown to
+support information understanding and may help dealing with adding dimensions to a visual display.
+Thus far those issues have been treated separately, although sonification may have implications on
+how a system is built. This paper presents an architecture and a corresponding prototype
+implementation of a distributed system for visualization that incorporates some of these resources and
+technologies, such as visualization on the web, distributed visualization, and sonification. The paper
+also presents the evolution of the distribution approach, which, in an earlier implementation,
+employed CORBA (Common Object Request Broker Architecture) and in the current implementation
+uses the XML-based protocol SOAP (Simple Object Access Protocol) as a tool for distribution on the
+computer network. A discussion on the use of both distribution tools in visualization tasks is given.
+
+REFERENCES
+[1] V. C. L. Salvador, R. Minghim, H. Levkowitz – “DSVOL II – A Distributed Visualization and
+Sonification Application Communication via an XML-based Protocol”, in Proceedings of
+SIBGRAPI’2002, Fortaleza-Brasil, IEEE CS Press, 35-42 (2002).
+[2] R. Minghim, V. C. L. Salvador, B. S. Freitas, M. C. F. Oliveira, L. G. Nonato – “Distributed Sound For
+Volumes – Data Analysis Using Distributed Visualization and Sonification”, in Proceedings of SPIE -
+Visualization and Data Analysis 2002, vol. 4665, 379-390 (2002).
+[3] W. J. Schroeder, K. Martin, W. Lorensen – The Visualization Toolkit – An Object-Oriented Approach
+to 3D Grraphics, Prentice-Hall, 2nd Edition (1998).
+[4] C. Upson, T. Faulhaber, D. Kamins, D. Laidlaw, D. Schlegel, J. Vroom, R. Gurwitz, A. van Dam –
+“The Application Visualization System: A Computational Environment for Scientific Visualization”, in
+IEEE Computer Graphics and Applications, vol. 9 (4), 30-42 (1989).
+[5] F. Arciniegas – C++ XML, New Riders Publishing, First Edition (2001).
+[6] W3Schools – XML Tutorial, available at http://www.w3schools.com/xml/default.asp.
+[7] K. Scribner, M. C. Stiver – Understanding SOAP – The Authoritative Solution, Sams Publishing (2000).
+[8] B. Arun, V. Chandru, A.D. Ganguly, S. Manohar – “Molecular Dynamics Visualization with XML and
+VRML”, in Proceedings of Computer Graphics International 2000 (CGI’00) (2000).
+[9] J. R. Borck – “Future of Networked Apps”, InfoWorld Magazine, July 2001, available at
+http://www.infoworld.com/articles/tc/xml/01/07/16/010716tcsoap.xml.
+[10] C. S. Ang, D. C. Martin, M. D. Doyle – “Integrated Control of Distributed Volume Visualization
+Through the World-Wide-Web”, in Proceedings of IEEE Visualization’94, 13 -20 (1994).
+[11] J. Ahrens, C. Law, W. Schroeder, K. Martin, M. Papka – “A Parallel Approach for Efficiently
+Visualizing Extremely Large, Time-Varying Datasets”, available at
+http://public.kitware.com/VTK/pdf/pvtk.pdf.
+[12] J. Wood, K. Brodlie, H. Wright – “Visualization Over The World Wide Web And Its Application To
+Environmental Data”, in Proceedings IEEE Visualization’96, 81 -86 (1996).
+[13] M. Aeschlimann, P. Dinda, J. Lopez, B. Lowekamp, L. Kallivokas, D. O' Hallaron, "Preliminary
+Report on the Design of a Framework for Distributed Visualization”, in Proceedings of the International
+Conference on Parallel and Distributed Processing Techniques and Applications (Las Vegas, Nevada),
+invited paper, 1833-1839 (1999).
+[14] K. Brodlie, N. El-Khalili, Y. Li – “Using web -based computer graphics to teach surgery”, in Computer
+& Graphics 24, 157-161 (2000).
+[15] A. D. Alves, M. C. F. Oliveira, R. Minghim, L. G. Nonato – “Interactive Visualization over the Web”,
+in Proceedings of SIBGRAPI’2000, IEEE Computer Society Press, 259-268 (2000).
+[16] J. J. Hare, J. A. Clarke, C. E. Schmitt – “The Distributed Interactive Computing Environment”,
+Proceedings of 21st Army Science Conference, available at www-lil.univlittoral.
+fr/~lefer/Web3Dgv/IEEEWorkshop98/Hare.abstract.html (1998).
+[17] M. Henning, S. Vinoski – Advanced CORBA Programming with C++, Addison-Wesley Professional
+Computing Series (1999).
+[18] Object Management Group – “The Common Object Request Broker: Architecture and Specification”,
+available at http://www.infosys.tuwien.ac.at/Research/Corba/OMG/cover.htm (1995).
+[19] C. Zunino, B. Montrucchio, A. Sanna, C. Demartini – “A distributed visualization environment for
+scientific visualization based on Jini technology”' , in IEEE Proceedings of SCCG' 2001, -91501 (2001).
+[20] R. Liere, J. Harkes, W. Leeuw – “A Distributed Blackboard architecture for Interactive Data
+Visualization”, in Proceedings of IEEE Visualization’98, 225 -231 (1998).
+[21] K. Engel, P. Hastreiter, B. Tomandl, K. Eberhardt, T. Ertl – “Combining Local and Remote
+Visualization Techniques for Interactive Volume Rendering in Medical Applications”, in Proceedings of
+IEEE Visualization’00, 449 -452 (2000).
+[22] N. Frisch, T. Ertl – “Embedding Visualization Software Into a Simulation Environment”, in
+Proceedings of SCCG 2000, Bratislava (2000).
+[23] Sun Microsystems, Inc – “Java Native Interface Specification”, available at
+http://java.sun.com/products/jdk/1.2/docs/guide/jni/spec/jniTOC.doc.html (1997).
+[24] J. Blauert - “Spatial Hearing: The Psychophysics of Human Sound Localization”. Cambridge, MA:
+MIT Press (1997).
+[25] J. G. Neuhoff, G. Kramer, J. Wayand. – “Sonification and the Interaction of Perceptual Dimensions:
+Can the Data Get Lost in the Map?”, Proceedings of ICAD 2000, available at
+http://www.icad.org/websiteV2.0/Conferences/ICAD2000/ICAD2000.html (2000).
+[26] B. N. Walker, G. Kramer, D. M. Lane – “Psychophysical Scaling of Sonification Mappings”,
+Proceedings of ICAD’2000 , available at http://www.icad.org (2000).
+[27] A. J. Joseph, S. K. Lodha – “MUSART: Musical Áudio Tranfer Function Real-Time Toolkit”,
+Proceedings of the 2002 International Conference on Auditory Display, available at
+http://www.icad.org/websiteV2.0/Conferences/ICAD2002/proceedings/ (2002).
+[28] H. Levkowitz, R. M. Pickett, S. Smith, M. Torpey – “An E nvironment and Studies for Exploring
+Auditory Representations of Multidimensional Data”, Perceptual Issues in Visualization, Springer-Verlag,
+47-58 (1995).
+[29] C. Hayward – “Listening to the Earth Sing”, Proceeding of ICAD’94, Addison -Wesley Publishing
+Company, 369 – 404 (1994).
+[30] S. Barrass – “Responsive Sonification of Well -logs”, Proceedings of ICAD’2000, available at
+http://www.icad.org (2000).
+[31] M. Ballora, B. Pennycook, L. Glass – “Sonification of Heart Rate Variability Data”, Proceedings of
+ICAD’2000, available at http://www.icad.org (2000).
+[32] J. H. Flowers, L. E. Whitwer, D. C. Grafel, C. A. Kotan – “Sonification of Daily Weather Records:
+Issues of perception, Attention and Memory in Design Choices”, Proceedings of ICAD’2001, available at
+http://www.icad.org, 222-226 (2001).
+[33] E. Jovanov, D. Starcevic, V. Radivojevic, A. Samardzic, V. Simeunovic – “Perceptualization of
+Biomedical Data – An experimental Environment for Visualization and Sonification of Brain Electrical
+Activity”, IEEE En gineering in Medicine and Biology, IEEE Inst. Eletrical Electronics Engineers Inc, New
+York, February, 50 – 55 (1999).
+[34] T. Hermann, P. Meinicke, H. Beker, H. Ritter – “Sonifications for EEG Data Analysis”, Proceedings
+of the 2002 International Conference on Auditory Display, available at
+http://www.icad.org/websiteV2.0/Conferences/ICAD2002/proceedings/ (2002).
+[35] P. R. Cook, G. P. Scavone – “The Synthesis ToolKit (STK)”, in Proceedings of 1999 Int. Computer
+Music Conf., 164-166 (1999).
+[36] I. Jong – “Web Services/SOAP and Corba”, available at http://www.xs4all.nl
+~irmen/comp/CORBA_vs_SOAP.html (2002).
+[37] R. Silva – “CORBA/SOAP – Comparing the Development Process using eSoap”, available at
+http://www.quakersoft.net/rosimildo/articles/soap_corba.html (2001).
+[38] R. Minghim, A. R. Forrest, - “An Illustrated Analysis of Sonification for Scientific Visualisation”,
+inProceedings of IEEE Visualization’ 95, 110 -117 (1995).
+[39] V. C. L. Salvador, R. Minghim, M. L. Pacheco – “Sonification to Support Visualiz ation Tasks”, in
+Proceedings of SIBGRAPI’98, IEEE CS Press, 150 -157 (1998).

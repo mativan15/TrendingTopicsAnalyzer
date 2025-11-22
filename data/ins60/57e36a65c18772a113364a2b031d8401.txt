@@ -1,0 +1,6 @@
+Control AI Announces Advanced Trading Tools for DeFi Crypto Marketplaces PancakeSwap and Uniswap
+globenewswire.com
+news
+2022-05-27 19:15:00
+
+AUSTIN, Texas, May 27, 2022 (GLOBE NEWSWIRE) -- The ControlAI Beta opens with a media preview of its advanced Defi Crypto trading toolset that takes advantage of a cloud-based server backbone & private blockchain node network. The Beta opens in preparation for the BSC Blockchain Launch of ControlAI ($CAI) Token at the end of the Beta Phase. Today, ControlAI announced the Beta preview of their highly anticipated, web-based DeFi Crypto trading tools. Highlights of the toolset include their coin launch sniper, options to set Stop Losses, Profit Targets, Limit Orders and Trailing Stops on both PancakeSwap and Uniswap.

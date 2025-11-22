@@ -1,0 +1,6 @@
+Incorta Expands Analytics Data Hub for Finance Solution with New Data Applications and Destinations for BlackLine and Workday Adaptive Planning
+globenewswire.com
+news
+2022-10-17 00:00:00
+
+SAN MATEO, Calif., Oct. 17, 2022 (GLOBE NEWSWIRE) -- Incorta, the real-time business analytics company, today announced several updates and additions to its Analytics Data Hub for Finance solution, including the integration of new data destinations, BlackLine and Workday; the first BlackLine data application built specifically for financial workstreams on the Incorta platform; and a new Excel integration for interactive financial reporting. With these latest developments, IT organizations working with finance teams now have an even more powerful and extensible solution for unifying financial and operational data, automating delivery of business-ready data with unrivaled speed and fortifying trust and confidence in data for better decision making in the office of finance.

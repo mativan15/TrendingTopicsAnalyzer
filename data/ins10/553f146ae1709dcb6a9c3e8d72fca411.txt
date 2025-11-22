@@ -1,0 +1,8 @@
+Multicloud security issues are plaguing businesses everywhere
+techradar.com
+news
+2022-10-21 10:44:58
+
+(Image credit: Shutterstock)
+
+ Multi-cloud setups have become pivotal in organizations of all shapes and sizes, but many are finding that they're difficult to secure properly, leaving them exposed to breaches that leak large amounts of sensitive data to malicious third parties. That's according to 'Application Security in a Multi-Cloud World'.  the latest report from cybersecurity experts Radware,  Surveying 269 senior executives, DevOps leaders, and seniors in other security roles, the company  found that despite its popularity, 70% aren't confident in their ability to properly secure both on-prem and multi-cloud (opens in new tab) environments.

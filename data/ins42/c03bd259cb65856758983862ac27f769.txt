@@ -1,0 +1,10 @@
+Israel's Government and Tel Aviv Stock Exchange Preparing to Issue Digital State Bond
+yahoo.com
+news
+2022-10-19 06:00:00
+
+Israel's Ministry of Finance and the Tel Aviv Stock Exchange (TASE) are preparing to issue a blockchain-based digital state bond.
+
+The Israeli government and TASE are partnering with digital asset infrastructure firms Fireblocks and VMWare to perform live testing of a new platform using smart contracts and tokenization for the trading and clearing of digital bonds.
+
+The live test will see units of the digital bond issued to e-wallets of the acquiring participants, paid for in digital currency which will be transferred to the Israeli government's e-wallet.

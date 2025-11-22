@@ -1,0 +1,6 @@
+After missing NLDS, Robertson on Phillies' NLCS roster
+mlb.com
+news
+2022-10-18 18:13:00
+
+","providerName":"Twitter","providerUrl":"https://twitter.com","type":"rich","width":550,"__typename":"ExternalEmbedContent"},"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"phillies-2022-nl-championship-series-roster\",\"type\":\"story\"}).parts.5":{"data":{"type":"id","generated":true,"id":"$ROOT_QUERY.getForgeContentBySlug({\"locale\":\"en-us\",\"slug\":\"phillies-2022-nl-championship-series-roster\",\"type\":\"story\"}).parts.5.data","typename":"ExternalEmbedContent"},"type":"oembed","__typename":"ExternalEmbed"},"$ROOT_QUERY.

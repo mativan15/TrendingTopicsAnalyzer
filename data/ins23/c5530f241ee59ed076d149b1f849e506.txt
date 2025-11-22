@@ -1,0 +1,6 @@
+2020s: The decade that tears down LANs, WANs, VPNs and Firewalls
+techradar.com
+tech
+2022-10-17 13:13:00
+
+The walls of the corporate workplace will become fluid for enterprises over this decade. This will be a movement driven by the way you want to work and the birth of the fully internet-driven workplace; put another way, it's the death of the legacy corporate network which naturally means the death of traditional network security. It's a dramatic improvement that will restyle the way we all connect, rewrite how IT leaders help you access work, and reshape entire technology markets where legacy infrastructure companies will struggle.

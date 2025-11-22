@@ -1,0 +1,6 @@
+$228 Million Privacy Ruling Against Rail Giant Is ‘Wake-Up Call' for Third-Party Risk
+wsj.com
+news
+2022-10-21 09:30:00
+
+Companies have paid out eye-popping sums in recent years to settle claims they violated Illinois's biometric privacy law. Last week, a historic legal judgment against BNSF Railway Co. highlighted that data lapses by third-party contractors also don't come cheap.A jury's award of $228 million to truck drivers whose fingerprints were scanned without proper consent signaled that businesses can't blame data violations on vendors, privacy lawyers say. Illinois's Biometric Information Privacy Act provides little distinction between companies and contractors that process data on their behalf, upping the ante for firms as they vet potential vendors' data practices and structure contracts.

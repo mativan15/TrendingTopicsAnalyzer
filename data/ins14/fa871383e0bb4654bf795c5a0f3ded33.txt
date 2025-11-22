@@ -1,0 +1,11 @@
+Compact Guide: How to change folder icons, colour on Mac devices
+indiatimes.com
+economics
+2022-10-21 14:00:00
+
+Customisation is not the first thing one associates with Apple, but the tech giant sure provides that some folders on Mac devices can be organised according to consumer performances. A customised folder enhances productivity by making it more recognizable. Here's a step-by-step guide on changing folder icons on Mac 
+1. Changing the folder icon
+• Right-click on the desired folder
+• Select 'Get Info' from the menu
+• Click on the folder icon at the top of left
+• Drag and drop the new icon on the desired folder's icon if it has a ".

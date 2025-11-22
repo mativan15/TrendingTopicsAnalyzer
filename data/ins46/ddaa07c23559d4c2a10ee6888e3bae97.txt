@@ -1,0 +1,6 @@
+Stack Overflow wants to make it easier to code in the Arctic or prison
+theverge.com
+news
+2022-10-20 13:00:00
+
+Stack Overflow is trying to make sure that its repository of programming knowledge, stored in the form of millions and millions of questions and answers, is available even to people without internet access. It's announcing an initiative called Overflow Offline, where it'll work with developers and a wide range of organizations that deal with things like the justice and prison systems, education, and scientific endeavors.For people who don't have constant internet access, being able to easily download, search through, and read Stack Overflow could be a big help.

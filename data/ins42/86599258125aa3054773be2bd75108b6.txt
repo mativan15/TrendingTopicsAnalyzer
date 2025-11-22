@@ -1,0 +1,6 @@
+Grid Connect, PEAK-System showcase diagnostics software, hardware for auto test
+prweb.com
+tech
+2022-10-20 00:00:00
+
+PEAK-System's PCAN DIAG FD handheld diagnostic tool for test labs will be on display at the Auto Test Expo 2022 in Novi, Mich. 'We've partnered with Grid Connect and are exhibiting together at the Auto Testing Expo, in part, because Grid supports test lab managers and engineers who buy our products like they would their own," said Uwe Wilhelm, CEO of PEAK-System. NAPERVILLE, Ill. (PRWEB) October 20, 2022 From October 25-27, 2022, Grid Connect, Inc. and Germany-based PEAK-System Technik GmbH will jointly showcase their latest CAN Bus hardware and software for vehicle telematics, diagnostics, and testing at the Automotive Testing Expo in Novi, Michigan's Suburban Collection Showcase (booth: 11046).

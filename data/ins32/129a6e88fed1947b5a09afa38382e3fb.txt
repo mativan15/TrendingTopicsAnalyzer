@@ -1,0 +1,6 @@
+IIT Delhi study reveals mechanisms driving SARS-CoV-2 evolution in humans
+Copyright:(C)2022 Bennett Coleman & Co. Ltd, http://info.indiatimes.com/terms/tou.html
+economics
+2022-05-29 10:45:08
+
+Researchers at the Indian Institute of Technology (IIT), Delhi have revealed the mechanisms driving the evolution of SARS-CoV-2 in humans which can help in better understanding of COVID-19's pathogenesis, immune evasion and emergence of variants of concern. According to the seven-member research team, CpG (a cytosine followed by a guanine) numbers in virus genomes have been linked to host-switching, the efficiency of virus replication, immune evasion and the ability of a virus to cause disease. The researchers found that the rate of CpG depletion from SARS-CoV-2 genomes rapidly decreases after the first few months of evolution in humans.

@@ -1,0 +1,6 @@
+En route to becoming a smart contract auditor — Week 2
+medium.com
+news
+2022-10-16 09:24:48
+
+Week 2: The Blessed BoyIts been another short week yet it felt like many things happened. Well not 'many' but 2 eventful thing to be precise. How the first one unfold was when I'm trying to push myself harder by finding someone to work together or some relevant junior level projects. Search for a while, nothing eye catching.Poking and asking around different discord and telegrams and met a mentor (Jonny). Jonny proposed an interoperable multisig DAO + tokenized + stat + game + minter project for me to build and gladly give me some guidance here and there.

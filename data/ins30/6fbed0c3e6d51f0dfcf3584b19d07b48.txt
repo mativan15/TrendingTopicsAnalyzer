@@ -1,0 +1,7 @@
+Iterative launches MLEM, an open-source tool to simplify ML model deployment – TechCrunch
+techcrunch.com
+tech
+2022-06-01 13:00:02
+
+MLOps platform Iterative, which announced a $20 million Series A round almost exactly a year ago, today launched MLEM, an open-source git-based machine learning model management and deployment tool.
+The idea here, the company says, is to bridge the gap between ML engineers and DevOps teams by using the git-based approach that developers are already familiar with. Using MLEM, developers can store and track their ML models throughout their lifecycle. As such, it complements Iterative's open-source GTO artifact registry and DVC, the company's version control system for data and models.

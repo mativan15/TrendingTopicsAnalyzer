@@ -1,0 +1,6 @@
+JupiterOne raises $70M at a $1B+ valuation to help track, manage and secure complex cyber assets – TechCrunch
+techcrunch.com
+tech
+2022-06-02 11:59:22
+
+One of the by-products of today's IT environments — which can involve multiple clouds and data warehouses, on-premise servers, thousands or even millions of connected devices and users, a multitude of apps and more — is that this size and complexity is a minefield when it comes to security. Malicious hackers have a lot of potential points of entry to exploit, so the aim for security specialists is to have a complete picture of how things are looking across the whole of the network — regardless of how fragmented those operations might actually be.

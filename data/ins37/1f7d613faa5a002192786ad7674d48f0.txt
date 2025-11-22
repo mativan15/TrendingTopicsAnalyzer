@@ -1,0 +1,6 @@
+Council Post: ​​How Serverless Cloud Computing Is Democratizing The Courtroom
+Copyright 2022 Forbes Media LLC
+business
+2022-05-31 13:15:00
+
+Abhishek Pakhira is the COO of Aureus Tech Systems, a Microsoft ISV partner offering eDiscovery and DigitalWorkplace cloud native software. getty The Federal Rules of Civil Procedure (FRCP), which govern civil proceedings in U.S. district courts, state that they should be "construed and administered to secure the just, speedy, and inexpensive determination of every action and proceeding." The keywords here are "just" and "inexpensive.' Yet far too often, technology is used as a barrier to prevent the average person from getting justice in a court of law.

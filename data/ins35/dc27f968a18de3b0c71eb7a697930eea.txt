@@ -1,0 +1,10 @@
+ZPE Systems launches smartphone-size cloud gateway for IoT, OT, & IoMD applications
+Copyright 2022, Business Wire.
+tech
+2022-10-19 14:11:00
+
+October 19, 2022 10:11 AM Eastern Daylight Time FREMONT, Calif.--(BUSINESS WIRE)--ZPE Systems announces the Mini SR, a smartphone-size, cloud-orchestrated gateway that solves the operational challenges of running security and connectivity at the network edge.
+
+
+
+Organizations must solve evolving business needs by deploying applications and devices at locations including branch offices, third-party manufacturing sites, powerplants, emergency response locations, and urgent care facilities. Even with cloud SaaS-based applications, organizations still require equipment, and they typically outsource to MSPs and MSSPs who can manage the SLA and operational challenges presented by this physical stack.

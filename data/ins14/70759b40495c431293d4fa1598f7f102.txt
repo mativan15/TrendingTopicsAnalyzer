@@ -1,0 +1,7 @@
+Incooling is building servers that use liquid to cool down
+techcrunch.com
+tech
+2022-10-19 19:12:20
+
+The way Incooling CEO Helena Samodurova sees it, the IT world is experiencing two major crises: an energy crisis and a supply chain crisis. For IT teams, satisfying new climate-friendly energy budgets is presenting a challenge, particularly when dealing with older computer hardware. At the same time, acquiring improved, less power-sucking machines is becoming tougher both because of shipping backlogs and because hardware is quickly running up against efficiency limits.
+Motivated to solve the dual crises — an ambitious goal, to be sure — Samodurova co-founded Incooling, which focuses on efficiency in data centers.

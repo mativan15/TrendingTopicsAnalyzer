@@ -1,0 +1,6 @@
+Integrating Apache Cassandra® and Kubernetes through K8ssandra
+medium.com
+tech
+2022-05-30 12:04:07
+
+Deploying a scalable, elastic, and self-healing data plane in Kubernetes should be easy. Thanks to a great community collaboration called K8ssandra, it has become exactly that — easy. Read on to find out why Apache Cassandra and Kubernetes are the most essential technology-combo for modern apps and how you can integrate the two using K8ssandra.Scalability, high performance, and fault tolerance are key features that most enterprises aim to integrate into their database architecture. Apache Cassandra® is the database of choice for large-scale cloud applications, while Kubernetes (K8s) has emerged as the leading orchestration platform for deploying and managing containerized systems in the cloud.

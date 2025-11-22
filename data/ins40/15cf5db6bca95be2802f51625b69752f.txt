@@ -1,0 +1,6 @@
+In These 2 Cities, You Can Finally Make Phone Calls Over 5G
+pcmag.com
+news
+2022-06-03 15:45:00
+
+One of the confusing things about 5G is how much it requires 4G. Until now, most 5G in the US absolutely relied on 4G to establish and control data connections and to make all phone calls.Yep, you understood correctly: We've had 5G in the US for years now, but you haven't been able to make a single actual phone call on 5G yet. That changes today, as T-Mobile launches 5G phone calling in Portland, Oregon, and Salt Lake City.5G voice calling is the missing feature the networks need for true "standalone 5G," which brings the latency and reliability benefits that were promised from 5G.

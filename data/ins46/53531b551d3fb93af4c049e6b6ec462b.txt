@@ -1,0 +1,36 @@
+Friction and Wear Reduction of Tungsten Carbide and Titanium Alloy Contacts via Graphene Nanolubricant
+Creative Commons Attribution (CC-BY)
+science
+2022-10-21 00:00:00
+
+Open AccessArticle by
+ 1, 1, 1, 1, 1, 2 and 1,* 
+
+
+1
+Mechanical and Manufacturing Engineering, Miami University, 501 E. High St., Oxford, OH 45056, USA
+
+
+2
+Key Laboratory of Metallurgical Equipment and Control Technology, Wuhan University of Science and Technology, Wuhan 430081, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+
+Lubricants 2022, 10(10), 272; https://doi.org/10.3390/lubricants10100272 (registering DOI)
+
+
+Received: 30 September 2022
+/
+Revised: 13 October 2022
+/
+Accepted: 16 October 2022
+/
+Published: 21 October 2022
+ 
+
+The tribological behavior of graphene as an additive in a water-based nanofluid lubricant was investigated using pin-on-disk tests on titanium alloy (Ti-6Al-4V) and cemented tungsten carbide (WC–Co) contacts.

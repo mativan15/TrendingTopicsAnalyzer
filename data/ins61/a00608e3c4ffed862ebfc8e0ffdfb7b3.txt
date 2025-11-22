@@ -1,0 +1,8 @@
+What Hugging Face and Microsoft's collaboration means for applied AI
+thenextweb.com
+news
+2022-06-04 16:00:07
+
+This article is part of our series that explores the business of artificial intelligence.
+Last week, Hugging Face announced a new product in collaboration with Microsoft called Hugging Face Endpoints on Azure, which allows users to set up and run thousands of machine learning models on Microsoft's cloud platform.
+Having started as a chatbot application, Hugging Face made its fame as a hub for transformer models, a type of deep learning architecture that has been behind many recent advances in artificial intelligence, including large language models like OpenAI GPT-3 and DeepMind's protein-folding model AlphaFold.

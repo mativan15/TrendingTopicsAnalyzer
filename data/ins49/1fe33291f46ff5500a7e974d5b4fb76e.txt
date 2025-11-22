@@ -1,0 +1,6 @@
+Why endpoint data is so critical to corporate investigations
+techradar.com
+tech
+2022-10-17 14:04:42
+
+While offices worldwide are beginning to reopen, many employees are continuing to work remotely. And some form of remote work will no doubt remain long after 'business as usual' returns. During their time out of office, remote workers gained greater freedom and flexibility, but businesses incurred greater risk.When employees worked at company headquarters, they all used the same protected corporate network that easily allowed IT departments to run daily scans and monitor security threats. Now, many remote workers are using their unprotected personal devices—computers, laptops, tablets, mobile phones—for company business, connecting to unsecure networks, and mistakenly clicking on malicious apps and websites.

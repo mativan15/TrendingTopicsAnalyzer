@@ -1,0 +1,7 @@
+Stardog Enables Data Citizens with New Platform Innovations
+prnewswire.com
+news
+2022-06-02 13:15:00
+
+End-to-end solution makes it easier for organizations to create a reusable, flexible semantic data layer for enterprise data analytics
+ARLINGTON, Va., June 2, 2022 /PRNewswire/ -- Stardog, the leading Enterprise Knowledge Graph platform provider, today unveiled Stardog 8.0, which contains new innovations to streamline data exploration and discovery for all citizen data users. Stardog 8.0's new capabilities eliminate the need for specialized skills when querying a reusable, flexible semantic data layer, making it easier than ever before to accelerate data-driven insights across the enterprise.

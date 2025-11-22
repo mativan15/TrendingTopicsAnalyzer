@@ -1,0 +1,31 @@
+Selection of Constitutive Material Model for the Finite Element Simulation of Pressure-Assisted Single-Point Incremental Forming
+Creative Commons Attribution (CC-BY)
+science
+2022-10-17 00:00:00
+
+Open AccessArticle by
+ 1,*, 2, 3, 4 and 5 
+
+
+1
+Department of Engineering, School of Computing, Engineering and Digital Technologies, Teesside University, Middlesbrough TS1 3BX, UK
+
+
+2
+Department of Mechanical Engineering, Faculty of Engineering, Gazi University, Ankara 06560, Türkiye
+
+
+3
+Pi Makina, Gaziosmanpasa Mah. 97, 1 Sokak No: 6, Golbasi, Ankara 06830, Türkiye
+
+
+4
+Department of Manufacturing Engineering, Faculty of Technology, Gazi University, Ankara 06560, Türkiye
+
+
+5
+Department of Mechanical Engineering, Graduate School of Natural and Applied Sciences, Gazi University, Ankara 06560, Türkiye
+
+
+*
+Author to whom correspondence should be addressed.

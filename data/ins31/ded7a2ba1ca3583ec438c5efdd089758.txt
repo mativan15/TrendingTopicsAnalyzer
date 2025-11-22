@@ -1,0 +1,7 @@
+Council Post: Gamification In Scrum Is Changing The Game
+Copyright 2022 Forbes Media LLC
+business
+2022-10-20 11:00:00
+
+Jacob Mathison, CEO of Mathison Projects Inc.
+getty We've heard of gamification in HR and in the workplace, but what about gamification in scrum and agile methodologies—specifically in tech settings and businesses? According to the Society for Human Resource Management (SHRM), gamification practices are an all-around sound proposition for HR. It appeals to a millennial workforce and fosters improvement in soft skills and hard skills, and reward systems encourage employees to meet deadlines. In our view, there's a problem if we want to think of applying gamification in tech companies, especially in SaaS companies that are under pressure to innovate above all things.

@@ -1,0 +1,7 @@
+37-year-old Amiga platform gets updates to Linux kernel, AmigaOS SDK
+arstechnica.com
+news
+2022-10-17 17:33:00
+
+Enlarge / Linux 6.0, implemented in a Fienix distribution on dedicated Amiga user xeno74's desktop. The last commercial Amiga computer available for sale was the AmigaOne X5000, a PowerPC-based revival machine released in 2017. The Amiga platform itself is 37 years old, but you'd better believe Amiga fans have the latest Linux kernel, 6.0, up and running on newer Amiga machines. The first true PC for creatives has a dedicated posse.
+On the forums of Amiga OS developer Hyperion Entertainment, user Christian, aka xeno74, announced the availability of a final kernel 6.

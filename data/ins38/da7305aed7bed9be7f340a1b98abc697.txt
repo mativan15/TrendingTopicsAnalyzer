@@ -1,0 +1,10 @@
+Google is killing Android Auto for phone screens
+thenextweb.com
+news
+2022-06-03 14:10:59
+
+Nearly a year ago, the tech giant cut the plug on the Android Auto for phone screens for users of Android 12, redirecting them to Google's Assistant driving mode. Now, Google is shutting down the app altogether.
+If users of Android 11 and older versions open the app, they'll see the following, terse message: 'Android Auto for phone screens will stop working soon'
+Here's a screenshot of my Xiaomi Redmi 11 (running on Android 11), when I open it:
+
+The app is still usable, but the message reappears every time it's activated.

@@ -1,0 +1,6 @@
+Population Aging, Industrial Intelligence and Export Technology Complexity
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+The ageing of the population has become a serious test for all countries and regions, and industrial intelligence, as a new development model that integrates traditional industries with modern technology, will contribute to the deep integration of the industrial and innovation chains and thus to the enhancement of national core competitiveness. Based on the dual influence of population ageing and industrial intelligence, this paper uses the 2016 version of the World Input-Output Database (WIOD) data for 16 manufacturing industries in 43 countries from 2000 to 2014 to construct an econometric regression model to empirically test the relationship between population ageing, industrial intelligence and technological complexity of exports.

@@ -1,0 +1,6 @@
+HyperVerge Tops the NIST Rankings in Both FRVT 1:1 and 1:N Categories
+hindustantimes.com
+news
+2022-05-30 13:21:45
+
+Bengaluru, Karnataka, India – Business Wire India HyperVerge, a global leader in identity verification services, announced today that it ranked 7th globally on the NIST FRVT 1:1 leaderboard and 2nd globally in the Border Images Benchmark of the NIST FRVT 1:1, which is one of the most difficult benchmarks on the leaderboard due to the presence of faces with a wide range of poses and quality in images. In the NIST FRVT 1:N Investigation Track which is used for fraud detection, HyperVerge is ranked 5th globally.

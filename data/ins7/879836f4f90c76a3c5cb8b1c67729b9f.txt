@@ -1,0 +1,6 @@
+Jamf joins Amazon Web Services Independent Software Vendor Accelerate Program
+globenewswire.com
+news
+2022-10-20 00:00:00
+
+MINNEAPOLIS, Oct. 20, 2022 (GLOBE NEWSWIRE) -- Jamf (NASDAQ: JAMF), the standard in Apple Enterprise Management, announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS partners who provide software solutions that run on or integrate with AWS, dedicated to the global business development of partners. Combining Amazon Web Services' secure cloud platform and database storage with Jamf's portfolio of products, Jamf seamlessly builds on AWS services to power its Apple Enterprise Management platform.

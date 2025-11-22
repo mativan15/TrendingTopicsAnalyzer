@@ -1,0 +1,6 @@
+Corporate VPN: What is it, and how is it different from a personal one?
+techradar.com
+news
+2022-05-30 12:35:36
+
+Virtual private networks (VPNs) play a critical role in cybersecurity, particularly for businesses. A VPN creates an encrypted connection between any device and any server, preventing important data from being stolen by hackers as it's transferred back and forth. If you run a business, it makes sense to use a business VPN (opens in new tab), also known as a corporate VPN. Corporate VPNs work in fundamentally the same way as personal VPNs, but they offer several features to help businesses run safely and smoothly.

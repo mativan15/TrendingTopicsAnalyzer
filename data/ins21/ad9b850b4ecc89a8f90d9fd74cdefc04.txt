@@ -1,0 +1,6 @@
+Has There Been A Second AI Big Bang?
+Copyright 2022 Forbes Media LLC
+business
+2022-10-18 09:30:00
+
+Aleksa Gordic, an AI researcher with DeepMindAleksa Gordic The Big Bang in artificial intelligence (AI) refers to the breakthrough in 2012, when a team of researchers led by Geoff Hinton managed to train an artificial neural network (known as a deep learning system) to win an image classification competition by a surprising margin. Prior to that, AI had performed some remarkable feats, but it had never made much money. Since 2012, AI has helped the big technology companies to generate enormous wealth, not least from advertising.

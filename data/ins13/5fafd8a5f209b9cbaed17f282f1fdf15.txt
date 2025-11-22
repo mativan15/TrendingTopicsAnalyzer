@@ -1,0 +1,6 @@
+Code42 Incydr Automates File Source Labeling to Elevate Events Involving Sensitive Business Data
+businesswire.com
+news
+2022-10-19 00:00:00
+
+October 19, 2022 10:15 AM Eastern Daylight Time MINNEAPOLIS--(BUSINESS WIRE)--Code42, Inc., the Insider Risk Management (IRM) leader, today announced it has enhanced its Incydr Risk Indicators (IRIs) within the Code42® Incydr™ product to detect and label file downloads from corporate systems. By understanding the source system from which a file came, security analysts can better prioritize what data exfiltration presents the most risk to their organization. For example, if an employee were to download a customer list from their employer's CRM (like Salesforce) and upload it to a personal email account (like Gmail), Incydr would detect the movement and flag the customer list as a CRM document exfiltration.

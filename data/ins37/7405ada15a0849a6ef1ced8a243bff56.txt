@@ -1,0 +1,8 @@
+How to create a network share in openmediavault
+techrepublic.com
+news
+2022-05-31 14:57:37
+
+Image: sdecoret/Adobe Stock
+The openmediavault platform is an outstanding option for deploying network attached storage to your network. It's open-source, free, flexible and very reliable. This cost-effective solution makes it such that administrators can create a robust storage system for a business – no matter the size.
+The one thing about openmediavault is that it does take a bit of work to get everything up and running. Sure, installing openmediavault can be done quickly and easily, but once that is done you have a few more steps to take care of.

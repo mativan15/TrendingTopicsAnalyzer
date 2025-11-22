@@ -1,0 +1,7 @@
+Google Cloud Next: Impressive Customer Wins Indicate Momentum For Google Cloud
+forbes.com
+news
+2022-10-17 00:09:30
+
+Google Cloud CEO Thomas Kurian delivers the keynote at Google Cloud Next 2022 in New York City at ... [+] the Pier 57 Google Office. Daniel Newman - Futurum Research 
+The cloud market is increasingly competitive, and while AWS and Microsoft have been the leaders by market share, we have seen in recent times names like Oracle, IBM, and Google, all ambitiously working to compete in the cloud marketplace with each finding footing as cloud adoption continues to proliferate. This week at Google Cloud Next ‘22, the tech giant unveiled an array of announcements to its infrastructure, data, workspace, and security offerings while also leaning heavily into several new or expanded partnerships with diverse enterprises that will take customer experiences, from social media to automotive, to the next level.

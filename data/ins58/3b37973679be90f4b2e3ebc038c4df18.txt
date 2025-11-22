@@ -1,0 +1,6 @@
+GitOps experiment with FluxCD
+medium.com
+tech
+2022-05-27 09:46:41
+
+GitOps at RizeThis article will present you a little story about my experimentation with GitOps and Infra as Code as a Backend Developer.Context 🗓️This little story takes place at Rize, a young company helping farmers accessing carbon financing in France. At the moment we are 3 dev :1 Backend engineer/DevOps (me) (we are recruiting 😁)2 Frontend engineersWe are currently using Google App Engine which was set up by external developer before there were any developer in the company. Now dev competencies have been internalized.

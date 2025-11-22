@@ -1,0 +1,6 @@
+Report Shows Increased Revenue and Productivity for Organizations Running Data on Kubernetes (DoK)
+businesswire.com
+news
+2022-10-18 00:00:00
+
+October 18, 2022 12:00 PM Eastern Daylight Time OREGON CITY, Ore.--(BUSINESS WIRE)--Stateful workloads on Kubernetes are pervasive and users are seeing revenue and productivity gains with consistency as a key driver for adoption, according to a report released today by the Data on Kubernetes Community (DoKC). The purpose of the second annual report was to measure the impact of running DoK, highlight specific benefits, and to serve as a roadmap for others to follow as they progress on DoK maturity.

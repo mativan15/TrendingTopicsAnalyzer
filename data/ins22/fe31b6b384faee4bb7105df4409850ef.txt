@@ -1,0 +1,9 @@
+New RTX 4090 leak teases the design and the launch timeline
+digitaltrends.com
+news
+2022-06-02 16:03:50
+
+A new leak shows us more details about the upcoming Nvidia GeForce RTX 4090. The card may feature a 16-pin power connector, but it doesn't seem to have USB Type-C display outputs.
+The rumors also suggest that, given the predicted launch date of the next-gen RTX 40-series GPUs, Nvidia's board partners may have limited time to get ready to launch their custom cards.
+Igor's Lab
+The information comes from Igor's Lab. Igor published an alleged picture of the PCB design of the upcoming AD102 GPU. Although Igor wasn't allowed to publish the real PCB due to keeping his sources anonymous, the picture he posted still gives us some insight into the GPU.

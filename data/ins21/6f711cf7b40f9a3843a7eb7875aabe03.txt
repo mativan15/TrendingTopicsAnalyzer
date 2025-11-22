@@ -1,0 +1,7 @@
+Nothing Phone 1 gets unofficial Android 13 with first custom ROM build
+indianexpress.com
+news
+2022-10-15 07:14:40
+
+The Nothing Phone 1 quickly became popular due to two reasons despite being the first smartphone by a new company. These key pillars were its fresh design and clean software. While the design of the Nothing Phone 1 is no secret now, the clean, stock Android skin that powers the phone may be a little too barebones for power users who want a little more customisation.
+To fix that, long time custom ROM making team Paranoid Android has now released its first alpha build for the Nothing Phone 1. The custom ROM brings all the new features of Paranoid Android Topaz, based on Android 13 to the Nothing Phone 1.

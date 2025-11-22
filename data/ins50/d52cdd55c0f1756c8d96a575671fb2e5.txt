@@ -1,0 +1,6 @@
+How Did Wigs Get So Good? Black Women Started Designing Them
+yahoo.com
+news
+2022-10-18 13:42:51
+
+/* /////////////////////////////////////////////////////////////////////////////// */ /* EDIT - Do you need a video opener? Set to 'true' if animated video, if not set to 'false' */ var hasVideo = false; /* /////////////////////////////////////////////////////////////////////////////// */ /* Video loading image, Use image from first frame */ /* Hero, Desktop & Tablet use 8:3, 2000px x 750px squooshed mozJPG at 75% compression */ var desktopHeroImage = "https://www.refinery29.com/images/11134976.jpg?format=webp&width=2000&height=750&quality=85&crop=8%3A3"; /* Hero, Mobile use 720px 1:1,5:6,4:3, 1280px wide squooshed mozJPG at 75% compression */ var mobileHeroImage = "https://www.

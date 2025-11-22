@@ -1,0 +1,78 @@
+Sonification to Support Visualization Tasks
+
+VERIDIANA C. L. SALVADOR
+ROSANE MINGHIM
+MAGNUS L. PACHECO
+ICMC- Instituto de Ciências Matemáticas e de Computação
+Universidade de São Paulo
+Caixa Postal 668, 13560-970, São Carlos - SP, Brasil
+{veri,rminghim}@icmc.sc.usp.br
+
+Abstract. Computational visualization systems and techniques have improved information gathering
+activities and changed ways Science is made. However, the complexity of the data handled by such systems
+has suggested the need for alternative representation and display techniques. Auditory display has been
+considered to be a real possibility in this area, in a field known as sonification. This paper describes the
+approach, implementation and results of a prototype for a sonification system to support graphical techniques
+in visualization applications. Results have shown that there are many possibilities for the inclusion of sound
+tools in visualization systems, in ways that may ease data interpretation and improve performance in analysis
+tasks.
+
+References
+Astheimer, P.; “Sonification Tools to Suplement Dataflow
+Visualization”, in Palamidese, P. (ed.), Scientific
+Visualization: Advanced Software Techniques, Ellis
+Horwood, 1993, 15-36.
+Bergman, L.D.; Rogowitz, B.E.; Treinish, L.; “A Rulebased
+Tool for Assisting Colormap Selection”, Proc.
+IEEE Visualization (1995), IEEE CS Press, 118-125.
+Buxton, W.; Gaver, W.; Bly, S.; Empowering People -
+The Use of Non-Speech Audio at the Interface, ACM
+Conference on Human Factors in Computing Systems,
+Tutorial 4 Notes, Abril 1990.
+Crawfis, R.; Max, N.; Nielson, G.; Hansen, C.,
+“Advanced Techniques for Scientific Visualization”,
+Course Notes, ACM SIGGRAPH (1994).
+Day, A.M.; Minghim, R.; Turner, S.M.; Arnold, D.B. –
+“Visualization and Sonification of Marine Survey Data”,
+in Earnshaw et al. (eds.), Visualization & Modeling,
+Academic Press, 1997, pp. 87-97.
+Edwards, A.D.N.; “Redundancy and Adaptability”, in
+Multimedia Interface Design in Education, Springer-
+Verlag, 1992, 145-155.
+Gershon, N.D. (chair); Panel: “From Perception to
+Visualization”, Proc. ACM SIGGRAPH Computer
+Graphics (1992), 414-415.
+Grinstein, G.; Levkowitz, H.; Perceptual Issues in
+Visualization, Springer-Verlag, 1995.
+Keller, P.K.; Keller, M.M., Visual Cues: Practical Data
+Visualization, IEEE CS Press, 1993.
+Kramer, G.; “Some Organizing Principles for
+Representing Data With Sound”, in Kramer, G. (ed.),
+Auditory Display, Addison-Wesley, 1994, 185-222.
+Kramer, G. - “An Introduction to Auditory Display”, em
+Kramer, G - Auditory Display - Sonification, Audification
+and Auditory Interfaces, 1994,1-78.
+Lorensen, W.E.; Cline, H.E., “Marching Cubes: A High
+Resolution 3D Surface Construction Algorithm”, ACM
+SIGGRAPH Computer Graphics, 21, 1987, 163-169.
+Madhyastha, T.M.; Reed, D.A.; “Data Sonification: Do
+you See what I hear?”, IEEE Software (Mar. 1995), 45-56.
+Minghim, R.; Forrest, A.R.; “Sound Mappings for Surface
+Visualisation”, Proc. WSCG’95, III Int. Conf. in Central
+Europe on Computer Graphics and Visualisation (1995),
+vol. II, 210-220.
+Minghim, R.; Forrest, A.R.; “An Illustrated Analysis of
+Sonification for Scientific Visualization”, Proc. IEEE
+Visualization (1995), IEEE CS Press, 110-117.
+Minghim, R.; de Oliveira, M.C.F.; “PowerVis:
+Empowering the User with a Multi-Modal Visualization
+System”, Proc. II IEEE Workshop on Cybernetic Vision
+(1997), IEEE CS Press, 106-111.
+Schröeder, W.J.; Martin, K.; Lorensen, W.; The
+Visualization Toolkit - An Object-Oriented Approach to
+3D Graphics, Prentice-Hall, 1996, 2nd edition, 1997.
+Wolf, R.S.; Yaeger, L., Visualization of Natural
+Phenomena, Springer-Verlag, 1993.
+Yeo, B.L.; Liou, S.P.; “From Visualization to Perceptual
+Organization”, Proc. IEEE Workshop on Visualization
+and Machine Vision (1994), IEEE CS Press, 62-73.

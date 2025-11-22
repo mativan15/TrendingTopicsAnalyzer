@@ -1,0 +1,32 @@
+Cost-Driven Design of Printed Wideband Antennas with Reduced Silver Ink Consumption for the Internet of Things
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+Open AccessArticle by
+, * and 
+
+
+Department of Information Technology, Ghent University-imec, Technologiepark-Zwijnaarde 126, 9052 Ghent, Belgium
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editors: Halim Boutayeb and Divitha Seetharamdoo
+
+Sensors 2022, 22(20), 7929; https://doi.org/10.3390/s22207929 (registering DOI)
+
+
+Received: 27 September 2022
+/
+Revised: 13 October 2022
+/
+Accepted: 13 October 2022
+/
+Published: 18 October 2022
+ 
+
+The Internet of Things (IoT) accelerates the need for compact, lightweight and low-cost antennas combining wideband operation with a high integration potential.

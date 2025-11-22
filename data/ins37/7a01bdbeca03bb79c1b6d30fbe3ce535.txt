@@ -1,0 +1,6 @@
+ITIL: What businesses need to know
+techradar.com
+tech
+2022-10-17 14:33:56
+
+Bringing information technology into line with the needs of the business is frequently a problem. ITIL – originally known as Information Technology Infrastructure Library – is aimed at resolving this by establishing a set of rules for IT service management (ITSM).The ITIL framework is geared to standardising the choosing, planning, delivery and support of business IT services. The intention is to deliver greater efficiency and predictable service levels.Published as a series of five core volumes, each of which covers a part of the ITSM lifecycle, the current version of ITIL (ITIL v3) first appeared in 2007 and received revisions in 2011.

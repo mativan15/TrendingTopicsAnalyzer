@@ -1,0 +1,37 @@
+Prediction of Resistance Spot Welding Quality Based on BPNN Optimized by Improved Sparrow Search Algorithm
+Creative Commons Attribution (CC-BY)
+science
+2022-10-20 00:00:00
+
+Open AccessArticle by
+ 1, 2, 2, 1,*, 1 and 1,* 
+
+
+1
+School of Materials Science and Engineering, Tianjin University, Tianjin 300354, China
+
+
+2
+Tianjin Long March Launch Vehicle Manufacturing Co., Ltd., Tianjin 300462, China
+
+
+*
+Authors to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Grzegorz Królczyk
+
+Materials 2022, 15(20), 7323; https://doi.org/10.3390/ma15207323 (registering DOI)
+
+
+Received: 24 September 2022
+/
+Revised: 14 October 2022
+/
+Accepted: 18 October 2022
+/
+Published: 20 October 2022
+ 
+
+Accurately predicting resistance spot welding (RSW) quality is essential for the manufacturing process.

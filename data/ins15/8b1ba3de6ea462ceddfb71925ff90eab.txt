@@ -1,0 +1,10 @@
+GE Digital Recognized as a Leader in 2022 Gartner® Magic Quadrant™ for Manufacturing Execution Systems
+yahoo.com
+news
+2022-06-03 15:34:00
+
+GE Digital scored among the top two vendors out of 19 recognized in the Gartner Critical Capabilities for Manufacturing Execution Systems report across four Use Cases: Continuous Process Manufacturing, Complex Discrete Manufacturing, Batch/Repetitive Flow Manufacturing, and Highly Regulated Industries
+
+GE Digital's Smart MES product portfolio includes new microservices technologies to meld MES and IIoT capabilities and a low-code / no-code development environment
+
+SAN RAMON, Calif., June 03, 2022--(BUSINESS WIRE)--GE Digital, a leading and innovative provider of solutions in the Manufacturing Execution Systems (MES) market, today announced that it has been positioned by Gartner® as a Leader in the Magic Quadrant for Manufacturing Execution Systems for its Proficy® Smart Factory (MES) software solution.

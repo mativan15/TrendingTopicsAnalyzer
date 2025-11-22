@@ -1,0 +1,8 @@
+Verizon admits prepaid accounts hijacked by SIM swap crooks
+Copyright © 2022, Situation Publishing
+news
+2022-10-19 22:04:12
+
+Verizon has notified some prepaid customers that their accounts were compromised and their phone numbers potentially hijacked by crooks via SIM swaps.
+We're told that fraudsters somehow got hold of the last four digits of those people's credit card numbers – perhaps by exploiting some part of Verizon's online services – and used that information to gain control of their accounts.
+From there, the crooks could access the personal info in an account and perform a SIM swap. That effectively transfers the victim's phone number to another person's device, allowing that stranger to use the number and any one-time security codes sent to it to hijack the victim's other online accounts.

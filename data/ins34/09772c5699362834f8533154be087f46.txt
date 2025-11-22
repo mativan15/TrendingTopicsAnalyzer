@@ -1,0 +1,12 @@
+Hacker holds Australian health insurer's data for ransom
+sfgate.com
+news
+2022-10-20 07:21:45
+
+Medibank, which has 3.7 million customers, said on Thursday the criminal had provided a sample of 100 customer policies from a purported haul of 200 gigabytes of stolen data.
+
+Details included customer names, addresses, birth dates, national health care identification numbers and phone numbers.
+
+Cybersecurity Minister Clare O'Neil said most concerning was that records of medical diagnoses and procedures had also been stolen.
+
+'Financial crime is a terrible thing. But ultimately, a credit card can be replaced,' O'Neil told reporters.

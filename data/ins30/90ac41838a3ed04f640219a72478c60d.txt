@@ -1,0 +1,13 @@
+CoinDcx Crypto Trading Bot.docx
+slideshare.net
+news
+2022-06-04 07:25:58
+
+1. CoinDcx Crypto Trading Bot
+How do tradeq bot actually works?
+By communicating directly with crypto exchanges and placing orders automatically based on
+your own pre-set conditions, trading bots offer exceptional speed and efficiency, fewer errors
+and emotionless trading. In order to trade on an exchange, you must authorize a trading bot to
+access your account via API keys (Application Program Interface), and access can be granted or
+withdrawn at any time.
+Trading bots work in three essential stages: signal generator, risk allocation and execution.

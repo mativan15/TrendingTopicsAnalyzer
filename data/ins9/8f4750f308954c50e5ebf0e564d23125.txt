@@ -1,0 +1,6 @@
+Alation Partners with dbt Labs to Improve Trust and Provide Visibility into Data Transformations
+globenewswire.com
+news
+2022-10-18 16:00:00
+
+REDWOOD CITY, Calif., Oct. 18, 2022 (GLOBE NEWSWIRE) -- Today, Alation Inc., the leader in enterprise data intelligence solutions, announced a new partnership with dbt Labs, the pioneer in analytics engineering, to bring information about dbt models, tests, and metrics into Alation Data Catalog. Breaking down silos and providing greater visibility into data transformation increases data trust and data accuracy and improves the speed of data-driven decision-making. Additionally, Alation was named a 'Metrics Ready' partner by dbt Labs at its annual conference, Coalesce, held October 17-21 in three regions across the world: New Orleans, London, and Sydney, as well as virtually.

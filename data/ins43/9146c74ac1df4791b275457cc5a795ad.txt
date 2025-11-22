@@ -1,0 +1,6 @@
+Netmaker Launches with $2.3M in Funding to Fix Cloud Networking with WireGuard
+prnewswire.com
+news
+2022-10-22 00:46:00
+
+The Asheville-based startup is backed by Y-Combinator, and is bringing high-tech to Appalachia and beyondASHEVILLE, N.C., Oct. 21, 2022 /PRNewswire/ -- Today, Netmaker, a cloud networking startup, announced $2.3 million in funding to launch their "superhighway for secure cloud networks." The round was led by Lytical Ventures, Uncorrelated Ventures, and SaxeCap among others, following their graduation from Y-Combinator. Netmaker offers a platform built on WireGuard which transforms the way companies integrate their networks to make them safe, dynamic and up to 15 times faster than alternatives.

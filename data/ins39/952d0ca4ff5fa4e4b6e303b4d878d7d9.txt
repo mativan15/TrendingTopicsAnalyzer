@@ -1,0 +1,8 @@
+Millennials, Gen Z blamed for poor company security
+theregister.com
+news
+2022-10-19 16:45:10
+
+It's just as you suspected: your Gen Z and millennial coworkers just aren't taking cybersecurity at work seriously enough. 
+Professional services firm EY made that determination after speaking to 1,000 US workers whose current job requires the use of a work-issued laptop/computer a majority of the time. While 83 percent of respondents said they understood their employer's security protocols, the data points to a disconnect between understanding and implementation.
+According to EY's findings, 58 percent of Gen Z and 42 percent of millennial respondents said they disregard mandatory IT updates for as long as possible, something only 15 percent of boomers and 31 percent of Gen X admitted to.

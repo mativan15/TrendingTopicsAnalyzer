@@ -1,0 +1,8 @@
+Google set to help wind farm owners maximise their sales
+telegraph.co.uk
+news
+2022-06-01 18:13:00
+
+Google is set to help wind farm owners maximise their sales by better predicting the weather and electricity demand.
+The tech giant has developed artificial intelligence tools which will help developers optimise electricity trades.
+It has signed a partnership with France's Engie to pilot the tools at a wind farm in Germany, with ambitions for them to be rolled out more widely across the industry. Larry Cochrane, director of global energy solutions at Google Cloud, said the project 'can accelerate Europe's clean energy transition'.

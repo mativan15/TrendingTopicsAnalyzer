@@ -1,0 +1,6 @@
+ACM, Ethics, and Corporate Behavior
+slashdot.org
+tech
+2022-10-16 22:00:00
+
+theodp writes: In the just-published March 2022 issue Communications of the ACM, former CACM Editor-in-Chief Moshe Y. Vardi takes tech companies -- and their officers and technical leaders -- to task over the societal risk posed by surveillance capitalism in "ACM, Ethics, and Corporate Behavior." Vardi writes: "Surveillance capitalism is perfectly legal, and enormously profitable, but it is unethical, many people believe, including me. After all, the ACM Code of Professional Ethics starts with 'Computing professionals' actions change the world.

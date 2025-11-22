@@ -1,0 +1,9 @@
+Get an Internet of Things education online
+techrepublic.com
+news
+2022-10-20 10:45:33
+
+Learn how you can make your life more efficient with The Ultimate Embedded Systems Mastery Bundle 2022. 
+ Image: putilov_denis/Adobe Stock
+The Internet of Things has changed the way we work, play and interact with the world, and if you're interested in incorporating more efficient systems into your life and work, The Ultimate Embedded Systems Mastery Bundle 2022 will help you do it.
+You'll learn how to build your own IoT dashboard to control home appliances remotely, explore the principles of LCD and LUA programming, begin to code in C++ and build prototypes for IoT devices with minimal experience.

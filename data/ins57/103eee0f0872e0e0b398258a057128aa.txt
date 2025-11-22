@@ -1,0 +1,6 @@
+Celera Motion Introduces World's Smallest, Fastest Servo Drive
+Copyright 2022, Business Wire.
+tech
+2022-10-20 13:00:00
+
+BEDFORD, Mass.--(BUSINESS WIRE)--Celera Motion, an award-winning business unit of Novanta Inc., today announced the introduction of the world's smallest and fastest servo drive. The new Everest S, the latest addition to the popular Everest Series, is about 30% smaller than its predecessor, making it the world's smallest servo drive. It's also the fastest: The EtherCAT and CANopen versions deliver bus latency reduced to 1 cycle, making Everest S the fastest servo drive on the market today. The E

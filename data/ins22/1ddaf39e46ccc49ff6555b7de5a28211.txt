@@ -1,0 +1,8 @@
+As China-Taiwan tensions mount, how's your cyber defense?
+theregister.com
+news
+2022-10-18 19:30:08
+
+Tensions between the US, China, and Taiwan have far-reaching impacts beyond semiconductor saber-rattling and trade restrictions. There is an enterprise security angle that CISOs should be on guard to tackle, according to US intelligence.
+NSA Director of Cybersecurity Rob Joyce has some critical lessons on how companies can withstand an escalation in China-Taiwan tensions and what such conflicts matter in the first place.
+"We had advance warning of the Russia invasion" of Ukraine, said Joyce during a keynote at Mandiant's mWISE security conference today.

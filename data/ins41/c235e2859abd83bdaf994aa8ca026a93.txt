@@ -1,0 +1,6 @@
+Certa Solution Now Available in AWS Marketplace
+businesswire.com
+news
+2022-10-20 00:00:00
+
+October 20, 2022 09:00 AM Eastern Daylight Time SAN FRANCISCO--(BUSINESS WIRE)--Certa, a leading no-code automation platform for procurement and compliance, today announced the availability of its solution in AWS Marketplace, a digital catalog with thousands of software listings from independent software vendors that makes it easy to find, test, buy, and deploy software that runs on Amazon Web Services (AWS). Certa customers can now enjoy simplified billing and flexible pricing with custom terms and payment options, and can also easily implement and manage Certa directly in AWS Marketplace.

@@ -1,0 +1,12 @@
+Zephyr PSN SMA Data to be Distributed via FinMason's FinRiver API
+yahoo.com
+finance
+2022-06-01 17:24:00
+
+Separately managed account pioneer PSN provides exclusive access to nearly 40 years of data including net and gross-of-fee returns
+
+NEW YORK, June 1, 2022 /PRNewswire/ -- Zephyr, a subsidiary of Informa plc (LSE: INF) and worldwide industry leader in providing data, research and insights to financial institutions, announced investment analytics provider FinMason will begin distributing Separately Managed Account (SMA) data from top provider PSN via its FinRiver API.
+
+Zephyr (PRNewsfoto/Zephyr)
+
+Zephyr PSN is the longest running independent SMA database in the world.

@@ -1,0 +1,6 @@
+Google's Acquisition Of Mandiant: Is It Too Late In Cloud Market?
+seekingalpha.com
+finance
+2022-05-30 09:02:30
+
+Alena Kravchenko/iStock Editorial via Getty Images Google (Alphabet (NASDAQ:GOOGL) (NASDAQ:GOOG)) is set to buy cybersecurity firm Mandiant, Inc. (NASDAQ:MNDT) for $23/share in cash, for a total of $5.4 billion. Merger Rationale As the competition in the cloud market heats up, Google is also looking to take up market share by onboarding more enterprises onto its cloud platform. This is despite rivals Microsoft (MSFT) and Amazon (AMZN) being clear winners in the market as of now. (We will get to this later) Evidently, a key part of the success of any company's cloud platform lies in the security of the platform in terms of detecting cybersecurity threats and securing private data from potential hackers and malware.

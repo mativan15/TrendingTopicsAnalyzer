@@ -1,0 +1,6 @@
+There's a big problem with Apple and Google's plans to nix passwords
+Copyright 2022, Mansueto Ventures
+tech
+2022-05-27 04:00:48
+
+Apple, Google, and Microsoft have big plans to eliminate the password.Working with a standards group called the FIDO Alliance, all three companies are backing a system in which your phone or computer signs you into all your online accounts automatically, using on-device face detection or fingerprint recognition to verify your identity. Think of it like having a password manager, but without the actual passwords.News of the password's potential demise has yielded a lot of enthusiastic coverage in recent weeks, and for an understandable reason: Too many people use the same weak passwords everywhere, leaving themselves open to serious security risks.

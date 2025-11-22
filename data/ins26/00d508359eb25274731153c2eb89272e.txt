@@ -1,0 +1,7 @@
+Sensat raises $20.5M to build digital twins for infrastructure companies
+techcrunch.com
+tech
+2022-10-20 14:30:31
+
+Sensat, a platform that helps physical infrastructure companies map and visualize all their data, has raised $20.5 million in a Series B round of funding.
+Founded in 2015, London-based Sensat is one of a number of so-called 'digital twin' software companies that serve construction, mining, energy, and similar industries with tools to replicate their physical footprint in the digital sphere. It's all about converting the built world into a format that machines can parse to generate real-time insights into everything that's happening on the ground.

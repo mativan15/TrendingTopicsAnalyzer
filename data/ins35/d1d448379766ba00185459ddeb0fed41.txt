@@ -1,0 +1,6 @@
+Microsoft Xbox October Update: Users Can Now Change TV Volume, Mute Startup Audio, Trim Video Clips and More
+ign.com
+gaming
+2022-10-20 10:48:24
+
+Xbox users can now change TV volume from their Xbox consoles, mute all startup sounds and more with the newest update. A new HDMI feature called Consumer Electronics Control (CEC) can be used to send commands to and from devices that support the technology, like TVs connected to Xbox Series X|S consoles. This means that console users can now change the TV volume from the audio and music section of the Xbox guide. This can be done by pressing the Xbox button on the controller, which will pull up the guide and then navigate to the Audio & Music section.

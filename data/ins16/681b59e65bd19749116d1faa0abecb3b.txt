@@ -1,0 +1,8 @@
+PacBio Collaborates with Leading Researchers to Establish Long-Read Variant Frequency Consortium
+yahoo.com
+finance
+2022-10-18 13:05:00
+
+The Consortium Will Build a Publicly Available Database as a Resource to Accelerate Insights from Long-Read Human Genome Datasets
+
+MENLO PARK, Calif., Oct. 18, 2022 /PRNewswire/ -- PacBio (NASDAQ: PACB), a leading developer of high-quality, highly accurate sequencing solutions, today announced the creation of the Co nsortium for Lo ng R ead S equencing (CoLoRS) that aims to accelerate the utility of long-read human genome datasets. CoLoRS is an open coalition of international researchers focused on creating a comprehensive database of frequency information for all classes of human variation identified using long-read human whole-genome sequencing.

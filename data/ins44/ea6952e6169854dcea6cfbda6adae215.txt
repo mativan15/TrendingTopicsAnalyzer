@@ -1,0 +1,7 @@
+Ransomware: Organizations are at risk today than ever
+indiatimes.com
+news
+2022-05-31 09:20:21
+
+Over the last few years, ransomware has emerged as a new threat for businesses. In case you are that rare person who has not heard about ransomware, here's a quick one line summary. Ransomware constitutes of infiltrating corporate data centers and encrypting the business data. The attacker then asks for a 'ransom' to provide the keys for decryption.
+It is no secret that ransomware has been gaining momentum. According to Cybersecurity Ventures, attacks are occurring every 11 seconds and in 2021, ransomware cost the world $20 billion in damages -which was 57X more than it was in 2015.

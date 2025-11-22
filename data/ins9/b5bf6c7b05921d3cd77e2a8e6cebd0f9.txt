@@ -1,0 +1,7 @@
+BSA gives Indian infosec rules a kicking
+theregister.com
+economics
+2022-06-03 03:43:08
+
+Lobby group The Software Alliance (BSA)* has written to India's government, pointing out impractical requirements, inconsistencies, and flaws in the nation's recently announced infosec reporting rules. The organization says the problems can only be addressed with extensive consultations and a delay to implementation.
+The BSA has already co-signed another letter that eleven tech and finance lobby groups sent to India's government, which requests changes to requirements such as extensive logging of user activities and reporting of even trivial infosec incidents within six hours of detection.

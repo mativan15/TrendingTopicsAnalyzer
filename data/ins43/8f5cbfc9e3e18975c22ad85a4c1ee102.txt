@@ -1,0 +1,8 @@
+LiveRamp Rolls Out Authenticated Traffic Solution to iQIYI
+yahoo.com
+news
+2022-06-01 01:00:00
+
+ATS will help to unlock iQIYI's addressable streaming inventory for the world's top marketers in key markets including Taiwan, Singapore, Japan and Australia
+
+SAN FRANCISCO & SINGAPORE, June 01, 2022--(BUSINESS WIRE)--LiveRamp (NYSE: RAMP) announced the rollout of its Authenticated Traffic Solution (ATS) to iQIYI's streaming services, starting with services in Taiwan, Singapore, Japan and Australia. As a result of this integration, ATS will enable the world's top marketers to tap into the global streamer's addressable inventory for precision targeting, without relying on third-party identifiers such as third-party cookies, mobile ad IDs or IP addresses.

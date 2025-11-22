@@ -1,0 +1,6 @@
+Turning AI failure into AI success stories
+venturebeat.com
+news
+2022-05-31 15:00:00
+
+It shouldn't be much longer before the novelty of AI wears off and it becomes just another technology helping the enterprise become more efficient and more productive. But while the success rate for AI projects is improving and organizations are seeing real-world benefits to production environments, it is still proving far too difficult getting projects to the finish line. In most cases, this is not a problem with the technology itself, but with the way it is being implemented and the general mismatch between AI's actual capabilities and the use cases it's expected to address.

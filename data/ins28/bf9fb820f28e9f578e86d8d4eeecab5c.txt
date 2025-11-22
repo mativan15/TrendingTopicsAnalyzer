@@ -1,0 +1,6 @@
+TIPQA Quality Management Solution and TIPSFE Shop Floor Execution Solution Achieve SAP-Certified Integration with S/4HANA 2021 EX and S/4HANA 2021
+businessinsider.com
+finance
+2022-06-02 21:00:00
+
+MILWAUKEE, June 2, 2022 /PRNewswire/ -- TIP Technologies, a leading provider of quality, compliance, and shop floor execution solutions, announced today that its TIPQA™ Quality Management Solution and its TIPSFE™ Shop Floor Execution Solution have achieved SAP certification as integrated with SAP S/4HANA® 2021 EX and SAP S/4HANA 2021. TIPQA and TIPSFE integrate with SAP software to help organizations optimize business performance, effectively manage quality and compliance, and reduce risk.The SAP® Integration and Certification Center (SAP ICC) has certified that the TIPQA Quality Management Solution and the TIPSFE Shop Floor Execution Solution integrate with SAP S/4HANA® 2021 EX and SAP S/4HANA 2021 using standard integration technologies.

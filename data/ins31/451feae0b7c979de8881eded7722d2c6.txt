@@ -1,0 +1,6 @@
+How Graph Convolution works part2(Machine Learning)
+medium.com
+entertainment
+2022-10-21 01:18:12
+
+Photo by Tech Daily on UnsplashTwiRGCN: Temporally Weighted Graph Convolution for Question Answering over Temporal Knowledge Graphs(arXiv)Author : Aditya Sharma, Apoorv Saxena, Chitrank Gupta, Seyed Mehran Kazemi, Partha Talukdar, Soumen ChakrabartiAbstract : Recent years have witnessed much interest in temporal reasoning over knowledge graphs (KG) for complex question answering (QA), but there remains a substantial gap in human capabilities. We explore how to generalize relational graph convolutional networks (RGCN) for temporal KGQA.

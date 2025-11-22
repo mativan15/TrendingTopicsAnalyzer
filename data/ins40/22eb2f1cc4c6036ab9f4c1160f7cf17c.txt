@@ -1,0 +1,6 @@
+Google May Owe You a Chunk of $100 Million
+wired.com
+news
+2022-06-04 13:00:00
+
+Not to freak out anyone, but there's a serious flaw in all supported versions of Microsoft Windows that allows attackers to take over your machine. The so-called Follina vulnerability can be exploited using a weaponized Word document, and security researchers say they've already spotted government-backed hackers using this attack in the wild. Fingers crossed that Microsoft, which has downplayed the severity of the flaw, issues a patch soon.Speaking of patches, everything from Apple's iOS and Google Android to Chrome, Firefox, and Zoom received major security updates in May.

@@ -1,0 +1,6 @@
+Reprogrammable materials selectively self-assemble
+mit.edu
+news
+2022-10-20 12:45:00
+
+While automated manufacturing is ubiquitous today, it was once a nascent field birthed by inventors such as Oliver Evans, who is credited with creating the first fully automated industrial process, in flour mill he built and gradually automated in the late 1700s. The processes for creating automated structures or machines are still very top-down, requiring humans, factories, or robots to do the assembling and making.  However, the way nature does assembly is ubiquitously bottom-up; animals and plants are self-assembled at a cellular level, relying on proteins to self-fold into target geometries that encode all the different functions that keep us ticking.

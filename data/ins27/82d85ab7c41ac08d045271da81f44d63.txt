@@ -1,0 +1,6 @@
+What is SecOps? (and what are the benefits and best practices?)
+techradar.com
+tech
+2022-10-17 12:13:18
+
+Security isn't just a matter for your dedicated SOC team, it's an organisational-wide responsibility and one that ideally you need to manage through every stage of the business cycle. If you're developing client software, you don't want to find yourself implicated in a supply chain attack, and if you are building in-house, custom IT applications, you want to ensure that security is something that is considered from the get-go and continues to be factored in throughout the development cycle.With businesses increasingly relying on the cloud to manage operations and resources, the security risks posed by applications, endpoints, infrastructure and users become more difficult to visualise and harder to manage and respond to.

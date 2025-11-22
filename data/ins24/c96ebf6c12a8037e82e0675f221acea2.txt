@@ -1,0 +1,6 @@
+God of War's PC Port Gets a Quality Boost, Without You Having to Upgrade Hardware
+ign.com
+gaming
+2022-06-01 16:50:30
+
+God of War PC received a new update yesterday, supporting AMD's FidelityFX Super Resolution (FSR) 2.0. As mentioned in the brief patch notes, God of War PC's update v1.0.12 includes support for FSR 2.0 and is now available as a resolution-scaling option located in the display settings menu of the game. FSR 2.0 was released last month and is the next iteration of AMD's supersampling tech, which debuted last year. As announced a few months back, FSR 2.0 offers better image quality compared to its predecessor, promising higher frame rates over the original iteration, and is aimed to compete more closely with Nvidia's DLSS 2.

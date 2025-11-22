@@ -1,0 +1,28 @@
+Data-Based Flow Rate Prediction Models for Independent Metering Hydraulic Valve
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 1,*, 2, 2, 1, 1, 1 and 1 
+
+
+1
+State Key Laboratory for Manufacturing System Engineering, School of Mechanical Engineering, Xi'an Jiaotong University, Xi'an 710000, China
+
+
+2
+Jiangsu Advanced Construction Machinery Innovation Center Ltd., Xuzhou 221000, China
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: João Carlos de Campos Henriques
+
+Energies 2022, 15(20), 7699; https://doi.

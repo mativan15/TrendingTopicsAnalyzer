@@ -1,0 +1,7 @@
+Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game
+forbes.com
+news
+2022-06-01 16:28:16
+
+Intel Arc Graphics Reference Platform Laptop From MSI Dave Altavilla 
+It's safe to say that the PC industry has been waiting with baited breath for Intel's first discrete Arc graphics products to arrive in their various incarnations, whether mobile variants for laptops or desktop add-in cards. Simply put, the market is eager for a third player to take on NVIDIA and AMD, offering alternative PC graphics technologies for gaming, content creation and more. And while Intel noted its desktop GPUs would arrive sometime 'this summer,' its mobile discrete graphics offering was slated to arrive earlier in a walk-before-you-run kind of strategy.

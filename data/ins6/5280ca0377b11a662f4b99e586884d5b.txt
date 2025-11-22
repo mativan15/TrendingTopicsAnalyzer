@@ -1,0 +1,6 @@
+5 Min AI Newsletter #3
+medium.com
+entertainment
+2022-06-05 03:40:43
+
+👉🏻 Oral-B's toothbrush uses AI to grade your teeth brushing habitsYour teeth might not be the first thing you think about when it comes to a beauty routine. But you, like most of us, are probably in constant pursuit of a healthy and pearly white smile. Enter: the Oral-B iO Series 9 toothbrush, complete with AI technology.👉🏻 According To The Latest AI Research From Graz University, Intel's Neuromorphic Chips Are UpTo 16 Times More Energy Efficient For Deep LearningDue to their high power consumption, new AI methods that utilize DNNs pose a significant barrier to broader deployment, particularly in edge devices.

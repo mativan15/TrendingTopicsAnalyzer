@@ -1,0 +1,8 @@
+Basecamp decamps from cloud: Renting computers a 'bad deal'
+theregister.com
+news
+2022-10-20 14:00:13
+
+Listening to the vendors, the analysts, hell, even the government – the direction of travel is obvious. All your server-side computing resources will move to the cloud, like it or not.
+Bucking that inevitable trend, however, is David Heinemeier Hansson, CTO of project management platform Basecamp.
+"Renting computers is (mostly) a bad deal for medium-sized companies like ours with stable growth. The savings promised in reduced complexity never materialized. So we're making our plans to leave," he explained.

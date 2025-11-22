@@ -1,0 +1,6 @@
+A crypto challenge for lawyers: How to cite blockchains and NFTs?
+Fortune Media IP Limited
+business
+2022-10-20 17:13:47
+
+Every new technology ends up in court sooner or later, and crypto is no exception. Today, judges across the world are hearing cases involving everything from stolen Bitcoin to crypto contract disputes to who gets to keep NFTs in a divorce. But as lawyers become more familiar with crypto and blockchains, they are facing a new problem: how to describe them in court filings? While the challenge of citing blockchain data may seem relevant only to legal nerds, it has real-world implications. Citations—which can point to earlier cases, journal articles, or other sources—are the building blocks of legal precedent and, as more disputes over NFTs land in court, judges and lawyers will need a reliable way to find them.

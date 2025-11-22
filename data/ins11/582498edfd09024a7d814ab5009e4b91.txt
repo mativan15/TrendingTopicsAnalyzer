@@ -1,0 +1,10 @@
+How Much RAM Do I Have in My PC?
+pcmag.com
+news
+2022-10-20 15:12:28
+
+Has your PC started to feel sluggish? It may be plagued by freeze-ups, spinning wheels, or even error messages about "low memory." If you're seeing any of these issues at times when your processor should be doing work, you might need more RAM. But before you buy more, it's a good idea to double check how much you already have. Here's how to see how much RAM is currently in your PC, and whether you need to upgrade.
+
+What Is RAM?
+
+RAM stands for Random Access Memory, and it's a type of super-fast storage your computer uses to hold data it needs in the short term.

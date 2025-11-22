@@ -1,0 +1,6 @@
+Celestica's New Ethernet Switch Will Help Propel Open Networking
+tylerpaper.com
+news
+2022-10-18 21:42:10
+
+TORONTO, Oct. 18, 2022 (GLOBE NEWSWIRE) -- Celestica Inc. (TSX: CLS) (NYSE: CLS), a leader in design, manufacturing, and supply chain solutions for the world's most innovative companies, today launched its DS1000 high-performance Gigabit Ethernet Layer 3 switch, a compact, resilient, cost-effective, open network switch. The company also announced it will release the DS1000 into the open source domain as their first-ever contribution to the OCP Enterprise Connectivity Solutions (ECS) group, at this week's 2022 Open Compute Project (OCP) Summit.

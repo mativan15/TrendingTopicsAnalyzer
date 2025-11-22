@@ -1,0 +1,8 @@
+Fivetran Extends Integration With dbt to Help Companies Accelerate Value From Their Data
+Copyright 2022, Business Wire.
+tech
+2022-10-18 16:05:00
+
+October 18, 2022 12:05 PM Eastern Daylight Time OAKLAND, Calif.--(BUSINESS WIRE)--Fivetran, the global leader in modern data integration, today announced its status as a Metrics Ready Partner with dbt Labs, the maintainers of dbt data transformation frameworks. As a Metrics Ready Partner, Fivetran's dbt packages enable building dbt models and metrics for use in dbt projects, helping customers derive value from their data quicker and easier.
+
+The dbt Semantic Layer enables organizations to centrally define key business metrics like 'revenue,' 'customer count' or 'churn rate' in dbt, and query them in downstream analytics tools.

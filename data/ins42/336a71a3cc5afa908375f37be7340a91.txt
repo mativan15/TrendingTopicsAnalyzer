@@ -1,0 +1,7 @@
+Why you should consider following Shopify's Ruby investment lead
+techrepublic.com
+news
+2022-06-02 15:42:31
+
+Image: bakhtiarzein/Adpbe Stock | Shopify's investment in Ruby highlights the importance of community and contributions to open-source projects. Finally, something we can all agree upon! The need for more investment in open source. While it's fair to debate the best way to ensure sustainability for open source projects, it seems an unalloyed positive to see companies like Shopify, AWS and others invest in the open-source projects upon which they depend.
+When I worked at AWS, I wrote about how and why the company spent so much money and engineering cycles on improving Rust.

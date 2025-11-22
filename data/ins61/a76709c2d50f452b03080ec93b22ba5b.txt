@@ -1,0 +1,6 @@
+Cyber attackers: if you can't stop them, disrupt them
+ft.com
+news
+2022-06-01 04:00:46
+
+For decades, companies have bolstered their cyber defences in a bid to thwart intruders. But while this work will always continue, firms are increasingly confronting the reality that it takes only a small slip-up, or an unnoticed flaw, for hackers to be able to get inside their systems. And then what?So, in a shake-up of approach, many businesses are now focusing on how to mitigate cyber attacks — on the assumption that a breach is inevitable.Some firms create internal 'red teams' to probe their own systems for weaknesses, but Padraic O'Reilly, chief product officer and co-founder of cyber security risk group CyberSaint, says companies should do more 'proactive or mitigative remediation'.

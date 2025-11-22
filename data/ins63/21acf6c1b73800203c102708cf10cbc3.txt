@@ -1,0 +1,6 @@
+SecureAuth Launches Arculix for Next-Generation Passwordless Authentication and Identity Orchestration
+Copyright 2022, Business Wire.
+tech
+2022-06-01 10:05:00
+
+June 01, 2022 06:05 AM Eastern Daylight Time IRVINE, Calif.--(BUSINESS WIRE)--SecureAuth, a leader in access management and authentication, unveiled the launch of Arculix™ – a game-changing platform that for the first time combines orchestration, leading-edge passwordless technology, and continuous authentication. The next generation platform has the flexibility to be deployed as a full end-to-end solution, or augment existing IAM investments with out-of-the-box integration to any industry standard identity provider.

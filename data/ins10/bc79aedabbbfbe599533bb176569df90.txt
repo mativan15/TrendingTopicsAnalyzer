@@ -1,0 +1,6 @@
+Bumble makes cyberflashing detection tool available as open-source code
+mashable.com
+news
+2022-10-21 10:55:50
+
+Cyberflashing is the act of sending non-consensual nude photos via your phone. It is an act of digital sexual violence that is often minimised through terms like "unsolicited dick pics". Dating app Bumble is trying to combat the violation on its app, while also campaigning for the act to be made illegal in the UK and U.S.. In 2019, Bumble launched its artificial intelligence tool 'Private Detector', which alerts users when they've been sent an obscene photo and automatically blurs the image. Now, the dating app is making a version of the tool available to the wider tech community.

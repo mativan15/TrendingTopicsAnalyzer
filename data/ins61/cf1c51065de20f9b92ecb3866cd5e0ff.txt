@@ -1,0 +1,6 @@
+Google-app billing policy
+naver.com
+news
+2022-05-31 17:32:00
+
+Google's new in-app billing policy prompts price hikes of various content services SEOUL, May 31 (Yonhap) -- South Korean companies have raised charges for paid content services on Google as the U.S. tech giant prepares to remove apps with external payment links circumventing Google's in-app payment system. Currently, many app developers on Google's Play store directed users to external links for payment to circumvent Google's billing policy, which takes a hefty 15-30 percent commission from in-app purchases.

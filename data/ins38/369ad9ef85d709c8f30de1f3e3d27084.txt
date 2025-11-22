@@ -1,0 +1,7 @@
+Oracle Unity CDP Expands Artificial Intelligence Models Across Industries to Enhance Customer Experiences
+prnewswire.com
+news
+2022-10-19 12:01:00
+
+15 AI models enable business leaders to personalize customer interactions in their industry
+LAS VEGAS, Oct. 19, 2022 /PRNewswire/ -- Oracle CloudWorld -- To help organizations across different industries create more precise customer engagements, Oracle has added 15 baseline artificial intelligence (AI) models to Oracle Unity, a Customer Data Platform (CDP). Part of Oracle Fusion Cloud Customer Experience (CX), Oracle Unity blends built-in artificial intelligence with customizable industry-specific data models to deliver highly personalized industry-specific experiences.

@@ -1,0 +1,6 @@
+Amazon's Astro robot tries too hard yet doesn't do enough
+Copyright 2022, Mansueto Ventures
+tech
+2022-06-02 04:00:58
+
+Amazon Astro is the rare tech product that makes a point of getting in your way.For the past few weeks, I've been living with Amazon's $1,450 autonomous robot, which can follow you around while delivering reminders, playing music, or carrying small objects on its back. Astro can also check on things around the house and send live video to your phone, plus it can patrol for intruders when you're not home. (The robot is currently selling at a discounted price of $1,000 on an invite-only basis.)But while Astro is a technological marvel, none of its major-use cases resonated with me, and its various attempts at making its presence known—bleeping at you when you walk by, for instance, or camping out in random spots around the house—quickly became grating.

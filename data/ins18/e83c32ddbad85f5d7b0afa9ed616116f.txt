@@ -1,0 +1,6 @@
+DePay brings their Web3 P2P payment gateway to eligible Shopify merchants
+apnews.com
+tech
+2022-06-02 11:17:05
+
+DePay will provide Shopify merchants the ability to allow buyers to send direct payments to store owner wallets with tens of thousands of accepted tokens on supported blockchains.ZUG, Switzerland, June 2, 2022 /PRNewswire/ -- Swiss Web3 payment startup DePay announced today their official integration into omnichannel commerce platform Shopify, allowing for the very first integration of a wallet-to-wallet (P2P) payment solution for eligible Shopify merchants. DePay's multichain Web3 payments will unlock the ability for merchants to receive any preferred tokens with blockchain-based asset conversion of incoming payments in real-time.

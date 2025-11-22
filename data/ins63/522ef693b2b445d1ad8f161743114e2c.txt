@@ -1,0 +1,6 @@
+Determining the optical properties of solar cells using low cost scanners
+nature.com
+news
+2022-10-21 21:00:00
+
+Determining the optical properties of solar cells using low cost scanners This paper investigates the use of consumer flatbed scanners for the use of monitoring solar cell precursors. Two types of scanners are investigated a contact image scanner and scanners with more conventional optical setups. The contact image sensor is found to be more suitable as it does not require additional flat field calibration. The scanners' ability to monitor variation in sample texture was investigated by monitoring the reflection of multi-crystalline and mono-crystalline textured wafers.

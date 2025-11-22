@@ -1,0 +1,7 @@
+Microsoft's identity services huddle under Entra umbrella
+theregister.com
+news
+2022-05-31 17:45:14
+
+Microsoft has whipped out the rebranding team once more, and chosen the name "Entra" as a catch-all for the company's identity and access capabilities.
+Sadly nothing to do with the sometimes-missed Encarta, the encyclopaedia launched by Microsoft back in the 1990s and eventually killed off in the first decade of the twenty-first century, Entra is not so much about squinting at postage stamp-sized bits of video and more about Azure Active Directory (AAD) and Cloud Infrastructure Entitlement Management (CIEM).

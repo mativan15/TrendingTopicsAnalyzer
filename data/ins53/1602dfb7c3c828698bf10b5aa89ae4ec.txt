@@ -1,0 +1,6 @@
+The Faceoff: Which bank is best positioned heading into the second half of the year, RBC or CIBC?
+thestar.com
+news
+2022-05-28 09:00:00
+
+","heading":"","fullWindow":false,"fullBleed":false,"showFullBleedOnMobile":false,"headColor":"","type":"html5mobile","textColor":"","mobileImageUrl":"","bgColor":"","imageUrl":"","registeredOnly":false,"linkUrl":"","aodaTitle":"Royal Bank of Canada shares","internalScroll":false,"displayStyle":"small-up"},{"type":"mainart","data":{"captionPosition":"overlay","fullWindowMainart":false,"type":"image","imageid":"GV11HGQML.3","origImageSize":"1200x760","lastmodified":1653691093772,"forceoriginal":false,"caption":"Both RBC and CIBC banks announced they are raising their quarterly dividends when they reported their second-quarter results this week.

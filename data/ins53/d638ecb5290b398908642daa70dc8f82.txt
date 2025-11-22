@@ -1,0 +1,6 @@
+Tech policy groups push back against India's new cybersecurity rules
+indiatimes.com
+tech
+2022-06-06 03:15:00
+
+New Delhi | Chennai: The directive of the Indian Computer Emergency Response Team (Cert-In) on reporting a cybersecurity incident within six hours from being aware of it and the lack of clarity on what constitutes a severe or a large-scale incident among other things could potentially 'undermine incident investigation and response, including the deployment of defensive measures', software policy group BSA has said.'We recommend that the directions ask to provide an initial report of high-impact or severe cyber incidents as soon as practicable or within 72 hours of the confirmation of an incident, whichever is faster,' Venkatesh Krishnamoorthy, country manager India at BSA, the Software Alliance, said in a letter to the Ministry of Electronics and Information Technology on May 30.

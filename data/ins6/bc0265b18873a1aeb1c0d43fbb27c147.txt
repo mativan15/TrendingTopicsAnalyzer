@@ -1,0 +1,6 @@
+Meta Says Its AI Translator Can Figure Out Unwritten Languages
+cnet.com
+tech
+2022-10-19 23:15:00
+
+Meta announced on Wednesday what it's calling the "first AI-powered speech translation system for an unwritten language," according to a blog post from the tech company.The system successfully translated the Taiwanese language Hokkien, a primarily oral language spoken across Taiwan. The system was developed as part of Meta's artificial intelligence project called Universal Speech Translator, or UST."The translation system is the first milestone for Meta AI's Universal Speech Translator project, which focuses on developing AI systems that provide real-time speech-to-speech translation across all languages, even primarily spoken ones," Meta said in a statement.

@@ -1,0 +1,11 @@
+Against all odds, cryptomining on Nvidia GPUs is back again
+digitaltrends.com
+news
+2022-05-26 16:19:00
+
+Despite Nvidia's recent attempts to limit crypto mining on its GeForce RTX 30-series graphics cards, GPU sellers and manufacturers have found a workaround — repurposing mobile cards into custom desktop versions.
+Such repurposed graphics cards offer the full mining power of a mobile Nvidia GPU, but they can be used outside of a laptop, in a typical mining setup.
+
+Hands-on "RTX 3070M" card 🤣🤣https://t.co/ouCgCxvlwQ pic.twitter.com/Hhk9i026Fa
+— I_Leak_VN (@I_Leak_VN) May 26, 2022
+Cryptocurrency mining feels a bit like a never-ending story — as soon as Nvidia comes up with a way to end it, someone, somewhere, will find a workaround.

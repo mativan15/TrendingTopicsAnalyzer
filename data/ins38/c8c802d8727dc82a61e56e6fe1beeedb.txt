@@ -1,0 +1,7 @@
+The easier way to install Steam on Linux gets bleeding-edge graphics support
+arstechnica.com
+tech
+2022-10-21 17:35:00
+
+Enlarge / Steam, installed from the Snap Store, looks and feels a lot like Steam. You just see this interface a bit sooner, without a bunch of tabs open to find the right dependencies. Installing Steam on a Linux system just got a little easier, at least if you can install a Snap package. Ubuntu-maker Canonical announced today that its Steam Snap supports "bleeding edge" Mesa graphics APIs, with more improvements coming soon.
+Snaps are self-contained packages that are easier for users to install without command lines and also contain the other programs and libraries they rely on, preventing conflicts between the versions of installed software applications (i.

@@ -1,0 +1,10 @@
+TELMEX Scitum Expands Identity Threat Detection and Response Services with SentinelOne
+businesswire.com
+news
+2022-10-19 00:00:00
+
+October 19, 2022 09:00 AM Eastern Daylight Time MEXICO CITY--(BUSINESS WIRE)--TELMEX Scitum, Mexico's leading cybersecurity services company, adds SentinelOne's Singularity Identity Suite to its portfolio following its acquisition of Attivo Networks. Identity threat detection and response (ITDR) is a new category of security designed to protect the users and systems which access corporate networks and data.
+
+
+
+Identity-based attacks are on the rise, and today's organizations benefit from preventing and detecting when attackers exploit, abuse, or steal business identities.

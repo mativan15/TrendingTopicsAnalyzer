@@ -1,0 +1,7 @@
+Stop malware attacks, get Windows 11 Smart App Control feature THIS way
+hindustantimes.com
+tech
+2022-10-19 18:16:38
+
+Windows 11 2022 update has brought Smart App Control feature to stop malware attacks on your computer.
+ The Windows 11 2022 Update (version 22H2) has brought several new features including a Start App Control (SAC). This new security feature is an AI-powered tool that intelligently blocks untrusted and unknown apps. It even blocks malicious and untrusted applications to get access to the device. It also prevents adwares that can slow down computer performance, and stops them from installing unsolicited software.

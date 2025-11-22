@@ -1,0 +1,6 @@
+Want to advance your career in tech? Focus on these three areas
+© 2022 ZDNET, A RED VENTURES COMPANY. ALL RIGHTS RESERVED.
+tech
+2022-06-01 17:04:57
+
+Rajavel: Every company is now a software company. From mobile banking and virtual healthcare visits to self-driving cars and automated food prep and delivery services, software applications are embedded into nearly every aspect of the economy and our lives.To be and remain relevant, technical professionals need to focus on three areas: cloud, security and programming and scripting languages. Certification with cloud platforms like Azure, AWS, and GCP are extremely relevant and in-demand today, and as hybrid work has become the new norm, certifications in digital workspace companies are also critically important, along with security-focused credentials like CISM, CCISP, and CISA.

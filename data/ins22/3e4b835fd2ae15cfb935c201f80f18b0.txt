@@ -1,0 +1,6 @@
+Council Post: Why Hybrid Cloud Data Management Makes Good Business Sense
+forbes.com
+news
+2022-06-02 12:30:00
+
+Rohit Amarnath is CTO of Vertica, a unified analytics platform that enables predictive business insights based on a scalable architecture. getty Whether it's scaling infrastructure, building software as a service applications, storing, processing and analyzing big data, or managing backup and recovery, the public cloud computing industry has truly transformed businesses over the past decade or so. Having said that, there are certain data management use cases that benefit from a hybrid cloud approach.

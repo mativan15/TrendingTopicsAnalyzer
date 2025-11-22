@@ -1,0 +1,25 @@
+Insulators and Defect Detection Based on the Improved Focal Loss Function
+Creative Commons Attribution (CC-BY)
+science
+2022-10-18 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1,2, 1,2,*, 3, 3 and 1,2 
+
+1
+College of Mechanical and Electrical Engineering, China Jiliang University, Hangzhou 310000, China
+
+
+2
+Key Laboratory of Intelligent Manufacturing Quality Big Data Tracing and Analysis of Zhejiang Province, China Jiliang University, Hangzhou 310000, China
+
+
+3
+State Grid Taizhou Electric Power Supply Company, Taizhou 318000, China
+
+
+*
+Author to whom correspondence should be addressed.

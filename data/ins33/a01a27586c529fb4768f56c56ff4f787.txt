@@ -1,0 +1,8 @@
+Hevo Data Partners with Databricks to Bring Effortless and Automated Data Integration to More Data-Driven Businesses
+yahoo.com
+finance
+2022-10-18 16:17:00
+
+Hevo Data unlocks a new level of data accessibility for Databricks users and solidifies Hevo Data's position as a leader in the ETL space.
+
+SAN FRANCISCO, Oct. 18, 2022 /PRNewswire/ -- Hevo Data, the leading no-code ETL platform, announced their official partnership with Databricks, the lakehouse company, to simplify and accelerate data integration into the lakehouse for mutual customers. This new partnership allows users to access Hevo Data directly in Databricks and redefines data integration at scale.

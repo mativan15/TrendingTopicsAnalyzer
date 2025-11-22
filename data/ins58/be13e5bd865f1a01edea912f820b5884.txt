@@ -1,0 +1,55 @@
+Analysis of Longitudinal Binomial Data with Positive Association between the Number of Successes and the Number of Failures: An Application to Stock Instability Study
+Creative Commons Attribution (CC-BY)
+science
+2022-10-16 00:00:00
+
+This is an early access version, the complete PDF, HTML, and XML versions will be available soon.
+
+
+Open AccessArticle by
+ 1, 2,*, 2 and 2 
+
+
+1
+Pan-Asia Business School, Yunnan Normal University, Kunming 650031, China
+
+
+2
+Department of Mathematics and Statistics, University of New Brunswick, Fredericton, NB E3B 5A3, Canada
+
+
+*
+Author to whom correspondence should be addressed. 
+
+
+
+Academic Editor: Yuehua Wu
+
+Entropy 2022, 24(10), 1472; https://doi.org/10.3390/e24101472 (registering DOI)
+
+
+Received: 22 September 2022
+/
+Revised: 13 October 2022
+/
+Accepted: 14 October 2022
+/
+Published: 16 October 2022
+ 
+
+Download PDF
+
+Citation Export
+
+ BibTeX
+
+EndNote
+
+RIS
+
+Cite This Paper
+
+
+ 
+
+Numerous methods have been developed for longitudinal binomial data in the literature.

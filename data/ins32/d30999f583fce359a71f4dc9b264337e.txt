@@ -1,0 +1,6 @@
+State of Quantum Machine Learning in 2022 part4
+medium.com
+entertainment
+2022-10-17 21:00:45
+
+Photo by Christian Wiediger on Unsplash1. High-performance, additively-manufactured atomic spectroscopy apparatus for portable quantum technologies(arXiv)Author : Somya H Madkhaly, Nathan Cooper, Laurence Coles, Lucia HackermüllerAbstract : We demonstrate a miniaturised and highly robust system for performing Doppler-free spectroscopy on thermal atomic vapour for three frequencies as required for cold atom-based quantum technologies. The application of additive manufacturing techniques, together with efficient use of optical components, produce a compact, stable optical system, with a volume of 0.
