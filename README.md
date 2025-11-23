@@ -47,7 +47,7 @@ Después de eso, solo accede a http://127.0.0.1:8080 y deberá visualizar la int
 
 Si encontrara algún error en la ruta, modifique manualmente los comando para apuntar al directorio donde tenga almacenado el proyecto.
 
-## **2. 📁 Estructura del proyecto**
+## **2. Estructura del proyecto**
 
 ```
 ProyectoFinal/
